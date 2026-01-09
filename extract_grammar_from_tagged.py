@@ -179,6 +179,26 @@ def prune_undefined_nts(
         filtered = next_counts
 
 
+def filter_productions_by_count(
+    counts: Dict[Tuple[str, Tuple[str, ...]], int],
+    min_prod_count: int,
+) -> Dict[Tuple[str, Tuple[str, ...]], int]:
+    if min_prod_count <= 1:
+        return counts
+    nonterminals = {lhs for (lhs, _) in counts.keys()}
+    filtered: Dict[Tuple[str, Tuple[str, ...]], int] = Counter()
+    removed = 0
+    for (lhs, rhs), c in counts.items():
+        is_lex = len(rhs) == 1 and rhs[0] not in nonterminals
+        if not is_lex and c < min_prod_count:
+            removed += 1
+            continue
+        filtered[(lhs, rhs)] = c
+    if removed:
+        print(f"Dropped {removed} production rules with count < {min_prod_count}.")
+    return filtered
+
+
 def write_grammar(
     out_path: Path,
     probs: Dict[str, List[Tuple[Tuple[str, ...], float]]],
@@ -227,9 +247,9 @@ def write_grammar(
                         line = f"{lhs} --> {rhs_str}\n"
                     else:
                         if weight_mode == "prob":
-                            line = f"{prob} {bias}  {lhs} --> {rhs_str}\n"
+                            line = f"{prob}  {lhs} --> {rhs_str}\n"
                         elif weight_mode == "counts":
-                            line = f"{count} {bias}  {lhs} --> {rhs_str}\n"
+                            line = f"{count}  {lhs} --> {rhs_str}\n"
                         elif weight_mode == "uniform":
                             line = f"1.0  {lhs} --> {rhs_str}\n"
                         elif weight_mode == "uniform_vb":
@@ -278,10 +298,10 @@ def write_counts_split(
 
             for rhs, c in prod_rules:
                 rhs_str = " ".join(rhs)
-                fprod.write(f"{c} {bias}  {lhs} --> {rhs_str}\n")
+                fprod.write(f"{c}  {lhs} --> {rhs_str}\n")
             for rhs, c in lex_rules:
                 rhs_str = " ".join(rhs)
-                flex.write(f"{c} {bias}  {lhs} --> {rhs_str}\n")
+                flex.write(f"{c}  {lhs} --> {rhs_str}\n")
 
     nt_totals = {
         lhs: sum(c for (l, _), c in counts.items() if l == lhs)
@@ -334,6 +354,12 @@ def main() -> None:
         help="Remove rules whose RHS uses symbols that never appear on the LHS.",
     )
     ap.add_argument(
+        "--min-prod-count",
+        type=int,
+        default=1,
+        help="Minimum count for non-lexical productions (default: 1).",
+    )
+    ap.add_argument(
         "--split-output",
         action="store_true",
         help="Create output directory and write productions.txt + lexicon.txt with counts.",
@@ -371,6 +397,7 @@ def main() -> None:
         counts = drop_unary_nt_rules(counts, root)
     if args.prune_undefined_nts:
         counts = prune_undefined_nts(counts)
+    counts = filter_productions_by_count(counts, args.min_prod_count)
 
     if args.split_output:
         out_dir = Path(args.output)
