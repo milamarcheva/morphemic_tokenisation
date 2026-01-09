@@ -1,0 +1,177 @@
+@UTF8
+@PID:	11312/a-00077958-1
+@Begin
+@Languages:	eng
+@Participants:	FA1 Adult, CHI Target_Child
+@Options:	bullets
+@ID:	eng|StoopsMontag|FA1|||||Adult|||
+@ID:	eng|StoopsMontag|CHI|||||Target_Child|||
+@Media:	01_Spring, audio
+@Types:	cross, book, TD
+*FA1:	do you want to read this one ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S part|to verb|read-Inf-S det|this-Def-Dem-Sing noun|one-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+%cod:	$txt:C $xds:C
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	okay , this one says . 
+%mor:	intj|okay cm|cm det|this-Def-Dem-Sing noun|one verb|say-Fin-Ind-Pres-S3 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|4|DET 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	Waiting_For_Spring . 
+%mor:	propn|WaitingForSpring .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	the toad is asleep . 
+%mor:	det|the-Def-Art noun|toad aux|be-Fin-Ind-Pres-S3 adj|asleep-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	the bees tucked in . 
+%mor:	det|the-Def-Art noun|bee-Plur verb|tuck-Fin-Ind-Past-P3 adp|in .
+%gra:	1|2|DET 2|3|NSUBJ-PASS 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	oh where is the toad ? 
+%mor:	intj|oh adv|where aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|toad ?
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|2|COP 4|5|DET 5|2|NSUBJ 6|2|PUNCT
+%cod:	$txt:C $xds:C
+*CHI:	where ? 
+%mor:	adv|where ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	oh I guess we can't see the toad inside the toad hosue . 
+%mor:	intj|oh pron|I-Prs-Nom-S1 verb|guess-Fin-Ind-Pres-S1 pron|we-Prs-Nom-P1 aux|can-Fin-S~part|not verb|see-Inf-S det|the-Def-Art noun|toad-Acc adp|inside det|the-Def-Art noun|toad adv|hosue .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|13|ROOT 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|3|CCOMP 8|9|DET 9|7|OBJ 10|12|CASE 11|12|DET 12|7|OBL 13|7|ADVMOD 14|3|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	the bees tucked in . 
+%mor:	det|the-Def-Art noun|bee-Plur verb|tuck-Fin-Ind-Past-P3 adp|in .
+%gra:	1|2|DET 2|3|NSUBJ-PASS 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	where is the bee sleeping ? 
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|bee noun|sleeping-Ger ?
+%gra:	1|5|ROOT 2|1|COP 3|5|DET 4|5|COMPOUND 5|1|NSUBJ 6|1|PUNCT
+%cod:	$txt:C $xds:C
+*CHI:	where ? 
+%mor:	adv|where ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	oh I bet in here . 
+%mor:	intj|oh pron|I-Prs-Nom-S1 verb|bet-Fin-Ind-Pres-S1 adp|in adv|here .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	the sparrow hides from the frozen wind . 
+%mor:	det|the-Def-Art noun|sparrow verb|hide-Fin-Ind-Pres-S3 adp|from det|the-Def-Art verb|freeze-Part-Past-S-irr noun|wind .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|7|CASE 5|7|DET 6|7|AMOD 7|3|OBL 8|3|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	waiting for april blue days and spring . 
+%mor:	verb|wait-Part-Pres-S adp|for propn|april adj|blue-S1 noun|day-Plur cconj|and noun|spring-Ger .
+%gra:	1|7|ROOT 2|5|CASE 3|5|COMPOUND 4|5|AMOD 5|1|OBL 6|7|CC 7|5|CONJ 8|1|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	waiting to hop and buzz and sing . 
+%mor:	verb|wait-Part-Pres-S part|to verb|hop-Inf-S cconj|and verb|buzz-Inf-S cconj|and verb|sing-Inf-S .
+%gra:	1|7|ROOT 2|3|MARK 3|1|XCOMP 4|5|CC 5|3|CONJ 6|7|CC 7|3|CONJ 8|1|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	do you want to read another book ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S part|to verb|read-Inf-S det|another-Def-Ind noun|book-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+%cod:	$txt:C $xds:C
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	I want to read that . 
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 part|to verb|read-Inf-S pron|that-Dem .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+%cod:	$xds:A
+*FA1:	oh , okay . 
+%mor:	intj|oh cm|cm intj|okay .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	we'll need our warm winter scarves . 
+%mor:	pron|we-Prs-Nom-P1~aux|will-Fin-S verb|need-Inf-S pron|our-Prs-Gen-P1 adj|warm-S1 noun|winter noun|scarve-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|7|NMOD-POSS 5|7|AMOD 6|7|COMPOUND 7|3|OBJ 8|3|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	and mittens too . 
+%mor:	cconj|and noun|mitten-Plur adv|too .
+%gra:	1|2|CC 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	aren't you glad we came outside M ? 
+%mor:	aux|be-Fin-Ind-Pres-S2~part|not pron|you-Prs-Nom-S2 adj|glad-S1 pron|we-Prs-Nom-P1 verb|come-Fin-Ind-Past-P1-irr adv|outside noun|M ?
+%gra:	1|4|COP 2|4|ADVMOD 3|4|NSUBJ 4|8|ROOT 5|6|NSUBJ 6|4|CCOMP 7|8|ADVMOD 8|6|OBL-UNMARKED 9|4|PUNCT
+%cod:	$txt:B; $xds:C
+*CHI:	wait , Mom you forgot that . 
+%mor:	verb|wait-Fin-Imp-S cm|cm noun|mom pron|you-Prs-Nom-S2 verb|forget-Fin-Ind-Past-S2-irr pron|that-Dem .
+%gra:	1|6|ROOT 2|5|PUNCT 3|5|VOCATIVE 4|5|NSUBJ 5|1|PARATAXIS 6|5|OBJ 7|1|PUNCT
+%cod:	$xds:A
+*FA1:	oh , oh you're right . 
+%mor:	intj|oh cm|cm intj|oh pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|right-S1 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|DISCOURSE 4|6|NSUBJ 5|6|COP 6|6|ROOT 7|6|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	I'm tiried of being inside M , let's have a picnic . 
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|tiried-S1 sconj|of aux|be-Part-Pres-S adp|inside propn|M cm|cm verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|have-Inf-S det|a-Ind-Art noun|picnic-Acc .
+%gra:	1|3|NSUBJ 2|3|COP 3|13|ROOT 4|7|MARK 5|7|COP 6|7|CASE 7|3|ADVCL 8|9|PUNCT 9|3|PARATAXIS 10|9|OBJ 11|9|XCOMP 12|13|DET 13|11|OBJ 14|3|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	it's snowing Molly . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|snow-Part-Pres-S propn|Molly-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	we'll need warm winter scarves . 
+%mor:	pron|we-Prs-Nom-P1~aux|will-Fin-S verb|need-Inf-S adj|warm-S1 noun|winter noun|scarve-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|AMOD 5|6|COMPOUND 6|3|OBJ 7|3|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	and mittens too . 
+%mor:	cconj|and noun|mitten-Plur adv|too .
+%gra:	1|2|CC 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	aren't you glad we came outside M ? 
+%mor:	aux|be-Fin-Ind-Pres-S2~part|not pron|you-Prs-Nom-S2 adj|glad-S1 pron|we-Prs-Nom-P1 verb|come-Fin-Ind-Past-P1-irr adv|outside noun|M ?
+%gra:	1|4|COP 2|4|ADVMOD 3|4|NSUBJ 4|8|ROOT 5|6|NSUBJ 6|4|CCOMP 7|8|ADVMOD 8|6|OBL-UNMARKED 9|4|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	to be honest Molly , I'm freezing . 
+%mor:	part|to aux|be-Inf-S adj|honest-S1 propn|Molly cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|freeze-Part-Pres-S .
+%gra:	1|3|MARK 2|3|COP 3|8|ADVCL 4|3|VOCATIVE 5|3|PUNCT 6|8|NSUBJ 7|8|AUX 8|8|ROOT 9|8|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	we can start to plan our summer graden and . 
+%mor:	pron|we-Prs-Nom-P1 aux|can-Fin-S verb|start-Inf-S part|to verb|plan-Inf-S pron|our-Prs-Gen-P1 noun|summer noun|graden-Acc cconj|and .
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|5|MARK 5|3|XCOMP 6|8|NMOD-POSS 7|8|COMPOUND 8|5|OBJ 9|3|CONJ 10|3|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	later Molly . 
+%mor:	adv|late propn|Molly .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	wait M ! 
+%mor:	verb|wait-Fin-Imp-S noun|M-Acc !
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	where shall we plant the catnip ? 
+%mor:	adv|where aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|plant-Inf-S det|the-Def-Art noun|catnip-Acc ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	on the window seal . 
+%mor:	adp|on det|the-Def-Art noun|window noun|seal .
+%gra:	1|4|CASE 2|4|DET 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	&=laughs . 
+%cod:	$txt:C; $xds:C
+*FA1:	cause it's too cold outside . 
+%mor:	sconj|cause pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|too adj|cold-S1 adv|outside .
+%gra:	1|5|MARK 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	hey , there's a new book we can read . 
+%mor:	intj|hey cm|cm pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|new-S1 noun|book pron|we-Prs-Nom-P1 aux|can-Fin-S verb|read-Inf-S .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|EXPL 4|10|ROOT 5|7|DET 6|7|AMOD 7|4|NSUBJ 8|10|NSUBJ 9|10|AUX 10|7|ACL-RELCL 11|4|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	do you want to read it ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S part|to verb|read-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+%cod:	$txt:C $xds:C
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+@End

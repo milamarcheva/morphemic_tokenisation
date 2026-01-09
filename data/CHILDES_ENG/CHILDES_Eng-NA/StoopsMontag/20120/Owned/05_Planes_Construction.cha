@@ -1,0 +1,756 @@
+@UTF8
+@PID:	11312/a-00077933-1
+@Begin
+@Languages:	eng
+@Participants:	FA1 Adult, CHI Target_Child
+@Options:	bullets
+@ID:	eng|StoopsMontag|FA1|||||Adult|||
+@ID:	eng|StoopsMontag|CHI|||||Target_Child|||
+@Media:	05_Planes_Construction, audio
+@Types:	cross, book, TD
+*FA1:	Good_Night_Planes . 
+%mor:	propn|GoodNightPlane-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	&=gasps woah . 
+%mor:	intj|woah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	that's a big air- , plane . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|big-S1 noun|air cm|cm noun|plane .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|7|ROOT 6|7|PUNCT 7|5|APPOS 8|5|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	that is a big airplane . 
+%mor:	pron|that-Dem aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|big-S1 noun|airplane .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	good morning , airport . 
+%mor:	adj|good-S1 noun|morning-Ger cm|cm noun|airport .
+%gra:	1|2|AMOD 2|4|ROOT 3|4|PUNCT 4|2|APPOS 5|2|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	good morning , airplanes . 
+%mor:	adj|good-S1 noun|morning-Ger cm|cm noun|airplane-Plur .
+%gra:	1|2|AMOD 2|4|ROOT 3|4|PUNCT 4|2|APPOS 5|2|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	are we ready to share a wonderful day ? 
+%mor:	aux|be-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 adj|ready-S1 part|to verb|share-Inf-S det|a-Ind-Art adj|wonderful-S1 noun|day-Acc ?
+%gra:	1|3|COP 2|3|NSUBJ 3|8|ROOT 4|5|MARK 5|3|XCOMP 6|8|DET 7|8|AMOD 8|5|OBJ 9|3|PUNCT
+%cod:	$txt:B; $xds:C
+*CHI:	that's a big tip [: air] plane . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|big-S1 noun|air noun|plane .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|DET 4|6|AMOD 5|6|COMPOUND 6|6|ROOT 7|6|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	hello busy airport terminal . 
+%mor:	intj|hello adj|busy-S1 noun|airport noun|terminal .
+%gra:	1|4|DISCOURSE 2|4|AMOD 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	bustling with travelers , trying to catch their flight . 
+%mor:	verb|bustle-Part-Pres-S adp|with noun|traveler-Plur cm|cm verb|try-Part-Pres-S part|to verb|catch-Inf-S pron|their-Prs-Gen-P3 noun|flight-Acc .
+%gra:	1|9|ROOT 2|3|CASE 3|1|OBL 4|5|PUNCT 5|1|ADVCL 6|7|MARK 7|5|XCOMP 8|9|NMOD-POSS 9|7|OBJ 10|1|PUNCT
+%cod:	$txt:B; $xds:C
+*CHI:	what's that ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	greetings , cockpit . 
+%mor:	noun|greeting-Plur cm|cm noun|cockpit .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|APPOS 4|1|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	greetings- . 
+%mor:	noun|greeting-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:C
+*CHI:	pee@o pee@o pee@o pee@o pee@o . 
+%mor:	o|pee o|pee o|pee o|pee o|pee .
+%gra:	1|5|FLAT 2|1|FLAT 3|1|FLAT 4|5|FLAT 5|1|FLAT 6|1|PUNCT
+*FA1:	yeah this is the pilot and the copilot who fly the plane . 
+%mor:	intj|yeah pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|pilot cconj|and det|the-Def-Art noun|copilot pron|who-Rel verb|fly-Fin-Ind-Pres-P3 det|the-Def-Art noun|plane-Acc .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|DET 5|12|ROOT 6|8|CC 7|8|DET 8|5|CONJ 9|10|NSUBJ 10|8|ACL-RELCL 11|12|DET 12|10|OBJ 13|5|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	who's this ? 
+%mor:	pron|who-Int~aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	hm hm the trigger . 
+%mor:	intj|hm intj|hm det|the-Def-Art noun|trigger .
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|4|DET 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	what's that ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	just look at all the buttons , gauges , and controls . 
+%mor:	adv|just verb|look-Fin-Imp-S adp|at det|all-Def-Tot det|the-Def-Art noun|button-Plur cm|cm noun|gauge-Plur cm|cm cconj|and noun|control-Plur .
+%gra:	1|2|ADVMOD 2|11|ROOT 3|6|CASE 4|6|DET-PREDET 5|6|DET 6|2|OBL 7|8|PUNCT 8|6|CONJ 9|11|PUNCT 10|11|CC 11|6|CONJ 12|2|PUNCT
+%cod:	$txt:B; $xds:C
+*CHI:	what's that ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+%cod:	$mwu:M; $xds:A
+*CHI:	what's that ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	xxx . 
+%cod:	$txt:C; $xds:C
+*FA1:	the baggage handlers , hello . 
+%mor:	det|the-Def-Art noun|baggage noun|handler-Plur cm|cm intj|hello .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|ROOT 4|5|PUNCT 5|3|APPOS 6|3|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	air traffic control ? 
+%mor:	noun|air noun|traffic noun|control ?
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	what a big airplane . 
+%mor:	det|what-Def-Int det|a-Ind-Art adj|big-S1 noun|airplane .
+%gra:	1|4|DET-PREDET 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	wow ! 
+%mor:	intj|wow !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	wow . 
+%mor:	intj|wow .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$mwu:1; $xds:A
+*FA1:	go airplane , zooming down the runway . 
+%mor:	verb|go-Fin-Imp-S noun|airplane-Acc cm|cm verb|zoom-Part-Pres-S adp|down det|the-Def-Art noun|runway .
+%gra:	1|7|ROOT 2|1|OBJ 3|4|PUNCT 4|1|ADVCL 5|7|CASE 6|7|DET 7|4|OBL 8|1|PUNCT
+%cod:	$txt:B; $xds:C
+*CHI:	that's a big airplane . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|big-S1 noun|airplane .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	wow . 
+%mor:	intj|wow .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	ahoy , floatplane , gently landing on the water . 
+%mor:	noun|ahoy cm|cm noun|floatplane cm|cm adv|gently verb|land-Part-Pres-S adp|on det|the-Def-Art noun|water .
+%gra:	1|9|ROOT 2|3|PUNCT 3|1|CONJ 4|6|PUNCT 5|6|ADVMOD 6|1|PARATAXIS 7|9|CASE 8|9|DET 9|6|OBL 10|1|PUNCT
+%cod:	$txt:B; $xds:C
+*CHI:	that a big airplane . 
+%mor:	sconj|that det|a-Ind-Art adj|big-S1 noun|airplane .
+%gra:	1|4|MARK 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	mm hm . 
+%mor:	intj|mm intj|hm .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	what a big airplane . 
+%mor:	det|what-Def-Int det|a-Ind-Art adj|big-S1 noun|airplane .
+%gra:	1|4|DET-PREDET 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	hello , propellers , spinning so fast . 
+%mor:	intj|hello cm|cm noun|propeller-Plur cm|cm verb|spinn-Part-Pres-S adv|so adv|fast .
+%gra:	1|7|ROOT 2|1|PUNCT 3|1|VOCATIVE 4|5|PUNCT 5|1|PARATAXIS 6|7|ADVMOD 7|5|ADVMOD 8|1|PUNCT
+%cod:	$txt:B; $xds:C
+*CHI:	airplane , that big . 
+%mor:	noun|airplane cm|cm det|that-Def-Dem-Sing adj|big-S1 .
+%gra:	1|4|ROOT 2|4|PUNCT 3|4|DET 4|1|PARATAXIS 5|1|PUNCT
+%cod:	$mwu:M; $xds:A
+*CHI:	there's a shark under the , airplane ! 
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|shark adp|under det|the-Def-Art cm|cm noun|airplane !
+%gra:	1|2|EXPL 2|8|ROOT 3|4|DET 4|2|NSUBJ 5|6|CASE 6|8|DET 7|6|PUNCT 8|4|NMOD 9|2|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	there's a shark under the airplane ? 
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|shark adp|under det|the-Def-Art noun|airplane ?
+%gra:	1|2|EXPL 2|7|ROOT 3|4|DET 4|2|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$mwu:1; $xds:A
+*FA1:	wow . 
+%mor:	intj|wow .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	silly shark . 
+%mor:	adj|silly-S1 noun|shark .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	silly shark . 
+%mor:	adj|silly-S1 noun|shark .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	good evening , brave skydivers . 
+%mor:	adj|good-S1 noun|evening-Ger cm|cm adj|brave-S1 noun|skydiver-Plur .
+%gra:	1|2|AMOD 2|5|ROOT 3|5|PUNCT 4|5|AMOD 5|2|PARATAXIS 6|2|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	good night , airplane , rising above the city skyline . 
+%mor:	adj|good-S1 noun|night cm|cm noun|airplane cm|cm verb|rise-Part-Pres-S adp|above det|the-Def-Art noun|city noun|skyline .
+%gra:	1|2|AMOD 2|10|ROOT 3|4|PUNCT 4|2|APPOS 5|6|PUNCT 6|2|ACL 7|10|CASE 8|10|DET 9|10|COMPOUND 10|6|OBL 11|2|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	good night , airplane far above the snowy mountains . 
+%mor:	adj|good-S1 noun|night cm|cm noun|airplane adv|far adp|above det|the-Def-Art adj|snowy-S1 noun|mountain-Plur .
+%gra:	1|2|AMOD 2|9|ROOT 3|5|PUNCT 4|5|NSUBJ 5|2|ADVMOD 6|9|CASE 7|9|DET 8|9|AMOD 9|5|OBL 10|2|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	good night , twinkling stars . 
+%mor:	adj|good-S1 noun|night cm|cm noun|twinkling-Ger noun|star-Plur .
+%gra:	1|2|AMOD 2|5|ROOT 3|5|PUNCT 4|5|COMPOUND 5|2|APPOS 6|2|PUNCT
+%cod:	$txt:B; $xds:C
+*CHI:	<xxx> [=! whispers] . 
+%cod:	$mwu:M; $xds:A
+*FA1:	<are they sleeping> [=! whispers] ? 
+%mor:	aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|sleep-Part-Pres-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	<xxx be quiet> [=! whispers] . 
+%mor:	aux|be-Fin-Imp-S adj|quiet-S1 .
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	they don't wanna wake em . 
+%mor:	pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not adv|wanna verb|wake-Inf-S pron|they-Prs-Acc-P3 .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|ADVMOD 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	night night kids who love airplane toys . 
+%mor:	noun|night noun|night noun|kid-Plur pron|who-Rel verb|love-Fin-Ind-Pres-P3 noun|airplane noun|toy-Plur-Acc .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|7|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|7|COMPOUND 7|5|OBJ 8|3|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	they're going to bed yeah . 
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|go-Part-Pres-S part|to verb|bed-Inf-S intj|yeah .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|3|DISCOURSE 7|3|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	mkay . 
+%mor:	intj|mkay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	night night xxx . 
+%mor:	noun|night noun|night .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	<xxx> [=! whispers] . 
+%cod:	$mwu:M; $xds:A
+*FA1:	mom's gonna read one ? 
+%mor:	noun|mom~aux|be-Fin-Ind-Pres-S3 adv|gonna verb|read-Part-Past-S-irr num|one ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	xxx . 
+%cod:	$mwu:M; $xds:A
+*FA1:	mm , how about ? 
+%mor:	intj|mm cm|cm adv|how adp|about ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|PUNCT 5|3|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	how about ? 
+%mor:	adv|how adv|about ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$mwu:M; $xds:A
+*CHI:	goodnight ! 
+%mor:	noun|goodnight !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$mwu:1; $xds:A
+*CHI:	say gation [: construction] site ! 
+%mor:	verb|say-Fin-Imp-S noun|construction noun|site-Acc !
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	you wanna read goodnight goodnight construction site ? 
+%mor:	pron|you-Prs-Nom-S2 aux|wanna-Fin-Ind-Pres-S2 verb|read-Fin-Pres-S propn|goodnight propn|goodnight noun|construction noun|site-Acc ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|7|COMPOUND 5|7|COMPOUND 6|7|COMPOUND 7|3|OBJ 8|3|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	okay , sit up . 
+%mor:	intj|okay cm|cm verb|sit-Fin-Imp-S adp|up .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$mwu:1; $xds:A
+*FA1:	Goodnight_Goodnight_Construction_Site . 
+%mor:	propn|GoodnightGoodnightConstructionSite .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:C
+*CHI:	lemme pick . 
+%mor:	intj|lemme noun|pick .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%cod:	$mwu:M; $xds:A
+*CHI:	goo- , goodnight counction [: construction] site . 
+%mor:	noun|goo cm|cm noun|goodnight noun|construction noun|site .
+%gra:	1|5|ROOT 2|5|PUNCT 3|5|COMPOUND 4|5|COMPOUND 5|1|PARATAXIS 6|1|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	you did pick Goodnight_Goodnight_Construction_Site . 
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Past-S2-irr verb|pick-Inf-S propn|GoodnightGoodnightConstructionSite-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	down in the big construction site . 
+%mor:	adv|down adp|in det|the-Def-Art adj|big-S1 noun|construction noun|site .
+%gra:	1|6|ROOT 2|6|CASE 3|6|DET 4|6|AMOD 5|6|COMPOUND 6|1|OBL 7|1|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	the tough trucks work with all their might . 
+%mor:	det|the-Def-Art adj|tough-S1 noun|truck-Plur verb|work-Fin-Ind-Pres-P3 adp|with det|all-Def-Tot pron|their-Prs-Gen-P3 aux|might-Fin-S .
+%gra:	1|3|DET 2|3|AMOD 3|4|NSUBJ 4|8|ROOT 5|8|CASE 6|8|DET-PREDET 7|8|NMOD-POSS 8|4|OBL 9|4|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	to build a building . 
+%mor:	part|to verb|build-Inf-S det|a-Ind-Art noun|building-Acc-Ger .
+%gra:	1|2|MARK 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%cod:	$txt:B; $xds:C
+*CHI:	mm !
+%mor:	intj|mm !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$mwu:M; $xds:A
+*CHI:	go to beginning . 
+%mor:	verb|go-Fin-Imp-S adp|to verb|begin-Ger-S .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*FA1:	hm , this is the beginning . 
+%mor:	intj|hm cm|cm pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|beginning-Ger .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|DET 6|6|ROOT 7|6|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	no this not the beginning . 
+%mor:	intj|no pron|this-Dem-S1 part|not det|the-Def-Art noun|beginning-Ger .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|ADVMOD 4|5|DET 5|5|ROOT 6|5|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	oh , you mean where the crane truck's lifting up the sunshine ? 
+%mor:	intj|oh cm|cm pron|you-Prs-Nom-S2 verb|mean-Fin-Ind-Pres-S2 adv|where det|the-Def-Art noun|crane noun|truck~aux|be-Fin-Ind-Pres-S3 verb|lift-Part-Pres-S adp|up det|the-Def-Art noun|sunshine-Acc ?
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|13|ROOT 5|10|ADVMOD 6|8|DET 7|8|COMPOUND 8|10|NSUBJ 9|10|AUX 10|4|CCOMP 11|10|COMPOUND-PRT 12|13|DET 13|10|OBJ 14|4|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$mwu:1; $xds:A
+*FA1:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	now turn the page . 
+%mor:	adv|now verb|turn-Fin-Imp-S det|the-Def-Art noun|page-Acc .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	(o)kay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$mwu:1; $xds:A
+*FA1:	&=gasps . 
+%cod:	$txt:C; $xds:C
+*FA1:	owl ! 
+%mor:	noun|owl !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	and stars ? 
+%mor:	cconj|and noun|star-Plur ?
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	no Cameron , no Came- , no Cameron ! 
+%mor:	intj|no propn|Cameron cm|cm intj|no verb|come-Fin-Ind-Past-S3-irr cm|cm det|no-Def-Neg propn|Cameron !
+%gra:	1|2|DISCOURSE 2|8|ROOT 3|5|PUNCT 4|5|DISCOURSE 5|2|PARATAXIS 6|8|PUNCT 7|8|DET 8|5|PARATAXIS 9|2|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	mama's turn . 
+%mor:	noun|mama~part|s noun|turn .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	no Cameron . 
+%mor:	intj|no propn|Cameron .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%cod:	$mwu:M; $xds:A
+*CHI:	no , Cameron's turn . 
+%mor:	intj|no cm|cm propn|Cameron~part|s noun|turn .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NMOD-POSS 4|3|CASE 5|5|ROOT 6|5|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	mm , somebody know somebody ! 
+%mor:	intj|mm cm|cm pron|somebody-Ind-S1 verb|know-Fin-Ind-S pron|somebody-Ind-S1 !
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%cod:	$mwu:M; $xds:A
+*CHI:	know somebody . 
+%mor:	verb|know-Fin-Imp-S pron|somebody-Ind-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	you want me to read their names ? 
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 part|to verb|read-Inf-S pron|their-Prs-Gen-P3 noun|name-Plur-Acc ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|7|NMOD-POSS 7|5|OBJ 8|2|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	twa eh eh eh maker . 
+%mor:	intj|twa intj|eh intj|eh intj|eh propn|maker .
+%gra:	1|5|ROOT 2|1|DISCOURSE 3|5|DISCOURSE 4|5|DISCOURSE 5|1|PARATAXIS 6|1|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	great job . 
+%mor:	adj|great-S1 noun|job .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	down in the big con- . 
+%mor:	adv|down adp|in det|the-Def-Art adj|big-S1 noun|con .
+%gra:	1|5|ROOT 2|5|CASE 3|5|DET 4|5|AMOD 5|1|OBL 6|1|PUNCT
+%cod:	$txt:B; $xds:C
+*CHI:	eevoy [: everybody] wake up ! 
+%mor:	pron|everybody-Tot-S1 verb|wake-Fin-Imp-S adp|up !
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	everybody wake up . 
+%mor:	pron|everybody-Tot-S1 verb|wake-Fin-Imp-S adp|up .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	wake up goo(d) morning goo(d) morning . 
+%mor:	verb|wake-Fin-Imp-S adp|up adj|good-S1 noun|morning-Ger adj|good-S1 noun|morning-Acc-Ger .
+%gra:	1|6|ROOT 2|1|COMPOUND-PRT 3|4|AMOD 4|6|NMOD-UNMARKED 5|6|AMOD 6|1|OBJ 7|1|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	good morning good morning construction site . 
+%mor:	adj|good-S1 noun|morning-Ger adj|good-S1 noun|morning-Ger noun|construction noun|site .
+%gra:	1|2|AMOD 2|6|ROOT 3|6|AMOD 4|6|COMPOUND 5|6|COMPOUND 6|2|APPOS 7|2|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	hello cement mixer . 
+%mor:	intj|hello noun|cement noun|mixer .
+%gra:	1|3|DISCOURSE 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	hello excabator [: excavator] . 
+%mor:	intj|hello noun|excavator .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	hello excavator . 
+%mor:	intj|hello noun|excavator .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	again ? 
+%mor:	adv|again ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$mwu:1; $xds:A
+*FA1:	hello crane truck . 
+%mor:	intj|hello noun|crane noun|truck .
+%gra:	1|3|DISCOURSE 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	hello dump truck . 
+%mor:	intj|hello verb|dump-Fin-Imp-S noun|truck-Acc .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	dump . 
+%mor:	verb|dump-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$mwu:1; $xds:A
+*CHI:	dump . 
+%mor:	verb|dump-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$mwu:1; $xds:A
+*FA1:	dump dump yep . 
+%mor:	verb|dump-Fin-Imp-S noun|dump-Acc intj|yep .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|DISCOURSE 4|1|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	xxx <round and round> [=! sings] . 
+%mor:	adv|round cconj|and adv|round .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+%cod:	$mwu:M; $xds:A
+*CHI:	round and round and to the farm again . 
+%mor:	adj|round-S1 cconj|and adv|round cconj|and adp|to det|the-Def-Art noun|farm adv|again .
+%gra:	1|8|ROOT 2|3|CC 3|1|CONJ 4|7|CC 5|7|CASE 6|7|DET 7|1|CONJ 8|7|ADVMOD 9|1|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	uh huh they're gonna go to a farm ? 
+%mor:	intj|uh intj|huh pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 part|go verb|go-Inf-S adp|to det|a-Ind-Art noun|farm ?
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|9|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$mwu:1; $xds:A
+*FA1:	wow . 
+%mor:	intj|wow .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	&=gasps . 
+%cod:	$txt:C; $xds:C
+*FA1:	Crane Truck slowly folds his boom back in . 
+%mor:	propn|Crane propn|Truck adv|slowly verb|fold-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|boom-Acc adv|back adv|in .
+%gra:	1|2|COMPOUND 2|4|NSUBJ 3|4|ADVMOD 4|8|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|ADVMOD 8|4|ADVMOD 9|4|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	what is Crane Truck sleeping with ? 
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 propn|Crane propn|Truck verb|sleep-Part-Pres-S adp|with ?
+%gra:	1|5|OBJ 2|5|AUX 3|4|COMPOUND 4|5|NSUBJ 5|6|ROOT 6|5|OBL 7|5|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	&=whispers . 
+%cod:	$mwu:M; $xds:A
+*FA1:	(i)s that ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	<that bear> [=! whispers] . 
+%mor:	det|that-Def-Dem-Sing noun|bear .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	the daddy bear and what's this ? 
+%mor:	det|the-Def-Art noun|daddy noun|bear cconj|and pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|DET 2|3|COMPOUND 3|7|ROOT 4|5|CC 5|3|CONJ 6|7|COP 7|3|CONJ 8|3|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	<and that's star> [=! whispers] . 
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 noun|star .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	is that a star in night light ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that det|a-Ind-Art noun|star adp|in noun|night noun|light ?
+%gra:	1|4|COP 2|4|MARK 3|4|DET 4|7|ROOT 5|7|CASE 6|7|COMPOUND 7|4|NMOD 8|4|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	&=whispers . 
+%cod:	$mwu:M; $xds:A
+*FA1:	em mm ah . 
+%mor:	pron|they-Prs-Acc-P3 intj|mm intj|ah .
+%gra:	1|3|ROOT 2|1|DISCOURSE 3|1|DISCOURSE 4|1|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	<he wake ah [: up]> [=! whispers] . 
+%mor:	pron|he-Prs-Nom-S3 verb|wake-Fin-Ind-Pres-S3 adp|up .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	&=gasps . 
+%cod:	$txt:C; $xds:C
+*FA1:	with one last spin , he pours the load . 
+%mor:	adp|with num|one adj|last-S1 noun|spin cm|cm pron|he-Prs-Nom-S3 verb|pour-Fin-Ind-Pres-S3 det|the-Def-Art noun|load-Acc .
+%gra:	1|4|CASE 2|4|NUMMOD 3|4|AMOD 4|7|OBL 5|4|PUNCT 6|7|NSUBJ 7|9|ROOT 8|9|DET 9|7|OBJ 10|7|PUNCT
+%cod:	$txt:B; $xds:C
+*CHI:	hey wake ah [: up] ! 
+%mor:	intj|hey verb|wake-Fin-Imp-S adp|up !
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	he's ready now to leave the road . 
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|ready-S1 adv|now part|to verb|leave-Inf-S det|the-Def-Art noun|road-Acc .
+%gra:	1|3|NSUBJ 2|3|COP 3|8|ROOT 4|3|ADVMOD 5|6|MARK 6|3|ADVCL 7|8|DET 8|6|OBJ 9|3|PUNCT
+%cod:	$txt:B; $xds:C
+*CHI:	goo(d) morning goo(d) morning . 
+%mor:	adj|good-S1 noun|morning-Ger adj|good-S1 noun|morning-Ger .
+%gra:	1|2|AMOD 2|4|ROOT 3|4|AMOD 4|2|NMOD-UNMARKED 5|2|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	good morning Cement Mixer . 
+%mor:	adj|good-S1 noun|morning-Ger noun|cement noun|mixer .
+%gra:	1|2|AMOD 2|4|NMOD-UNMARKED 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	he cuts his engine slows his drum . 
+%mor:	pron|he-Prs-Nom-S3 verb|cut-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|engine-Acc verb|slow-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|drum-Acc .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|XCOMP 6|7|NMOD-POSS 7|5|OBJ 8|2|PUNCT
+%cod:	$txt:B; $xds:C
+*CHI:	he get xxx . 
+%mor:	pron|he-Prs-Nom-S3 verb|get-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	and dream sweet dreams of twirly fun . 
+%mor:	cconj|and verb|dream-Fin-Imp-S adj|sweet-S1 noun|dream-Plur-Acc adp|of adj|twirly-S1 noun|fun .
+%gra:	1|2|CC 2|7|ROOT 3|4|AMOD 4|2|OBJ 5|7|CASE 6|7|AMOD 7|4|NMOD 8|2|PUNCT
+%cod:	$txt:B; $xds:C
+*CHI:	now get xxx . 
+%mor:	adv|now verb|get-Fin-Imp-S .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	no , please go on night night look he has a blanky . 
+%mor:	intj|no cm|cm intj|please verb|go-Fin-Imp-S adp|on noun|night noun|night noun|look pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|blanky-Acc .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|DISCOURSE 4|12|ROOT 5|8|CASE 6|7|COMPOUND 7|8|COMPOUND 8|4|OBL 9|10|NSUBJ 10|4|PARATAXIS 11|12|DET 12|10|OBJ 13|4|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	he got xxx . 
+%mor:	pron|he-Prs-Nom-S3 verb|get-Fin-Ind-Past-S3-irr .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	he's not holding on to an animal but he has a blanky . 
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not verb|hold-Part-Pres-S adp|on adp|to det|a-Ind-Art noun|animal cconj|but pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|blanky-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|13|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|11|CC 10|11|NSUBJ 11|4|CONJ 12|13|DET 13|11|OBJ 14|4|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$mwu:1; $xds:A
+*FA1:	goodnight , Cement Mixer , goodnight . 
+%mor:	noun|goodnight cm|cm noun|cement noun|mixer cm|cm noun|goodnight .
+%gra:	1|6|ROOT 2|4|PUNCT 3|4|COMPOUND 4|1|LIST 5|6|PUNCT 6|4|APPOS 7|1|PUNCT
+%cod:	$txt:B; $xds:C
+*CHI:	what was that ? 
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Past-S3-irr pron|that-Dem ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	it's a guy saying , hey , pipe down ! 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|guy verb|say-Ger-S cm|cm intj|hey cm|cm noun|pipe-Acc adv|down !
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|10|ROOT 5|4|ACL 6|7|PUNCT 7|9|DISCOURSE 8|7|PUNCT 9|5|OBJ 10|5|ADVMOD 11|4|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	pop down ! 
+%mor:	verb|pop-Fin-Imp-S adp|down !
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	he's trying to sleep ! 
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|try-Part-Pres-S part|to verb|sleep-Inf-S !
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	he lowers his bed , locks his gate , rests his wheels , it's getting late . 
+%mor:	pron|he-Prs-Nom-S3 verb|lower-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|bed-Acc cm|cm verb|lock-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|gate-Acc cm|cm verb|rest-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|wheel-Plur-Acc cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Pres-S adj|late-S1 .
+%gra:	1|2|NSUBJ 2|17|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|6|PUNCT 6|2|CONJ 7|8|NMOD-POSS 8|6|OBJ 9|10|PUNCT 10|2|CONJ 11|12|NMOD-POSS 12|10|OBJ 13|16|PUNCT 14|16|NSUBJ 15|16|AUX 16|2|PARATAXIS 17|16|XCOMP 18|2|PUNCT
+%cod:	$txt:B; $xds:C
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$mwu:1; $xds:A
+*FA1:	he dims his lights , then shuts his doors , and soon his engine slows to snores . 
+%mor:	pron|he-Prs-Nom-S3 verb|dim-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|light-Plur-Acc cm|cm adv|then verb|shut-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|door-Plur-Acc cm|cm cconj|and adv|soon pron|his-Prs-Gen-S3 noun|engine verb|slow-Fin-Ind-Pres-S3 adp|to noun|snore-Plur .
+%gra:	1|2|NSUBJ 2|17|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|7|PUNCT 6|7|ADVMOD 7|2|PARATAXIS 8|9|NMOD-POSS 9|7|OBJ 10|15|PUNCT 11|15|CC 12|15|ADVMOD 13|14|NMOD-POSS 14|15|NSUBJ 15|2|CONJ 16|17|CASE 17|15|OBL 18|2|PUNCT
+%cod:	$txt:B; $xds:C
+*CHI:	mm (be)cause of pocket . 
+%mor:	intj|mm adp|because adp|of noun|pocket .
+%gra:	1|4|DISCOURSE 2|4|CASE 3|2|FIXED 4|4|ROOT 5|4|PUNCT
+%cod:	$mwu:M; $xds:A
+*CHI:	mm in box is a pocket . 
+%mor:	intj|mm adp|in noun|box aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|pocket .
+%gra:	1|6|DISCOURSE 2|3|CASE 3|6|NSUBJ 4|6|COP 5|6|DET 6|6|ROOT 7|6|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	goodnight , Dump Truck . 
+%mor:	noun|goodnight cm|cm propn|Dump propn|Truck .
+%gra:	1|4|ROOT 2|4|PUNCT 3|4|COMPOUND 4|1|APPOS 5|1|PUNCT
+%cod:	$txt:B; $xds:C
+*CHI:	put your arm in the own pocket . 
+%mor:	verb|put-Fin-Imp-S pron|your-Prs-Gen-S2 noun|arm-Acc adp|in det|the-Def-Art adj|own-S1 noun|pocket .
+%gra:	1|7|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|7|CASE 5|7|DET 6|7|AMOD 7|1|OBL 8|1|PUNCT
+%cod:	$mwu:M; $xds:0
+*FA1:	goodnight . 
+%mor:	noun|goodnight .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	yep , it's in my pocket , no . 
+%mor:	intj|yep cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|in pron|my-Prs-Gen-S1 noun|pocket cm|cm intj|no .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|NSUBJ 4|7|COP 5|7|CASE 6|7|NMOD-POSS 7|9|ROOT 8|9|PUNCT 9|7|DISCOURSE 10|7|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	xxx . 
+%cod:	$mwu:M; $xds:A
+*FA1:	oh okay . 
+%mor:	intj|oh intj|okay .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	pushing with his mighty blade , Bulldozer works to smooth the grade . 
+%mor:	verb|push-Part-Pres-S adp|with pron|his-Prs-Gen-S3 adj|mighty-S1 noun|blade cm|cm propn|Bulldozer verb|work-Fin-Ind-Pres-S3 part|to verb|smooth-Inf-S det|the-Def-Art noun|grade-Acc .
+%gra:	1|8|ADVCL 2|5|CASE 3|5|NMOD-POSS 4|5|AMOD 5|1|OBL 6|1|PUNCT 7|8|NSUBJ 8|12|ROOT 9|10|MARK 10|8|ADVCL 11|12|DET 12|10|OBJ 13|8|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	he clears the way to level ground , and fills the air with thunderous sound . 
+%mor:	pron|he-Prs-Nom-S3 verb|clear-Fin-Ind-Pres-S3 det|the-Def-Art noun|way-Acc adp|to noun|level noun|ground cm|cm cconj|and verb|fill-Fin-Ind-Pres-S3 det|the-Def-Art noun|air-Acc adp|with adj|thunderous-S1 noun|sound .
+%gra:	1|2|NSUBJ 2|15|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|COMPOUND 7|2|OBL 8|10|PUNCT 9|10|CC 10|2|CONJ 11|12|DET 12|10|OBJ 13|15|CASE 14|15|AMOD 15|10|OBL 16|2|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	he puffs some smoke out of his stack , turns off his engine and stops his track . 
+%mor:	pron|he-Prs-Nom-S3 verb|puff-Fin-Ind-Pres-S3 det|some-Def-Ind noun|smoke-Acc adp|out adp|of pron|his-Prs-Gen-S3 noun|stack cm|cm verb|turn-Fin-Ind-Pres-S3 adp|off pron|his-Prs-Gen-S3 noun|engine-Acc cconj|and verb|stop-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|track-Acc .
+%gra:	1|2|NSUBJ 2|17|ROOT 3|4|DET 4|2|OBJ 5|8|CASE 6|8|CASE 7|8|NMOD-POSS 8|2|OBL 9|10|PUNCT 10|2|CONJ 11|10|COMPOUND-PRT 12|13|NMOD-POSS 13|10|OBJ 14|15|CC 15|10|CONJ 16|17|NMOD-POSS 17|15|OBJ 18|2|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	<shh> [=! whispers] . 
+%mor:	intj|shh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	goodnight Bulldozer goodnight . 
+%mor:	propn|goodnight noun|bulldozer noun|goodnight .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	who's that ? 
+%mor:	pron|who-Int~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	excabator [: excavator] ! 
+%mor:	noun|excavator !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$mwu:1; $xds:A
+*FA1:	excavator . 
+%mor:	noun|excavator .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	&=yawns excavator's sleepy . 
+%mor:	noun|excavator~part|s adj|sleepy-S1 .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	I wan(na) sleep too ! 
+%mor:	pron|I-Prs-Nom-S1 aux|wanna-Fin-S verb|sleep-Inf-S adv|too !
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%cod:	$mwu:A; $xds:A
+*FA1:	you're sleepy too ? 
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|sleepy-S1 adv|too ?
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	construction site , all tucked in tight , the day is done . 
+%mor:	noun|construction noun|site cm|cm det|all-Def-Tot verb|tuck-Part-Past-S adp|in adj|tight-S1 cm|cm det|the-Def-Art noun|day aux|be-Fin-Ind-Pres-S3 verb|do-Part-Past-S-irr .
+%gra:	1|2|COMPOUND 2|12|NSUBJ-PASS 3|5|PUNCT 4|5|ADVMOD 5|2|ACL 6|7|CASE 7|5|OBL 8|2|PUNCT 9|10|DET 10|12|NSUBJ-PASS 11|12|AUX-PASS 12|12|ROOT 13|12|PUNCT
+%cod:	$txt:B; $xds:C
+*CHI:	they're xxx bedroom . 
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 noun|bedroom .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	they're not , xxx . 
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 part|not cm|cm .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|ADVMOD 4|2|PUNCT 5|2|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	xxx in the same bedroom . 
+%mor:	adp|in det|the-Def-Art adj|same-S1 noun|bedroom .
+%gra:	1|4|CASE 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	no no nobody's there . 
+%mor:	intj|no det|no-Def-Neg pron|nobody-Neg-S1~aux|be-Fin-Ind-Pres-S3 adv|there .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$mwu:1; $xds:A
+*FA1:	goodnight construction site . 
+%mor:	noun|goodnight noun|construction noun|site .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	goodnight . 
+%mor:	noun|goodnight .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:C
+*CHI:	the end . 
+%mor:	det|the-Def-Art noun|end .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	the end . 
+%mor:	det|the-Def-Art noun|end .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$mwu:1; $xds:A
+*FA1:	night night Crane Truck . 
+%mor:	noun|night noun|night propn|Crane propn|Truck .
+%gra:	1|2|COMPOUND 2|4|ROOT 3|4|COMPOUND 4|2|APPOS 5|2|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	he's putting the sun away . 
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|put-Part-Pres-S det|the-Def-Art noun|sun-Acc adv|away .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	goodnight . 
+%mor:	noun|goodnight .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	xxx the last book is this ? 
+%mor:	det|the-Def-Art adj|last-S1 noun|book aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	one more book ?
+%mor:	num|one adj|more-Cmp-S1 noun|book ?
+%gra:	1|3|NUMMOD 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	mommy's turn ? 
+%mor:	propn|mommy~part|s noun|turn ?
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|3|ROOT 4|3|PUNCT
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$mwu:1; $xds:A
+*CHI:	oh my , um . 
+%mor:	intj|oh pron|my-Prs-Gen-S1 cm|cm intj|um .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|PUNCT 4|2|DISCOURSE 5|2|PUNCT
+%cod:	$mwu:M; $xds:A
+*CHI:	I want the pictures . 
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 det|the-Def-Art noun|picture-Plur-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	you wanna go through pictures . 
+%mor:	pron|you-Prs-Nom-S2 aux|wanna-Fin-Ind-Pres-S2 verb|go-Inf-S adp|through noun|picture-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	I wanna- . 
+%mor:	pron|I-Prs-Nom-S1 aux|wanna-Fin-Ind-S .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%cod:	$mwu:M; $xds:A
+*CHI:	0 . 
+%cod:	$mwu:1; $xds:A
+*CHI:	that's a scoop ! 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|scoop !
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%cod:	$mwu:M; $xds:A
+*CHI:	xxx . 
+%cod:	$mwu:1; $xds:A
+*FA1:	it's stuck down the pi- .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|stick-Part-Past-S-irr adp|down det|the-Def-Art noun|pil .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%cod:	$txt:C; $xds:C
+@End

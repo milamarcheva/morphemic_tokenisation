@@ -1,0 +1,442 @@
+@UTF8
+@PID:	11312/a-00077498-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant, PAR1 Participant
+@ID:	eng|HSLLD|PAR0|||||Participant|||
+@ID:	eng|HSLLD|PAR1|||||Participant|||
+@Media:	bob2br1, audio
+@Comment:	Batchalign 0.7.1-beta.12, ASR Engine rev
+@Types:	long, book, TD
+*PAR0:	wanna read this book . 
+%mor:	pron|wanna-Prs-Nom-S2 verb|read-Fin-Imp-S det|this-Def-Dem-Sing noun|book-Acc .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	wanna  read  this  book  .
+*PAR0:	book . 
+%mor:	noun|book .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	book  .
+*PAR1:	reading number two . 
+%mor:	noun|reading-Ger noun|number num|two .
+%gra:	1|3|ROOT 2|1|LIST 3|2|NUMMOD 4|1|PUNCT
+%wor:	reading  number  two  .
+*PAR0:	what is that . 
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem .
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+%wor:	what  is  that  .
+*PAR0:	what happened to this one though . 
+%mor:	pron|what-Int-S1 verb|happen-Fin-Ind-Past-S3 adp|to det|this-Def-Dem-Sing noun|one adv|though .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|ADVMOD 7|2|PUNCT
+%wor:	what  happened  to  this  one  though  .
+*PAR0:	you don't want to look at him . 
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|want-Inf-S part|to verb|look-Inf-S adp|at pron|he-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|6|MARK 6|4|XCOMP 7|8|CASE 8|6|OBL 9|4|PUNCT
+%wor:	you  don't  want  to  look  at  him  .
+*PAR0:	huh . 
+%mor:	intj|huh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	huh  .
+*PAR0:	I wanted you to read that one because you know that book fairly well . 
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Past-S1 pron|you-Prs-Acc-S2 part|to verb|read-Inf-S det|that-Def-Dem-Sing noun|one-Acc sconj|because pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 det|that-Def-Dem-Sing noun|book-Acc adv|fairly adv|well .
+%gra:	1|2|NSUBJ 2|14|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|7|DET 7|5|OBJ 8|10|MARK 9|10|NSUBJ 10|5|ADVCL 11|12|DET 12|10|OBJ 13|14|ADVMOD 14|10|ADVMOD 15|2|PUNCT
+%wor:	I  wanted  you  to  read  that  one  because  you  know  that  book  fairly  well  .
+*PAR1:	what .
+%mor:	pron|what-Int-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	is dog cat and dog who walks out through the back door . 
+%mor:	aux|be-Fin-Ind-Pres-S3 noun|dog noun|cat cconj|and noun|dog pron|who-Rel verb|walk-Fin-Ind-Pres-S3 adp|out adp|through det|the-Def-Art noun|back noun|door .
+%gra:	1|3|COP 2|3|COMPOUND 3|12|ROOT 4|5|CC 5|3|CONJ 6|7|NSUBJ 7|3|ACL-RELCL 8|7|COMPOUND-PRT 9|12|CASE 10|12|DET 11|12|COMPOUND 12|7|OBL 13|3|PUNCT
+%wor:	is  dog  cat  and  dog  who  walks  out  through  the  back  door  .
+*PAR1:	cat .
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	who walks Pitter Patter down the garden . 
+%mor:	pron|who-Rel verb|walk-Fin-Ind-Pres-S3 propn|Pitter-Acc propn|Patter-Acc adp|down det|the-Def-Art noun|garden .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|OBJ 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+%wor:	who  walks  Pitter  Patter  down  the  garden  .
+*PAR0:	cat . 
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	cat  .
+*PAR0:	who walks tiptoe on the wall . 
+%mor:	pron|who-Rel verb|walk-Fin-Ind-Pres-S3 noun|tiptoe-Acc adp|on det|the-Def-Art noun|wall .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+%wor:	who  walks  tiptoe  on  the  wall  .
+*PAR0:	cat who jumps down into the alley . 
+%mor:	noun|cat pron|who-Rel verb|jump-Fin-Ind-Pres-S3 adp|down adp|into det|the-Def-Art noun|alley .
+%gra:	1|7|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|1|PUNCT
+%wor:	cat  who  jumps  down  into  the  alley  .
+*PAR1:	&-uh cat . 
+%mor:	noun|cat .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uh  cat  .
+*PAR0:	who goes scratch [/] scratch against the fence . 
+%mor:	pron|who-Rel verb|go-Fin-Ind-Pres-S3 noun|scratch-Acc adp|against det|the-Def-Art noun|fence .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+%wor:	who  goes  scratch  scratch  against  the  fence  .
+*PAR0:	cat who walks tall tail between the bottles . 
+%mor:	noun|cat pron|who-Rel verb|walk-Fin-Ind-Pres-S3 adj|tall-S1 noun|tail-Acc adp|between det|the-Def-Art noun|bottle-Plur .
+%gra:	1|8|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|5|AMOD 5|3|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|1|PUNCT
+%wor:	cat  who  walks  tall  tail  between  the  bottles  .
+*PAR0:	cat who should watch out around the corner . 
+%mor:	noun|cat pron|who-Int aux|should-Fin-S verb|watch-Inf-S adp|out adp|around det|the-Def-Art noun|corner .
+%gra:	1|8|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|1|PUNCT
+%wor:	cat  who should  watch  out  around  the  corner  .
+*PAR0:	cat watch out cat . 
+%mor:	noun|cat verb|watch-Inf-S adp|out noun|cat-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|COMPOUND-PRT 4|2|OBJ 5|2|PUNCT
+%wor:	cat  watch  out  cat  .
+*PAR0:	what are those . 
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 pron|that-Dem-P1 .
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+%wor:	what  are  those  .
+*PAR0:	mouse . 
+%mor:	noun|mouse .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mouse  .
+*PAR0:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah  .
+*PAR0:	oh look at what's that . 
+%mor:	intj|oh verb|look-Fin-Imp-S adp|at pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem .
+%gra:	1|2|DISCOURSE 2|6|ROOT 3|4|CASE 4|2|OBL 5|6|COP 6|4|ACL-RELCL 7|2|PUNCT
+%wor:	oh  look  at  what's  that  .
+*PAR0:	dog . 
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dog  .
+*PAR0:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah  .
+*PAR0:	dog quick cat Quick who runs Snip sniff around the corner . 
+%mor:	noun|dog adj|quick-S1 noun|cat propn|Quick pron|who-Rel verb|run-Fin-Ind-Pres-S3 noun|snip noun|sniff-Acc adp|around det|the-Def-Art noun|corner .
+%gra:	1|4|COMPOUND 2|4|AMOD 3|4|COMPOUND 4|11|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|8|COMPOUND 8|6|OBJ 9|11|CASE 10|11|DET 11|6|OBL 12|4|PUNCT
+%wor:	dog  quick cat  Quick  who  runs  Snip  sniff  around  the  corner  .
+*PAR0:	doggy . 
+%mor:	adj|doggy-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	doggy  .
+*PAR0:	yeah quick cat Quick who runs sniff snapp around the corner between the bottles . 
+%mor:	intj|yeah adj|quick-S1 noun|cat propn|Quick pron|who-Rel verb|run-Fin-Ind-Pres-S3 noun|sniff noun|snapp-Acc adp|around det|the-Def-Art noun|corner adp|between det|the-Def-Art noun|bottle-Plur .
+%gra:	1|4|DISCOURSE 2|4|AMOD 3|4|COMPOUND 4|14|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|8|COMPOUND 8|6|OBJ 9|11|CASE 10|11|DET 11|6|OBL 12|14|CASE 13|14|DET 14|11|NMOD 15|4|PUNCT
+%wor:	yeah  quick  cat  Quick  who  runs  sniff  snapp  around  the  corner  between  the  bottles  .
+*PAR0:	getting closer . 
+%mor:	verb|get-Part-Pres-S adj|close-Cmp-S1 .
+%gra:	1|2|ROOT 2|1|XCOMP 3|1|PUNCT
+%wor:	getting  closer  .
+*PAR1:	dog .
+%mor:	noun|dog .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	dark quick cat Quick who runs . 
+%mor:	adj|dark-S1 adj|quick-S1 noun|cat propn|Quick pron|who-Rel verb|run-Fin-Ind-Pres-S3 .
+%gra:	1|4|AMOD 2|4|AMOD 3|4|COMPOUND 4|6|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|4|PUNCT
+%wor:	dark quick  cat  Quick  who  runs  .
+*PAR0:	sniff . 
+%mor:	verb|sniff-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sniff  .
+*PAR0:	snap down the alley . 
+%mor:	verb|snap-Fin-Imp-S adp|down det|the-Def-Art noun|alley-Acc .
+%gra:	1|4|ROOT 2|1|COMPOUND-PRT 3|4|DET 4|1|OBJ 5|1|PUNCT
+%wor:	snap  down  the  alley  .
+*PAR0:	<getting closer> [/] getting closer . 
+%mor:	verb|get-Part-Pres-S adj|close-Cmp-S1 .
+%gra:	1|2|ROOT 2|1|XCOMP 3|1|PUNCT
+%wor:	getting  closer  getting  closer  .
+*PAR0:	dog Snips snap . 
+%mor:	noun|dog noun|snip-Plur noun|snap .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%wor:	dog  Snips  snap  .
+*PAR0:	jump cat . 
+%mor:	verb|jump-Fin-Imp-S noun|cat-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	jump  cat  .
+*PAR1:	look . 
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	look  .
+*PAR0:	at the cat jump dog chasing the cat's tail . 
+%mor:	adp|at det|the-Def-Art noun|cat noun|jump noun|dog verb|chase-Ger-S det|the-Def-Art noun|cat~part|s noun|tail-Acc .
+%gra:	1|5|CASE 2|5|DET 3|5|COMPOUND 4|5|COMPOUND 5|10|ROOT 6|5|ACL 7|8|DET 8|10|NMOD-POSS 9|8|CASE 10|6|OBJ 11|5|PUNCT
+%wor:	at  the  cat  jump  dog  chasing  the  cat's  tail  .
+*PAR0:	who falls back dog along the wall who walks tiptoe cat up the garden . 
+%mor:	pron|who-Rel verb|fall-Fin-Ind-Pres-S3 adv|back noun|dog-Acc adp|along det|the-Def-Art noun|wall pron|who-Rel verb|walk-Fin-Ind-Pres-S3 noun|tiptoe noun|cat-Acc adp|up det|the-Def-Art noun|garden .
+%gra:	1|2|NSUBJ 2|14|ROOT 3|2|ADVMOD 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|9|NSUBJ 9|7|ACL-RELCL 10|11|COMPOUND 11|9|OBJ 12|14|CASE 13|14|DET 14|9|OBL 15|2|PUNCT
+%wor:	who  falls  back  dog  along  the  wall  who  walks  tiptoe  cat  up  the  garden  .
+*PAR0:	who walks hit her past the cat through the back door . 
+%mor:	pron|who-Rel verb|walk-Fin-Ind-Pres-S3 verb|hit-Fin-Ind-Past-S3-irr pron|her-Prs-Acc-S3 adp|past det|the-Def-Art noun|cat adp|through det|the-Def-Art noun|back noun|door .
+%gra:	1|2|NSUBJ 2|3|CSUBJ 3|11|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|11|CASE 9|11|DET 10|11|COMPOUND 11|3|OBL 12|3|PUNCT
+%wor:	who  walks  hit  her  past  the  cat  through  the  back  door  .
+*PAR0:	who comes back . 
+%mor:	pron|who-Int verb|come-Fin-Ind-Pres-S3 adv|back .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	who  comes  back  .
+*PAR0:	cat softly safely cat . 
+%mor:	noun|cat adv|softly adv|safely noun|cat .
+%gra:	1|4|NSUBJ 2|4|ADVMOD 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	cat  softly  safely  cat  .
+*PAR0:	the end . 
+%mor:	det|the-Def-Art noun|end .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	the  end  .
+*PAR0:	see how dogs chase cats . 
+%mor:	verb|see-Fin-Imp-S adv|how noun|dog-Plur verb|chase-Fin-Ind-Pres-P3 noun|cat-Plur-Acc .
+%gra:	1|5|ROOT 2|1|OBJ 3|4|NSUBJ 4|2|ADVCL-RELCL 5|4|OBJ 6|1|PUNCT
+%wor:	see  how  dogs  chase  cats  .
+*PAR0:	but the cat can climb up the wall . 
+%mor:	cconj|but det|the-Def-Art noun|cat aux|can-Fin-S verb|climb-Inf-S adp|up det|the-Def-Art noun|wall .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%wor:	but  the  cat  can  climb  up  the  wall  .
+*PAR0:	and the dog can . 
+%mor:	cconj|and det|the-Def-Art noun|dog aux|can-Fin-S .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	and  the  dog  can  .
+*PAR0:	how's that . 
+%mor:	adv|how~aux|be-Fin-Ind-Pres-S3 pron|that-Dem .
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+%wor:	how's  that  .
+*PAR1:	read it . 
+%mor:	verb|read-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	read  it  .
+*PAR0:	again read it again . 
+%mor:	adv|again verb|read-Fin-Imp-S pron|it-Prs-Acc-S3 adv|again .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+%wor:	again  read  it  again  .
+*PAR0:	one more time . 
+%mor:	num|one adj|more-Cmp-S1 noun|time .
+%gra:	1|3|NUMMOD 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%wor:	one  more  time  .
+*PAR0:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay  .
+*PAR1:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay  .
+*PAR0:	who walks out through the back door . 
+%mor:	pron|who-Rel verb|walk-Fin-Ind-Pres-S3 adp|out adp|through det|the-Def-Art noun|back noun|door .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|COMPOUND-PRT 4|7|CASE 5|7|DET 6|7|COMPOUND 7|2|OBL 8|2|PUNCT
+%wor:	who  walks  out  through  the  back  door  .
+*PAR0:	who walks through their pat down the garden . 
+%mor:	pron|who-Rel verb|walk-Fin-Ind-Pres-S3 adp|through pron|their-Prs-Gen-P3 noun|pat adp|down det|the-Def-Art noun|garden .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|5|CASE 4|5|NMOD-POSS 5|2|OBL 6|8|CASE 7|8|DET 8|2|OBL 9|2|PUNCT
+%wor:	who  walks  through  their  pat  down  the  garden  .
+*PAR0:	&-uh that's a bird who walks tiptoe along the wall . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|bird pron|who-Rel verb|walk-Fin-Ind-Pres-S3 noun|tiptoe-Acc adp|along det|the-Def-Art noun|wall .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|10|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|6|OBJ 8|10|CASE 9|10|DET 10|6|OBL 11|4|PUNCT
+%wor:	uh  that's  a  bird  who  walks  tiptoe  along  the  wall  .
+*PAR0:	cat who jumps down into the alley . 
+%mor:	noun|cat pron|who-Rel verb|jump-Fin-Ind-Pres-S3 adp|down adp|into det|the-Def-Art noun|alley .
+%gra:	1|7|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|1|PUNCT
+%wor:	cat  who  jumps  down  into  the  alley  .
+*PAR0:	who goes scritch craft against the fence . 
+%mor:	pron|who-Rel verb|go-Fin-Ind-Pres-S3 noun|scritch noun|craft-Acc adp|against det|the-Def-Art noun|fence .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|COMPOUND 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+%wor:	who goes  scritch  craft  against  the  fence  .
+*PAR0:	cat who walks tall tail between the bottles . 
+%mor:	noun|cat pron|who-Rel verb|walk-Fin-Ind-Pres-S3 adj|tall-S1 noun|tail-Acc adp|between det|the-Def-Art noun|bottle-Plur .
+%gra:	1|8|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|5|AMOD 5|3|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|1|PUNCT
+%wor:	cat  who  walks  tall  tail  between  the  bottles  .
+*PAR0:	cat who should watch out around the corner . 
+%mor:	noun|cat pron|who-Int aux|should-Fin-S verb|watch-Inf-S adp|out adp|around det|the-Def-Art noun|corner .
+%gra:	1|8|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|1|PUNCT
+%wor:	cat  who should  watch  out  around  the  corner  .
+*PAR1:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah  .
+*PAR0:	watch out . 
+%mor:	verb|watch-Fin-Imp-S adp|out .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+%wor:	watch  out  .
+*PAR0:	cat dog . 
+%mor:	noun|cat noun|dog .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	cat  dog  .
+*PAR0:	ooh . 
+%mor:	intj|ooh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ooh  .
+*PAR0:	boy quick cat Quick who runs Snip snap around the corner . 
+%mor:	intj|boy adj|quick-S1 noun|cat propn|Quick pron|who-Rel verb|run-Fin-Ind-Pres-S3 noun|snip noun|snap-Acc adp|around det|the-Def-Art noun|corner .
+%gra:	1|4|DISCOURSE 2|4|AMOD 3|4|COMPOUND 4|11|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|8|COMPOUND 8|6|OBJ 9|11|CASE 10|11|DET 11|6|OBL 12|4|PUNCT
+%wor:	boy  quick  cat  Quick  who  runs  Snip  snap  around  the  corner  .
+*PAR0:	dog quick cat Quick who runs sniff snap around the corner between the bottles . 
+%mor:	noun|dog adj|quick-S1 noun|cat propn|Quick pron|who-Rel verb|run-Fin-Ind-Pres-S3 noun|sniff noun|snap-Acc adp|around det|the-Def-Art noun|corner adp|between det|the-Def-Art noun|bottle-Plur .
+%gra:	1|4|COMPOUND 2|4|AMOD 3|4|COMPOUND 4|14|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|8|COMPOUND 8|6|OBJ 9|11|CASE 10|11|DET 11|6|OBL 12|14|CASE 13|14|DET 14|11|NMOD 15|4|PUNCT
+%wor:	dog  quick  cat  Quick  who  runs  sniff  snap  around  the  corner  between  the  bottles  .
+*PAR0:	getting closer dog quick cat Quick who runs sniff snap down the alley <getting closer> [/] getting closer . 
+%mor:	verb|get-Part-Pres-S adj|close-Cmp-S1 noun|dog-Acc adj|quick-S1 noun|cat propn|Quick-Acc pron|who-Rel verb|run-Fin-Ind-Pres-S3 noun|sniff-Acc verb|snap-Inf-S adp|down det|the-Def-Art noun|alley verb|get-Part-Pres-S adj|close-Cmp-S1 .
+%gra:	1|15|ROOT 2|3|AMOD 3|1|OBJ 4|6|AMOD 5|6|COMPOUND 6|1|OBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|8|OBJ 10|8|XCOMP 11|13|CASE 12|13|DET 13|10|OBL 14|10|ADVCL 15|14|XCOMP 16|1|PUNCT
+%wor:	getting  closer  dog  quick  cat  Quick  who  runs  sniff  snap  down  the  alley  getting  closer  getting  closer  .
+*PAR0:	dog sniff snap jump cat jump dog who falls back dog it says the dog along the wall who walks tiptoe up the garden . 
+%mor:	noun|dog noun|sniff noun|snap noun|jump noun|cat noun|jump noun|dog pron|who-Rel verb|fall-Fin-Ind-Pres-S3 adv|back noun|dog-Acc pron|it-Prs-Nom-S3 verb|say-Fin-Ind-Pres-S3 det|the-Def-Art noun|dog adp|along det|the-Def-Art noun|wall pron|who-Rel verb|walk-Fin-Ind-Pres-S3 verb|tiptoe-Inf-S adp|up det|the-Def-Art noun|garden-Acc .
+%gra:	1|7|COMPOUND 2|3|COMPOUND 3|7|COMPOUND 4|7|COMPOUND 5|7|COMPOUND 6|7|COMPOUND 7|13|NSUBJ 8|9|NSUBJ 9|7|ACL-RELCL 10|11|ADVMOD 11|9|OBJ 12|13|NSUBJ 13|24|ROOT 14|15|DET 15|13|NSUBJ 16|18|CASE 17|18|DET 18|15|NMOD 19|20|NSUBJ 20|18|ACL-RELCL 21|20|XCOMP 22|21|COMPOUND-PRT 23|24|DET 24|21|OBJ 25|13|PUNCT
+%wor:	dog  sniff  snap  jump  cat  jump  dog  who  falls  back  dog  it  says  the  dog  along  the  wall  who  walks  tiptoe  up  the  garden  .
+*PAR0:	who walks to their cat through to the back door . 
+%mor:	pron|who-Rel verb|walk-Fin-Ind-Pres-S3 adp|to pron|their-Prs-Gen-P3 noun|cat adp|through adp|to det|the-Def-Art noun|back noun|door .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|5|CASE 4|5|NMOD-POSS 5|2|OBL 6|10|CASE 7|10|CASE 8|10|DET 9|10|COMPOUND 10|2|OBL 11|2|PUNCT
+%wor:	who walks  to  their  cat  through  to  the  back  door  .
+*PAR0:	who comes back softly safely . 
+%mor:	pron|who-Rel verb|come-Fin-Ind-Pres-S3 adv|back adv|softly adv|safely .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|ADVMOD 4|5|ADVMOD 5|2|ADVMOD 6|2|PUNCT
+%wor:	who  comes  back  softly  safely  .
+*PAR0:	pat .
+%mor:	propn|pat .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	yes he's not backing at anything . 
+%mor:	intj|yes pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not verb|back-Part-Pres-S adp|at pron|anything-Ind-S1 .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+%wor:	yes  he's  not  backing  at  anything  .
+*PAR0:	you love this book . 
+%mor:	pron|you-Prs-Nom-S2 verb|love-Fin-Ind-Pres-S2 det|this-Def-Dem-Sing noun|book-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	you  love  this  book  .
+*PAR0:	this is a great book to eat . 
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|great-S1 noun|book part|to verb|eat-Inf-S .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|7|ROOT 6|7|MARK 7|5|ACL 8|5|PUNCT
+%wor:	this  is  a  great  book  to  eat  .
+*PAR0:	I think you does . 
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NSUBJ 4|2|CCOMP 5|2|PUNCT
+%wor:	I think  you  does  .
+*PAR0:	if you give a mouse a cookie he's going to ask for a glass of milk . 
+%mor:	sconj|if pron|you-Prs-Nom-S2 verb|give-Fin-Ind-Pres-S2 det|a-Ind-Art noun|mouse det|a-Ind-Art noun|cookie-Acc pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|ask-Inf-S adp|for det|a-Ind-Art noun|glass adp|of noun|milk .
+%gra:	1|3|MARK 2|3|NSUBJ 3|10|ADVCL 4|5|DET 5|3|IOBJ 6|7|DET 7|3|OBJ 8|10|NSUBJ 9|10|AUX 10|17|ROOT 11|12|MARK 12|10|XCOMP 13|15|CASE 14|15|DET 15|12|OBL 16|17|CASE 17|15|NMOD 18|10|PUNCT
+%wor:	if  you  give  a  mouse  a  cookie  he's  going  to  ask  for  a  glass of  milk  .
+*PAR0:	and when you give him the milk he'll probably ask you for a straw . 
+%mor:	cconj|and adv|when pron|you-Prs-Nom-S2 verb|give-Fin-Ind-Pres-S2 pron|he-Prs-Acc-S3 det|the-Def-Art noun|milk-Acc pron|he-Prs-Nom-S3~aux|will-Fin-S adv|probably verb|ask-Inf-S pron|you-Prs-Acc-S2 adp|for det|a-Ind-Art noun|straw .
+%gra:	1|11|CC 2|4|ADVMOD 3|4|NSUBJ 4|11|ADVCL 5|4|IOBJ 6|7|DET 7|4|OBJ 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|15|ROOT 12|11|IOBJ 13|15|CASE 14|15|DET 15|11|OBL 16|11|PUNCT
+%wor:	and  when you  give  him  the  milk  he'll  probably  ask  you  for  a  straw  .
+*PAR0:	when he is finished he'll ask for a napkin . 
+%mor:	adv|when pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|finish-Part-Past-S pron|he-Prs-Nom-S3~aux|will-Fin-S verb|ask-Inf-S adp|for det|a-Ind-Art noun|napkin .
+%gra:	1|4|ADVMOD 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|7|ADVCL 5|7|NSUBJ 6|7|AUX 7|10|ROOT 8|10|CASE 9|10|DET 10|7|OBL 11|7|PUNCT
+%wor:	when  he  is  finished  he'll  ask  for  a  napkin  .
+*PAR0:	then he'll want to look in the mirror to make sure he doesn't have a milk mustache . 
+%mor:	adv|then pron|he-Prs-Nom-S3~aux|will-Fin-S verb|want-Inf-S part|to verb|look-Inf-S adp|in det|the-Def-Art noun|mirror part|to verb|make-Inf-S adj|sure-S1 pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|have-Inf-S det|a-Ind-Art noun|milk noun|mustache-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|19|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|11|MARK 11|6|ADVCL 12|11|XCOMP 13|16|NSUBJ 14|16|AUX 15|16|ADVMOD 16|12|CCOMP 17|19|DET 18|19|COMPOUND 19|16|OBJ 20|4|PUNCT
+%wor:	then  he'll  want  to  look  in  the  mirror  to  make  sure  he  doesn't  have  a  milk  mustache  .
+*PAR0:	when he looks into the mirror . 
+%mor:	adv|when pron|he-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|into det|the-Def-Art noun|mirror .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	when  he  looks  into  the  mirror  .
+*PAR0:	and he might notice his hair needs a trim . 
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|might-Fin-S verb|notice-Inf-S pron|his-Prs-Gen-S3 noun|hair verb|need-Fin-Ind-Pres-S3 det|a-Ind-Art noun|trim-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|6|NMOD-POSS 6|7|NSUBJ 7|4|CCOMP 8|9|DET 9|7|OBJ 10|4|PUNCT
+%wor:	and  he  might  notice  his  hair  needs  a  trim  .
+*PAR0:	so he will probably ask for a pair of nail scissors . 
+%mor:	adv|so pron|he-Prs-Nom-S3 aux|will-Fin-S adv|probably verb|ask-Inf-S adp|for det|a-Ind-Art noun|pair adp|of noun|nail noun|scissors-Plur .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|11|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|11|CASE 10|11|COMPOUND 11|8|NMOD 12|5|PUNCT
+%wor:	so  he  will  probably  ask  for  a  pair  of  nail  scissors  .
+*PAR0:	when he's finished giving himself a trim he'll want a broom to sweep up . 
+%mor:	adv|when pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|finish-Part-Past-S verb|give-Ger-S pron|himself-Prs-Acc-reflx-S3 det|a-Ind-Art noun|trim-Acc pron|he-Prs-Nom-S3~aux|will-Fin-S verb|want-Inf-S det|a-Ind-Art noun|broom-Acc part|to verb|sweep-Inf-S adp|up .
+%gra:	1|4|ADVMOD 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|11|ADVCL 5|4|XCOMP 6|5|IOBJ 7|8|DET 8|5|OBJ 9|11|NSUBJ 10|11|AUX 11|16|ROOT 12|13|DET 13|11|OBJ 14|15|MARK 15|13|ACL 16|15|COMPOUND-PRT 17|11|PUNCT
+%wor:	when  he's  finished  giving  himself  a  trim  he'll  want  a  broom  to  sweep  up  .
+*PAR0:	he'll start sweeping . 
+%mor:	pron|he-Prs-Nom-S3~aux|will-Fin-S verb|start-Inf-S verb|sweep-Ger-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+%wor:	he'll  start  sweeping  .
+*PAR0:	he might be carried away and sweep every room in the house . 
+%mor:	pron|he-Prs-Nom-S3 aux|might-Fin-S aux|be-Inf-S verb|carry-Part-Past-S adv|away cconj|and verb|sweep-Inf-S det|every-Def-Tot noun|room-Acc adp|in det|the-Def-Art noun|house .
+%gra:	1|4|NSUBJ-PASS 2|4|AUX 3|4|AUX-PASS 4|12|ROOT 5|4|ADVMOD 6|7|CC 7|4|CONJ 8|9|DET 9|7|OBJ 10|12|CASE 11|12|DET 12|7|OBL 13|4|PUNCT
+%wor:	he  might  be  carried  away  and  sweep  every  room  in  the  house  .
+*PAR0:	he may even end up washing the floors as well . 
+%mor:	pron|he-Prs-Nom-S3 aux|may-Fin-S adv|even verb|end-Inf-S adp|up verb|wash-Ger-S det|the-Def-Art noun|floor-Plur-Acc adv|as adv|well .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|10|ROOT 5|4|COMPOUND-PRT 6|4|XCOMP 7|8|DET 8|6|OBJ 9|6|ADVMOD 10|9|FIXED 11|4|PUNCT
+%wor:	he  may  even  end  up  washing  the  floors  as  well  .
+*PAR0:	when he is done he'll probably want to take a nap . 
+%mor:	adv|when pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|do-Part-Past-S-irr pron|he-Prs-Nom-S3~aux|will-Fin-S adv|probably verb|want-Inf-S part|to verb|take-Inf-S det|a-Ind-Art noun|nap-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|8|ADVCL 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|12|ROOT 9|10|MARK 10|8|XCOMP 11|12|DET 12|10|OBJ 13|8|PUNCT
+%wor:	when  he  is  done  he'll  probably  want  to  take  a  nap  .
+*PAR0:	he'll have to fix up a little box for him with a blanket and a pillow . 
+%mor:	pron|he-Prs-Nom-S3~aux|will-Fin-S verb|have-Inf-S part|to verb|fix-Inf-S adp|up det|a-Ind-Art adj|little-S1 noun|box-Acc adp|for pron|he-Prs-Acc-S3 adp|with det|a-Ind-Art noun|blanket cconj|and det|a-Ind-Art noun|pillow .
+%gra:	1|3|NSUBJ 2|3|AUX 3|17|ROOT 4|5|MARK 5|3|XCOMP 6|5|COMPOUND-PRT 7|9|DET 8|9|AMOD 9|5|OBJ 10|11|CASE 11|5|OBL 12|14|CASE 13|14|DET 14|5|OBL 15|17|CC 16|17|DET 17|14|CONJ 18|3|PUNCT
+%wor:	he'll  have  to  fix  up  a  little  box  for  him  with  a  blanket  and  a  pillow  .
+*PAR0:	he'll crawl in make himself comfortable and fluff the pillow a few times . 
+%mor:	pron|he-Prs-Nom-S3~aux|will-Fin-S verb|crawl-Inf-S adp|in verb|make-Inf-S pron|himself-Prs-Acc-reflx-S3 adj|comfortable-S1 cconj|and verb|fluff-Inf-S det|the-Def-Art noun|pillow-Acc det|a-Ind-Art adj|few-S1 noun|time-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|14|ROOT 4|3|ADVMOD 5|3|XCOMP 6|5|OBJ 7|5|XCOMP 8|9|CC 9|5|CONJ 10|11|DET 11|9|OBJ 12|14|DET 13|14|AMOD 14|9|OBL-UNMARKED 15|3|PUNCT
+%wor:	he'll  crawl  in  make  himself  comfortable  and  fluff  the  pillow  a  few  times  .
+*PAR0:	he'll probably ask you to read him the story . 
+%mor:	pron|he-Prs-Nom-S3~aux|will-Fin-S adv|probably verb|ask-Inf-S pron|you-Prs-Acc-S2 part|to verb|read-Inf-S pron|he-Prs-Acc-S3 det|the-Def-Art noun|story-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|10|ROOT 5|4|IOBJ 6|7|MARK 7|4|XCOMP 8|7|IOBJ 9|10|DET 10|7|OBJ 11|4|PUNCT
+%wor:	he'll  probably  ask  you  to  read  him  the  story  .
+*PAR0:	so you read him one from one of your books . 
+%mor:	adv|so pron|you-Prs-Nom-S2 verb|read-Fin-Ind-Pres-S2 pron|he-Prs-Acc-S3 num|one adp|from num|one adp|of pron|your-Prs-Gen-S2 noun|book-Plur .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|10|ROOT 4|3|OBJ 5|3|OBJ 6|7|CASE 7|3|OBL 8|10|CASE 9|10|NMOD-POSS 10|7|NMOD 11|3|PUNCT
+%wor:	so  you  read  him  one  from  one  of  your  books  .
+*PAR0:	and you'll ask to see the pictures when he looks at the . 
+%mor:	cconj|and pron|you-Prs-Nom-S2~aux|will-Fin-S verb|ask-Inf-S part|to verb|see-Inf-S det|the-Def-Art noun|picture-Plur-Acc adv|when pron|he-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|at det|the-Def-Art .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|13|ROOT 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|11|ADVMOD 10|11|NSUBJ 11|6|ADVCL 12|13|CASE 13|11|OBL 14|4|PUNCT
+%wor:	and  you'll  ask  to  see  the  pictures  when  he  looks  at  the  .
+*PAR0:	pictures . 
+%mor:	noun|picture-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	pictures  .
+*PAR0:	he'll get so excited . 
+%mor:	pron|he-Prs-Nom-S3~aux|will-Fin-S verb|get-Inf-S adv|so adj|excited-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|ADVMOD 5|3|XCOMP 6|3|PUNCT
+%wor:	he'll  get  so  excited  .
+*PAR0:	he'll want to draw one of his own . 
+%mor:	pron|he-Prs-Nom-S3~aux|will-Fin-S verb|want-Inf-S part|to verb|draw-Inf-S num|one adp|of pron|his-Prs-Gen-S3 adj|own-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|9|CASE 8|9|NMOD-POSS 9|6|NMOD 10|3|PUNCT
+%wor:	he'll  want  to  draw  one  of  his  own  .
+*PAR0:	he'll ask for papers and crayons . 
+%mor:	pron|he-Prs-Nom-S3~aux|will-Fin-S verb|ask-Inf-S adp|for noun|paper-Plur cconj|and noun|crayon-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|5|CASE 5|3|OBL 6|7|CC 7|5|CONJ 8|3|PUNCT
+%wor:	he'll  ask  for  papers  and  crayons  .
+*PAR0:	I he'll draw a picture . 
+%mor:	pron|I-Prs-Nom-S1 pron|he-Prs-Nom-S3~aux|will-Fin-S verb|draw-Inf-S det|a-Ind-Art noun|picture-Acc .
+%gra:	1|4|NSUBJ 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	I he'll  draw  a  picture  .
+*PAR0:	when the picture is finished he'll want to sign his name with a pen . 
+%mor:	adv|when det|the-Def-Art noun|picture aux|be-Fin-Ind-Pres-S3 verb|finish-Part-Past-S pron|he-Prs-Nom-S3~aux|will-Fin-S verb|want-Inf-S part|to verb|sign-Inf-S pron|his-Prs-Gen-S3 noun|name-Acc adp|with det|a-Ind-Art noun|pen .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|8|ADVCL 6|8|NSUBJ 7|8|AUX 8|15|ROOT 9|10|MARK 10|8|XCOMP 11|12|NMOD-POSS 12|10|OBJ 13|15|CASE 14|15|DET 15|10|OBL 16|8|PUNCT
+%wor:	when  the  picture  is  finished  he'll  want  to  sign  his  name  with  a  pen  .
+*PAR0:	then he'll want to hang the picture on your refrigerator . 
+%mor:	adv|then pron|he-Prs-Nom-S3~aux|will-Fin-S verb|want-Inf-S part|to verb|hang-Inf-S det|the-Def-Art noun|picture-Acc adp|on pron|your-Prs-Gen-S2 noun|refrigerator .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|11|ROOT 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|11|CASE 10|11|NMOD-POSS 11|6|OBL 12|4|PUNCT
+%wor:	then  he'll  want  to  hang  the  picture  on  your  refrigerator  .
+*PAR0:	which means he'll need scotch tape . 
+%mor:	pron|which-Rel-S1 verb|mean-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3~aux|will-Fin-S verb|need-Inf-S noun|scotch noun|tape-Acc .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|5|NSUBJ 4|5|AUX 5|2|CCOMP 6|7|COMPOUND 7|5|OBJ 8|2|PUNCT
+%wor:	which  means  he'll  need  scotch  tape  .
+*PAR0:	he'll hang up his drawing . 
+%mor:	pron|he-Prs-Nom-S3~aux|will-Fin-S verb|hang-Inf-S adp|up pron|his-Prs-Gen-S3 noun|draw-Acc-Ger .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|3|COMPOUND-PRT 5|6|NMOD-POSS 6|3|OBJ 7|3|PUNCT
+%wor:	he'll  hang  up  his  drawing  .
+*PAR0:	and stand back to look at it . 
+%mor:	cconj|and verb|stand-Fin-Imp-S adv|back part|to verb|look-Inf-S adp|at pron|it-Prs-Acc-S3 .
+%gra:	1|2|CC 2|7|ROOT 3|2|ADVMOD 4|5|MARK 5|2|ADVCL 6|7|CASE 7|5|OBL 8|2|PUNCT
+%wor:	and  stand  back  to  look  at  it  .
+*PAR0:	looking at the refrigerator will remind him that he's thirsty . 
+%mor:	verb|look-Part-Pres-S adp|at det|the-Def-Art noun|refrigerator aux|will-Fin-S verb|remind-Inf-S pron|he-Prs-Acc-S3 sconj|that pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|thirsty-S1 .
+%gra:	1|6|CSUBJ 2|4|CASE 3|4|DET 4|1|OBL 5|6|AUX 6|11|ROOT 7|6|IOBJ 8|11|MARK 9|11|NSUBJ 10|11|COP 11|6|CCOMP 12|6|PUNCT
+%wor:	looking  at  the  refrigerator  will  remind  him  that  he's  thirsty  .
+*PAR0:	so he'll ask for glass of milk . 
+%mor:	adv|so pron|he-Prs-Nom-S3~aux|will-Fin-S verb|ask-Inf-S adp|for noun|glass adp|of noun|milk .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|6|CASE 6|4|OBL 7|8|CASE 8|6|NMOD 9|4|PUNCT
+%wor:	so  he'll  ask  for  glass  of  milk  .
+*PAR0:	and chances are if he ask for a glass of milk he's going to want a cookie to go with it . 
+%mor:	cconj|and noun|chance-Plur aux|be-Fin-Ind-Pres-P3 sconj|if pron|he-Prs-Nom-S3 verb|ask-Fin-Ind-Pres-S3 adp|for det|a-Ind-Art noun|glass adp|of noun|milk pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|want-Inf-S det|a-Ind-Art noun|cookie-Acc part|to verb|go-Inf-S adp|with pron|it-Prs-Acc-S3 .
+%gra:	1|14|CC 2|14|NSUBJ-OUTER 3|14|COP 4|6|MARK 5|6|NSUBJ 6|14|ADVCL 7|9|CASE 8|9|DET 9|6|OBL 10|11|CASE 11|9|NMOD 12|14|NSUBJ 13|14|AUX 14|22|ROOT 15|16|MARK 16|14|XCOMP 17|18|DET 18|16|OBJ 19|20|MARK 20|18|ACL 21|22|CASE 22|20|OBL 23|14|PUNCT
+%wor:	and  chances are  if  he  ask  for  a  glass of  milk  he's  going  to  want  a  cookie  to  go  with  it  .
+*PAR0:	now on a book . 
+%mor:	adv|now adp|on det|a-Ind-Art noun|book .
+%gra:	1|4|ADVMOD 2|4|CASE 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	now  on  a  book  .
+*PAR0:	got a lot of nice pictures in it . 
+%mor:	verb|get-Fin-Ind-Past-S1-irr det|a-Ind-Art noun|lot-Acc adp|of adj|nice-S1 noun|picture-Plur adp|in pron|it-Prs-Acc-S3 .
+%gra:	1|8|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|AMOD 6|3|NMOD 7|8|CASE 8|1|OBL 9|1|PUNCT
+%wor:	got  a  lot  of  nice  pictures  in  it  .
+*PAR0:	he likes that book . 
+%mor:	pron|he-Prs-Nom-S3 verb|like-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|book-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	he  likes  that  book  .
+*PAR0:	my book .
+%mor:	pron|my-Prs-Gen-S1 noun|book .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+@End

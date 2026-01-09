@@ -1,0 +1,400 @@
+@UTF8
+@PID:	11312/c-00017320-1
+@Begin
+@Languages:	eng
+@Participants:	FAT Father, CHI Target_Child, MOT Mother
+@ID:	eng|Sachs|FAT||male|||Father|||
+@ID:	eng|Sachs|CHI|1;08.29|female|||Target_Child|||
+@ID:	eng|Sachs|MOT||female|||Mother|||
+@Media:	010829, audio
+@Date:	07-MAR-1970
+@Types:	long, toyplay, TD
+*FAT:	what's a yyy (.) Nomi ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art propn|Nomi ?
+%gra:	1|4|ROOT 2|4|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+%xpho:	/mimi/
+*FAT:	is that a stick ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that det|a-Ind-Art noun|stick ?
+%gra:	1|4|COP 2|4|MARK 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	stick . 
+%mor:	verb|stick-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%spa:	$IMIT
+@Tape Location:	43
+*CHI:	in . 
+%mor:	adv|in .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	yes Nomi (.) put it in . 
+%mor:	intj|yes propn|Nomi verb|put-Fin-Ind-Past-S3-irr pron|it-Prs-Acc-S3 adp|in .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|PUNCT
+*CHI:	fall down . 
+%mor:	verb|fall-Fin-Imp-S adp|down .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+*CHI:	achoo@o . 
+%mor:	o|achoo .
+%gra:	1|1|FLAT 2|1|PUNCT
+*MOT:	Nomi (.) would you say +"/. 
+%mor:	propn|Nomi aux|would-Fin-S pron|you-Prs-Nom-S2 verb|say-Inf-S +"/.
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*MOT:	+" training pants ? 
+%mor:	noun|training-Ger noun|pants-Ptan ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	training pants . 
+%mor:	noun|training-Ger noun|pants-Ptan .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%spa:	$EIMIT
+*MOT:	are you going to tell us when you hafta tinkle today ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|go-Part-Pres-S part|to verb|tell-Inf-S pron|we-Prs-Acc-P1 adv|when pron|you-Prs-Nom-S2 aux|hafta-Fin-Ind-Pres-S2 verb|tinkle-Inf-S noun|today ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|11|ROOT 4|5|MARK 5|3|XCOMP 6|5|IOBJ 7|10|ADVMOD 8|10|NSUBJ 9|10|AUX 10|5|ADVCL 11|10|OBL-UNMARKED 12|3|PUNCT
+*CHI:	sit down . 
+%mor:	verb|sit-Fin-Imp-S adp|down .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+*FAT:	what do you want Nomi (.) a shirt ? 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S propn|Nomi-Acc det|a-Ind-Art noun|shirt-Acc ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|4|OBJ 6|7|DET 7|4|OBJ 8|4|PUNCT
+*FAT:	do you wanna put a shirt on ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 part|wana verb|put-Inf-S det|a-Ind-Art noun|shirt-Acc adp|on ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|7|ROOT 5|6|DET 6|4|OBJ 7|4|ADVMOD 8|4|PUNCT
+@Tape Location:	86
+*CHI:	pants . 
+%mor:	noun|pants-Ptan .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay (.) put some pants on . 
+%mor:	intj|okay verb|put-Fin-Imp-S det|some-Def-Ind noun|pants-Ptan-Acc adp|on .
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|4|DET 4|2|OBJ 5|2|COMPOUND-PRT 6|2|PUNCT
+*FAT:	okay (.) I'll put them on you . 
+%mor:	intj|okay pron|I-Prs-Nom-S1~aux|will-Fin-S verb|put-Inf-S pron|they-Prs-Acc-P3 adp|on pron|you-Prs-Acc-S2 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|4|OBJ 6|7|CASE 7|4|OBL 8|4|PUNCT
+*FAT:	do you wanna put your slippers on ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 part|wana verb|put-Inf-S pron|your-Prs-Gen-S2 noun|slipper-Plur-Acc adp|on ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|7|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|COMPOUND-PRT 8|4|PUNCT
+*CHI:	no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what_about some socks ? 
+%mor:	intj|whatabout det|some-Def-Ind noun|sock-Plur ?
+%gra:	1|3|DISCOURSE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	tights . 
+%mor:	noun|tight-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	no (.) you can't put tights on over your pants . 
+%mor:	intj|no pron|you-Prs-Nom-S2 aux|can-Fin-S~part|not verb|put-Inf-S noun|tight-Plur-Acc adp|on adp|over pron|your-Prs-Gen-S2 noun|pants-Ptan .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|10|ROOT 6|5|OBJ 7|5|COMPOUND-PRT 8|10|CASE 9|10|NMOD-POSS 10|5|OBL 11|5|PUNCT
+*FAT:	they won't fit . 
+%mor:	pron|they-Prs-Nom-P3 aux|will-Fin-S~part|not verb|fit-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*FAT:	here's some socks (.) Nomi . 
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|some-Def-Ind noun|sock-Plur propn|Nomi .
+%gra:	1|5|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|NSUBJ 6|1|PUNCT
+*FAT:	want socks ? 
+%mor:	verb|want-Fin-Imp-Pres-S noun|sock-Plur-Acc ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	my tights . 
+%mor:	pron|my-Prs-Gen-S1 noun|tight-Plur .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*MOT:	no (.) you've got pants already on (.) sweetie . 
+%mor:	intj|no pron|you-Prs-Nom-S2~aux|have-Fin-Ind-Pres-S2 verb|get-Part-Past-S-irr noun|pants-Ptan-Acc adv|already adp|on noun|sweetie .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|4|OBJ 6|8|ADVMOD 7|8|CASE 8|4|OBL 9|4|PUNCT
+*FAT:	want some socks ? 
+%mor:	verb|want-Fin-Ind-Pres-S det|some-Def-Ind noun|sock-Plur-Acc ?
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	you can put socks on (.) Nomi . 
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|put-Inf-S noun|sock-Plur-Acc adp|on propn|Nomi .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+*CHI:	no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	tights . 
+%mor:	noun|tight-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	my shirt . 
+%mor:	pron|my-Prs-Gen-S1 noun|shirt .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*FAT:	shirt . 
+%mor:	noun|shirt .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	my shirt . 
+%mor:	pron|my-Prs-Gen-S1 noun|shirt .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*FAT:	shirt . 
+%mor:	noun|shirt .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	go get a shirt on . 
+%mor:	verb|go-Fin-Imp-S verb|get-Fin-Imp-S det|a-Ind-Art noun|shirt-Acc adp|on .
+%gra:	1|5|ROOT 2|1|XCOMP 3|4|DET 4|2|OBJ 5|2|ADVMOD 6|1|PUNCT
+*FAT:	you wanna go pottie Nomi ? 
+%mor:	pron|you-Prs-Nom-S2 aux|wanna-Fin-Ind-Pres-S2 verb|go-Inf-S propn|pottie propn|Nomi-Acc ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|COMPOUND 5|3|OBJ 6|3|PUNCT
+*CHI:	no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	get up . 
+%mor:	verb|get-Fin-Imp-S adp|up .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+*CHI:	get up . 
+%mor:	verb|get-Fin-Imp-S adp|up .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+*CHI:	get up . 
+%mor:	verb|get-Fin-Imp-S adp|up .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+*CHI:	get up . 
+%mor:	verb|get-Fin-Imp-S adp|up .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+@Tape Location:	165
+*CHI:	read . 
+%mor:	verb|read-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	do you want help Nomi ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S noun|help propn|Nomi-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|COMPOUND 5|3|OBJ 6|3|PUNCT
+%com:	jargon for a long period while "reading" . occasional insertion of words - girl , bunny , boy , lady , doggie , baby .
+@Tape Location:	447
+*CHI:	Nomi . 
+%mor:	propn|Nomi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Nomi . 
+%mor:	propn|Nomi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Nomi . 
+%mor:	propn|Nomi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Nomi . 
+%mor:	propn|Nomi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Nomi talk . 
+%mor:	propn|Nomi verb|talk-Fin-S .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	is color(ing) . 
+%mor:	aux|be-Fin-Ind-Pres-S3 noun|coloring-Ger .
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+*MOT:	it is called a microphone . 
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|call-Part-Past-S det|a-Ind-Art noun|microphone .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|5|ROOT 4|5|DET 5|3|XCOMP 6|3|PUNCT
+*CHI:	microphone . 
+%mor:	noun|microphone .
+%gra:	1|1|ROOT 2|1|PUNCT
+%spa:	$IMIT
+*MOT:	and it is called a taperecorder . 
+%mor:	cconj|and pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 verb|call-Part-Past-S det|a-Ind-Art noun|taperecorder .
+%gra:	1|4|CC 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|6|ROOT 5|6|DET 6|4|XCOMP 7|4|PUNCT
+*CHI:	taperecorder . 
+%mor:	noun|taperecorder .
+%gra:	1|1|ROOT 2|1|PUNCT
+%spa:	$IMIT
+*MOT:	thank_you . 
+%mor:	intj|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	(re)corder . 
+%mor:	noun|recorder .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	it's going around . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adv|around .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	push . 
+%mor:	verb|push-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	broken . 
+%mor:	verb|break-Part-Past-S-irr .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what's broken ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|break-Part-Past-S-irr ?
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|3|ROOT 4|3|PUNCT
+*CHI:	broken &~ha . 
+%mor:	verb|break-Part-Past-S-irr .
+%gra:	1|1|ROOT 2|1|PUNCT
+%spa:	$IMIT
+*CHI:	broken haha . 
+%mor:	verb|break-Part-Past-S-irr intj|haha .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CHI:	go . 
+%mor:	verb|go-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	go . 
+%mor:	verb|go-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	go . 
+%mor:	verb|go-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	go . 
+%mor:	verb|go-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	go . 
+%mor:	verb|go-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	go . 
+%mor:	verb|go-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	go . 
+%mor:	verb|go-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	go . 
+%mor:	verb|go-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	go . 
+%mor:	verb|go-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	go . 
+%mor:	verb|go-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	go . 
+%mor:	verb|go-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	is it a no no ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 det|a-Ind-Art intj|no intj|no ?
+%gra:	1|4|COP 2|4|NSUBJ 3|4|DET 4|5|ROOT 5|4|DISCOURSE 6|4|PUNCT
+*MOT:	is it a no no ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 det|a-Ind-Art intj|no intj|no ?
+%gra:	1|4|COP 2|4|NSUBJ 3|4|DET 4|5|ROOT 5|4|DISCOURSE 6|4|PUNCT
+*CHI:	no no . 
+%mor:	intj|no intj|no .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%spa:	$IMIT
+*CHI:	turning . 
+%mor:	verb|turn-Part-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	turning around . 
+%mor:	verb|turn-Part-Pres-S adv|around .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	around . 
+%mor:	adv|around .
+%gra:	1|1|ROOT 2|1|PUNCT
+%spa:	$IMIT
+*CHI:	sleeping . 
+%mor:	noun|sleeping-Ger .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	sleeping . 
+%mor:	noun|sleeping-Ger .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	Daddy's sleeping . 
+%mor:	propn|Daddy~part|s noun|sleeping-Ger .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|3|ROOT 4|3|PUNCT
+@Tape Location:	495
+*CHI:	shh sleeping . 
+%mor:	intj|shh noun|sleeping-Ger .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%spa:	$IMIT
+*CHI:	Daddy sleeping . 
+%mor:	propn|Daddy noun|sleeping-Ger .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%spa:	$IMIT
+*CHI:	(re)corder . 
+%mor:	noun|recorder .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	fall down . 
+%mor:	verb|fall-Fin-Imp-S adp|down .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+*CHI:	fall down . 
+%mor:	verb|fall-Fin-Imp-S adp|down .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+*CHI:	ding_ding@o . 
+%mor:	o|dingding .
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	tape(re)corder . 
+%mor:	noun|taperecorder .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	round . 
+%mor:	adj|round-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	round . 
+%mor:	adj|round-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	round . 
+%mor:	adj|round-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	round . 
+%mor:	adj|round-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	go around and around . 
+%mor:	verb|go-Fin-Imp-S adv|around cconj|and adv|around .
+%gra:	1|4|ROOT 2|1|ADVMOD 3|4|CC 4|2|CONJ 5|1|PUNCT
+*CHI:	(re)corder round ? 
+%mor:	noun|recorder adv|round ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	(re)corder . 
+%mor:	noun|recorder .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	(re)corder . 
+%mor:	noun|recorder .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	go round . 
+%mor:	verb|go-Fin-Imp-S adv|round .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*MOT:	what color is it ? 
+%mor:	det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|2|DET 2|3|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*CHI:	color . 
+%mor:	noun|color .
+%gra:	1|1|ROOT 2|1|PUNCT
+%spa:	$IMIT
+*MOT:	what color ? 
+%mor:	det|what-Def-Int noun|color ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	is it black ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 adj|black-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	black . 
+%mor:	adj|black-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	black . 
+%mor:	adj|black-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%spa:	$IMIT
+*MOT:	it's going around and around . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adv|around cconj|and adv|around .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|3|ADVMOD 5|6|CC 6|4|CONJ 7|3|PUNCT
+@Tape Location:	521
+*CHI:	touch . 
+%mor:	noun|touch .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	no (.) don't touch the microphone . 
+%mor:	intj|no aux|do-Fin-Imp-S~part|not verb|touch-Fin-Imp-S det|the-Def-Art noun|microphone-Acc .
+%gra:	1|4|DISCOURSE 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*MOT:	no (.) don't touch the microphone . 
+%mor:	intj|no aux|do-Fin-Imp-S~part|not verb|touch-Fin-Imp-S det|the-Def-Art noun|microphone-Acc .
+%gra:	1|4|DISCOURSE 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	<&~ah ah> [/] ah . 
+%mor:	intj|ah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	<&~ah ah> [/] ah . 
+%mor:	intj|ah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	(re)corder . 
+%mor:	noun|recorder .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	uhuh . 
+%mor:	intj|uhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	don't kick . 
+%mor:	aux|do-Fin-Imp-S~part|not verb|kick-Fin-Imp-S .
+%gra:	1|3|AUX 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*MOT:	can you say +"/. 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|say-Inf-S +"/.
+%gra:	1|3|AUX 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	+" don't kick ? 
+%mor:	aux|do-Fin-Imp-S~part|not verb|kick-Fin-Imp-S ?
+%gra:	1|3|AUX 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*MOT:	can you say +"/. 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|say-Inf-S +"/.
+%gra:	1|3|AUX 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+@Tape Location:	525
+*MOT:	+" don't kick ? 
+%mor:	aux|do-Fin-Imp-S~part|not verb|kick-Fin-Imp-S ?
+%gra:	1|3|AUX 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	don't kick . 
+%mor:	aux|do-Fin-Imp-S~part|not verb|kick-Fin-Imp-S .
+%gra:	1|3|AUX 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%spa:	$EIMIT
+*CHI:	don't kick .
+%mor:	aux|do-Fin-Imp-S~part|not verb|kick-Fin-Imp-S .
+%gra:	1|3|AUX 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%spa:	$EIMIT
+@End

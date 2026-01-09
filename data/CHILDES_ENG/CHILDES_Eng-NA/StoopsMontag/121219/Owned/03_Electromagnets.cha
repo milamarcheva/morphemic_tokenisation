@@ -1,0 +1,423 @@
+@UTF8
+@PID:	11312/a-00077907-1
+@Begin
+@Languages:	eng
+@Participants:	FA1 Adult, CHI Target_Child
+@Options:	bullets
+@ID:	eng|StoopsMontag|FA1|||||Adult|||
+@ID:	eng|StoopsMontag|CHI|||||Target_Child|||
+@Media:	03_Electromagnets, audio
+@Types:	cross, book, TD
+*FA1:	Electromagnetism_for_Babies . 
+%mor:	propn|ElectromagnetismforBabies .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	this is a ball . 
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|ball .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	yeah ! 
+%mor:	intj|yeah !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	this ball has positive charge . 
+%mor:	det|this-Def-Dem-Sing noun|ball verb|have-Fin-Ind-Pres-S3 adj|positive-S1 noun|charge-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|AMOD 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	see the plus sign ? 
+%mor:	verb|see-Fin-Imp-S det|the-Def-Art cconj|plus noun|sign ?
+%gra:	1|4|ROOT 2|1|OBJ 3|4|CC 4|2|CONJ 5|1|PUNCT
+%cod:	$txt:C $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	this charge creates an electric field . 
+%mor:	det|this-Def-Dem-Sing noun|charge verb|create-Fin-Ind-Pres-S3 det|a-Ind-Art adj|electric-S1 noun|field-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	positive charges move with- . 
+%mor:	adj|positive-S1 noun|charge-Plur verb|move-Fin-Ind-Pres-P3 adp|with .
+%gra:	1|2|AMOD 2|3|NSUBJ 3|4|ROOT 4|3|CASE 5|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	charges move with the field . 
+%mor:	noun|charge-Plur verb|move-Fin-Ind-Pres-P3 adp|with det|the-Def-Art noun|field .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	what's this ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+%cod:	$xds:A
+*FA1:	arrows . 
+%mor:	noun|arrow-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	that's a field . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|field .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	let's count . 
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|count-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+%cod:	$xds:A
+*FA1:	one . 
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	two . 
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	three . 
+%mor:	num|three .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	four . 
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	five . 
+%mor:	num|five .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	six . 
+%mor:	num|six .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	seven . 
+%mor:	num|seven .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	eight . 
+%mor:	num|eight .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	good job . 
+%mor:	adj|good-S1 noun|job .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	eight ! 
+%mor:	num|eight !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	a eight of ? 
+%mor:	det|a-Ind-Art num|eight adp|of ?
+%gra:	1|2|DET 2|3|ROOT 3|2|PUNCT 4|2|PUNCT
+%cod:	$xds:A
+*FA1:	eight lines and an electric field . 
+%mor:	num|eight noun|line-Plur cconj|and det|a-Ind-Art adj|electric-S1 noun|field .
+%gra:	1|2|NUMMOD 2|6|ROOT 3|6|CC 4|6|DET 5|6|AMOD 6|2|CONJ 7|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	oh ! 
+%mor:	intj|oh !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	positive charges repel other positive charges . 
+%mor:	adj|positive-S1 noun|charge-Plur verb|repel-Fin-Ind-Pres-P3 adj|other-S1 adj|positive-S1 noun|charge-Plur-Acc .
+%gra:	1|2|AMOD 2|3|NSUBJ 3|6|ROOT 4|6|AMOD 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	this ball has negative charge . 
+%mor:	det|this-Def-Dem-Sing noun|ball verb|have-Fin-Ind-Pres-S3 adj|negative-S1 noun|charge-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|AMOD 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	this charge creates an electric field in the opposite direction . 
+%mor:	det|this-Def-Dem-Sing noun|charge verb|create-Fin-Ind-Pres-S3 det|a-Ind-Art adj|electric-S1 noun|field-Acc adp|in det|the-Def-Art adj|opposite-S1 noun|direction .
+%gra:	1|2|DET 2|3|NSUBJ 3|10|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|10|CASE 8|10|DET 9|10|AMOD 10|3|OBL 11|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	let's count . 
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|count-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+%cod:	$xds:A
+*FA1:	negative charges move against the field . 
+%mor:	adj|negative-S1 noun|charge-Plur verb|move-Fin-Ind-Pres-P3 adp|against det|the-Def-Art noun|field .
+%gra:	1|2|AMOD 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	ay , let's count . 
+%mor:	intj|ay cm|cm verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|count-Inf-S .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|5|ROOT 4|3|OBJ 5|3|XCOMP 6|3|PUNCT
+%cod:	$xds:A
+*FA1:	one . 
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	two . 
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	three . 
+%mor:	num|three .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	four . 
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	five . 
+%mor:	num|five .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	six . 
+%mor:	num|six .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	seven . 
+%mor:	num|seven .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	eight . 
+%mor:	num|eight .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	eight . 
+%mor:	num|eight .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	eight lines and en electric field . 
+%mor:	num|eight noun|line-Plur cconj|and adp|en adj|electric-S1 noun|field .
+%gra:	1|2|NUMMOD 2|6|ROOT 3|6|CC 4|6|CASE 5|6|AMOD 6|2|CONJ 7|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	negative charges attract positive charges . 
+%mor:	adj|negative-S1 noun|charge-Plur verb|attract-Fin-Ind-Pres-P3 adj|positive-S1 noun|charge-Plur-Acc .
+%gra:	1|2|AMOD 2|3|NSUBJ 3|5|ROOT 4|5|AMOD 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	negative charges repel other negative charges , that's a negative charge , the negative charge is blue . 
+%mor:	adj|negative-S1 noun|charge-Plur verb|repel-Fin-Ind-Pres-P3 adj|other-S1 adj|negative-S1 noun|charge-Plur-Acc cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|negative-S1 noun|charge cm|cm det|the-Def-Art adj|negative-S1 noun|charge aux|be-Fin-Ind-Pres-S3 adj|blue-S1 .
+%gra:	1|2|AMOD 2|3|NSUBJ 3|18|ROOT 4|6|AMOD 5|6|AMOD 6|3|OBJ 7|12|PUNCT 8|12|NSUBJ 9|12|COP 10|12|DET 11|12|AMOD 12|3|PARATAXIS 13|18|PUNCT 14|16|DET 15|16|AMOD 16|18|NSUBJ 17|18|COP 18|12|PARATAXIS 19|3|PUNCT
+%cod:	$xds:T
+*FA1:	the positive charges are red . 
+%mor:	det|the-Def-Art adj|positive-S1 noun|charge-Plur aux|be-Fin-Ind-Pres-P3 adj|red-S1 .
+%gra:	1|3|DET 2|3|AMOD 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	positive charges attract negative charges . 
+%mor:	adj|positive-S1 noun|charge-Plur verb|attract-Fin-Ind-Pres-P3 adj|negative-S1 noun|charge-Plur-Acc .
+%gra:	1|2|AMOD 2|3|NSUBJ 3|5|ROOT 4|5|AMOD 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	negative charge . 
+%mor:	adj|negative-S1 noun|charge .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	field lines flow from positive to negative . 
+%mor:	noun|field noun|line-Plur verb|flow-Fin-Ind-Pres-P3 adp|from adj|positive-S1 adp|to noun|negative .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|7|ROOT 4|5|CASE 5|3|OBL 6|7|CASE 7|5|OBL 8|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	that's a positive charge . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|positive-S1 noun|charge .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	it's going towards the negative charge , they attract each other . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|towards det|the-Def-Art adj|negative-S1 noun|charge cm|cm pron|they-Prs-Nom-P3 verb|attract-Fin-Ind-Pres-P3 det|each-Def-Rcp adj|other-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|12|ROOT 4|7|CASE 5|7|DET 6|7|AMOD 7|3|OBL 8|10|PUNCT 9|10|NSUBJ 10|3|PARATAXIS 11|10|OBJ 12|11|FIXED 13|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	this way ! 
+%mor:	det|this-Def-Dem-Sing noun|way !
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	that's right . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	mom . 
+%mor:	noun|mom .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	alright , ready ? 
+%mor:	intj|alright cm|cm adj|ready-S1 ?
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|PARATAXIS 4|1|PUNCT
+%cod:	$txt:C $xds:T
+*FA1:	positve and negative charges follow them . 
+%mor:	adj|positve-S1 cconj|and adj|negative-S1 noun|charge-Plur verb|follow-Fin-Ind-Pres-P3 pron|they-Prs-Acc-P3 .
+%gra:	1|4|AMOD 2|3|CC 3|1|CONJ 4|5|NSUBJ 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	what's that ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+%cod:	$xds:A
+*FA1:	those are positive and negative charges . 
+%mor:	pron|that-Dem-P1 aux|be-Fin-Ind-Pres-P3 adj|positive-S1 cconj|and adj|negative-S1 noun|charge-Plur .
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|6|CC 5|6|AMOD 6|3|CONJ 7|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	this is a magnet . 
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|magnet .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	it has a north pole and a south pole . 
+%mor:	pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art noun|north noun|pole-Acc cconj|and det|a-Ind-Art adj|south-S1 noun|pole .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|9|CC 7|9|DET 8|9|AMOD 9|5|CONJ 10|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	it creates a magnetic field . 
+%mor:	pron|it-Prs-Nom-S3 verb|create-Fin-Ind-Pres-S3 det|a-Ind-Art adj|magnetic-S1 noun|field-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|2|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	no that's a Z . 
+%mor:	intj|no pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|Z .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+%cod:	$xds:A
+*FA1:	uh . 
+%mor:	intj|uh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	yep . 
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	that's an N and an S , north and south . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art propn|N cconj|and det|a-Ind-Art propn|S cm|cm noun|north cconj|and noun|south .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|11|ROOT 5|7|CC 6|7|DET 7|4|CONJ 8|9|PUNCT 9|7|CONJ 10|11|CC 11|9|CONJ 12|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	north is negative , and south is positive . 
+%mor:	noun|north aux|be-Fin-Ind-Pres-S3 adj|negative-S1 cm|cm cconj|and noun|south aux|be-Fin-Ind-Pres-S3 adj|positive-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|8|ROOT 4|8|PUNCT 5|8|CC 6|8|NSUBJ 7|8|COP 8|3|CONJ 9|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	Z-Z . 
+%mor:	propn|ZZ .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	other magnets want to line up with it to look like this . 
+%mor:	adj|other-S1 noun|magnet-Plur verb|want-Fin-Ind-Pres-P3 part|to verb|line-Inf-S adp|up adp|with pron|it-Prs-Acc-S3 part|to verb|look-Inf-S adp|like pron|this-Dem-S1 .
+%gra:	1|2|AMOD 2|3|NSUBJ 3|12|ROOT 4|5|MARK 5|3|XCOMP 6|5|COMPOUND-PRT 7|8|CASE 8|5|OBL 9|10|MARK 10|5|ADVCL 11|12|CASE 12|10|OBL 13|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	say it . 
+%mor:	verb|say-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	magnetic fields cause positive- . 
+%mor:	adj|magnetic-S1 noun|field-Plur verb|cause-Fin-Ind-Pres-P3 adj|positive-S1 .
+%gra:	1|2|AMOD 2|3|NSUBJ 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	mom . 
+%mor:	noun|mom .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	what's that ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+%cod:	$xds:A
+*FA1:	positive charge . 
+%mor:	adj|positive-S1 noun|charge .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	let's count . 
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|count-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+%cod:	$xds:A
+*FA1:	magnetic fields cause positive charges to circle counter-clockwise . 
+%mor:	adj|magnetic-S1 noun|field-Plur verb|cause-Fin-Ind-Pres-P3 adj|positive-S1 noun|charge-Plur-Acc part|to verb|circle-Inf-S noun|counterclockwise-Acc .
+%gra:	1|2|AMOD 2|3|NSUBJ 3|8|ROOT 4|5|AMOD 5|3|OBJ 6|7|MARK 7|5|ACL 8|7|OBJ 9|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	let's , let's , ah . 
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 cm|cm verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 cm|cm intj|ah .
+%gra:	1|7|ROOT 2|1|OBJ 3|4|PUNCT 4|1|PARATAXIS 5|4|OBJ 6|7|PUNCT 7|4|DISCOURSE 8|1|PUNCT
+%cod:	$xds:A
+*CHI:	count . 
+%mor:	noun|count .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	one . 
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	two . 
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	three . 
+%mor:	num|three .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	four . 
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	five . 
+%mor:	num|five .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	it's five . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 num|five .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	six . 
+%mor:	num|six .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	negative charges circle counterclock- oh circle clockwise . 
+%mor:	adj|negative-S1 noun|charge-Plur noun|circle noun|counterclock intj|oh noun|circle noun|clockwise .
+%gra:	1|4|AMOD 2|4|COMPOUND 3|4|COMPOUND 4|7|ROOT 5|7|DISCOURSE 6|7|COMPOUND 7|4|APPOS 8|4|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	six . 
+%mor:	num|six .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	it's right , you just counted them . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|right-S1 cm|cm pron|you-Prs-Nom-S2 adv|just verb|count-Fin-Ind-Past-S2 pron|they-Prs-Acc-P3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|8|ROOT 4|7|PUNCT 5|7|NSUBJ 6|7|ADVMOD 7|3|PARATAXIS 8|7|OBJ 9|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	magnetism affects charge , but charge also affects magnetism . 
+%mor:	noun|magnetism verb|affect-Fin-Ind-Pres-S3 noun|charge-Acc cm|cm cconj|but noun|charge adv|also verb|affect-Fin-Ind-Pres-S3 noun|magnetism-Acc .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|OBJ 4|8|PUNCT 5|8|CC 6|8|NSUBJ 7|8|ADVMOD 8|2|CONJ 9|8|OBJ 10|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	negative charges moving together create an electric current . 
+%mor:	adj|negative-S1 noun|charge-Plur verb|move-Ger-S adv|together verb|create-Fin-Ind-Pres-P3 det|a-Ind-Art adj|electric-S1 noun|current-Acc .
+%gra:	1|2|AMOD 2|5|NSUBJ 3|2|ACL 4|3|ADVMOD 5|8|ROOT 6|8|DET 7|8|AMOD 8|5|OBJ 9|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	the current creates a new magnetic field . 
+%mor:	det|the-Def-Art noun|current verb|create-Fin-Ind-Pres-S3 det|a-Ind-Art adj|new-S1 adj|magnetic-S1 noun|field-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|7|DET 5|7|AMOD 6|7|AMOD 7|3|OBJ 8|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	no ! 
+%mor:	intj|no !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	no no now I'm not here . 
+%mor:	intj|no intj|no adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not adv|here .
+%gra:	1|7|DISCOURSE 2|7|DISCOURSE 3|7|ADVMOD 4|7|NSUBJ 5|7|COP 6|7|ADVMOD 7|7|ROOT 8|7|PUNCT
+%cod:	$xds:A
+*FA1:	yeah ! 
+%mor:	intj|yeah !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	and now you know electromagnetism ! 
+%mor:	cconj|and adv|now pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 noun|electromagnetism-Acc !
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	this . 
+%mor:	pron|this-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	okay , what do you wanna do with this page ? 
+%mor:	intj|okay cm|cm pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adv|wanna verb|do-Inf-S adp|with det|this-Def-Dem-Sing noun|page ?
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|OBJ 4|7|AUX 5|7|NSUBJ 6|7|ADVMOD 7|10|ROOT 8|10|CASE 9|10|DET 10|7|OBL 11|7|PUNCT
+%cod:	$txt:C $xds:T
+*CHI:	not this page . 
+%mor:	part|not det|this-Def-Dem-Sing noun|page .
+%gra:	1|3|ADVMOD 2|3|DET 3|3|ROOT 4|3|PUNCT
+%cod:	$xds:A
+*FA1:	we do all of our counting already . 
+%mor:	pron|we-Prs-Nom-P1 verb|do-Fin-Ind-Pres-P1 det|all-Def-Tot adp|of pron|our-Prs-Gen-P1 noun|counting-Ger adv|already .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|OBJ 4|6|CASE 5|6|NMOD-POSS 6|3|NMOD 7|2|ADVMOD 8|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	um . 
+%mor:	intj|um .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+@End

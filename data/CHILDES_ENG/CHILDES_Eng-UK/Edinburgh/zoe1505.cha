@@ -1,0 +1,900 @@
+@UTF8
+@PID:	11312/a-00063898-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	bullets
+@ID:	eng|Edinburgh|CHI|1;03.04|female|||Target_Child|||
+@ID:	eng|Edinburgh|MOT||female|||Mother|||
+@Media:	zoe1505, audio
+@Date:	29-AUG-2014
+@Types:	long, toyplay, TD
+*CHI:	&=babbles . 
+*MOT:	hello Zoe , where's &~sh +/?
+%mor:	intj|hello propn|Zoe cm|cm adv|where~aux|be-Fin-Ind-Pres-S3 +/?
+%gra:	1|5|ROOT 2|1|FLAT 3|4|PUNCT 4|1|PARATAXIS 5|1|PARATAXIS 6|1|PUNCT
+*CHI:	+< &=babbles . 
+*CHI:	&-uh . 
+*MOT:	where are your shoe(s) +//? 
+%mor:	adv|where aux|be-Fin-Ind-Pres-P3 pron|your-Prs-Gen-S2 noun|shoe-Plur +//?
+%gra:	1|4|ROOT 2|1|COP 3|4|NMOD-POSS 4|1|NSUBJ 5|1|PUNCT
+*MOT:	ooh , uhoh , up you get . 
+%mor:	intj|ooh cm|cm intj|uhoh cm|cm adv|up pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Pres-S2 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|DISCOURSE 4|3|PUNCT 5|7|ADVMOD 6|7|NSUBJ 7|7|ROOT 8|7|PUNCT
+*MOT:	up you get . 
+%mor:	adp|up pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Pres-S2 .
+%gra:	1|3|ROOT 2|3|NSUBJ 3|1|PARATAXIS 4|1|PUNCT
+*MOT:	where's Zoe's shoes ? 
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 propn|Zoe~part|s noun|shoe-Plur ?
+%gra:	1|5|ROOT 2|1|COP 3|5|NMOD-POSS 4|3|CASE 5|1|NSUBJ 6|1|PUNCT
+*CHI:	&=babbles . 
+*MOT:	where's the shoes ? 
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|shoe-Plur ?
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*MOT:	that's one red shoe , where's the other red shoe ? 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 num|one adj|red-S1 noun|shoe cm|cm adv|where~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|other-S1 adj|red-S1 noun|shoe ?
+%gra:	1|5|NSUBJ 2|5|COP 3|5|NUMMOD 4|5|AMOD 5|12|ROOT 6|7|PUNCT 7|5|PARATAXIS 8|12|COP 9|12|DET 10|12|AMOD 11|12|AMOD 12|5|PARATAXIS 13|5|PUNCT
+*CHI:	&-er . 
+*MOT:	there , yeah . 
+%mor:	adv|there cm|cm intj|yeah .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*MOT:	can you get it ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|get-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	&=gasps &=claps ya:y . 
+%mor:	intj|yay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what are they ? 
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	&~hm . 
+*MOT:	that's your other shoes . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 adj|other-S1 noun|shoe-Plur .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|NMOD-POSS 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+*MOT:	do you want to get more shoes ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S part|to verb|get-Inf-S adj|more-Cmp-S1 noun|shoe-Plur-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|5|MARK 5|3|XCOMP 6|7|AMOD 7|5|OBJ 8|3|PUNCT
+*CHI:	&~eey: . 
+*MOT:	yeah ? 
+%mor:	intj|yeah ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay , well you get more shoes . 
+%mor:	intj|okay cm|cm intj|well pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Pres-S2 adj|more-Cmp-S1 noun|shoe-Plur-Acc .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|DISCOURSE 4|5|NSUBJ 5|7|ROOT 6|7|AMOD 7|5|OBJ 8|5|PUNCT
+*MOT:	thank you . 
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	one shoe , that's a sandal . 
+%mor:	num|one noun|shoe cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|sandal .
+%gra:	1|2|NUMMOD 2|7|ROOT 3|7|PUNCT 4|7|NSUBJ 5|7|COP 6|7|DET 7|2|PARATAXIS 8|2|PUNCT
+*MOT:	that's Oliver's pot . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 propn|Oliver~part|s noun|pot .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|NMOD-POSS 4|3|CASE 5|5|ROOT 6|5|PUNCT
+*MOT:	it's Ali(ster's) [/] Alister's caterpillar pot . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 propn|Alister~part|s noun|caterpillar noun|pot .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|NMOD-POSS 4|3|CASE 5|6|COMPOUND 6|6|ROOT 7|6|PUNCT
+*CHI:	&~eh . 
+*MOT:	caterpillar yeah . 
+%mor:	noun|caterpillar intj|yeah .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*MOT:	it's just in your shoe box . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just adp|in pron|your-Prs-Gen-S2 noun|shoe noun|box .
+%gra:	1|7|NSUBJ 2|7|COP 3|7|ADVMOD 4|7|CASE 5|7|NMOD-POSS 6|7|COMPOUND 7|7|ROOT 8|7|PUNCT
+*CHI:	&~hm . 
+*MOT:	hm yeah ? 
+%mor:	intj|hm intj|yeah ?
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CHI:	back . 
+%mor:	adv|back .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	put back ? 
+%mor:	verb|put-Fin-Imp-S adv|back ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*MOT:	yes . 
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&-uh . 
+*MOT:	one , two , what about the sandal ? 
+%mor:	num|one cm|cm num|two cm|cm pron|what-Int-S1 adp|about det|the-Def-Art noun|sandal ?
+%gra:	1|5|NSUBJ 2|3|PUNCT 3|1|CONJ 4|3|PUNCT 5|8|ROOT 6|8|CASE 7|8|DET 8|5|NMOD 9|5|PUNCT
+*MOT:	look , there's that other sandal , we put back ? 
+%mor:	verb|look-Fin-Imp-S cm|cm pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing adj|other-S1 noun|sandal cm|cm pron|we-Prs-Nom-P1 verb|put-Fin-Ind-Past-P1-irr adv|back ?
+%gra:	1|11|ROOT 2|4|PUNCT 3|4|EXPL 4|1|PARATAXIS 5|7|DET 6|7|AMOD 7|4|NSUBJ 8|10|PUNCT 9|10|NSUBJ 10|1|PARATAXIS 11|10|ADVMOD 12|1|PUNCT
+*MOT:	uhoh . 
+%mor:	intj|uhoh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	put back ? 
+%mor:	verb|put-Fin-Imp-S adv|back ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*MOT:	good girl . 
+%mor:	adj|good-S1 noun|girl .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	what about this sandal , put back ? 
+%mor:	pron|what-Int-S1 adp|about det|this-Def-Dem-Sing noun|sandal cm|cm verb|put-Fin-Imp-S adv|back ?
+%gra:	1|7|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|6|PUNCT 6|1|PARATAXIS 7|6|ADVMOD 8|1|PUNCT
+*MOT:	what's that ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*MOT:	is that your shoe ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that pron|your-Prs-Gen-S2 noun|shoe ?
+%gra:	1|4|COP 2|4|MARK 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+*CHI:	&~g shoes . 
+%mor:	noun|shoe-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	shoes , yes . 
+%mor:	noun|shoe-Plur cm|cm intj|yes .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*CHI:	&=babbles . 
+*CHI:	your [/] your shoes &=babbles . 
+%mor:	pron|your-Prs-Gen-S2 noun|shoe-Plur .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*MOT:	my shoes , yes . 
+%mor:	pron|my-Prs-Gen-S1 noun|shoe-Plur cm|cm intj|yes .
+%gra:	1|2|NMOD-POSS 2|4|ROOT 3|4|PUNCT 4|2|DISCOURSE 5|2|PUNCT
+*MOT:	can you get my shoes ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|get-Inf-S pron|my-Prs-Gen-S1 noun|shoe-Plur-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT
+*CHI:	+< &=babbles . 
+*MOT:	where's Mummy's shoes ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 propn|Mummy~part|s noun|shoe-Plur ?
+%gra:	1|5|ROOT 2|1|COP 3|5|NMOD-POSS 4|3|CASE 5|1|NSUBJ 6|1|PUNCT
+*CHI:	+< &~oh . 
+*CHI:	your(s) [/] yours . 
+%mor:	pron|your-Prs-S2 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	yours , yes , mine . 
+%mor:	pron|your-Prs-S2 cm|cm intj|yes cm|cm pron|my-Prs-S1 .
+%gra:	1|5|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|5|PUNCT 5|1|PARATAXIS 6|1|PUNCT
+*MOT:	shoes . 
+%mor:	noun|shoe-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=babbles .
+*MOT:	+< they're Zoe's shoes . 
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 propn|Zoe~part|s noun|shoe-Plur .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|NMOD-POSS 4|3|CASE 5|5|ROOT 6|5|PUNCT
+*MOT:	shall we put Zoe's shoes back ? 
+%mor:	aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|put-Inf-S propn|Zoe~part|s noun|shoe-Plur-Acc adv|back ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|6|NMOD-POSS 5|4|CASE 6|3|OBJ 7|3|ADVMOD 8|3|PUNCT
+*CHI:	yes . 
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	yes ? 
+%mor:	intj|yes ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	your [/] your shoes .
+%mor:	pron|your-Prs-Gen-S2 noun|shoe-Plur .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*MOT:	+< my shoes , yes , can you get my shoes for me ? 
+%mor:	pron|my-Prs-Gen-S1 noun|shoe-Plur cm|cm intj|yes cm|cm aux|can-Fin-S pron|you-Prs-Nom-S2 verb|get-Inf-S pron|my-Prs-Gen-S1 noun|shoe-Plur-Acc adp|for pron|I-Prs-Acc-S1 ?
+%gra:	1|2|NMOD-POSS 2|8|DISLOCATED 3|2|PUNCT 4|8|DISCOURSE 5|4|PUNCT 6|8|AUX 7|8|NSUBJ 8|12|ROOT 9|10|NMOD-POSS 10|8|OBJ 11|12|CASE 12|8|OBL 13|8|PUNCT
+*MOT:	beep^beep@o scooter . 
+%mor:	o|beepbeep noun|scooter .
+%gra:	1|2|FLAT 2|2|ROOT 3|2|PUNCT
+*MOT:	that's it , move him out the way . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 cm|cm verb|move-Fin-Imp-S pron|he-Prs-Acc-S3 adp|out det|the-Def-Art noun|way .
+%gra:	1|3|NSUBJ 2|3|COP 3|9|ROOT 4|5|PUNCT 5|3|PARATAXIS 6|5|OBJ 7|5|COMPOUND-PRT 8|9|DET 9|5|OBL-UNMARKED 10|3|PUNCT
+*MOT:	shall I get him ? 
+%mor:	aux|shall-Fin-S pron|I-Prs-Nom-S1 verb|get-Inf-S pron|he-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	now let me move that . 
+%mor:	adv|now verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|move-Inf-S pron|that-Dem .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|2|OBJ 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+*MOT:	so where're Mummy's shoes ? 
+%mor:	adv|so adv|where~aux|be-Fin-Ind-Pres-P3 propn|Mummy~part|s noun|shoe-Plur ?
+%gra:	1|2|ADVMOD 2|6|ROOT 3|2|COP 4|6|NMOD-POSS 5|4|CASE 6|2|NSUBJ 7|2|PUNCT
+*MOT:	, oh no , , we're going on the scooter , okay . 
+%mor:	cm|cm intj|oh intj|no cm|cm cm|cm pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 verb|go-Part-Pres-S adp|on det|the-Def-Art noun|scooter cm|cm intj|okay .
+%gra:	1|8|PUNCT 2|8|DISCOURSE 3|8|DISCOURSE 4|3|PUNCT 5|3|PUNCT 6|8|NSUBJ 7|8|AUX 8|13|ROOT 9|11|CASE 10|11|DET 11|8|OBL 12|13|PUNCT 13|8|DISCOURSE 14|8|PUNCT
+*CHI:	, oh no , . 
+%mor:	cm|cm intj|oh intj|no cm|cm .
+%gra:	1|3|PUNCT 2|3|DISCOURSE 3|4|ROOT 4|3|PUNCT 5|3|PUNCT
+*MOT:	, oh no , , what's wrong ? 
+%mor:	cm|cm intj|oh intj|no cm|cm cm|cm pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adj|wrong-S1 ?
+%gra:	1|2|PUNCT 2|8|DISCOURSE 3|8|DISCOURSE 4|3|PUNCT 5|3|PUNCT 6|8|NSUBJ 7|8|COP 8|8|ROOT 9|8|PUNCT
+*MOT:	&=laughs Zoe you need to steer it . 
+%mor:	propn|Zoe pron|you-Prs-Nom-S2 verb|need-Fin-Ind-Pres-S2 part|to verb|steer-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|VOCATIVE 2|3|NSUBJ 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*MOT:	like that . 
+%mor:	adp|like pron|that-Dem .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MOT:	do you want to stand on the scooter ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S part|to verb|stand-Inf-S adp|on det|the-Def-Art noun|scooter ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|5|MARK 5|3|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|3|PUNCT
+*MOT:	good girl , hold on . 
+%mor:	adj|good-S1 noun|girl cm|cm verb|hold-Fin-Imp-S adp|on .
+%gra:	1|2|AMOD 2|5|ROOT 3|4|PUNCT 4|2|PARATAXIS 5|4|COMPOUND-PRT 6|2|PUNCT
+*MOT:	can I have your shoe ? 
+%mor:	aux|can-Fin-S pron|I-Prs-Nom-S1 verb|have-Inf-S pron|your-Prs-Gen-S2 noun|shoe-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT
+*MOT:	ta [= thank you ] . 
+%mor:	x|to .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	let's put him back . 
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|put-Inf-S pron|he-Prs-Acc-S3 adv|back .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|3|ADVMOD 6|1|PUNCT
+*MOT:	are you gonna [: going to ] hold on ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|go-Part-Pres-S part|to verb|hold-Inf-S adp|on ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|5|COMPOUND-PRT 7|3|PUNCT
+*MOT:	scoo:ter: , you're scooting . 
+%mor:	noun|scooter cm|cm pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|scoot-Part-Pres-S .
+%gra:	1|5|DISCOURSE 2|5|PUNCT 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+*MOT:	go [/] go [/] go ! 
+%mor:	verb|go-Fin-Imp-S !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	go [/] go [/] go . 
+%mor:	verb|go-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	is that fun ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|fun ?
+%gra:	1|3|COP 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	&~guh . 
+*MOT:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+< that's &-um Chuggington_Trains . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 propn|ChuggingtonTrains-Plur .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	&-uh . 
+*MOT:	trains choo^choo@o . 
+%mor:	noun|train-Plur o|choochoo .
+%gra:	1|2|COMPOUND 2|2|FLAT 3|2|PUNCT
+*MOT:	do you wannna [: want to ] see the picture ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S part|to verb|see-Inf-S det|the-Def-Art noun|picture-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*MOT:	see ? 
+%mor:	verb|see-Fin-Imp-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	Chuggington_Trains . 
+%mor:	noun|chuggingtonTrainTran-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	it makes your scooter go faster . 
+%mor:	pron|it-Prs-Nom-S3 verb|make-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|scooter-Acc verb|go-Inf-S adj|fast-Cmp-S1 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|XCOMP 6|5|XCOMP 7|2|PUNCT
+*MOT:	do you like them ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|like-Inf-S pron|they-Prs-Acc-P3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	this . 
+%mor:	pron|this-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	yes: . 
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	this . 
+%mor:	pron|this-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	this , yes . 
+%mor:	pron|this-Dem-S1 cm|cm intj|yes .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*CHI:	+< this .
+%mor:	pron|this-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	trains . 
+%mor:	noun|train-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	yeah they're still there . 
+%mor:	intj|yeah pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adv|still adv|there .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+*MOT:	now you need to hold on before I move the scooter . 
+%mor:	adv|now pron|you-Prs-Nom-S2 verb|need-Fin-Ind-Pres-S2 part|to verb|hold-Inf-S adp|on sconj|before pron|I-Prs-Nom-S1 verb|move-Fin-Ind-Pres-S1 det|the-Def-Art noun|scooter-Acc .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|11|ROOT 4|5|MARK 5|3|XCOMP 6|5|COMPOUND-PRT 7|9|MARK 8|9|NSUBJ 9|5|ADVCL 10|11|DET 11|9|OBJ 12|3|PUNCT
+*MOT:	you gonna [: going to ] put it back ? 
+%mor:	pron|you-Prs-Nom-S2 verb|go-Part-Pres-S part|to verb|put-Inf-S pron|it-Prs-Acc-S3 adv|back ?
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|4|ADVMOD 7|2|PUNCT
+*MOT:	or should we just leave it there ? 
+%mor:	cconj|or aux|should-Fin-S pron|we-Prs-Nom-P1 adv|just verb|leave-Inf-S pron|it-Prs-Acc-S3 adv|there ?
+%gra:	1|5|CC 2|5|AUX 3|5|NSUBJ 4|5|ADVMOD 5|7|ROOT 6|5|OBJ 7|5|ADVMOD 8|5|PUNCT
+*MOT:	just put it there . 
+%mor:	adv|just verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 adv|there .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+*MOT:	so (.) what's that ? 
+%mor:	adv|so pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|COP 4|2|NSUBJ 5|2|PUNCT
+*MOT:	oh , uhoh . 
+%mor:	intj|oh cm|cm intj|uhoh .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+*CHI:	&=babbles . 
+*MOT:	now , what about Mummy's shoes ? 
+%mor:	adv|now cm|cm pron|what-Int-S1 adp|about propn|Mummy~part|s noun|shoe-Plur ?
+%gra:	1|3|ADVMOD 2|1|PUNCT 3|7|ROOT 4|7|CASE 5|7|NMOD-POSS 6|5|CASE 7|3|NMOD 8|3|PUNCT
+*MOT:	whoops . 
+%mor:	intj|whoops .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	you gonna [: going to ] get Mummy's shoes ? 
+%mor:	pron|you-Prs-Nom-S2 verb|go-Part-Pres-S part|to verb|get-Inf-S propn|Mummy~part|s noun|shoe-Plur-Acc ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|MARK 4|2|XCOMP 5|7|NMOD-POSS 6|5|CASE 7|4|OBJ 8|2|PUNCT
+*MOT:	yay: &=claps . 
+%mor:	intj|yay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	, oh no , . 
+%mor:	cm|cm intj|oh intj|no cm|cm .
+%gra:	1|3|PUNCT 2|3|DISCOURSE 3|4|ROOT 4|3|PUNCT 5|3|PUNCT
+*MOT:	that's only +//.
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|only +//.
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*MOT:	, oh no , , yes , get the other one . 
+%mor:	cm|cm intj|oh intj|no cm|cm cm|cm intj|yes cm|cm verb|get-Fin-Imp-S det|the-Def-Art adj|other-S1 noun|one-Acc .
+%gra:	1|8|PUNCT 2|8|DISCOURSE 3|8|DISCOURSE 4|3|PUNCT 5|3|PUNCT 6|8|DISCOURSE 7|6|PUNCT 8|11|ROOT 9|11|DET 10|11|AMOD 11|8|OBJ 12|8|PUNCT
+*MOT:	that's only one shoe . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|only num|one noun|shoe .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|NUMMOD 5|5|ROOT 6|5|PUNCT
+*MOT:	two shoes yay: &=claps .
+%mor:	num|two noun|shoe-Plur intj|yay .
+%gra:	1|2|NUMMOD 2|3|ROOT 3|2|DISCOURSE 4|2|PUNCT
+*CHI:	&=babbles . 
+*MOT:	no I only have two feet , it's okay , there's no more . 
+%mor:	intj|no pron|I-Prs-Nom-S1 adv|only verb|have-Fin-Ind-Pres-S1 num|two noun|foot-Plur-Acc cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|okay-S1 cm|cm pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|no-Def-Neg adj|more-Cmp-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|15|ROOT 5|6|NUMMOD 6|4|OBJ 7|10|PUNCT 8|10|NSUBJ 9|10|COP 10|4|PARATAXIS 11|13|PUNCT 12|13|EXPL 13|4|PARATAXIS 14|15|DET 15|13|NSUBJ 16|4|PUNCT
+*MOT:	no more . 
+%mor:	intj|no adj|more-Cmp-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*MOT:	all gone &=gasps you brought my shoes . 
+%mor:	det|all-Def-Tot adj|gone-S1 pron|you-Prs-Nom-S2 verb|bring-Fin-Ind-Past-S2-irr pron|my-Prs-Gen-S1 noun|shoe-Plur-Acc .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|NMOD-POSS 6|4|OBJ 7|2|PUNCT
+*MOT:	Zoe , are they Mummy's shoes or Zoe's shoes ? 
+%mor:	propn|Zoe cm|cm aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 propn|Mummy~part|s noun|shoe-Plur cconj|or propn|Zoe~part|s noun|shoe-Plur ?
+%gra:	1|7|VOCATIVE 2|1|PUNCT 3|7|COP 4|5|DEP 5|7|NMOD-POSS 6|5|CASE 7|11|ROOT 8|11|CC 9|11|NMOD-POSS 10|9|CASE 11|7|CONJ 12|7|PUNCT
+*MOT:	do they go in Mummy's basket ? 
+%mor:	aux|do-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|go-Inf-S adp|in propn|Mummy~part|s noun|basket ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|7|CASE 5|7|NMOD-POSS 6|5|CASE 7|3|OBL 8|3|PUNCT
+*MOT:	does Zoe want to try them ? 
+%mor:	aux|do-Fin-Ind-Pres-S3 propn|Zoe verb|want-Inf-S part|to verb|try-Inf-S pron|they-Prs-Acc-P3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*MOT:	that's it , you put your foot in there .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 cm|cm pron|you-Prs-Nom-S2 verb|put-Fin-Ind-Pres-S2 pron|your-Prs-Gen-S2 noun|foot-Acc adp|in adv|there .
+%gra:	1|3|NSUBJ 2|3|COP 3|10|ROOT 4|6|PUNCT 5|6|NSUBJ 6|3|PARATAXIS 7|8|NMOD-POSS 8|6|OBJ 9|10|CASE 10|6|OBL 11|3|PUNCT
+*MOT:	and this one ? 
+%mor:	cconj|and det|this-Def-Dem-Sing noun|one ?
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+*MOT:	put your foot in there . 
+%mor:	verb|put-Fin-Imp-S pron|your-Prs-Gen-S2 noun|foot-Acc adp|in adv|there .
+%gra:	1|5|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|5|CASE 5|1|OBL 6|1|PUNCT
+*MOT:	&=gasps you're wearing Mummy's shoes ! 
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|wear-Part-Pres-S propn|Mummy~part|s noun|shoe-Plur-Acc !
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|NMOD-POSS 5|4|CASE 6|3|OBJ 7|3|PUNCT
+*MOT:	heehee . 
+%mor:	intj|heehee .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=babbles .
+*MOT:	&=imitates:babble . 
+*MOT:	oh you want to do it by yourself do you ? 
+%mor:	intj|oh pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 part|to verb|do-Inf-S pron|it-Prs-Acc-S3 adp|by pron|yourself-Prs-Acc-reflx-S2 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 ?
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|10|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|8|CASE 8|5|OBL 9|3|PARATAXIS 10|9|NSUBJ 11|3|PUNCT
+*CHI:	&~mm .
+*MOT:	tell you what , why don't you try it with this flat pair ? 
+%mor:	verb|tell-Fin-Imp-S pron|you-Prs-Acc-S2 pron|what-Int-S1 cm|cm adv|why aux|do-Fin-Ind-Pres-S2~part|not pron|you-Prs-Nom-S2 verb|try-Inf-S pron|it-Prs-Acc-S3 adp|with det|this-Def-Dem-Sing adj|flat-S1 noun|pair ?
+%gra:	1|14|ROOT 2|1|IOBJ 3|1|OBJ 4|9|PUNCT 5|9|ADVMOD 6|9|AUX 7|9|ADVMOD 8|9|NSUBJ 9|1|PARATAXIS 10|9|OBJ 11|14|CASE 12|14|DET 13|14|AMOD 14|9|OBL 15|1|PUNCT
+*MOT:	we'll put them in there because you'll probably fall of them and hurt yourself . 
+%mor:	pron|we-Prs-Nom-P1~aux|will-Fin-S verb|put-Inf-S pron|they-Prs-Acc-P3 adp|in adv|there sconj|because pron|you-Prs-Nom-S2~aux|will-Fin-S adv|probably verb|fall-Inf-S adp|of pron|they-Prs-Acc-P3 cconj|and verb|hurt-Inf-S pron|yourself-Prs-Acc-reflx-S2 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|16|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|11|MARK 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|3|ADVCL 12|13|CASE 13|11|OBL 14|15|CC 15|11|CONJ 16|15|OBJ 17|3|PUNCT
+*MOT:	that's it , do it with the flat pair . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 cm|cm verb|do-Fin-Imp-S pron|it-Prs-Acc-S3 adp|with det|the-Def-Art adj|flat-S1 noun|pair .
+%gra:	1|3|NSUBJ 2|3|COP 3|10|ROOT 4|5|PUNCT 5|3|PARATAXIS 6|5|OBJ 7|10|CASE 8|10|DET 9|10|AMOD 10|5|OBL 11|3|PUNCT
+*MOT:	one foot . 
+%mor:	num|one noun|foot .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	oh , two feet . 
+%mor:	intj|oh cm|cm num|two noun|foot-Plur .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NUMMOD 4|4|ROOT 5|4|PUNCT
+*MOT:	aw: beautiful Zoe . 
+%mor:	intj|aw adj|beautiful-S1 propn|Zoe .
+%gra:	1|3|DISCOURSE 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*MOT:	your feet look so pretty . 
+%mor:	pron|your-Prs-Gen-S2 noun|foot-Plur verb|look-Fin-Ind-Pres-P3 adv|so adj|pretty-S1 .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|5|ROOT 4|5|ADVMOD 5|3|XCOMP 6|3|PUNCT
+*MOT:	oh , uhoh , oh ! 
+%mor:	intj|oh cm|cm intj|uhoh cm|cm intj|oh !
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|5|ROOT 4|5|PUNCT 5|3|DISCOURSE 6|3|PUNCT
+*MOT:	what happened there &=laughs ? 
+%mor:	pron|what-Int-S1 verb|happen-Fin-Ind-Past-S3 adv|there ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	&=babbles . 
+*MOT:	ta , shall we put them on my feet ? 
+%mor:	part|to cm|cm aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|put-Inf-S pron|they-Prs-Acc-P3 adp|on pron|my-Prs-Gen-S1 noun|foot-Plur ?
+%gra:	1|5|MARK 2|1|PUNCT 3|5|AUX 4|5|NSUBJ 5|9|ROOT 6|5|OBJ 7|9|CASE 8|9|NMOD-POSS 9|5|OBL 10|5|PUNCT
+*CHI:	&~ih ! 
+*MOT:	do you want it off ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|it-Prs-Acc-S3 adp|off ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|PUNCT
+*MOT:	off ? 
+%mor:	adv|off ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	open ? 
+%mor:	adj|open-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	yes , okay . 
+%mor:	intj|yes cm|cm intj|okay .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*MOT:	and you can turn it round if you're having a shot , look there . 
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|turn-Inf-S pron|it-Prs-Acc-S3 adv|round sconj|if pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|have-Part-Pres-S det|a-Ind-Art noun|shot-Acc cm|cm verb|look-Fin-Imp-S adv|there .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|15|ROOT 5|4|OBJ 6|4|ADVMOD 7|10|MARK 8|10|NSUBJ 9|10|AUX 10|4|ADVCL 11|12|DET 12|10|OBJ 13|14|PUNCT 14|4|PARATAXIS 15|14|ADVMOD 16|4|PUNCT
+*MOT:	that way round . 
+%mor:	det|that-Def-Dem-Sing noun|way adv|round .
+%gra:	1|2|DET 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	&=moans . 
+*MOT:	you want the other one ? 
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 det|the-Def-Art adj|other-S1 noun|one-Acc ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|2|PUNCT
+*MOT:	that's it . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	&=moans .
+*MOT:	+< &=laughs . 
+*MOT:	yeah ? 
+%mor:	intj|yeah ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	you shout at those shoes , that'll make it better . 
+%mor:	pron|you-Prs-Nom-S2 verb|shout-Fin-Ind-Pres-S2 adp|at det|that-Def-Dem-Plur noun|shoe-Plur cm|cm pron|that-Dem~aux|will-Fin-S verb|make-Inf-S pron|it-Prs-Acc-S3 adj|good-Cmp-S1 .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|9|PUNCT 7|9|NSUBJ 8|9|AUX 9|2|PARATAXIS 10|9|OBJ 11|9|XCOMP 12|2|PUNCT
+*MOT:	oh you want to get both feet into the same shoe ?
+%mor:	intj|oh pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 part|to verb|get-Inf-S det|both-Def-Tot noun|foot-Plur-Acc adp|into det|the-Def-Art adj|same-S1 noun|shoe ?
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|11|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|11|CASE 9|11|DET 10|11|AMOD 11|5|OBL 12|3|PUNCT
+*CHI:	+< &~dadee . 
+*MOT:	there you go . 
+%mor:	pron|there-Dem-S1 pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	two foot shoe . 
+%mor:	num|two noun|foot noun|shoe .
+%gra:	1|3|NUMMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*CHI:	no [/] no [/] no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	no [/] no [/] no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	yes [/] yes [/] yes . 
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=babbles . 
+*MOT:	right , let's put these back . 
+%mor:	adj|right-S1 cm|cm verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|put-Inf-S det|this-Def-Dem-Plur noun|back-Acc .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|7|ROOT 4|3|OBJ 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*MOT:	what about Oliver's shoes ? 
+%mor:	pron|what-Int-S1 adp|about propn|Oliver~part|s noun|shoe-Plur ?
+%gra:	1|5|ROOT 2|5|CASE 3|5|NMOD-POSS 4|3|CASE 5|1|NMOD 6|1|PUNCT
+*CHI:	&=babbles . 
+*MOT:	these are Oliver's shoes aren't they ? 
+%mor:	pron|this-Dem-P1 aux|be-Fin-Ind-Pres-P3 propn|Oliver~part|s noun|shoe-Plur aux|be-Fin-Ind-Pres-P3~part|not pron|they-Prs-Nom-P3 ?
+%gra:	1|5|NSUBJ 2|5|COP 3|5|NMOD-POSS 4|3|CASE 5|8|ROOT 6|8|COP 7|8|ADVMOD 8|5|PARATAXIS 9|5|PUNCT
+*MOT:	yeah ? 
+%mor:	intj|yeah ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	he has boys' shoes . 
+%mor:	pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 noun|boy-Plur~part|s noun|shoe-Plur-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|NMOD-POSS 4|3|CASE 5|2|OBJ 6|2|PUNCT
+*MOT:	xxx this pair ? 
+%mor:	det|this-Def-Dem-Sing noun|pair ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	&~oh: . 
+*CHI:	&=babbles . 
+*MOT:	are you trying to put your foot in it ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|try-Part-Pres-S part|to verb|put-Inf-S pron|your-Prs-Gen-S2 noun|foot-Acc adp|in pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|5|MARK 5|3|XCOMP 6|7|NMOD-POSS 7|5|OBJ 8|9|CASE 9|5|OBL 10|3|PUNCT
+*MOT:	let me see if I can help you . 
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|see-Inf-S sconj|if pron|I-Prs-Nom-S1 aux|can-Fin-S verb|help-Inf-S pron|you-Prs-Acc-S2 .
+%gra:	1|8|ROOT 2|1|OBJ 3|1|XCOMP 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|3|CCOMP 8|7|OBJ 9|1|PUNCT
+*MOT:	this one goes in here . 
+%mor:	det|this-Def-Dem-Sing noun|one verb|go-Fin-Ind-Pres-S3 adp|in adv|here .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|3|CASE 5|3|OBL 6|3|PUNCT
+*MOT:	and this one goes in here . 
+%mor:	cconj|and det|this-Def-Dem-Sing noun|one verb|go-Fin-Ind-Pres-S3 adp|in adv|here .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|6|ROOT 5|4|CASE 6|4|OBL 7|4|PUNCT
+*MOT:	and then we stand you up , ooh . 
+%mor:	cconj|and adv|then pron|we-Prs-Nom-P1 verb|stand-Fin-Ind-Pres-P1 pron|you-Prs-Acc-S2 adp|up cm|cm intj|ooh .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|8|ROOT 5|4|OBJ 6|4|COMPOUND-PRT 7|8|PUNCT 8|4|DISCOURSE 9|4|PUNCT
+*MOT:	and you can clump about with giant feet or they'll fall off . 
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|can-Fin-S verb|clump-Inf-S adp|about adp|with adj|giant-S1 noun|foot-Plur cconj|or pron|they-Prs-Nom-P3~aux|will-Fin-S verb|fall-Inf-S adp|off .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|13|ROOT 5|4|ADVMOD 6|8|CASE 7|8|AMOD 8|4|OBL 9|12|CC 10|12|NSUBJ 11|12|AUX 12|4|CONJ 13|12|COMPOUND-PRT 14|4|PUNCT
+*MOT:	ooh ! 
+%mor:	intj|ooh !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	now we don't throw shoes Zoe . 
+%mor:	adv|now pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1~part|not verb|throw-Inf-S noun|shoe-Plur-Acc propn|Zoe-Acc .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|7|ROOT 6|5|OBJ 7|5|OBJ 8|5|PUNCT
+*MOT:	thank you , let's put them back .
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 cm|cm verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|put-Inf-S pron|they-Prs-Acc-P3 adv|back .
+%gra:	1|8|ROOT 2|1|OBJ 3|4|PUNCT 4|1|PARATAXIS 5|4|OBJ 6|4|XCOMP 7|6|OBJ 8|6|ADVMOD 9|1|PUNCT
+*CHI:	+< xxx no [/] no [/] no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	no [/] no [/] no that's right . 
+%mor:	intj|no pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*MOT:	are you going scooting ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|go-Part-Pres-S verb|scoot-Ger-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+*MOT:	bye . 
+%mor:	intj|bye .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	are you climbing on your scooter ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|climb-Part-Pres-S adp|on pron|your-Prs-Gen-S2 noun|scooter ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|3|PUNCT
+*MOT:	that's a hole . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|hole .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*MOT:	how many trains do you see ? 
+%mor:	adv|how adj|many-S1 noun|train-Plur-Acc aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S ?
+%gra:	1|2|ADVMOD 2|3|AMOD 3|6|OBJ 4|6|AUX 5|6|NSUBJ 6|6|ROOT 7|6|PUNCT
+*CHI:	&=babbles . 
+*MOT:	one two three . 
+%mor:	num|one num|two num|three .
+%gra:	1|3|NUMMOD 2|3|NUMMOD 3|3|ROOT 4|3|PUNCT
+*MOT:	do you like the trains ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|like-Inf-S det|the-Def-Art noun|train-Plur-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	yeah let's not <stamp the> [//] thump it on the floor , because it's gonna [: going to ] scratch the floor and then Daddy'll get mad . 
+%mor:	intj|yeah verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 part|not verb|thump-Inf-S pron|it-Prs-Acc-S3 adp|on det|the-Def-Art noun|floor cm|cm sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|scratch-Inf-S det|the-Def-Art noun|floor-Acc cconj|and adv|then propn|Daddy~aux|will-Fin-S verb|get-Inf-S adj|mad-S1 .
+%gra:	1|2|DISCOURSE 2|24|ROOT 3|2|OBJ 4|5|ADVMOD 5|2|XCOMP 6|5|OBJ 7|9|CASE 8|9|DET 9|5|OBL 10|14|PUNCT 11|14|MARK 12|14|NSUBJ 13|14|AUX 14|2|ADVCL 15|16|MARK 16|14|XCOMP 17|18|DET 18|16|OBJ 19|23|CC 20|23|ADVMOD 21|23|NSUBJ 22|23|AUX 23|2|CONJ 24|23|XCOMP 25|2|PUNCT
+*MOT:	hold on . 
+%mor:	verb|hold-Fin-Imp-S adp|on .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+*MOT:	oh no , not onto there , not onto that bit , onto this bit . 
+%mor:	intj|oh intj|no cm|cm part|not adp|onto adv|there cm|cm part|not adp|onto det|that-Def-Dem-Sing noun|bit cm|cm adp|onto det|this-Def-Dem-Sing noun|bit .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|2|PUNCT 4|6|ADVMOD 5|6|CASE 6|15|ROOT 7|11|PUNCT 8|11|ADVMOD 9|11|CASE 10|11|DET 11|6|OBL 12|15|PUNCT 13|15|CASE 14|15|DET 15|11|NMOD 16|6|PUNCT
+*MOT:	onto the handle . 
+%mor:	adp|onto det|the-Def-Art noun|handle .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*MOT:	&=gasps zoom@o [/] zoom@o [/] zoom@o . 
+%mor:	o|zoom .
+%gra:	1|1|FLAT 2|1|PUNCT
+*MOT:	oh are you just want to stand on it ? 
+%mor:	intj|oh aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adv|just verb|want-Inf-S part|to verb|stand-Inf-S adp|on pron|it-Prs-Acc-S3 ?
+%gra:	1|5|DISCOURSE 2|5|AUX 3|5|NSUBJ 4|5|ADVMOD 5|9|ROOT 6|7|MARK 7|5|XCOMP 8|9|CASE 9|7|OBL 10|5|PUNCT
+*MOT:	you want to push it ? 
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 part|to verb|push-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+*CHI:	&~ish push . 
+%mor:	verb|push-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	push , yes good girl .
+%mor:	verb|push-Fin-Imp-S cm|cm intj|yes adj|good-S1 noun|girl .
+%gra:	1|5|ROOT 2|5|PUNCT 3|5|DISCOURSE 4|5|AMOD 5|1|PARATAXIS 6|1|PUNCT
+*CHI:	+< push . 
+%mor:	verb|push-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	oh . 
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	whoop(s) , uhoh . 
+%mor:	noun|whoop-Plur cm|cm intj|uhoh .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*MOT:	up you jump . 
+%mor:	adp|up pron|you-Prs-Nom-S2 verb|jump-Fin-Ind-Pres-S2 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	&=gasps you jumping ?
+%mor:	pron|you-Prs-Nom-S2 verb|jump-Part-Pres-S ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	+< &=babbles . 
+*MOT:	a what ? 
+%mor:	det|a-Ind-Art pron|what-Int-S1 ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	&-uh . 
+*MOT:	what's that ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*MOT:	what is that ? 
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*MOT:	train . 
+%mor:	noun|train .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	oh look , there they are , look . 
+%mor:	intj|oh verb|look-Fin-Imp-S cm|cm adv|there pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 cm|cm verb|look-Fin-Imp-S .
+%gra:	1|2|DISCOURSE 2|8|ROOT 3|4|PUNCT 4|2|PARATAXIS 5|6|NSUBJ 6|8|COP 7|6|PUNCT 8|2|PARATAXIS 9|2|PUNCT
+*MOT:	snap , trains . 
+%mor:	verb|snap-Fin-Imp-S cm|cm noun|train-Plur .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|PARATAXIS 4|1|PUNCT
+*CHI:	&~huh . 
+*MOT:	yeah , is that good ? 
+%mor:	intj|yeah cm|cm aux|be-Fin-Ind-Pres-S3 pron|that-Dem adj|good-S1 ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|COP 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	&~ehduh . 
+*MOT:	one two three trains . 
+%mor:	num|one num|two num|three noun|train-Plur .
+%gra:	1|4|NUMMOD 2|4|NUMMOD 3|4|NUMMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	&=sighs . 
+*MOT:	do you like them ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|like-Inf-S pron|they-Prs-Acc-P3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	are they good ? 
+%mor:	aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 adj|good-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	&~eh . 
+*CHI:	&~dee &~doh . 
+*MOT:	yeah ? 
+%mor:	intj|yeah ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	you want to take it off ?
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 part|to verb|take-Inf-S pron|it-Prs-Acc-S3 adp|off ?
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|4|COMPOUND-PRT 7|2|PUNCT
+*CHI:	+< &~od . 
+*CHI:	&~daad . 
+*MOT:	&~dah ? 
+*MOT:	are you driving baby ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|drive-Part-Pres-S noun|baby-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	&~uhh . 
+*MOT:	ta . 
+%mor:	x|to .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&~yuh &~yuh . 
+*MOT:	shall I put it back ? 
+%mor:	aux|shall-Fin-S pron|I-Prs-Nom-S1 verb|put-Inf-S pron|it-Prs-Acc-S3 adv|back ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*MOT:	(wh)oops . 
+%mor:	intj|whoops .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	oh . 
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	well it doesn't just stick on Zoe , you have to click it on . 
+%mor:	intj|well pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not adv|just verb|stick-Inf-S adp|on propn|Zoe cm|cm pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 part|to verb|click-Inf-S pron|it-Prs-Acc-S3 adp|on .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|AUX 4|6|ADVMOD 5|6|ADVMOD 6|15|ROOT 7|8|CASE 8|6|OBL 9|11|PUNCT 10|11|NSUBJ 11|6|PARATAXIS 12|13|MARK 13|11|XCOMP 14|13|OBJ 15|13|COMPOUND-PRT 16|6|PUNCT
+*MOT:	oof , there it goes , one two three . 
+%mor:	intj|oof cm|cm pron|there-Dem-S1 pron|it-Prs-Nom-S3 verb|go-Fin-Ind-Pres-S3 cm|cm num|one num|two num|three .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|EXPL 4|5|NSUBJ 5|9|ROOT 6|9|PUNCT 7|9|NUMMOD 8|9|NUMMOD 9|5|PARATAXIS 10|5|PUNCT
+*MOT:	all_done . 
+%mor:	noun|alldone .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&~doiduh . 
+*MOT:	&~doidah , train . 
+%mor:	cm|cm noun|train .
+%gra:	1|2|PUNCT 2|2|ROOT 3|2|PUNCT
+*MOT:	do they look like toys ? 
+%mor:	aux|do-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|look-Inf-S adp|like noun|toy-Plur ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*CHI:	&~ooh . 
+*MOT:	keep pushin(g) . 
+%mor:	verb|keep-Fin-Imp-S verb|push-Ger-S .
+%gra:	1|2|ROOT 2|1|XCOMP 3|1|PUNCT
+*CHI:	&~dook . 
+*CHI:	&~dook &~umm . 
+*CHI:	&~boop . 
+*MOT:	bump , yeah , bump . 
+%mor:	verb|bump-Fin-Imp-S cm|cm intj|yeah cm|cm noun|bump .
+%gra:	1|5|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|3|PUNCT 5|1|PARATAXIS 6|1|PUNCT
+*CHI:	&~book . 
+*MOT:	Zo:e: where're you going ? 
+%mor:	propn|Zoe adv|where~aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|go-Part-Pres-S ?
+%gra:	1|5|ROOT 2|5|ADVMOD 3|5|AUX 4|5|NSUBJ 5|1|PARATAXIS 6|1|PUNCT
+*CHI:	&~yus . 
+*MOT:	watch your toes . 
+%mor:	verb|watch-Fin-Imp-S pron|your-Prs-Gen-S2 noun|toe-Plur-Acc .
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+*CHI:	&~uhyuh . 
+*MOT:	watch your toes , you're about to run them over . 
+%mor:	verb|watch-Fin-Imp-S pron|your-Prs-Gen-S2 noun|toe-Plur-Acc cm|cm pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|about-S1 part|to verb|run-Inf-S pron|they-Prs-Acc-P3 adp|over .
+%gra:	1|11|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|7|PUNCT 5|7|NSUBJ 6|7|COP 7|1|PARATAXIS 8|9|MARK 9|7|XCOMP 10|9|OBJ 11|9|COMPOUND-PRT 12|1|PUNCT
+*MOT:	&=intake:of:breath ow . 
+%mor:	intj|ow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	ow , toes . 
+%mor:	intj|ow cm|cm noun|toe-Plur .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|PARATAXIS 4|1|PUNCT
+*CHI:	&=cries . 
+*MOT:	well that's okay , you've not run them over yet . 
+%mor:	intj|well pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|okay-S1 cm|cm pron|you-Prs-Nom-S2~aux|have-Fin-Ind-Pres-S2 part|not verb|run-Part-Past-S-irr pron|they-Prs-Acc-P3 adp|over adv|yet .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|12|ROOT 5|9|PUNCT 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|4|PARATAXIS 10|9|OBJ 11|12|CASE 12|9|ADVMOD 13|4|PUNCT
+*CHI:	&=moans . 
+*MOT:	what's wrong ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adj|wrong-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	you jumpin(g) ? 
+%mor:	pron|you-Prs-Nom-S2 verb|jump-Part-Pres-S ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	I don't think it's a good idea to , no [/] no [/] no . 
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|good-S1 noun|idea part|to cm|cm intj|no .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|12|ROOT 5|9|NSUBJ 6|9|COP 7|9|DET 8|9|AMOD 9|4|CCOMP 10|9|ACL 11|12|PUNCT 12|4|DISCOURSE 13|4|PUNCT
+*MOT:	let's not jump off the scooter . 
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 part|not verb|jump-Inf-S adp|off det|the-Def-Art noun|scooter .
+%gra:	1|7|ROOT 2|1|OBJ 3|4|ADVMOD 4|1|XCOMP 5|7|CASE 6|7|DET 7|4|OBL 8|1|PUNCT
+*MOT:	no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=moans . 
+*MOT:	no [/] no [/] no bring it here , I'll hold it (.) then you can stand on it . 
+%mor:	intj|no verb|bring-Fin-Imp-S pron|it-Prs-Acc-S3 adv|here cm|cm pron|I-Prs-Nom-S1~aux|will-Fin-S verb|hold-Inf-S pron|it-Prs-Acc-S3 adv|then pron|you-Prs-Nom-S2 aux|can-Fin-S verb|stand-Inf-S adp|on pron|it-Prs-Acc-S3 .
+%gra:	1|2|DISCOURSE 2|15|ROOT 3|2|OBJ 4|2|ADVMOD 5|8|PUNCT 6|8|NSUBJ 7|8|AUX 8|2|PARATAXIS 9|8|OBJ 10|13|ADVMOD 11|13|NSUBJ 12|13|AUX 13|2|PARATAXIS 14|15|CASE 15|13|OBL 16|2|PUNCT
+*MOT:	there you go , hold on . 
+%mor:	adv|there pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 cm|cm verb|hold-Fin-Imp-S adp|on .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|6|ROOT 4|5|PUNCT 5|3|PARATAXIS 6|5|COMPOUND-PRT 7|3|PUNCT
+*MOT:	now you can jump . 
+%mor:	adv|now pron|you-Prs-Nom-S2 aux|can-Fin-S verb|jump-Inf-S .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+*MOT:	yeah ? 
+%mor:	intj|yeah ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	is that good ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem adj|good-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	do you just want to jump ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adv|just verb|want-Inf-S part|to verb|jump-Inf-S ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|6|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+*MOT:	shall we move this out the way and Zoe can just do some jumpin(g) ? 
+%mor:	aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|move-Inf-S pron|this-Dem-S1 adp|out det|the-Def-Art noun|way cconj|and propn|Zoe aux|can-Fin-S adv|just verb|do-Inf-S det|some-Def-Ind noun|jump-Acc-Ger ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|14|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|7|DET 7|3|OBL-UNMARKED 8|12|CC 9|12|NSUBJ 10|12|AUX 11|12|ADVMOD 12|3|CONJ 13|14|DET 14|12|OBJ 15|3|PUNCT
+*MOT:	jump [/] jump . 
+%mor:	verb|jump-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	yeah: jump [/] jump . 
+%mor:	intj|yeah noun|jump .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*MOT:	Zoe: jump [/] jump . 
+%mor:	propn|Zoe verb|jump-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	yeah good girl . 
+%mor:	intj|yeah adj|good-S1 noun|girl .
+%gra:	1|3|DISCOURSE 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*MOT:	ooh uhoh [/] uhoh ooh you nearly fell on your bottom . 
+%mor:	intj|ooh intj|uhoh intj|ooh pron|you-Prs-Nom-S2 adv|nearly verb|fall-Fin-Ind-Past-S2-irr adp|on pron|your-Prs-Gen-S2 noun|bottom .
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|6|DISCOURSE 4|6|NSUBJ 5|6|ADVMOD 6|9|ROOT 7|9|CASE 8|9|NMOD-POSS 9|6|OBL 10|6|PUNCT
+*MOT:	push . 
+%mor:	verb|push-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	where's it going ? 
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 verb|go-Part-Pres-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	there . 
+%mor:	adv|there .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	there , okay . 
+%mor:	adv|there cm|cm intj|okay .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*CHI:	&-uh . 
+*MOT:	shoe . 
+%mor:	noun|shoe .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	oh &~good yours .
+%mor:	intj|oh pron|your-Prs-S2 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*MOT:	+< is it parked ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 verb|park-Part-Past-S ?
+%gra:	1|3|AUX-PASS 2|3|NSUBJ-PASS 3|3|ROOT 4|3|PUNCT
+*MOT:	no it's not mine , it's your shoe . 
+%mor:	intj|no pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not pron|my-Prs-S1 cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|shoe .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|10|ROOT 6|10|PUNCT 7|10|NSUBJ 8|10|COP 9|10|NMOD-POSS 10|5|PARATAXIS 11|5|PUNCT
+*CHI:	&~duh . 
+*MOT:	red shoe . 
+%mor:	adj|red-S1 noun|shoe .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	Zoe's shoe . 
+%mor:	propn|Zoe~part|s noun|shoe .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|3|ROOT 4|3|PUNCT
+*CHI:	&~mm . 
+*MOT:	are you opening it ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|open-Part-Pres-S pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	&~eeya . 
+*MOT:	that's where your toes go and your feet . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|where pron|your-Prs-Gen-S2 noun|toe-Plur verb|go-Fin-Ind-Pres-P3 cconj|and pron|your-Prs-Gen-S2 noun|foot-Plur .
+%gra:	1|3|NSUBJ 2|3|COP 3|9|ROOT 4|5|NMOD-POSS 5|6|NSUBJ 6|3|ADVCL-RELCL 7|9|CC 8|9|NMOD-POSS 9|6|CONJ 10|3|PUNCT
+*MOT:	Zoe's toes , Zoe's feet . 
+%mor:	propn|Zoe~part|s noun|toe-Plur cm|cm propn|Zoe~part|s noun|foot-Plur .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|7|ROOT 4|7|PUNCT 5|7|NMOD-POSS 6|5|CASE 7|3|APPOS 8|3|PUNCT
+*CHI:	&=babbles . 
+*MOT:	, oh no , .
+%mor:	cm|cm intj|oh intj|no cm|cm .
+%gra:	1|3|PUNCT 2|3|DISCOURSE 3|4|ROOT 4|3|PUNCT 5|3|PUNCT
+*CHI:	+< your shoe . 
+%mor:	pron|your-Prs-Gen-S2 noun|shoe .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*MOT:	where's the other one ? 
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|other-S1 noun|one ?
+%gra:	1|5|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+*MOT:	oh there he is , hiya shoe . 
+%mor:	intj|oh adv|there pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 cm|cm intj|hiya noun|shoe .
+%gra:	1|2|DISCOURSE 2|7|ROOT 3|7|NSUBJ 4|7|COP 5|4|PUNCT 6|7|DISCOURSE 7|2|PARATAXIS 8|2|PUNCT
+*CHI:	, oh no , . 
+%mor:	cm|cm intj|oh intj|no cm|cm .
+%gra:	1|3|PUNCT 2|3|DISCOURSE 3|4|ROOT 4|3|PUNCT 5|3|PUNCT
+*CHI:	&=babbles . 
+*CHI:	, oh no , .
+%mor:	cm|cm intj|oh intj|no cm|cm .
+%gra:	1|3|PUNCT 2|3|DISCOURSE 3|4|ROOT 4|3|PUNCT 5|3|PUNCT
+*MOT:	+< that's a welly . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|welly .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*MOT:	no , they don't snap , that's a welly . 
+%mor:	intj|no cm|cm pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not verb|snap-Inf-S cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|welly .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|11|ROOT 7|11|PUNCT 8|11|NSUBJ 9|11|COP 10|11|DET 11|6|PARATAXIS 12|6|PUNCT
+*CHI:	&~duh . 
+*CHI:	&-uh &~mm . 
+*CHI:	&=babbles . 
+*MOT:	you want to put your welly on ? 
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 part|to verb|put-Inf-S pron|your-Prs-Gen-S2 noun|welly-Acc adp|on ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|MARK 4|2|XCOMP 5|6|NMOD-POSS 6|4|OBJ 7|4|COMPOUND-PRT 8|2|PUNCT
+*MOT:	Zoe you're in your pyjamas [/] pyjamas and wellies don't go together . 
+%mor:	propn|Zoe pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adp|in pron|your-Prs-Gen-S2 noun|pyjamas-Plur cconj|and noun|welly-Plur aux|do-Fin-Ind-Pres-P3~part|not verb|go-Inf-S adv|together .
+%gra:	1|6|VOCATIVE 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|NMOD-POSS 6|12|ROOT 7|11|CC 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|6|CONJ 12|11|ADVMOD 13|6|PUNCT
+*MOT:	is there something inside it ? 
+%mor:	verb|be-Fin-Ind-Pres-S3 pron|there-Int-S1 pron|something-Ind-S1 adp|inside pron|it-Prs-Acc-S3 ?
+%gra:	1|5|ROOT 2|1|EXPL 3|1|NSUBJ 4|5|CASE 5|3|NMOD 6|1|PUNCT
+*CHI:	&=moans . 
+*MOT:	can I see ? 
+%mor:	aux|can-Fin-S pron|I-Prs-Nom-S1 verb|see-Inf-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	oh no you're trying to put it on your foot .
+%mor:	intj|oh intj|no pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|try-Part-Pres-S part|to verb|put-Inf-S pron|it-Prs-Acc-S3 adp|on pron|your-Prs-Gen-S2 noun|foot .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|AUX 5|11|ROOT 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|11|CASE 10|11|NMOD-POSS 11|7|OBL 12|5|PUNCT
+*CHI:	+< &~dadee . 
+*MOT:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	let's see , it goes on this foot . 
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S cm|cm pron|it-Prs-Nom-S3 verb|go-Fin-Ind-Pres-S3 adp|on det|this-Def-Dem-Sing noun|foot .
+%gra:	1|9|ROOT 2|1|OBJ 3|1|XCOMP 4|6|PUNCT 5|6|NSUBJ 6|1|PARATAXIS 7|9|CASE 8|9|DET 9|6|OBL 10|1|PUNCT
+*MOT:	and it goes all: the way into the bottom . 
+%mor:	cconj|and pron|it-Prs-Nom-S3 verb|go-Fin-Ind-Pres-S3 det|all-Def-Tot det|the-Def-Art noun|way adp|into det|the-Def-Art noun|bottom .
+%gra:	1|3|CC 2|3|NSUBJ 3|9|ROOT 4|6|DET-PREDET 5|6|DET 6|3|OBL-UNMARKED 7|9|CASE 8|9|DET 9|3|OBL 10|3|PUNCT
+*CHI:	&~duh .
+*MOT:	+< that's it . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	&=moans .
+*MOT:	+< here you go . 
+%mor:	adv|here pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 .
+%gra:	1|3|ROOT 2|3|NSUBJ 3|1|ADVCL-RELCL 4|1|PUNCT
+*MOT:	do you want it off ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|it-Prs-Acc-S3 adp|off ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|PUNCT
+*CHI:	&~dah . 
+*MOT:	ta . 
+%mor:	x|to .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	put back .
+%mor:	verb|put-Fin-Imp-S adv|back .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	+< &=babbles . 
+*CHI:	xxx shoes . 
+%mor:	noun|shoe-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	all the shoes , yeah . 
+%mor:	det|all-Def-Tot det|the-Def-Art noun|shoe-Plur cm|cm intj|yeah .
+%gra:	1|3|DET-PREDET 2|3|DET 3|5|ROOT 4|5|PUNCT 5|3|DISCOURSE 6|3|PUNCT
+*MOT:	Zoe are you putting the welly on yourself ? 
+%mor:	propn|Zoe aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|put-Part-Pres-S det|the-Def-Art noun|welly-Acc adp|on pron|yourself-Prs-Acc-reflx-S2 ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|NSUBJ 4|8|ROOT 5|6|DET 6|4|OBJ 7|8|CASE 8|4|OBL 9|4|PUNCT
+*MOT:	is that what you want to do ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 part|to verb|do-Inf-S ?
+%gra:	1|3|COP 2|5|MARK 3|7|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|7|MARK 7|5|XCOMP 8|3|PUNCT
+*CHI:	&~da no [/] no [/] no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+< I don't think you'll manage it lady (be)cause it's got velcro straps . 
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|think-Inf-S pron|you-Prs-Nom-S2~aux|will-Fin-S verb|manage-Inf-S pron|it-Prs-Acc-S3 noun|lady-Acc sconj|because pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr noun|velcro noun|strap-Plur-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|15|ROOT 5|7|NSUBJ 6|7|AUX 7|4|CCOMP 8|7|OBJ 9|7|OBJ 10|13|MARK 11|13|NSUBJ 12|13|AUX 13|7|ADVCL 14|15|COMPOUND 15|13|OBJ 16|4|PUNCT
+*MOT:	again ? 
+%mor:	adv|again ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	here we go , give me your foot . 
+%mor:	adv|here pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Pres-P1 cm|cm verb|give-Fin-Ind-Pres-P3 pron|I-Prs-Acc-S1 pron|your-Prs-Gen-S2 noun|foot-Acc .
+%gra:	1|5|ADVMOD 2|3|NSUBJ 3|1|ADVCL-RELCL 4|1|PUNCT 5|8|ROOT 6|5|IOBJ 7|8|NMOD-POSS 8|5|OBJ 9|5|PUNCT
+*MOT:	put it in . 
+%mor:	verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 adp|in .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|PUNCT
+*MOT:	no ? 
+%mor:	intj|no ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	no okay . 
+%mor:	intj|no intj|okay .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*CHI:	&=babbles . 
+*MOT:	shoes . 
+%mor:	noun|shoe-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&~sheesh . 
+*CHI:	&=babbles . 
+*MOT:	&=imitates:babble . 
+*CHI:	&=babbles . 
+*MOT:	more shoes , yeah . 
+%mor:	adj|more-Cmp-S1 noun|shoe-Plur cm|cm intj|yeah .
+%gra:	1|2|AMOD 2|4|ROOT 3|4|PUNCT 4|2|DISCOURSE 5|2|PUNCT
+@End

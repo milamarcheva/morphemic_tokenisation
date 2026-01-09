@@ -1,0 +1,1893 @@
+@UTF8
+@PID:	11312/a-00077976-1
+@Begin
+@Languages:	eng
+@Participants:	FA1 Adult, CHI Target_Child
+@Options:	bullets
+@ID:	eng|StoopsMontag|FA1|||||Adult|||
+@ID:	eng|StoopsMontag|CHI|||||Target_Child|||
+@Media:	06_Fox_Crayons, audio
+@Types:	cross, book, TD
+*FA1:	Fox_in_Socks . 
+%mor:	propn|FoxinSocks .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	by Dr Seuss . 
+%mor:	adp|by propn|Dr propn|Seuss .
+%gra:	1|2|CASE 2|3|ROOT 3|2|FLAT 4|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	it's the a-bridge-to-board-book version . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|abridgetoboardbook noun|version .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	fox , socks . 
+%mor:	noun|fox cm|cm noun|sock-Plur .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|APPOS 4|1|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	box , Knox . 
+%mor:	noun|box cm|cm propn|Knox .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|APPOS 4|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	do you see the socks ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S det|the-Def-Art noun|sock-Plur-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	yeah ? 
+%mor:	intj|yeah ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	this is box . 
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 noun|box .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	socks . 
+%mor:	noun|sock-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	box . 
+%mor:	noun|box .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	Knox . 
+%mor:	propn|Knox .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	yeah , it's a box . 
+%mor:	intj|yeah cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|box .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|DET 6|6|ROOT 7|6|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	bo(x) . 
+%mor:	noun|box .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	here's a Knox in that . 
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art propn|Knox adp|in pron|that-Dem .
+%gra:	1|6|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|6|CASE 6|4|NMOD 7|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	see ? 
+%mor:	verb|see-Fin-Imp-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	Knox in box and fox in socks . 
+%mor:	propn|Knox adp|in noun|box cconj|and noun|fox adp|in noun|sock-Plur .
+%gra:	1|7|ROOT 2|3|CASE 3|1|NMOD 4|5|CC 5|3|CONJ 6|7|CASE 7|3|NMOD 8|1|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	bo(x) . 
+%mor:	noun|box .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	Knox on fox in socks in box . 
+%mor:	propn|Knox adp|on noun|fox adp|in noun|sock-Plur adp|in noun|box .
+%gra:	1|7|ROOT 2|3|CASE 3|1|NMOD 4|5|CASE 5|1|NMOD 6|7|CASE 7|5|NMOD 8|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	socks on Knox and Knox in box . 
+%mor:	noun|sock-Plur adp|on propn|Knox cconj|and propn|Knox adp|in noun|box .
+%gra:	1|7|ROOT 2|3|CASE 3|1|NMOD 4|5|CC 5|3|CONJ 6|7|CASE 7|1|NMOD 8|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	fox in socks on box on Knox . 
+%mor:	noun|fox adp|in noun|sock-Plur adp|on noun|box adp|on propn|Knox .
+%gra:	1|7|ROOT 2|3|CASE 3|1|NMOD 4|5|CASE 5|1|NMOD 6|7|CASE 7|5|NMOD 8|1|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	socks socks socks . 
+%mor:	noun|sock-Plur noun|sock-Plur noun|sock-Plur .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	do you see socks ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S noun|sock-Plur-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	yes xxx ! 
+%mor:	intj|yes !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	what color are the socks ? 
+%mor:	det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-P3 det|the-Def-Art noun|sock-Plur ?
+%gra:	1|2|DET 2|5|ROOT 3|5|COP 4|5|DET 5|2|NSUBJ 6|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	a yellow ! 
+%mor:	det|a-Ind-Art adj|yellow-S1 !
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	a yellow box ? 
+%mor:	det|a-Ind-Art adj|yellow-S1 noun|box ?
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	what color are the socks ? 
+%mor:	det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-P3 det|the-Def-Art noun|sock-Plur ?
+%gra:	1|2|DET 2|5|ROOT 3|5|COP 4|5|DET 5|2|NSUBJ 6|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	are they blue ? 
+%mor:	aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 adj|blue-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	blue socks . 
+%mor:	adj|blue-S1 noun|sock-Plur .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	oh you think those're shoes ? 
+%mor:	intj|oh pron|you-Prs-Nom-S2 verb|think-Fin-Ind-Pres-S2 pron|that-Dem-P1~aux|be-Fin-Ind-Pres-P3 noun|shoe-Plur ?
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|6|ROOT 4|6|NSUBJ 5|6|COP 6|3|CCOMP 7|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	they're , no they're socks . 
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 cm|cm intj|no pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 noun|sock-Plur .
+%gra:	1|2|NSUBJ 2|7|REPARANDUM 3|2|PUNCT 4|7|DISCOURSE 5|7|NSUBJ 6|7|COP 7|7|ROOT 8|7|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	<aw> [=! laughs] . 
+%mor:	intj|aw .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	chicks with bricks . 
+%mor:	noun|chick-Plur adp|with noun|brick-Plur .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	chicks with blocks . 
+%mor:	noun|chick-Plur adp|with noun|block-Plur .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	chicks with bricks and blocks and clocks . 
+%mor:	noun|chick-Plur adp|with noun|brick-Plur cconj|and noun|block-Plur cconj|and noun|clock-Plur .
+%gra:	1|7|ROOT 2|3|CASE 3|1|NMOD 4|5|CC 5|3|CONJ 6|7|CC 7|3|CONJ 8|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	socks on chicks and chicks on fox . 
+%mor:	noun|sock-Plur adp|on noun|chick-Plur cconj|and noun|chick-Plur adp|on noun|fox .
+%gra:	1|7|ROOT 2|3|CASE 3|1|NMOD 4|5|CC 5|3|CONJ 6|7|CASE 7|1|NMOD 8|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	fox on clocks on bricks and blocks . 
+%mor:	noun|fox adp|on noun|clock-Plur adp|on noun|brick-Plur cconj|and noun|block-Plur .
+%gra:	1|7|ROOT 2|3|CASE 3|1|NMOD 4|5|CASE 5|3|NMOD 6|7|CC 7|5|CONJ 8|1|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	bricks and blocks on Knox on box . 
+%mor:	noun|brick-Plur cconj|and noun|block-Plur adp|on propn|Knox adp|on noun|box .
+%gra:	1|7|ROOT 2|3|CC 3|1|CONJ 4|5|CASE 5|1|NMOD 6|7|CASE 7|1|NMOD 8|1|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	&=clearsthroat you see clocks ? 
+%mor:	pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 noun|clock-Plur-Acc ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	what color is that clock ? 
+%mor:	det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|clock ?
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	what ? 
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	a pink clock . 
+%mor:	det|a-Ind-Art adj|pink-S1 noun|clock .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	and a yellow clock ? 
+%mor:	cconj|and det|a-Ind-Art adj|yellow-S1 noun|clock ?
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	that's an orange clock . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|orange-S1 noun|clock .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	what color is that clock ? 
+%mor:	det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|clock ?
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	ba . 
+%mor:	noun|ba .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	what color is it ? 
+%mor:	det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|2|DET 2|3|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	is it yellow ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 adj|yellow-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	say yellow clock . 
+%mor:	verb|say-Fin-Imp-S adj|yellow-S1 noun|clock-Acc .
+%gra:	1|3|ROOT 2|3|AMOD 3|1|OBJ 4|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	alright turn page . 
+%mor:	intj|alright noun|turn noun|page .
+%gra:	1|3|DISCOURSE 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	one . 
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	can you turn- , oh you want , count the clocks . 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|turn-Inf-S cm|cm intj|oh pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 cm|cm verb|count-Fin-Imp-S det|the-Def-Art noun|clock-Plur-Acc .
+%gra:	1|3|AUX 2|3|NSUBJ 3|11|ROOT 4|7|PUNCT 5|7|DISCOURSE 6|7|NSUBJ 7|3|PARATAXIS 8|9|PUNCT 9|7|PARATAXIS 10|11|DET 11|9|OBJ 12|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	one . 
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	one . 
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	two . 
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	two . 
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	thlee [: three] . 
+%mor:	num|three .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	three . 
+%mor:	num|three .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	four . 
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	oh that's a chick on that clock . 
+%mor:	intj|oh pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|chick adp|on det|that-Def-Dem-Sing noun|clock .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|DET 5|8|ROOT 6|8|CASE 7|8|DET 8|5|NMOD 9|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	one . 
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	two . 
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	three . 
+%mor:	num|three .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	three . 
+%mor:	num|three .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	four . 
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	four . 
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	five . 
+%mor:	num|five .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	five clocks . 
+%mor:	num|five noun|clock-Plur .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	here's an easy game to play . 
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|easy-S1 noun|game part|to verb|play-Inf-S .
+%gra:	1|7|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|7|MARK 7|5|ACL 8|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	here's an easy thing to say . 
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|easy-S1 noun|thing-Ger part|to verb|say-Inf-S .
+%gra:	1|7|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|7|MARK 7|5|ACL 8|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	new socks . 
+%mor:	adj|new-S1 noun|sock-Plur .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	two socks . 
+%mor:	num|two noun|sock-Plur .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	whose socks ? 
+%mor:	pron|whose-Rel-S1 noun|sock-Plur ?
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Sue's socks . 
+%mor:	propn|Sue~part|s noun|sock-Plur .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	who sews whose socks ? 
+%mor:	pron|who-Int verb|sew-Fin-Ind-Pres-S3 pron|whose-Rel-S1 noun|sock-Plur-Acc ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Sue sews Sue's socks . 
+%mor:	propn|Sue verb|sew-Fin-Ind-Pres-S3 propn|Sue~part|s noun|sock-Plur-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|NMOD-POSS 4|3|CASE 5|2|OBJ 6|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	here is lots of new blue goo . 
+%mor:	adv|here aux|be-Fin-Ind-Pres-S3 noun|lot-Plur adp|of adj|new-S1 adj|blue-S1 noun|goo .
+%gra:	1|7|ROOT 2|1|COP 3|1|NSUBJ 4|7|CASE 5|7|AMOD 6|7|AMOD 7|3|NMOD 8|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	new goo , blue goo , gooey , gooey . 
+%mor:	adj|new-S1 noun|goo cm|cm adj|blue-S1 noun|goo cm|cm adj|gooey-S1 cm|cm adj|gooey-S1 .
+%gra:	1|2|AMOD 2|9|ROOT 3|5|PUNCT 4|5|AMOD 5|2|CONJ 6|7|PUNCT 7|2|CONJ 8|9|PUNCT 9|2|CONJ 10|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	blue goo , new goo . 
+%mor:	adj|blue-S1 noun|goo cm|cm adj|new-S1 noun|goo .
+%gra:	1|2|AMOD 2|5|ROOT 3|5|PUNCT 4|5|AMOD 5|2|PARATAXIS 6|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	gluey , gluey . 
+%mor:	intj|gluey cm|cm intj|gluey .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	gooey goo for chewy chewing . 
+%mor:	adj|gooey-S1 noun|goo adp|for adj|chewy-S1 noun|chew-Ger .
+%gra:	1|2|AMOD 2|5|ROOT 3|5|CASE 4|5|AMOD 5|2|NMOD 6|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	that's what that Goo-Goose is doing . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|that-Rel propn|GooGoose aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|7|ROOT 4|7|OBJ 5|7|NSUBJ 6|7|AUX 7|3|ACL-RELCL 8|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	do you choose to chew goo , too , sir ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|choose-Inf-S part|to verb|chew-Inf-S noun|goo-Acc cm|cm adv|too cm|cm noun|sir ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|8|PUNCT 8|5|ADVMOD 9|10|PUNCT 10|3|DISCOURSE 11|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	blue ! 
+%mor:	adj|blue-S1 !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	are you gonna chew the goo ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 part|go verb|chew-Inf-S det|the-Def-Art noun|goo-Acc ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	I'm gonna chew the goo . 
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|chew-Inf-S det|the-Def-Art noun|goo-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	mmmh , you want some ? 
+%mor:	intj|mmmh cm|cm pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 det|some-Def-Ind ?
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	&=imit:chewing . 
+%cod:	$xds:A
+*FA1:	mmmh was that good ? 
+%mor:	intj|mmmh aux|be-Fin-Ind-Past-S3-irr pron|that-Dem adj|good-S1 ?
+%gra:	1|4|DISCOURSE 2|4|COP 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	mh . 
+%mor:	intj|mh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	&=laughs did you like it ? 
+%mor:	aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|like-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	don't touch . 
+%mor:	aux|do-Fin-Imp-S~part|not verb|touch-Fin-Imp-S .
+%gra:	1|3|AUX 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	oh . 
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	when beetles battle beetles in a puddle paddle battle and the beetle battle puddle is a puddle in a bottle . 
+%mor:	adv|when noun|beetle-Plur verb|battle-Fin-Ind-Pres-P3 noun|beetle-Plur-Acc adp|in det|a-Ind-Art noun|puddle noun|paddle noun|battle cconj|and det|the-Def-Art noun|beetle noun|battle noun|puddle aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|puddle adp|in det|a-Ind-Art noun|bottle .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|17|ADVCL 4|3|OBJ 5|9|CASE 6|9|DET 7|9|COMPOUND 8|9|COMPOUND 9|3|OBL 10|17|CC 11|14|DET 12|14|COMPOUND 13|14|COMPOUND 14|17|NSUBJ 15|17|COP 16|17|DET 17|20|ROOT 18|20|CASE 19|20|DET 20|17|NMOD 21|17|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	they call this . 
+%mor:	pron|they-Prs-Nom-P3 verb|call-Fin-Ind-Pres-P3 pron|this-Dem-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	a tweetle beetle bottle puddle paddle battle muddle . 
+%mor:	det|a-Ind-Art noun|tweetle noun|beetle noun|bottle noun|puddle noun|paddle noun|battle noun|muddle .
+%gra:	1|8|DET 2|8|COMPOUND 3|4|COMPOUND 4|8|COMPOUND 5|8|COMPOUND 6|8|COMPOUND 7|8|COMPOUND 8|8|ROOT 9|8|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	and . 
+%mor:	cconj|and .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	when a fox is in the bottle where the tweetle beetles battle with their paddles in a puddle on a noodle-eating poodle . 
+%mor:	adv|when det|a-Ind-Art noun|fox aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|bottle adv|where det|the-Def-Art noun|tweetle noun|beetle-Plur verb|battle-Fin-Ind-Pres-P3 adp|with pron|their-Prs-Gen-P3 noun|paddle-Plur adp|in det|a-Ind-Art noun|puddle adp|on det|a-Ind-Art adj|noodleeating-S1 noun|poodle .
+%gra:	1|7|ADVMOD 2|3|DET 3|7|NSUBJ 4|7|COP 5|7|CASE 6|7|DET 7|22|ROOT 8|12|ADVMOD 9|11|DET 10|11|COMPOUND 11|12|NSUBJ 12|7|ACL-RELCL 13|15|CASE 14|15|NMOD-POSS 15|12|OBL 16|18|CASE 17|18|DET 18|12|OBL 19|22|CASE 20|22|DET 21|22|AMOD 22|18|NMOD 23|7|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	this is what they call . 
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|they-Prs-Nom-P3 verb|call-Fin-Ind-Pres-P3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	a . 
+%mor:	x|a .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	tweetle beetle noodle poodle bottled paddled muddled duddled fuddled wuddled fox in socks . 
+%mor:	noun|tweetle noun|beetle noun|noodle noun|poodle verb|bottled-Part-Past-S verb|paddle-Part-Past-S verb|muddle-Part-Past-S verb|duddle-Part-Past-S verb|fuddle-Part-Past-S verb|wuddle-Part-Past-S noun|fox adp|in noun|sock-Plur .
+%gra:	1|4|COMPOUND 2|4|COMPOUND 3|4|COMPOUND 4|11|COMPOUND 5|11|AMOD 6|11|AMOD 7|11|AMOD 8|11|AMOD 9|11|AMOD 10|11|AMOD 11|13|ROOT 12|13|CASE 13|11|NMOD 14|11|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	sir ! 
+%mor:	noun|sir !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	wow ! 
+%mor:	intj|wow !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	fox in socks . 
+%mor:	noun|fox adp|in noun|sock-Plur .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	our game is done , sir . 
+%mor:	pron|our-Prs-Gen-P1 noun|game aux|be-Fin-Ind-Pres-S3 verb|do-Part-Past-S-irr cm|cm noun|sir .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|6|ROOT 5|6|PUNCT 6|4|OBL-UNMARKED 7|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	thank you for a lot of fun , sir . 
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 adp|for det|a-Ind-Art noun|lot adp|of noun|fun cm|cm noun|sir .
+%gra:	1|9|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|1|OBL 6|7|CASE 7|5|NMOD 8|9|PUNCT 9|1|PARATAXIS 10|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	the end . 
+%mor:	det|the-Def-Art noun|end .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	did you like that book ? 
+%mor:	aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|like-Inf-S det|that-Def-Dem-Sing noun|book-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	yeah , that was kind of fun . 
+%mor:	intj|yeah cm|cm pron|that-Dem aux|be-Fin-Ind-Past-S3-irr noun|kind adp|of noun|fun .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|NSUBJ 4|7|COP 5|7|ADVMOD 6|5|FIXED 7|7|ROOT 8|7|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	&=clearsthroat let's see . 
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	mmmh . 
+%mor:	intj|mmmh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	should we read this book ? 
+%mor:	aux|should-Fin-S pron|we-Prs-Nom-P1 verb|read-Inf-S det|this-Def-Dem-Sing noun|book-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	yeah ! 
+%mor:	intj|yeah !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	yeah , the book about crayons . 
+%mor:	intj|yeah cm|cm det|the-Def-Art noun|book adp|about noun|crayon-Plur .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|DET 4|6|ROOT 5|6|CASE 6|4|NMOD 7|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	the book of- . 
+%mor:	det|the-Def-Art noun|book adp|of .
+%gra:	1|2|DET 2|3|ROOT 3|2|PUNCT 4|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	the crayons book of colors . 
+%mor:	det|the-Def-Art noun|crayon-Plur noun|book adp|of noun|color-Plur .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|ROOT 4|5|CASE 5|3|NMOD 6|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	the crayons of book of colors by . 
+%mor:	det|the-Def-Art noun|crayon-Plur adp|of noun|book adp|of noun|color-Plur adp|by .
+%gra:	1|2|DET 2|7|ROOT 3|4|CASE 4|2|NMOD 5|6|CASE 6|4|NMOD 7|6|CASE 8|2|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	she old . 
+%mor:	pron|she-Prs-Nom-S3 adj|old-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	Drew . 
+%mor:	propn|Drew .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	Daywalt . 
+%mor:	propn|Daywalt .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	and Oliver . 
+%mor:	cconj|and propn|Oliver .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Jeffers . 
+%mor:	propn|Jeffers .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	&=clearsthroat can you name the colors of Duncan's crayons ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|name-Inf-S det|the-Def-Art noun|color-Plur-Acc adp|of propn|Duncan~part|s noun|crayon-Plur ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|5|DET 5|3|OBJ 6|9|CASE 7|9|NMOD-POSS 8|7|CASE 9|5|NMOD 10|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	uh . 
+%mor:	intj|uh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	this is a red crayon . 
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|red-S1 noun|crayon .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	what ? 
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	red crayon has colored . 
+%mor:	adj|red-S1 noun|crayon aux|have-Fin-Ind-Pres-S3 verb|color-Part-Past-S .
+%gra:	1|2|AMOD 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	strawberries . 
+%mor:	noun|strawberry-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	and . 
+%mor:	cconj|and .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	hearts . 
+%mor:	noun|heart-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	and . 
+%mor:	cconj|and .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	apples . 
+%mor:	noun|apple-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	can you say apple ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|say-Inf-S noun|apple-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	a-p . 
+%mor:	noun|ap .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	with a heart . 
+%mor:	adp|with det|a-Ind-Art noun|heart .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	strawberries . 
+%mor:	noun|strawberry-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	hearts . 
+%mor:	noun|heart-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	apples . 
+%mor:	noun|apple-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	a fire engine . 
+%mor:	det|a-Ind-Art noun|fire noun|engine .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	see the fire engine ? 
+%mor:	verb|see-Fin-Imp-S det|the-Def-Art noun|fire noun|engine-Acc ?
+%gra:	1|4|ROOT 2|4|DET 3|4|COMPOUND 4|1|OBJ 5|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	what's gonna xxx . 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adj|gonna-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	xxx does woh woh woh . 
+%mor:	aux|do-Fin-Ind-Pres-S3 pron|woh-Prs-Nom-S2 intj|woh intj|woh .
+%gra:	1|4|ROOT 2|1|NSUBJ 3|1|DISCOURSE 4|1|DISCOURSE 5|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	oh and he colored the Santa Claus . 
+%mor:	intj|oh cconj|and pron|he-Prs-Nom-S3 verb|color-Fin-Ind-Past-S3 det|the-Def-Art propn|Santa-Acc propn|Claus .
+%gra:	1|4|DISCOURSE 2|4|CC 3|4|NSUBJ 4|7|ROOT 5|6|DET 6|4|OBJ 7|6|FLAT 8|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	do you see Santa ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S propn|Santa-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	mh . 
+%mor:	intj|mh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	what're you tryna eat now ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 part|tryna verb|eat-Inf-S adv|now ?
+%gra:	1|5|OBJ 2|5|AUX 3|5|NSUBJ 4|5|ADVMOD 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	are you eating the strawberry ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|eat-Part-Pres-S det|the-Def-Art noun|strawberry-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	strawberry you're gonna eat it ? 
+%mor:	noun|strawberry pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 part|go verb|eat-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|6|ROOT 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|1|PARATAXIS 6|5|OBJ 7|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	&=imit:eating so good . 
+%mor:	adv|so adj|good-S1 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	are you eating the apple ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|eat-Part-Pres-S det|the-Def-Art noun|apple-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	&=imit:eating . 
+%cod:	$txt:C; $xds:T
+*FA1:	so good . 
+%mor:	adv|so adj|good-S1 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	alright , let's turn the page . 
+%mor:	intj|alright cm|cm verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|turn-Inf-S det|the-Def-Art noun|page-Acc .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|7|ROOT 4|3|OBJ 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	oh yeah . 
+%mor:	intj|oh intj|yeah .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	this is- what color is that ? 
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|NSUBJ 2|6|COP 3|6|DET 4|6|NSUBJ 5|6|COP 6|6|ROOT 7|6|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	ple [: purple] . 
+%mor:	adj|purple-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	it's purple . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|purple-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	ah ! 
+%mor:	intj|ah !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	can you say purple ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|say-Inf-S adj|purple-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	um . 
+%mor:	intj|um .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	purple crayon has- . 
+%mor:	adj|purple-S1 noun|crayon aux|have-Fin-Ind-Pres-S3 .
+%gra:	1|2|AMOD 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	this is- . 
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	look . 
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	this is purple crayon .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|purple-S1 noun|crayon .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*FA1:	purple crayon has colored a . 
+%mor:	adj|purple-S1 noun|crayon aux|have-Fin-Ind-Pres-S3 verb|color-Part-Past-S det|a-Ind-Art .
+%gra:	1|2|AMOD 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|PUNCT 6|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	dragon . 
+%mor:	noun|dragon .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	why ? 
+%mor:	adv|why ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	and some grapes . 
+%mor:	cconj|and det|some-Def-Ind noun|grape-Plur .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	this is beige . 
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|beige-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	look . 
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	this is beige crayon . 
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|beige-S1 noun|crayon .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	is he sad ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 adj|sad-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	yeah he- , beige crayon only colors wheat . 
+%mor:	intj|yeah pron|he-Prs-Nom-S3 cm|cm adj|beige-S1 noun|crayon adv|only noun|color-Plur noun|wheat .
+%gra:	1|8|DISCOURSE 2|8|VOCATIVE 3|2|PUNCT 4|5|AMOD 5|2|APPOS 6|8|ADVMOD 7|8|COMPOUND 8|8|ROOT 9|8|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	he's so sad . 
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|so adj|sad-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	and next page . 
+%mor:	cconj|and adj|next-S1 noun|page .
+%gra:	1|3|CC 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	do you wanna hey . 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|wanna-Inf-S intj|hey .
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|DISCOURSE 5|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	do you wanna give beige crayon a hug ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 part|wana verb|give-Inf-S adj|beige-S1 noun|crayon-Acc det|a-Ind-Art noun|hug-Acc ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|8|ROOT 5|6|AMOD 6|4|OBJ 7|8|DET 8|4|OBJ 9|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	he's sad .
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|sad-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*FA1:	does he need a hug ? 
+%mor:	aux|do-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 verb|need-Inf-S det|a-Ind-Art noun|hug-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	what what what do you do ? 
+%mor:	pron|what-Int-S1 pron|what-Int-S1 pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Inf-S ?
+%gra:	1|6|OBJ 2|6|OBJ 3|6|OBJ 4|6|AUX 5|6|NSUBJ 6|6|ROOT 7|6|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	oh you're so silly . 
+%mor:	intj|oh pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|so adj|silly-S1 .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	there you go . 
+%mor:	pron|there-Dem-S1 pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	&=sighs alright . 
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	beige , this is beige crayon . 
+%mor:	adj|beige-S1 cm|cm pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|beige-S1 noun|crayon .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|AMOD 6|6|ROOT 7|6|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	beige crayon only colors wheat . 
+%mor:	adj|beige-S1 noun|crayon adv|only noun|color-Plur noun|wheat .
+%gra:	1|2|AMOD 2|5|COMPOUND 3|5|ADVMOD 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	can you give him a hug ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|give-Inf-S pron|he-Prs-Acc-S3 det|a-Ind-Art noun|hug-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|IOBJ 5|6|DET 6|3|OBJ 7|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	love you beige crayon . 
+%mor:	verb|love-Fin-Ind-Pres-S1 pron|you-Prs-Gen-S2 adj|beige-S1 noun|crayon-Acc .
+%gra:	1|4|ROOT 2|4|NMOD-POSS 3|4|AMOD 4|1|OBJ 5|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	you're a wonderful neutral color and you go with every thing . 
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 det|a-Ind-Art adj|wonderful-S1 adj|neutral-S1 noun|color cconj|and pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 adp|with det|every-Def-Tot noun|thing-Ger .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|DET 4|6|AMOD 5|6|AMOD 6|12|ROOT 7|9|CC 8|9|NSUBJ 9|6|CONJ 10|12|CASE 11|12|DET 12|9|OBL 13|6|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	this is gray crayon . 
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|gray-S1 noun|crayon .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	gray crayon . 
+%mor:	adj|gray-S1 noun|crayon .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	has colored a rhino . 
+%mor:	aux|have-Fin-Ind-Pres-S3 verb|color-Part-Past-S det|a-Ind-Art noun|rhino-Acc .
+%gra:	1|2|AUX 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	and . 
+%mor:	cconj|and .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	a hippo . 
+%mor:	det|a-Ind-Art noun|hippo .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	and an elephant . 
+%mor:	cconj|and det|a-Ind-Art noun|elephant .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	and a baby penguin . 
+%mor:	cconj|and det|a-Ind-Art noun|baby noun|penguin .
+%gra:	1|4|CC 2|4|DET 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	and some pebbles . 
+%mor:	cconj|and det|some-Def-Ind noun|pebble-Plur .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	oh . 
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	uh . 
+%mor:	intj|uh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	you're so wiggly . 
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|so adj|wiggly-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	uh . 
+%mor:	intj|uh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	can you find white crayon ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|find-Inf-S adj|white-S1 noun|crayon-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|AMOD 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	oh look . 
+%mor:	intj|oh verb|look-Fin-Imp-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	there's white crayon . 
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 adj|white-S1 noun|crayon .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|AMOD 4|2|NSUBJ 5|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	can you see him ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|see-Inf-S pron|he-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	white crayon has colored a white cat in the snow . 
+%mor:	adj|white-S1 noun|crayon aux|have-Fin-Ind-Pres-S3 verb|color-Part-Past-S det|a-Ind-Art adj|white-S1 noun|cat-Acc adp|in det|the-Def-Art noun|snow .
+%gra:	1|2|AMOD 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|10|CASE 9|10|DET 10|4|OBL 11|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	on white paper . 
+%mor:	adp|on adj|white-S1 noun|paper .
+%gra:	1|3|CASE 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	&=laughs he's hiding . 
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hide-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	xxx white that- what're you doing ? 
+%mor:	adj|white-S1 sconj|that pron|what-Int-S1~aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Part-Pres-S ?
+%gra:	1|6|ROOT 2|6|MARK 3|6|OBJ 4|6|AUX 5|6|NSUBJ 6|1|CCOMP 7|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	nah nah nah nah nah no , you're gonna end up getting hurt . 
+%mor:	intj|nah intj|nah intj|nah intj|nah intj|nah intj|no cm|cm pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 part|go verb|end-Inf-S adp|up aux|get-Part-Pres-S verb|hurt-Part-Past-S-irr .
+%gra:	1|11|DISCOURSE 2|11|DISCOURSE 3|11|DISCOURSE 4|11|DISCOURSE 5|11|DISCOURSE 6|11|DISCOURSE 7|6|PUNCT 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|14|ROOT 12|11|COMPOUND-PRT 13|14|AUX-PASS 14|11|XCOMP 15|11|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	we're not gonna play that , no . 
+%mor:	pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 part|not part|go verb|play-Inf-S pron|that-Dem cm|cm intj|no .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|5|ADVMOD 5|8|ROOT 6|5|OBJ 7|8|PUNCT 8|5|DISCOURSE 9|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	are you- do you need to go to bed ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|need-Inf-S part|to verb|go-Inf-S adp|to noun|bed ?
+%gra:	1|5|COP 2|5|NSUBJ 3|5|AUX 4|5|NSUBJ 5|9|ROOT 6|7|MARK 7|5|XCOMP 8|9|CASE 9|7|OBL 10|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	no ?
+%mor:	intj|no ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	do you wanna look at the book ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 part|wana verb|look-Inf-S adp|at det|the-Def-Art noun|book ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*FA1:	aw , Lily . 
+%mor:	intj|aw cm|cm propn|Lily .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|VOCATIVE 4|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	that's not funny . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 part|not adj|funny-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	why're you dropping stuff ? 
+%mor:	adv|why~aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|drop-Part-Pres-S noun|stuff-Acc ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	you want your Patsy ? 
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|your-Prs-Gen-S2 propn|Patsy-Acc ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	well then you shouldn't have dropped it . 
+%mor:	intj|well adv|then pron|you-Prs-Nom-S2 aux|should-Fin-S~part|not aux|have-Inf-S verb|drop-Part-Past-S pron|it-Prs-Acc-S3 .
+%gra:	1|7|DISCOURSE 2|7|ADVMOD 3|7|NSUBJ 4|7|AUX 5|7|ADVMOD 6|7|AUX 7|8|ROOT 8|7|OBJ 9|7|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	pick it up . 
+%mor:	verb|pick-Fin-Imp-S pron|it-Prs-Acc-S3 adp|up .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	ah . 
+%mor:	intj|ah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	now come here you naughty monkey . 
+%mor:	adv|now verb|come-Fin-Imp-S adv|here pron|you-Prs-Gen-S2 adj|naughty-S1 noun|monkey-Acc .
+%gra:	1|2|ADVMOD 2|6|ROOT 3|2|ADVMOD 4|6|NMOD-POSS 5|6|AMOD 6|2|OBJ 7|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	uh . 
+%mor:	intj|uh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	alright . 
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	uh . 
+%mor:	intj|uh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	what color is that ? 
+%mor:	det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	it's black . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|black-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	this is black crayon . 
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|black-S1 noun|crayon .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	black crayon has colored . 
+%mor:	adj|black-S1 noun|crayon aux|have-Fin-Ind-Pres-S3 verb|color-Part-Past-S .
+%gra:	1|2|AMOD 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	rainbow and a beach ball . 
+%mor:	noun|rainbow cconj|and det|a-Ind-Art noun|beach noun|ball .
+%gra:	1|5|ROOT 2|5|CC 3|5|DET 4|5|COMPOUND 5|1|CONJ 6|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	beach balls and rainbows . 
+%mor:	noun|beach noun|ball-Plur cconj|and noun|rainbow-Plur .
+%gra:	1|2|COMPOUND 2|4|ROOT 3|4|CC 4|2|CONJ 5|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	I said it backwards . 
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr pron|it-Prs-Acc-S3 adv|backwards .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	this . 
+%mor:	pron|this-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	oh what color is that ? 
+%mor:	intj|oh det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	it gween [: green] ! 
+%mor:	pron|it-Prs-Nom-S3 adj|green-S1 !
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	it is green , you're right ! 
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adj|green-S1 cm|cm pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|right-S1 !
+%gra:	1|3|NSUBJ 2|3|COP 3|7|ROOT 4|7|PUNCT 5|7|NSUBJ 6|7|COP 7|3|PARATAXIS 8|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	yah ! 
+%mor:	intj|yah !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	this is green crayon . 
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|green-S1 noun|crayon .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	green crayon has colored a dinosaur . 
+%mor:	adj|green-S1 noun|crayon aux|have-Fin-Ind-Pres-S3 verb|color-Part-Past-S det|a-Ind-Art noun|dinosaur-Acc .
+%gra:	1|2|AMOD 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	a tree . 
+%mor:	det|a-Ind-Art noun|tree .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	can you find the dinosaur ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|find-Inf-S det|the-Def-Art noun|dinosaur-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	that's a tree . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|tree .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	there's the dinosaur . 
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|dinosaur .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	and a tree , and- . 
+%mor:	cconj|and det|a-Ind-Art noun|tree cm|cm cconj|and .
+%gra:	1|3|CC 2|3|DET 3|5|ROOT 4|5|PUNCT 5|3|CC 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	um . 
+%mor:	intj|um .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	a frog . 
+%mor:	det|a-Ind-Art noun|frog .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	can you find the frog ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|find-Inf-S det|the-Def-Art noun|frog-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	where where ? 
+%mor:	adv|where adv|where ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%cod:	$xds:A
+*FA1:	down there . 
+%mor:	adv|down adv|there .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	oh . 
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	let me get that xxx . 
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|get-Inf-S pron|that-Dem .
+%gra:	1|4|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	there's a frog and , a bug . 
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|frog cconj|and cm|cm det|a-Ind-Art noun|bug .
+%gra:	1|2|EXPL 2|8|ROOT 3|4|DET 4|2|NSUBJ 5|8|CC 6|5|PUNCT 7|8|DET 8|4|CONJ 9|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	where where ? 
+%mor:	adv|where adv|where ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%cod:	$xds:A
+*CHI:	where ? 
+%mor:	adv|where ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	do you see the bug ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S det|the-Def-Art noun|bug-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	oh you're kinda like the little bug . 
+%mor:	intj|oh pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|kinda adp|like det|the-Def-Art adj|little-S1 noun|bug .
+%gra:	1|8|DISCOURSE 2|8|NSUBJ 3|8|COP 4|8|ADVMOD 5|8|CASE 6|8|DET 7|8|AMOD 8|8|ROOT 9|8|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	you're a cutie bug . 
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 det|a-Ind-Art noun|cutie noun|bug .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	there's a bug . 
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|bug .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	oh and he's , and some recycling crocodiles , look at that . 
+%mor:	intj|oh cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 cm|cm cconj|and det|some-Def-Ind noun|recycling-Ger noun|crocodile-Plur cm|cm verb|look-Fin-Imp-S adp|at pron|that-Dem .
+%gra:	1|11|DISCOURSE 2|11|CC 3|11|NSUBJ 4|11|COP 5|4|PUNCT 6|9|CC 7|9|DET 8|9|COMPOUND 9|11|NSUBJ 10|9|PUNCT 11|13|ROOT 12|13|CASE 13|11|OBL 14|11|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	do you see the crocodiles ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S det|the-Def-Art noun|crocodile-Plur-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	mm ? 
+%mor:	intj|mm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	where where ? 
+%mor:	adv|where adv|where ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%cod:	$xds:A
+*FA1:	woah , alright , turn the page . 
+%mor:	intj|woah cm|cm intj|alright cm|cm verb|turn-Fin-Imp-S det|the-Def-Art noun|page-Acc .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|DISCOURSE 4|3|PUNCT 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	what color is that crayon ? 
+%mor:	det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|crayon ?
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	yellow ! 
+%mor:	adj|yellow-S1 !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	yellow , yes ! 
+%mor:	adj|yellow-S1 cm|cm intj|yes !
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	what color is that ? 
+%mor:	det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	it oh [: orange] ! 
+%mor:	pron|it-Prs-Nom-S3 adj|orange-S1 !
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	it is orange , you're right . 
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adj|orange-S1 cm|cm pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|right-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|7|ROOT 4|7|PUNCT 5|7|NSUBJ 6|7|COP 7|3|PARATAXIS 8|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	what's that ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+%cod:	$xds:A
+*FA1:	what is that ? 
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	the sun . 
+%mor:	det|the-Def-Art noun|sun .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	the sun , yes . 
+%mor:	det|the-Def-Art noun|sun cm|cm intj|yes .
+%gra:	1|2|DET 2|4|ROOT 3|4|PUNCT 4|2|DISCOURSE 5|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	what's that ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+%cod:	$xds:A
+*FA1:	what is that ? 
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	sun . 
+%mor:	noun|sun .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	the sun also , you're right , yeah . 
+%mor:	det|the-Def-Art noun|sun adv|also cm|cm pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|right-S1 cm|cm intj|yeah .
+%gra:	1|2|DET 2|7|VOCATIVE 3|7|ADVMOD 4|3|PUNCT 5|7|NSUBJ 6|7|COP 7|9|ROOT 8|9|PUNCT 9|7|DISCOURSE 10|7|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	this is yellow crayon . 
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|yellow-S1 noun|crayon .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	and . 
+%mor:	cconj|and .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	yellow crayon . 
+%mor:	adj|yellow-S1 noun|crayon .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	has colored . 
+%mor:	aux|have-Fin-Ind-Pres-S3 verb|color-Part-Past-S .
+%gra:	1|2|AUX 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	the sun . 
+%mor:	det|the-Def-Art noun|sun .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	and . 
+%mor:	cconj|and .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	this is orange crayon . 
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|orange-S1 noun|crayon .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	orange crayon has also colored the sun . 
+%mor:	adj|orange-S1 noun|crayon aux|have-Fin-Ind-Pres-S3 adv|also verb|color-Part-Past-S det|the-Def-Art noun|sun-Acc .
+%gra:	1|2|AMOD 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	it is a very sunny page . 
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adv|very adj|sunny-S1 noun|page .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|DET 4|5|ADVMOD 5|6|AMOD 6|6|ROOT 7|6|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	&=laughs . 
+%cod:	$txt:C; $xds:T
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	it's a princess . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|princess .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	do you like the princess ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|like-Inf-S det|the-Def-Art noun|princess-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	oh . 
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	what color is that xxx ? 
+%mor:	det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	uh . 
+%mor:	intj|uh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	what color is it ? 
+%mor:	det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|2|DET 2|3|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	what color is that ? 
+%mor:	det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	it's hiding . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|hide-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	hey . 
+%mor:	intj|hey .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	what color is that crayon ? 
+%mor:	det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|crayon ?
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	what color , is it pink ? 
+%mor:	det|what-Def-Int noun|color cm|cm aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 adj|pink-S1 ?
+%gra:	1|2|DET 2|6|DISLOCATED 3|2|PUNCT 4|6|COP 5|6|NSUBJ 6|6|ROOT 7|6|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	can you say pink ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|say-Inf-S adj|pink-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	Lily , stop taking the book . 
+%mor:	propn|Lily cm|cm verb|stop-Fin-Imp-S verb|take-Ger-S det|the-Def-Art noun|book-Acc .
+%gra:	1|3|VOCATIVE 2|1|PUNCT 3|6|ROOT 4|3|XCOMP 5|6|DET 6|4|OBJ 7|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	alright . 
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	this is pink crayon . 
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|pink-S1 noun|crayon .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	pink crayon has colored a princess . 
+%mor:	adj|pink-S1 noun|crayon aux|have-Fin-Ind-Pres-S3 verb|color-Part-Past-S det|a-Ind-Art noun|princess-Acc .
+%gra:	1|2|AMOD 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	stop it , tryin(g) to read . 
+%mor:	verb|stop-Fin-Imp-S pron|it-Prs-Acc-S3 cm|cm verb|try-Part-Pres-S part|to verb|read-Inf-S .
+%gra:	1|6|ROOT 2|1|OBJ 3|4|PUNCT 4|1|ADVCL 5|6|MARK 6|4|XCOMP 7|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	but would like . 
+%mor:	cconj|but aux|would-Fin-S verb|like-Inf-S .
+%gra:	1|3|CC 2|3|AUX 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	to color . 
+%mor:	part|to verb|color-Inf-S .
+%gra:	1|2|MARK 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	ah-ha stop . 
+%mor:	intj|ahha verb|stop-Fin-Imp-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	but would like to color a monster . 
+%mor:	cconj|but aux|would-Fin-S verb|like-Inf-S part|to verb|color-Inf-S det|a-Ind-Art noun|monster-Acc .
+%gra:	1|3|CC 2|3|AUX 3|7|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	and a dinosaur and a cowboy . 
+%mor:	cconj|and det|a-Ind-Art noun|dinosaur cconj|and det|a-Ind-Art noun|cowboy .
+%gra:	1|3|CC 2|3|DET 3|6|ROOT 4|6|CC 5|6|DET 6|3|CONJ 7|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	&=coughs excuse me . 
+%mor:	verb|excuse-Fin-Imp-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	this is peach crayon . 
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 noun|peach noun|crayon .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	peach crayon is still in the box ! 
+%mor:	noun|peach noun|crayon aux|be-Fin-Ind-Pres-S3 adv|still adp|in det|the-Def-Art noun|box !
+%gra:	1|2|COMPOUND 2|7|NSUBJ 3|7|COP 4|7|ADVMOD 5|7|CASE 6|7|DET 7|7|ROOT 8|7|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	it hasn't decided what to draw yet . 
+%mor:	pron|it-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3~part|not verb|decide-Part-Past-S pron|what-Int-S1 part|to verb|draw-Inf-S adv|yet .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|4|OBJ 6|7|MARK 7|5|ACL 8|7|ADVMOD 9|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	look . 
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	Lily . 
+%mor:	propn|Lily .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	girl . 
+%mor:	noun|girl .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	you were drawing xxx . 
+%mor:	pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Past-S2-irr verb|draw-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	no-oh . 
+%mor:	intj|nooh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	bye . 
+%mor:	intj|bye .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	look ! 
+%mor:	verb|look-Fin-Imp-S !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	Duncan has colored a new picture . 
+%mor:	propn|Duncan aux|have-Fin-Ind-Pres-S3 verb|color-Part-Past-S det|a-Ind-Art adj|new-S1 noun|picture-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	can you- . 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 .
+%gra:	1|2|ROOT 2|1|NSUBJ 3|1|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	<no> [=! screams] ! 
+%mor:	intj|no !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	hey . 
+%mor:	intj|hey .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	can you name . 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|name-Inf-S .
+%gra:	1|3|AUX 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	the colors ? 
+%mor:	det|the-Def-Art noun|color-Plur ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	what color is the dinosaur ? 
+%mor:	det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|dinosaur ?
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	dinos(aur) . 
+%mor:	noun|dinosaur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	what color is it ? 
+%mor:	det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|2|DET 2|3|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	pink ! 
+%mor:	adj|pink-S1 !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	it's pink , you're right ! 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|pink-S1 cm|cm pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|right-S1 !
+%gra:	1|3|NSUBJ 2|3|COP 3|7|ROOT 4|7|PUNCT 5|7|NSUBJ 6|7|COP 7|3|PARATAXIS 8|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	what color is the sky ? 
+%mor:	det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|sky ?
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	is it yellow ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 adj|yellow-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	yellow ! 
+%mor:	adj|yellow-S1 !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	yellow . 
+%mor:	adj|yellow-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	what color is the sun ? 
+%mor:	det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|sun ?
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	yellow ! 
+%mor:	adj|yellow-S1 !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	well that one's orange . 
+%mor:	intj|well sconj|that pron|one-Prs-S3~part|s adj|orange-S1 .
+%gra:	1|5|DISCOURSE 2|5|MARK 3|5|NMOD-POSS 4|3|CASE 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	right . 
+%mor:	adj|right-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	it's orange sun . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|orange-S1 noun|sun .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	what color is the dragon ? 
+%mor:	det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|dragon ?
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	hey ! 
+%mor:	intj|hey !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	yellow ! 
+%mor:	adj|yellow-S1 !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	what is that ? 
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	is that airplane ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|airplane ?
+%gra:	1|3|COP 2|3|DET 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	what color is the airplane ? 
+%mor:	det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|airplane ?
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	it pink ! 
+%mor:	pron|it-Prs-Nom-S3 adj|pink-S1 !
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	it is pink , you're right ! 
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adj|pink-S1 cm|cm pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|right-S1 !
+%gra:	1|3|NSUBJ 2|3|COP 3|7|ROOT 4|7|PUNCT 5|7|NSUBJ 6|7|COP 7|3|PARATAXIS 8|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	huh . 
+%mor:	intj|huh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	what color is the whale ? 
+%mor:	det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|whale ?
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	what color is that whale ? 
+%mor:	det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|whale ?
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	it buh ! 
+%mor:	pron|it-Prs-Nom-S3 intj|buh !
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	it's orange . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|orange-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	a boo [: blue] ! 
+%mor:	det|a-Ind-Art noun|blue !
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	blue ? 
+%mor:	adj|blue-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	there's the crocodile . 
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|crocodile .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	a blue crocodile . 
+%mor:	det|a-Ind-Art adj|blue-S1 noun|crocodile .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	ha . 
+%mor:	intj|ha .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	and . 
+%mor:	cconj|and .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	a ki(tty) ! 
+%mor:	det|a-Ind-Art noun|kitty !
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	&=gasps it that a kitty ? 
+%mor:	pron|it-Prs-Nom-S3 sconj|that det|a-Ind-Art noun|kitty ?
+%gra:	1|4|NSUBJ 2|4|MARK 3|4|DET 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	what color is that kitty ? 
+%mor:	det|what-Def-Int noun|color aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|kitty ?
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	boo [: blue] ! 
+%mor:	adj|blue-S1 !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	white ? 
+%mor:	adj|white-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	and a boat . 
+%mor:	cconj|and det|a-Ind-Art noun|boat .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	ah ! 
+%mor:	intj|ah !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	do you want you Patsy ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|you-Prs-Acc-S2 propn|Patsy-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	are we all done reading the book ? 
+%mor:	aux|be-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 adv|all verb|do-Part-Past-S-irr verb|read-Part-Pres-S det|the-Def-Art noun|book-Acc ?
+%gra:	1|4|AUX-PASS 2|4|NSUBJ-PASS 3|4|ADVMOD 4|7|ROOT 5|4|ADVCL 6|7|DET 7|5|OBJ 8|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	all done . 
+%mor:	det|all-Def-Tot verb|do-Part-Past-S-irr .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	do you want your Patsy ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|your-Prs-Gen-S2 propn|Patsy-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	oh yeah . 
+%mor:	intj|oh intj|yeah .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%cod:	$xds:A
+*FA1:	what do you say ? 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|say-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	I say . 
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	can you say please ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|say-Inf-S intj|please ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|DISCOURSE 5|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	please . 
+%mor:	intj|please .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	please .
+%mor:	intj|please .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	alright , let's get you done . 
+%mor:	intj|alright cm|cm verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|get-Inf-S pron|you-Prs-Acc-S2 verb|do-Part-Past-S-irr .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|7|ROOT 4|3|OBJ 5|3|XCOMP 6|5|OBJ 7|5|XCOMP 8|3|PUNCT
+*FA1:	alright , get your Patsy . 
+%mor:	intj|alright cm|cm verb|get-Fin-Imp-S pron|your-Prs-Gen-S2 propn|Patsy-Acc .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|5|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	oh yeah oh yeah ! 
+%mor:	intj|oh intj|yeah intj|oh intj|yeah !
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|2|DISCOURSE 4|2|DISCOURSE 5|2|PUNCT
+%cod:	$xds:A
+*FA1:	go get it . 
+%mor:	verb|go-Fin-Imp-S verb|get-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|ROOT 2|1|XCOMP 3|2|OBJ 4|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	pick it up . 
+%mor:	verb|pick-Fin-Imp-S pron|it-Prs-Acc-S3 adp|up .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	ah . 
+%mor:	intj|ah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	right , come here . 
+%mor:	adj|right-S1 cm|cm verb|come-Fin-Imp-S adv|here .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	do you wanna look at another book ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 part|wana verb|look-Inf-S adp|at det|another-Def-Ind noun|book ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	or you're all done . 
+%mor:	cconj|or pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|all verb|do-Part-Past-S-irr .
+%gra:	1|5|CC 2|5|NSUBJ-PASS 3|5|AUX-PASS 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	are you all done ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 det|all-Def-Tot adj|done-S1 ?
+%gra:	1|4|COP 2|4|NSUBJ 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	are you gonna go night-night ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 part|go verb|go-Inf-S adv|nightnight ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	do you want more or are you all done ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S adj|more-Cmp-S1 cconj|or aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adv|all verb|do-Part-Past-S-irr ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|3|OBJ 5|9|CC 6|9|AUX-PASS 7|9|NSUBJ-PASS 8|9|ADVMOD 9|3|CONJ 10|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	hey . 
+%mor:	intj|hey .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	oh ? 
+%mor:	intj|oh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	Lily . 
+%mor:	propn|Lily .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	do want more books ? 
+%mor:	aux|do-Fin-Imp-S verb|want-Fin-Imp-S adj|more-Cmp-S1 noun|book-Plur-Acc ?
+%gra:	1|2|AUX 2|4|ROOT 3|4|AMOD 4|2|OBJ 5|2|PUNCT
+%cod:	$txt:C; $xds:T;
+*FA1:	or you're all done ? 
+%mor:	cconj|or pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|all verb|do-Part-Past-S-irr ?
+%gra:	1|5|CC 2|5|NSUBJ-PASS 3|5|AUX-PASS 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T;
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	no , I'm not gonna play with that . 
+%mor:	intj|no cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not part|go verb|play-Inf-S adp|with pron|that-Dem .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|NSUBJ 4|7|AUX 5|7|ADVMOD 6|7|ADVMOD 7|9|ROOT 8|9|CASE 9|7|OBL 10|7|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	help . 
+%mor:	verb|help-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	do you want more books ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S adj|more-Cmp-S1 noun|book-Plur-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|AMOD 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	alright this way . 
+%mor:	intj|alright det|this-Def-Dem-Sing noun|way .
+%gra:	1|3|DISCOURSE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	do you wanna read this book ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 part|wana verb|read-Inf-S det|this-Def-Dem-Sing noun|book-Acc ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	you're all done ? 
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|all verb|do-Part-Past-S-irr ?
+%gra:	1|4|NSUBJ-PASS 2|4|AUX-PASS 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	all done ? 
+%mor:	det|all-Def-Tot verb|do-Part-Past-S-irr ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	okay , we can be all done . 
+%mor:	intj|okay cm|cm pron|we-Prs-Nom-P1 aux|can-Fin-S aux|be-Inf-S adv|all verb|do-Part-Past-S-irr .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|NSUBJ-PASS 4|7|AUX 5|7|AUX-PASS 6|7|ADVMOD 7|7|ROOT 8|7|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+@End

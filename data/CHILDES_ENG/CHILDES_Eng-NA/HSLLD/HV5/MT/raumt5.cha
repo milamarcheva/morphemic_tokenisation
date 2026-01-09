@@ -1,0 +1,28 @@
+@UTF8
+@PID:	11312/a-00077465-1
+@Begin
+@Languages:	eng
+@Participants:	PAR1 Participant
+@ID:	eng|HSLLD|PAR1|||||Participant|||
+@Media:	raumt5, audio
+@Comment:	Batchalign 0.7.1-beta.12, ASR Engine rev
+@Types:	long, meal, TD
+*PAR1:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	my phone .
+%mor:	pron|my-Prs-Gen-S1 noun|phone .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*PAR1:	let it buzz off after once shut up in my dare . 
+%mor:	verb|let-Fin-Imp-S pron|it-Prs-Acc-S3 verb|buzz-Inf-S adp|off sconj|after adv|once verb|shut-Fin-Imp-S adp|up adp|in pron|my-Prs-Gen-S1 noun|dare .
+%gra:	1|11|ROOT 2|1|OBJ 3|1|XCOMP 4|3|COMPOUND-PRT 5|7|MARK 6|7|ADVMOD 7|3|ADVCL 8|7|COMPOUND-PRT 9|11|CASE 10|11|NMOD-POSS 11|7|OBL 12|1|PUNCT
+%wor:	let  it  buzz  off  after  once  shut  up  in my  dare  .
+*PAR1:	you bust my door open . 
+%mor:	pron|you-Prs-Nom-S2 verb|bust-Fin-Ind-Pres-S2 pron|my-Prs-Gen-S1 noun|door-Acc adj|open-S1 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|XCOMP 6|2|PUNCT
+%wor:	you  bust my  door  open  .
+*PAR1:	you got one more time to come running off through my . 
+%mor:	pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2-irr num|one adj|more-Cmp-S1 noun|time-Acc part|to verb|come-Inf-S verb|run-Ger-S adp|off adp|through pron|my-Prs-Gen-S1 .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|5|NUMMOD 4|5|AMOD 5|2|OBJ 6|7|MARK 7|2|ADVCL 8|7|XCOMP 9|8|COMPOUND-PRT 10|11|CASE 11|8|OBL 12|2|PUNCT
+%wor:	you  got  one  more  time  to  come  running  off  through  my  .
+@End

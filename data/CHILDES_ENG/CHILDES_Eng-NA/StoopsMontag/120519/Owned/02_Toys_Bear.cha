@@ -1,0 +1,412 @@
+@UTF8
+@PID:	11312/a-00077882-1
+@Begin
+@Languages:	eng
+@Participants:	FA1 Adult, CHI Target_Child
+@Options:	bullets
+@ID:	eng|StoopsMontag|FA1|||||Adult|||
+@ID:	eng|StoopsMontag|CHI|||||Target_Child|||
+@Media:	02_Toys_Bear, audio
+@Types:	cross, book, TD
+*FA1:	alright . 
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	what is . 
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|ROOT 2|1|COP 3|1|PUNCT
+%cod:	$xds:A
+*FA1:	alright this one first ? 
+%mor:	intj|alright det|this-Def-Dem-Sing noun|one adj|first-S1 ?
+%gra:	1|4|DISCOURSE 2|4|DET 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	uh-huh . 
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	(o)kay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	it's called Toys Galore . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|call-Part-Past-S propn|Toy-Plur propn|Galore .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|5|ROOT 4|5|COMPOUND 5|3|XCOMP 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	oops . 
+%mor:	intj|oop .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	toys are silly , toys are fun , who loves toys , everyone . 
+%mor:	noun|toy-Plur aux|be-Fin-Ind-Pres-P3 adj|silly-S1 cm|cm noun|toy-Plur aux|be-Fin-Ind-Pres-P3 adj|fun-S1 cm|cm pron|who-Rel verb|love-Fin-Ind-Pres-S3 noun|toy-Plur-Acc cm|cm pron|everyone-Tot-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|13|ROOT 4|7|PUNCT 5|7|NSUBJ 6|7|COP 7|3|PARATAXIS 8|10|PUNCT 9|10|NSUBJ 10|7|ADVCL-RELCL 11|10|OBJ 12|13|PUNCT 13|10|PARATAXIS 14|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	this toy has lots of flare . 
+%mor:	det|this-Def-Dem-Sing noun|toy verb|have-Fin-Ind-Pres-S3 noun|lot-Plur-Acc adp|of noun|flare .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|6|CASE 6|4|NMOD 7|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	what other kinds of toys are there . 
+%mor:	det|what-Def-Int adj|other-S1 noun|kind-Plur adp|of noun|toy-Plur aux|be-Fin-Ind-Pres-P3 adv|there .
+%gra:	1|3|DET 2|3|AMOD 3|7|NSUBJ 4|5|CASE 5|3|NMOD 6|7|COP 7|7|ROOT 8|7|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	it's good to know and nice to share . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|good-S1 part|to verb|know-Inf-S cconj|and adj|nice-S1 part|to verb|share-Inf-S .
+%gra:	1|3|EXPL 2|3|COP 3|9|ROOT 4|5|MARK 5|3|CSUBJ 6|7|CC 7|5|CONJ 8|9|MARK 9|5|XCOMP 10|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	round toy square toy dirt toy air toy spring toy string toy what a thing toy . 
+%mor:	adj|round-S1 noun|toy adj|square-S1 noun|toy noun|dirt noun|toy noun|air noun|toy noun|spring-Ger noun|toy noun|string-Ger noun|toy pron|what-Int-S1 det|a-Ind-Art noun|thing-Ger noun|toy .
+%gra:	1|12|AMOD 2|12|COMPOUND 3|5|AMOD 4|5|COMPOUND 5|12|COMPOUND 6|12|COMPOUND 7|12|COMPOUND 8|12|COMPOUND 9|12|COMPOUND 10|11|COMPOUND 11|12|COMPOUND 12|16|ROOT 13|16|NSUBJ 14|16|DET 15|16|COMPOUND 16|12|APPOS 17|12|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	small toy tall toy bouncing ball toy hat toy shoe toy stretchy goo toy . 
+%mor:	adj|small-S1 noun|toy adj|tall-S1 noun|toy noun|bouncing-Ger noun|ball noun|toy noun|hat noun|toy noun|shoe noun|toy adj|stretchy-S1 noun|goo noun|toy .
+%gra:	1|14|AMOD 2|4|COMPOUND 3|14|AMOD 4|14|COMPOUND 5|14|COMPOUND 6|14|COMPOUND 7|8|COMPOUND 8|14|COMPOUND 9|10|COMPOUND 10|14|COMPOUND 11|14|COMPOUND 12|14|AMOD 13|14|COMPOUND 14|14|ROOT 15|14|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	toys and more toys sandy shore toys climb it find it let's explore toys . 
+%mor:	noun|toy-Plur cconj|and adj|more-Cmp-S1 noun|toy-Plur adj|sandy-S1 noun|shore noun|toy-Plur verb|climb-Fin-Ind-Pres-P3 pron|it-Prs-Acc-S3 verb|find-Inf-S pron|it-Prs-Acc-S3 verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|explore-Inf-S noun|toy-Plur-Acc .
+%gra:	1|8|NSUBJ 2|7|CC 3|4|AMOD 4|1|CONJ 5|7|AMOD 6|7|COMPOUND 7|1|CONJ 8|15|ROOT 9|8|OBJ 10|8|XCOMP 11|10|OBJ 12|10|XCOMP 13|12|OBJ 14|12|XCOMP 15|14|OBJ 16|8|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	are they at the beach ? 
+%mor:	aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 adp|at det|the-Def-Art noun|beach ?
+%gra:	1|5|COP 2|5|NSUBJ 3|5|CASE 4|5|DET 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	uh-oh . 
+%mor:	intj|uhoh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	who's that ? 
+%mor:	pron|who-Int~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	nehn [: don't] know . 
+%mor:	aux|do-Fin-Ind-Pres-S3~part|not verb|know-Fin-Imp-S .
+%gra:	1|3|AUX 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%cod:	$xds:A
+*FA1:	is that a shark ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that det|a-Ind-Art noun|shark ?
+%gra:	1|4|COP 2|4|MARK 3|4|DET 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	a silly city made of blocks . 
+%mor:	det|a-Ind-Art adj|silly-S1 noun|city verb|make-Part-Past-S-irr adp|of noun|block-Plur .
+%gra:	1|3|DET 2|3|AMOD 3|6|ROOT 4|3|ACL 5|6|CASE 6|4|OBL 7|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	a romping robot cardboard box . 
+%mor:	det|a-Ind-Art noun|romping-Ger noun|robot noun|cardboard noun|box .
+%gra:	1|5|DET 2|5|COMPOUND 3|5|COMPOUND 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	puppet creatures made of socks . 
+%mor:	noun|puppet noun|creature-Plur verb|make-Part-Past-S-irr adp|of noun|sock-Plur .
+%gra:	1|2|COMPOUND 2|5|ROOT 3|2|ACL 4|5|CASE 5|3|OBL 6|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	that look Felix . 
+%mor:	det|that-Def-Dem-Sing verb|look-Fin-Imp-S propn|Felix-Acc .
+%gra:	1|2|DET 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	pots and pans toys use your hands toys sharing secrets with tin cans toys . 
+%mor:	noun|pot-Plur cconj|and noun|pan-Plur noun|toy-Plur verb|use-Fin-Ind-Pres-P3 pron|your-Prs-Gen-S2 noun|hand-Plur-Acc noun|toy-Plur-Acc verb|share-Ger-S noun|secret-Plur-Acc adp|with noun|tin noun|can-Plur noun|toy-Plur .
+%gra:	1|5|NSUBJ 2|4|CC 3|4|COMPOUND 4|1|CONJ 5|14|ROOT 6|8|NMOD-POSS 7|5|OBJ 8|5|OBJ 9|8|ACL 10|9|OBJ 11|14|CASE 12|13|COMPOUND 13|14|COMPOUND 14|9|OBL 15|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	squishy clay you're fun to play with , squeeze and squash and sculpt all day with . 
+%mor:	adj|squishy-S1 noun|clay pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|fun-S1 part|to verb|play-Inf-S adp|with cm|cm verb|squeeze-Inf-S cconj|and verb|squash-Inf-S cconj|and verb|sculpt-Inf-S det|all-Def-Tot noun|day adp|with .
+%gra:	1|2|AMOD 2|17|ROOT 3|5|NSUBJ 4|5|COP 5|2|ACL-RELCL 6|7|MARK 7|5|XCOMP 8|7|OBL 9|10|PUNCT 10|7|CONJ 11|12|CC 12|10|CONJ 13|14|CC 14|7|CONJ 15|16|DET 16|14|OBL-UNMARKED 17|16|NMOD 18|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	toys for teatime fun time free time bouncing knees are toys for wee times . 
+%mor:	noun|toy-Plur adp|for noun|teatime noun|fun noun|time adj|free-S1 noun|time verb|bounce-Ger-S noun|knee-Plur aux|be-Fin-Ind-Pres-P3 noun|toy-Plur adp|for noun|wee noun|time-Plur .
+%gra:	1|11|NSUBJ 2|9|CASE 3|5|COMPOUND 4|5|COMPOUND 5|7|COMPOUND 6|9|AMOD 7|9|COMPOUND 8|9|AMOD 9|1|NMOD 10|11|COP 11|14|ROOT 12|14|CASE 13|14|COMPOUND 14|11|OBL 15|11|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	zippy quick remote control toys jumping blastin(g) . 
+%mor:	adj|zippy-S1 adj|quick-S1 adj|remote-S1 noun|control noun|toy-Plur verb|jump-Ger-S noun|blasting-Acc-Ger .
+%gra:	1|5|AMOD 2|5|AMOD 3|4|AMOD 4|5|COMPOUND 5|7|ROOT 6|5|ACL 7|6|OBJ 8|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	rock_n_roll toys . 
+%mor:	noun|rocknroll noun|toy-Plur .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	fairies gnomes and ugly troll toys . 
+%mor:	noun|fairy-Plur noun|gnome-Plur cconj|and adj|ugly-S1 noun|troll noun|toy-Plur .
+%gra:	1|2|COMPOUND 2|6|ROOT 3|6|CC 4|6|AMOD 5|6|COMPOUND 6|2|CONJ 7|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	floaty bubbly while you wash toys .
+%mor:	adj|floaty-S1 adj|bubbly-S1 sconj|while pron|you-Prs-Nom-S2 verb|wash-Fin-Ind-Pres-S2 noun|toy-Plur-Acc .
+%gra:	1|2|AMOD 2|6|ROOT 3|5|MARK 4|5|NSUBJ 5|2|ADVCL 6|5|OBJ 7|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	struggling juggling oh my gosh toys . 
+%mor:	verb|struggle-Part-Pres-S verb|juggling-Ger-S intj|oh pron|my-Prs-Gen-S1 intj|gosh noun|toy-Plur-Acc .
+%gra:	1|6|ROOT 2|1|XCOMP 3|6|DISCOURSE 4|6|NMOD-POSS 5|6|COMPOUND 6|2|OBJ 7|1|PUNCT
+*FA1:	toys and toys and zillions more toys , whirling twirling toys galore toys . 
+%mor:	noun|toy-Plur cconj|and noun|toy-Plur cconj|and noun|zillion-Plur adj|more-Cmp-S1 noun|toy-Plur cm|cm verb|whirl-Ger-S noun|twirling-Ger noun|toy-Plur adj|galore-S1 noun|toy-Plur .
+%gra:	1|13|ROOT 2|3|CC 3|1|CONJ 4|7|CC 5|7|COMPOUND 6|7|AMOD 7|1|CONJ 8|9|PUNCT 9|13|AMOD 10|11|COMPOUND 11|13|COMPOUND 12|13|AMOD 13|1|CONJ 14|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	jump toys ride toys slip an(d) slide toy up and down and side to side toys . 
+%mor:	verb|jump-Fin-Imp-S noun|toy-Plur noun|ride noun|toy-Plur-Acc verb|slip-Inf-S cconj|and verb|slide-Fin-Imp-S noun|toy-Acc adp|up cconj|and adv|down cconj|and noun|side adp|to noun|side noun|toy-Plur-Acc .
+%gra:	1|16|ROOT 2|3|COMPOUND 3|4|COMPOUND 4|1|OBJ 5|1|XCOMP 6|7|CC 7|5|CONJ 8|7|OBJ 9|7|COMPOUND-PRT 10|11|CC 11|9|CONJ 12|16|CC 13|16|COMPOUND 14|15|CASE 15|13|NMOD 16|7|OBJ 17|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	toys for one and toys for all , ping pong jacks and basketball . 
+%mor:	noun|toy-Plur adp|for num|one cconj|and noun|toy-Plur adp|for det|all-Def-Tot cm|cm noun|ping-Ger noun|pong noun|jack-Plur cconj|and noun|basketball .
+%gra:	1|13|ROOT 2|3|CASE 3|1|NMOD 4|5|CC 5|3|CONJ 6|7|CASE 7|1|NMOD 8|11|PUNCT 9|11|COMPOUND 10|11|COMPOUND 11|7|CONJ 12|13|CC 13|11|CONJ 14|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	look out below !
+%mor:	verb|look-Fin-Imp-S adp|out adv|below !
+%gra:	1|3|ROOT 2|1|COMPOUND-PRT 3|1|ADVMOD 4|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	<whoo> [=! nonlex] close call . 
+%mor:	intj|whoo adj|close-S1 noun|call .
+%gra:	1|3|DISCOURSE 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*FA1:	creaky squeaky old time racecar , futuristic outer space car , soapbox derby homemade chase car . 
+%mor:	adj|creaky-S1 adj|squeaky-S1 adj|old-S1 noun|time noun|racecar cm|cm adj|futuristic-S1 adj|outer-S1 noun|space noun|car cm|cm noun|soapbox noun|derby noun|homemade noun|chase noun|car .
+%gra:	1|5|AMOD 2|5|AMOD 3|5|AMOD 4|5|COMPOUND 5|16|ROOT 6|10|PUNCT 7|10|AMOD 8|10|AMOD 9|10|COMPOUND 10|5|CONJ 11|16|PUNCT 12|13|COMPOUND 13|16|COMPOUND 14|16|COMPOUND 15|16|COMPOUND 16|5|CONJ 17|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	what are these toys , floaty breeze toys , what are those toys , sew your clothes toys . 
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 det|this-Def-Dem-Plur noun|toy-Plur cm|cm adj|floaty-S1 noun|breeze noun|toy-Plur cm|cm pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 det|that-Def-Dem-Plur noun|toy-Plur cm|cm verb|sew-Fin-Imp-S pron|your-Prs-Gen-S2 noun|clothes-Ptan noun|toy-Plur-Acc .
+%gra:	1|18|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|8|PUNCT 6|8|AMOD 7|8|COMPOUND 8|4|CONJ 9|10|PUNCT 10|4|CONJ 11|13|COP 12|13|DET 13|10|NSUBJ 14|15|PUNCT 15|1|PARATAXIS 16|18|NMOD-POSS 17|18|COMPOUND 18|15|OBJ 19|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	oh . 
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	what she doin(g) ? 
+%mor:	pron|what-Int-S1 pron|she-Prs-Nom-S3 verb|do-Part-Pres-S ?
+%gra:	1|3|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	squirting him ? 
+%mor:	verb|squirt-Part-Pres-S pron|he-Prs-Acc-S3 ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	what is that toy it's a splat toy . 
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|toy pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|splat noun|toy .
+%gra:	1|9|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|9|NSUBJ 6|9|COP 7|9|DET 8|9|COMPOUND 9|4|ACL-RELCL 10|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	toys in pairs , toys on stairs , looks like this toy needs repairs . 
+%mor:	noun|toy-Plur adp|in noun|pair-Plur cm|cm noun|toy-Plur adp|on noun|stair-Plur cm|cm verb|look-Fin-Ind-Pres-S3 sconj|like det|this-Def-Dem-Sing noun|toy verb|need-Fin-Ind-Pres-S3 noun|repair-Plur-Acc .
+%gra:	1|9|NSUBJ 2|3|CASE 3|1|NMOD 4|5|PUNCT 5|3|CONJ 6|7|CASE 7|5|NMOD 8|1|PUNCT 9|14|ROOT 10|13|MARK 11|12|DET 12|13|NSUBJ 13|9|ADVCL 14|13|OBJ 15|9|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	oh no . 
+%mor:	intj|oh intj|no .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	his head fall off ? 
+%mor:	pron|his-Prs-Gen-S3 noun|head verb|fall-Fin-Ind-Pres-S adp|off ?
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	whoopsies . 
+%mor:	noun|whoopsies-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	muddy toys and messy puddles , snuggly toys for hugging cuddles . 
+%mor:	adj|muddy-S1 noun|toy-Plur cconj|and adj|messy-S1 noun|puddle-Plur cm|cm adj|snuggly-S1 noun|toy-Plur sconj|for verb|hug-Ger-S noun|cuddle-Plur-Acc .
+%gra:	1|2|AMOD 2|11|ROOT 3|5|CC 4|5|AMOD 5|2|CONJ 6|8|PUNCT 7|8|AMOD 8|2|CONJ 9|10|MARK 10|8|ACL 11|10|OBJ 12|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	but which toy is the best toy ever ? 
+%mor:	cconj|but det|which-Def-Int noun|toy aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|good-Sup-S1 noun|toy adv|ever ?
+%gra:	1|7|CC 2|3|DET 3|7|NSUBJ 4|7|COP 5|7|DET 6|7|AMOD 7|8|ROOT 8|7|ADVMOD 9|7|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	the one most fun most cool and clever . 
+%mor:	det|the-Def-Art num|one adv|most adj|fun-S1 adv|most adj|cool-S1 cconj|and adj|clever-S1 .
+%gra:	1|6|DET 2|4|NUMMOD 3|4|ADVMOD 4|6|AMOD 5|6|ADVMOD 6|8|ROOT 7|8|CC 8|6|CONJ 9|6|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	it can't be found inside a store or in a box or in a drawer or in your room or on your shelf . 
+%mor:	pron|it-Prs-Nom-S3 aux|can-Fin-S~part|not aux|be-Inf-S verb|find-Part-Past-S-irr adp|inside det|a-Ind-Art noun|store cconj|or adp|in det|a-Ind-Art noun|box cconj|or adp|in det|a-Ind-Art noun|drawer cconj|or adp|in pron|your-Prs-Gen-S2 noun|room cconj|or adp|on pron|your-Prs-Gen-S2 noun|shelf .
+%gra:	1|5|NSUBJ-PASS 2|5|AUX 3|5|ADVMOD 4|5|AUX-PASS 5|24|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|12|CC 10|12|CASE 11|12|DET 12|8|CONJ 13|16|CC 14|16|CASE 15|16|DET 16|12|CONJ 17|20|CC 18|20|CASE 19|20|NMOD-POSS 20|16|CONJ 21|24|CC 22|24|CASE 23|24|NMOD-POSS 24|20|CONJ 25|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	no this toy is found inside yourself . 
+%mor:	intj|no det|this-Def-Dem-Sing noun|toy aux|be-Fin-Ind-Pres-S3 verb|find-Part-Past-S-irr adp|inside pron|yourself-Prs-Acc-reflx-S2 .
+%gra:	1|5|DISCOURSE 2|3|DET 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	it's there right now a toy sensation your very own imagination . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|there adv|right adv|now det|a-Ind-Art noun|toy noun|sensation pron|your-Prs-Gen-S2 adv|very adj|own-S1 noun|imagination .
+%gra:	1|3|NSUBJ 2|3|COP 3|12|ROOT 4|5|ADVMOD 5|8|ADVMOD 6|8|DET 7|8|COMPOUND 8|3|PARATAXIS 9|12|NMOD-POSS 10|11|ADVMOD 11|12|AMOD 12|8|APPOS 13|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	the end . 
+%mor:	det|the-Def-Art noun|end .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	ah . 
+%mor:	intj|ah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	yeah yee . 
+%mor:	intj|yeah propn|yee .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	d(o) you like that one ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|like-Inf-S det|that-Def-Dem-Sing noun|one-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	okay one more . 
+%mor:	intj|okay num|one adj|more-Cmp-S1 .
+%gra:	1|3|DISCOURSE 2|3|NUMMOD 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	Bear_Stays_up_For_Christmas . 
+%mor:	propn|BearStaysupForChristmas .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	the day before Christmas snuggle at his floor Bear sleeps soundly with a great big snore . 
+%mor:	det|the-Def-Art noun|day sconj|before propn|Christmas verb|snuggle-Fin-Ind-Pres-S3 adp|at pron|his-Prs-Gen-S3 noun|floor propn|bear verb|sleep-Fin-Ind-Pres-S3 adv|soundly adp|with det|a-Ind-Art adj|great-S1 adj|big-S1 noun|snore .
+%gra:	1|2|DET 2|10|OBL-UNMARKED 3|5|MARK 4|5|NSUBJ 5|2|ACL 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|10|NSUBJ 10|16|ROOT 11|10|ADVMOD 12|16|CASE 13|16|DET 14|16|AMOD 15|16|AMOD 16|10|OBL 17|10|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	dear Bear get up , Mouse shouts in his ear , we won't let you sleep through Christmas this year . 
+%mor:	adj|dear-S1 noun|bear verb|get-Fin-S adp|up cm|cm noun|mouse verb|shout-Fin-Ind-Pres-S3 adp|in pron|his-Prs-Gen-S3 noun|ear cm|cm pron|we-Prs-Nom-P1 aux|will-Fin-S~part|not verb|let-Inf-S pron|you-Prs-Acc-S2 verb|sleep-Inf-S adp|through propn|Christmas det|this-Def-Dem-Sing noun|year .
+%gra:	1|2|AMOD 2|3|NSUBJ 3|21|ROOT 4|3|COMPOUND-PRT 5|7|PUNCT 6|7|NSUBJ 7|3|PARATAXIS 8|10|CASE 9|10|NMOD-POSS 10|7|OBL 11|15|PUNCT 12|15|NSUBJ 13|15|AUX 14|15|ADVMOD 15|3|PARATAXIS 16|15|OBJ 17|15|XCOMP 18|19|CASE 19|17|OBL 20|21|DET 21|17|OBL-UNMARKED 22|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	his friends were all there gathered in his lair and the Bear wakes up . 
+%mor:	pron|his-Prs-Gen-S3 noun|friend-Plur aux|be-Fin-Ind-Past-P3-irr adv|all adv|there verb|gather-Part-Past-S adp|in pron|his-Prs-Gen-S3 noun|lair cconj|and det|the-Def-Art propn|bear verb|wake-Fin-Ind-Pres-S3 adp|up .
+%gra:	1|2|NMOD-POSS 2|6|NSUBJ-PASS 3|6|AUX-PASS 4|6|ADVMOD 5|6|ADVMOD 6|14|ROOT 7|9|CASE 8|9|NMOD-POSS 9|6|OBL 10|13|CC 11|12|DET 12|13|NSUBJ 13|6|CONJ 14|13|COMPOUND-PRT 15|6|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	he stands up with a stretch and a great big sigh , I hope I can make it , I do want to try . 
+%mor:	pron|he-Prs-Nom-S3 verb|stand-Fin-Ind-Pres-S3 adp|up adp|with det|a-Ind-Art noun|stretch cconj|and det|a-Ind-Art adj|great-S1 adj|big-S1 noun|sigh cm|cm pron|I-Prs-Nom-S1 verb|hope-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1 aux|can-Fin-S verb|make-Inf-S pron|it-Prs-Acc-S3 cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1 verb|want-Inf-S part|to verb|try-Inf-S .
+%gra:	1|2|NSUBJ 2|24|ROOT 3|2|COMPOUND-PRT 4|6|CASE 5|6|DET 6|2|OBL 7|11|CC 8|11|DET 9|11|AMOD 10|11|AMOD 11|6|CONJ 12|14|PUNCT 13|14|NSUBJ 14|2|PARATAXIS 15|17|NSUBJ 16|17|AUX 17|14|CCOMP 18|17|OBJ 19|22|PUNCT 20|22|NSUBJ 21|22|AUX 22|2|PARATAXIS 23|24|MARK 24|22|XCOMP 25|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	don't worry squeaks Mouse , it's alright we'll keep you busy all day and all night . 
+%mor:	aux|do-Fin-Imp-S~part|not verb|worry-Fin-Imp-S verb|squeak-Fin-Ind-Pres-S3 propn|Mouse-Acc cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|alright-S1 pron|we-Prs-Nom-P1~aux|will-Fin-S verb|keep-Inf-S pron|you-Prs-Acc-S2 adj|busy-S1 det|all-Def-Tot noun|day cconj|and det|all-Def-Tot noun|night .
+%gra:	1|3|AUX 2|3|ADVMOD 3|19|ROOT 4|3|XCOMP 5|4|OBJ 6|9|PUNCT 7|9|EXPL 8|9|COP 9|3|PARATAXIS 10|12|NSUBJ 11|12|AUX 12|9|PARATAXIS 13|12|OBJ 14|12|XCOMP 15|16|DET 16|12|OBL-UNMARKED 17|19|CC 18|19|DET 19|16|CONJ 20|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	he tries to lie down but his friends all grown so the bear stays up . 
+%mor:	pron|he-Prs-Nom-S3 verb|try-Fin-Ind-Pres-S3 part|to verb|lie-Inf-S adp|down cconj|but pron|his-Prs-Gen-S3 noun|friend-Plur det|all-Def-Tot verb|grow-Fin-Ind-Past-P3-irr sconj|so det|the-Def-Art noun|bear verb|stay-Fin-Ind-Pres-S3 adp|up .
+%gra:	1|2|NSUBJ 2|15|ROOT 3|4|MARK 4|2|XCOMP 5|4|COMPOUND-PRT 6|10|CC 7|8|NMOD-POSS 8|10|NSUBJ 9|8|DET 10|2|CONJ 11|14|MARK 12|13|DET 13|14|NSUBJ 14|10|ADVCL 15|14|COMPOUND-PRT 16|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	come on says Badger time to follow me in Pine_Grove_Glen there's a fine Christmas tree . 
+%mor:	verb|come-Fin-Imp-S adp|on verb|say-Fin-Ind-Pres-S3 propn|Badger noun|time part|to verb|follow-Inf-S pron|I-Prs-Acc-S1 adp|in propn|PineGroveGlen pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|fine-S1 propn|Christmas noun|tree .
+%gra:	1|16|ROOT 2|1|COMPOUND-PRT 3|1|XCOMP 4|5|COMPOUND 5|12|NSUBJ 6|7|MARK 7|5|ACL 8|7|OBJ 9|10|CASE 10|7|OBL 11|12|EXPL 12|3|CCOMP 13|16|DET 14|16|AMOD 15|16|COMPOUND 16|12|NSUBJ 17|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	so they stomped through the woods and they tromped down the track they hoist up the tree onto Bear's big back . 
+%mor:	adv|so pron|they-Prs-Nom-P3 verb|stomp-Fin-Ind-Past-P3 adp|through det|the-Def-Art noun|wood-Plur cconj|and pron|they-Prs-Nom-P3 verb|tromp-Fin-Ind-Past-P3 adp|down det|the-Def-Art noun|track pron|they-Prs-Nom-P3 verb|hoist-Fin-Ind-Pres-P3 adp|up det|the-Def-Art noun|tree-Acc adp|onto propn|bear~part|s adj|big-S1 noun|back .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|22|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|9|CC 8|9|NSUBJ 9|3|CONJ 10|12|CASE 11|12|DET 12|9|OBL 13|14|NSUBJ 14|3|CONJ 15|14|COMPOUND-PRT 16|17|DET 17|14|OBJ 18|22|CASE 19|22|NMOD-POSS 20|19|CASE 21|22|AMOD 22|14|OBL 23|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	he plods very slow as they press through the snow but the Bear stays up . 
+%mor:	pron|he-Prs-Nom-S3 verb|plod-Fin-Ind-Pres-S3 adv|very adj|slow-S1 sconj|as pron|they-Prs-Nom-P3 verb|press-Fin-Ind-Pres-P3 adp|through det|the-Def-Art noun|snow cconj|but det|the-Def-Art propn|bear verb|stay-Fin-Ind-Pres-S3 adp|up .
+%gra:	1|2|NSUBJ 2|15|ROOT 3|4|ADVMOD 4|2|ADVMOD 5|7|MARK 6|7|NSUBJ 7|2|ADVCL 8|10|CASE 9|10|DET 10|7|OBL 11|14|CC 12|13|DET 13|14|NSUBJ 14|2|CONJ 15|14|COMPOUND-PRT 16|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	back at the cave Gopher brews mint tea and Mole pops corn to string up on the tree . 
+%mor:	adv|back adp|at det|the-Def-Art noun|cave propn|Gopher verb|brew-Fin-Ind-Pres-S3 noun|mint noun|tea-Acc cconj|and propn|Mole verb|pop-Fin-Ind-Pres-S3 noun|corn-Acc part|to verb|string-Ger-S adp|up adp|on det|the-Def-Art noun|tree .
+%gra:	1|6|ADVMOD 2|4|CASE 3|4|DET 4|1|OBL 5|6|NSUBJ 6|18|ROOT 7|8|COMPOUND 8|6|OBJ 9|11|CC 10|11|NSUBJ 11|6|CONJ 12|11|OBJ 13|14|MARK 14|11|ADVCL 15|14|COMPOUND-PRT 16|18|CASE 17|18|DET 18|14|OBL 19|6|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Raven and Wren bake a fresh fruit cake the friends do their best to keep Bear awake . 
+%mor:	propn|Raven cconj|and propn|Wren verb|bake-Fin-Ind-Pres-P3 det|a-Ind-Art adj|fresh-S1 noun|fruit noun|cake-Acc det|the-Def-Art noun|friend-Plur verb|do-Fin-Ind-Pres-P3 pron|their-Prs-Gen-P3 adj|good-Sup-S1 part|to verb|keep-Inf-S noun|bear-Acc adv|awake .
+%gra:	1|4|NSUBJ 2|3|CC 3|1|CONJ 4|17|ROOT 5|8|DET 6|8|AMOD 7|8|COMPOUND 8|4|OBJ 9|10|DET 10|11|NSUBJ 11|4|PARATAXIS 12|13|NMOD-POSS 13|11|OBJ 14|15|MARK 15|11|ADVCL 16|15|OBJ 17|15|ADVMOD 18|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	his shoulders start to stoop and his eyelids droop but the Bear stays up . 
+%mor:	pron|his-Prs-Gen-S3 noun|shoulder-Plur verb|start-Fin-Ind-Pres-P3 part|to verb|stake-Inf-S cconj|and pron|his-Prs-Gen-S3 noun|eyelid-Plur verb|driop-Fin-Ind-Pres-P3 cconj|but det|the-Def-Art propn|bear verb|stay-Fin-Ind-Pres-S3 adp|up .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|14|ROOT 4|5|MARK 5|3|XCOMP 6|9|CC 7|8|NMOD-POSS 8|9|NSUBJ 9|3|CONJ 10|13|CC 11|12|DET 12|13|NSUBJ 13|3|CONJ 14|13|COMPOUND-PRT 15|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	they hang up their stockings by warm fire light and hum Christmas songs like O_Holy_Night . 
+%mor:	pron|they-Prs-Nom-P3 verb|hang-Fin-Ind-Pres-P3 adp|up pron|their-Prs-Gen-P3 noun|stocking-Plur-Acc adp|by adj|warm-S1 noun|fire noun|light cconj|and verb|hum-Fin-Ind-Pres-P3 propn|Christmas noun|song-Plur-Acc adp|like propn|OHolyNight .
+%gra:	1|2|NSUBJ 2|15|ROOT 3|2|COMPOUND-PRT 4|5|NMOD-POSS 5|2|OBJ 6|9|CASE 7|9|AMOD 8|9|COMPOUND 9|2|OBL 10|11|CC 11|2|CONJ 12|13|COMPOUND 13|11|OBJ 14|15|CASE 15|13|NMOD 16|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	they cuddle and sing as they wait for the sun . 
+%mor:	pron|they-Prs-Nom-P3 verb|cuddle-Fin-Ind-Pres-P3 cconj|and verb|sing-Fin-Ind-Pres-P3 sconj|as pron|they-Prs-Nom-P3 verb|wait-Fin-Ind-Pres-P3 adp|for det|the-Def-Art noun|sun .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|4|CC 4|2|CONJ 5|7|MARK 6|7|NSUBJ 7|2|ADVCL 8|10|CASE 9|10|DET 10|7|OBL 11|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	but soon all the voices fade to just one , a bright star glows while his friends doze but the Bear stays up . 
+%mor:	cconj|but adv|soon det|all-Def-Tot det|the-Def-Art noun|voice-Plur verb|fade-Fin-Ind-Pres-P3 adp|to adv|just num|one cm|cm det|a-Ind-Art adj|bright-S1 noun|star verb|glow-Fin-Ind-Pres-S3 sconj|while pron|his-Prs-Gen-S3 noun|friend-Plur verb|do-Fin-Ind-Pres-P3 cconj|but det|the-Def-Art propn|bear verb|stay-Fin-Ind-Pres-S3 adp|up .
+%gra:	1|6|CC 2|6|ADVMOD 3|5|DET-PREDET 4|5|DET 5|6|NSUBJ 6|23|ROOT 7|9|CASE 8|9|ADVMOD 9|6|OBL 10|14|PUNCT 11|13|DET 12|13|AMOD 13|14|NSUBJ 14|6|PARATAXIS 15|18|MARK 16|17|NMOD-POSS 17|18|NSUBJ 18|14|ADVCL 19|22|CC 20|21|DET 21|22|NSUBJ 22|6|CONJ 23|22|COMPOUND-PRT 24|6|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Bear giggles and grins , he works and he wraps , he bustles and bakes while everyone naps . 
+%mor:	verb|bear-Fin-Imp-S noun|giggle-Plur-Acc cconj|and noun|grin-Plur cm|cm pron|he-Prs-Nom-S3 verb|work-Fin-Ind-Pres-S3 cconj|and pron|he-Prs-Nom-S3 verb|wrap-Fin-Ind-Pres-S3 cm|cm pron|he-Prs-Nom-S3 verb|bustle-Fin-Ind-Pres-S3 cconj|and verb|bake-Fin-Ind-Pres-S3 sconj|while pron|everyone-Tot-S1 verb|nap-Fin-Ind-Pres-S3 .
+%gra:	1|18|ROOT 2|1|OBJ 3|4|CC 4|2|CONJ 5|7|PUNCT 6|7|NSUBJ 7|1|PARATAXIS 8|10|CC 9|10|NSUBJ 10|1|CONJ 11|13|PUNCT 12|13|NSUBJ 13|1|PARATAXIS 14|15|CC 15|13|CONJ 16|18|MARK 17|18|NSUBJ 18|13|ADVCL 19|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	who's that ? 
+%mor:	pron|who-Int~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	who's that ? 
+%mor:	pron|who-Int~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	Santa . 
+%mor:	propn|Santa .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	Santa yeah . 
+%mor:	propn|Santa intj|yeah .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	he piles up presents under the tree but who's at the doorway ?
+%mor:	pron|he-Prs-Nom-S3 verb|pile-Fin-Ind-Pres-S3 adp|up noun|present-Plur-Acc adp|under det|the-Def-Art noun|tree cconj|but pron|who-Rel~aux|be-Fin-Ind-Pres-S3 adp|at det|the-Def-Art noun|doorway ?
+%gra:	1|2|NSUBJ 2|13|ROOT 3|2|COMPOUND-PRT 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|13|CC 9|13|NSUBJ 10|13|COP 11|13|CASE 12|13|DET 13|2|CONJ 14|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Bear doesn't see . 
+%mor:	noun|bear aux|do-Fin-Ind-Pres-S3~part|not verb|see-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*FA1:	he toils all night until the sun rises making his friends their Christmas surprises . 
+%mor:	pron|he-Prs-Nom-S3 verb|toil-Fin-Ind-Pres-S3 det|all-Def-Tot noun|night sconj|until det|the-Def-Art noun|sun verb|rise-Fin-Ind-Pres-S3 verb|make-Ger-S pron|his-Prs-Gen-S3 noun|friend-Plur pron|their-Prs-Gen-P3 propn|Christmas noun|surprise-Plur-Acc .
+%gra:	1|2|NSUBJ 2|14|ROOT 3|4|DET 4|2|OBL-UNMARKED 5|8|MARK 6|7|DET 7|8|NSUBJ 8|2|ADVCL 9|8|XCOMP 10|11|NMOD-POSS 11|9|IOBJ 12|14|NMOD-POSS 13|14|COMPOUND 14|9|OBJ 15|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	just before dawn he lets out a yawn but he still stays up . 
+%mor:	adv|just adp|before noun|dawn pron|he-Prs-Nom-S3 verb|let-Fin-Ind-Pres-S3 adp|out det|a-Ind-Art noun|yawn-Acc cconj|but pron|he-Prs-Nom-S3 adv|still verb|stay-Fin-Ind-Pres-S3 adp|up .
+%gra:	1|3|ADVMOD 2|3|CASE 3|5|OBL 4|5|NSUBJ 5|13|ROOT 6|5|COMPOUND-PRT 7|8|DET 8|5|OBJ 9|12|CC 10|12|NSUBJ 11|12|ADVMOD 12|5|CONJ 13|12|COMPOUND-PRT 14|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	when Christmas arrives so lovely and white . 
+%mor:	adv|when propn|Christmas verb|arrive-Fin-Ind-Pres-S3 adv|so adj|lovely-S1 cconj|and adj|white-S1 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|7|ROOT 4|5|ADVMOD 5|3|XCOMP 6|7|CC 7|5|CONJ 8|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Bear's friends awake to a glorious sight . 
+%mor:	noun|bear~part|s noun|friend-Plur adv|awake adp|to det|a-Ind-Art adj|glorious-S1 noun|sight .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|8|ROOT 4|3|ADVMOD 5|8|CASE 6|8|DET 7|8|AMOD 8|4|OBL 9|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	aier [: Bear] stay up . 
+%mor:	noun|bear verb|stay-Fin-Imp-S adp|up .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT
+%cod:	$xds:A
+*FA1:	presents and goodies are piled up tall .
+%mor:	noun|present-Plur cconj|and noun|goody-Plur aux|be-Fin-Ind-Pres-P3 verb|pile-Part-Past-S adp|up adj|tall-S1 .
+%gra:	1|5|NSUBJ-PASS 2|3|CC 3|1|CONJ 4|5|AUX-PASS 5|7|ROOT 6|5|COMPOUND-PRT 7|5|XCOMP 8|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	I stayed up says Bear just to share with you all . 
+%mor:	pron|I-Prs-Nom-S1 verb|stay-Fin-Ind-Past-S1 adp|up verb|say-Fin-Ind-Pres-S3 noun|bear-Acc adv|just part|to verb|share-Inf-S adp|with pron|you-Prs-Acc-S2 det|all-Def-Tot .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|2|COMPOUND-PRT 4|2|XCOMP 5|4|OBJ 6|8|ADVMOD 7|8|MARK 8|4|XCOMP 9|10|CASE 10|8|OBL 11|8|ADVMOD 12|2|PUNCT
+*FA1:	as his friends shout out with glee Bear lies by the tree but he still stays up . 
+%mor:	sconj|as pron|his-Prs-Gen-S3 noun|friend-Plur verb|shout-Fin-Ind-Pres-P3 adp|out adp|with noun|glee propn|bear verb|lie-Fin-Ind-Pres-S3 adp|by det|the-Def-Art noun|tree cconj|but pron|he-Prs-Nom-S3 adv|still verb|stay-Fin-Ind-Pres-S3 adp|up .
+%gra:	1|4|MARK 2|3|NMOD-POSS 3|4|NSUBJ 4|9|ADVCL 5|4|COMPOUND-PRT 6|7|CASE 7|4|OBL 8|9|NSUBJ 9|17|ROOT 10|12|CASE 11|12|DET 12|9|OBL 13|16|CC 14|16|NSUBJ 15|16|ADVMOD 16|9|CONJ 17|16|COMPOUND-PRT 18|9|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	they opening presents ? 
+%mor:	pron|they-Prs-Nom-P3 verb|open-Part-Pres-S noun|present-Plur-Acc ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	Wren flies to the stocking and tweets out a cheer besides our Bear's presents Santa was here ! 
+%mor:	propn|Wren verb|fly-Fin-Ind-Pres-S3 adp|to det|the-Def-Art noun|stock-Ger cconj|and verb|tweet-Fin-Ind-Pres-S3 adp|out det|a-Ind-Art noun|cheer-Acc adp|besides pron|our-Prs-Gen-P1 propn|bear~part|s noun|present-Plur propn|Santa aux|be-Fin-Ind-Past-S3-irr adv|here !
+%gra:	1|2|NSUBJ 2|18|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|7|CC 7|2|CONJ 8|7|COMPOUND-PRT 9|10|DET 10|7|OBJ 11|15|CASE 12|13|NMOD-POSS 13|15|NMOD-POSS 14|13|CASE 15|10|NMOD 16|18|NSUBJ 17|18|COP 18|2|PARATAXIS 19|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	when all gifts are opened there's one last surprise .
+%mor:	adv|when det|all-Def-Tot noun|gift-Plur aux|be-Fin-Ind-Pres-P3 verb|open-Part-Past-S pron|there-Int-S1~aux|be-Fin-Ind-Pres-S3 num|one adj|last-S1 noun|surprise .
+%gra:	1|5|ADVMOD 2|3|DET 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|7|ADVCL 6|7|EXPL 7|10|ROOT 8|10|NUMMOD 9|10|AMOD 10|7|NSUBJ 11|7|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Badger shows Bear a quilt just his size . 
+%mor:	propn|Badger verb|show-Fin-Ind-Pres-S3 verb|bear-Inf-S det|a-Ind-Art noun|quilt-Acc adv|just pron|his-Prs-Gen-S3 noun|size .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|2|XCOMP 4|5|DET 5|3|OBJ 6|8|ADVMOD 7|8|NMOD-POSS 8|3|OBL-UNMARKED 9|2|PUNCT
+*FA1:	Bear snuggles up tight and mutters good night . 
+%mor:	noun|bear verb|snuggle-Fin-Ind-Pres-S3 adp|up adj|tight-S1 cconj|and verb|mutter-Fin-Ind-Pres-S3 adj|good-S1 noun|night-Acc .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|2|COMPOUND-PRT 4|2|XCOMP 5|6|CC 6|2|CONJ 7|8|AMOD 8|6|OBJ 9|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	then Bear falls asleep . 
+%mor:	adv|then noun|bear verb|fall-Fin-Ind-Pres-S3 adj|asleep-S1 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	his friends tidy up and slip from the lair they whisper sweet dreams Merry Christmas dear Bear . 
+%mor:	pron|his-Prs-Gen-S3 noun|friend-Plur verb|tidy-Fin-Ind-Pres-P3 adp|up cconj|and verb|slip-Fin-Ind-Pres-P3 adp|from det|the-Def-Art noun|lair pron|they-Prs-Nom-P3 verb|whisper-Fin-Ind-Pres-P3 adj|sweet-S1 noun|dream-Plur-Acc propn|merry propn|Christmas adj|dear-S1 propn|bear .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|17|ROOT 4|3|COMPOUND-PRT 5|6|CC 6|3|CONJ 7|9|CASE 8|9|DET 9|6|OBL 10|11|NSUBJ 11|9|ACL-RELCL 12|13|AMOD 13|11|OBJ 14|15|COMPOUND 15|13|APPOS 16|17|AMOD 17|13|APPOS 18|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	the end . 
+%mor:	det|the-Def-Art noun|end .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	yay . 
+%mor:	intj|yay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	alright kiddo . 
+%mor:	intj|alright noun|kiddo .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	all done . 
+%mor:	det|all-Def-Tot verb|do-Part-Past-S-irr .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+@End

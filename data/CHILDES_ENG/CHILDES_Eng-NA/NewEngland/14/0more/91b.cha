@@ -1,0 +1,221 @@
+@UTF8
+@PID:	11312/a-00098077-0
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother, CHI Target_Child
+@ID:	eng|NewEngland|MOT|||||Mother|||
+@ID:	eng|NewEngland|CHI|||||Target_Child|||
+@Media:	91b, video
+@Comment:	Batchalign 0.7.21-post.11, ASR Engine rev. Unchecked output of ASR model.
+@Types:	long, toyplay, TD
+*MOT:	come now stop filming car .
+%mor:	verb|come-Fin-Imp-S adv|now verb|stop-Fin-Imp-S noun|filming-Ger noun|car-Acc .
+%gra:	1|5|ROOT 2|1|ADVMOD 3|1|PARATAXIS 4|5|COMPOUND 5|3|OBJ 6|1|PUNCT
+*MOT:	thank you .
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	what don't .
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S3~part|not .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*MOT:	they said .
+%mor:	pron|they-Prs-Nom-P3 verb|say-Fin-Ind-Past-P3-irr .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	do this .
+%mor:	verb|do-Fin-Imp-S pron|this-Dem-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	<it's not> [/] it's not funny .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adj|funny-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*MOT:	no it's not funny .
+%mor:	intj|no pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adj|funny-S1 .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+*MOT:	look watch mikey Mikey watch what do it .
+%mor:	verb|look-Fin-Imp-S verb|watch-Inf-S propn|mikey-Acc propn|Mikey verb|watch-Inf-S pron|what-Int-S1 aux|do-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|8|ROOT 2|1|XCOMP 3|2|OBJ 4|3|FLAT 5|2|XCOMP 6|7|NSUBJ 7|5|CCOMP 8|7|NSUBJ 9|1|PUNCT
+*MOT:	can you turn it huh .
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|turn-Inf-S pron|it-Prs-Acc-S3 intj|huh .
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|XCOMP 6|3|PUNCT
+*MOT:	little ball Jack in the box lock block [/] block .
+%mor:	adj|little-S1 noun|ball propn|Jack adp|in det|the-Def-Art noun|box noun|lock noun|block .
+%gra:	1|2|AMOD 2|8|ROOT 3|2|APPOS 4|8|CASE 5|8|DET 6|8|COMPOUND 7|8|COMPOUND 8|2|NMOD 9|2|PUNCT
+*MOT:	look at the no [/] no .
+%mor:	verb|look-Fin-Imp-S adp|at det|the-Def-Art intj|no .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|DISCOURSE 5|1|PUNCT
+*MOT:	oh [/] oh the boy got look at the chair .
+%mor:	intj|oh det|the-Def-Art noun|boy verb|get-Fin-Ind-Past-S3-irr verb|look-Inf-S adp|at det|the-Def-Art noun|chair .
+%gra:	1|4|DISCOURSE 2|3|DET 3|4|NSUBJ 4|8|ROOT 5|4|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|4|PUNCT
+*MOT:	kiss her .
+%mor:	verb|kiss-Fin-Imp-S pron|her-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	get up .
+%mor:	verb|get-Fin-Imp-S adp|up .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+*MOT:	that's funny huh .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|funny-S1 intj|huh .
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|VOCATIVE 5|3|PUNCT
+*MOT:	no [/] no [/] no [/] no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	don't throw I are you tearing our place apart I'm touching it sorry .
+%mor:	aux|do-Fin-Imp-S~part|not verb|throw-Fin-Imp-S pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|tear-Part-Pres-S pron|our-Prs-Gen-P1 noun|place-Acc adv|apart pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|touch-Part-Pres-S pron|it-Prs-Acc-S3 adj|sorry-S1 .
+%gra:	1|3|AUX 2|3|ADVMOD 3|15|ROOT 4|7|NSUBJ 5|7|AUX 6|7|NSUBJ 7|3|CCOMP 8|9|NMOD-POSS 9|7|OBJ 10|7|ADVMOD 11|13|NSUBJ 12|13|AUX 13|3|PARATAXIS 14|13|OBJ 15|13|XCOMP 16|3|PUNCT
+*MOT:	can I move this no .
+%mor:	aux|can-Fin-S pron|I-Prs-Nom-S1 verb|move-Inf-S pron|this-Dem-S1 intj|no .
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|DISCOURSE 6|3|PUNCT
+*MOT:	oh just by his hands yeah .
+%mor:	intj|oh adv|just adp|by pron|his-Prs-Gen-S3 noun|hand-Plur intj|yeah .
+%gra:	1|5|DISCOURSE 2|5|ADVMOD 3|5|CASE 4|5|NMOD-POSS 5|6|ROOT 6|5|DISCOURSE 7|5|PUNCT
+*MOT:	he's big is he big for him age I think he's pretty much normal .
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|big-S1 aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 adj|big-S1 adp|for pron|he-Prs-Acc-S3 noun|age pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|pretty adv|much adj|normal-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|16|ROOT 4|6|COP 5|6|NSUBJ 6|3|PARATAXIS 7|9|CASE 8|6|OBL 9|6|OBL 10|11|NSUBJ 11|3|PARATAXIS 12|16|NSUBJ 13|16|COP 14|15|ADVMOD 15|16|ADVMOD 16|11|CCOMP 17|3|PUNCT
+*MOT:	he big I play baby okay .
+%mor:	pron|he-Prs-Nom-S3 adj|big-S1 pron|I-Prs-Nom-S1 verb|play-Fin-Ind-Pres-S1 noun|baby-Acc intj|okay .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|NSUBJ 4|2|CCOMP 5|4|OBJ 6|2|DISCOURSE 7|2|PUNCT
+*MOT:	that was hard enough .
+%mor:	pron|that-Dem aux|be-Fin-Ind-Past-S3-irr adj|hard-S1 adv|enough .
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*MOT:	was it [/] it wasn't too bad though but you didn't cry no .
+%mor:	aux|be-Fin-Ind-Past-S3-irr pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr~part|not adv|too adj|bad-S1 adv|though cconj|but pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Past-S2-irr~part|not verb|cry-Inf-S intj|no .
+%gra:	1|6|COP 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|6|ADVMOD 6|13|ROOT 7|6|ADVMOD 8|12|CC 9|12|NSUBJ 10|12|AUX 11|12|ADVMOD 12|6|CONJ 13|6|DISCOURSE 14|6|PUNCT
+*MOT:	what we'd like to do next is to watch you and Michael playing together for about ten minutes .
+%mor:	pron|what-Int-S1 pron|we-Prs-Nom-P1~aux|would-Fin-S verb|like-Inf-S part|to verb|do-Inf-S adv|next aux|be-Fin-Ind-Pres-S3 part|to verb|watch-Inf-S pron|you-Prs-Acc-S2 cconj|and propn|Michael verb|play-Ger-S adv|together adp|for adv|about num|ten noun|minute-Plur .
+%gra:	1|10|NSUBJ-OUTER 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|6|MARK 6|4|XCOMP 7|6|ADVMOD 8|10|COP 9|10|MARK 10|19|ROOT 11|10|OBJ 12|13|CC 13|11|CONJ 14|10|XCOMP 15|14|ADVMOD 16|19|CASE 17|18|ADVMOD 18|19|NUMMOD 19|14|OBL 20|10|PUNCT
+*MOT:	and the way I'm gonna do that is that we have four boxes there .
+%mor:	cconj|and det|the-Def-Art noun|way pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|do-Inf-S pron|that-Dem aux|be-Fin-Ind-Pres-S3 sconj|that pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 num|four noun|box-Plur-Acc adv|there .
+%gra:	1|12|CC 2|3|DET 3|12|NSUBJ-OUTER 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|3|ACL-RELCL 8|7|OBJ 9|12|COP 10|12|MARK 11|12|NSUBJ 12|15|ROOT 13|14|NUMMOD 14|12|OBJ 15|12|ADVMOD 16|12|PUNCT
+*MOT:	one's a ball one's a little towel with Peekaboo with one's Crans and paper .
+%mor:	pron|one-Prs-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|ball noun|one~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|little-S1 noun|towel adp|with propn|Peekaboo adp|with pron|one-Prs-S3~part|s propn|Crans cconj|and noun|paper .
+%gra:	1|9|NSUBJ 2|9|COP 3|5|DET 4|5|COMPOUND 5|9|NSUBJ 6|9|COP 7|9|DET 8|9|AMOD 9|17|ROOT 10|11|CASE 11|9|NMOD 12|15|CASE 13|15|NMOD-POSS 14|13|CASE 15|9|NMOD 16|17|CC 17|15|CONJ 18|9|PUNCT
+*MOT:	and one's a book .
+%mor:	cconj|and pron|one-Prs-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|book .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+*MOT:	so if you could just go through from the top and work your way down and do all four games with him in about you know we'll leave you in about ten minutes .
+%mor:	adv|so sconj|if pron|you-Prs-Nom-S2 aux|could-Fin-S adv|just verb|go-Inf-S adp|through adp|from det|the-Def-Art noun|top cconj|and verb|work-Inf-S pron|your-Prs-Gen-S2 noun|way-Acc adp|down cconj|and verb|do-Inf-Imp-S det|all-Def-Tot num|four noun|game-Plur-Acc adp|with pron|he-Prs-Acc-S3 adp|in sconj|about pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|we-Prs-Nom-P1~aux|will-Fin-S verb|leave-Inf-S pron|you-Prs-Acc-S2 adp|in adv|about num|ten noun|minute-Plur .
+%gra:	1|29|ADVMOD 2|6|MARK 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|29|ADVCL 7|6|OBL 8|10|CASE 9|10|DET 10|6|OBL 11|12|CC 12|6|CONJ 13|14|NMOD-POSS 14|12|OBJ 15|12|COMPOUND-PRT 16|17|CC 17|12|CONJ 18|20|DET 19|20|NUMMOD 20|17|OBJ 21|22|CASE 22|17|OBL 23|17|OBL 24|26|MARK 25|26|NSUBJ 26|17|ADVCL 27|29|NSUBJ 28|29|AUX 29|34|ROOT 30|29|OBJ 31|34|CASE 32|33|ADVMOD 33|34|NUMMOD 34|29|OBL 35|29|PUNCT
+*MOT:	begin and just put him back as you finished with him .
+%mor:	verb|begin-Fin-Imp-S cconj|and adv|just verb|put-Fin-Imp-S pron|he-Prs-Acc-S3 adv|back sconj|as pron|you-Prs-Nom-S2 verb|finish-Fin-Ind-Past-S2 adp|with pron|he-Prs-Acc-S3 .
+%gra:	1|11|ROOT 2|4|CC 3|4|ADVMOD 4|1|CONJ 5|4|OBJ 6|4|ADVMOD 7|9|MARK 8|9|NSUBJ 9|4|ADVCL 10|11|CASE 11|9|OBL 12|1|PUNCT
+*MOT:	so you just have one hour at a time .
+%mor:	adv|so pron|you-Prs-Nom-S2 adv|just verb|have-Fin-Ind-Pres-S2 num|one noun|hour-Acc adp|at det|a-Ind-Art noun|time .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|ADVMOD 4|9|ROOT 5|6|NUMMOD 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+*MOT:	and he doesn't have to sit in the chair .
+%mor:	cconj|and pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|have-Inf-S part|to verb|sit-Inf-S adp|in det|the-Def-Art noun|chair .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|10|ROOT 6|7|MARK 7|5|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|5|PUNCT
+*MOT:	he likes it though .
+%mor:	pron|he-Prs-Nom-S3 verb|like-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 adv|though .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+*MOT:	yeah oh I'm sorry .
+%mor:	intj|yeah intj|oh pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sorry-S1 .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+*MOT:	it's okay .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|okay-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	&-um over here is this surrogate arrangements yeah .
+%mor:	adv|over adv|here aux|be-Fin-Ind-Pres-S3 det|this-Def-Dem-Sing noun|surrogate noun|arrangement-Plur intj|yeah .
+%gra:	1|2|ADVMOD 2|7|ROOT 3|2|COP 4|6|DET 5|6|COMPOUND 6|2|NSUBJ 7|2|DISCOURSE 8|2|PUNCT
+*MOT:	what do you mean .
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|mean-Inf-S .
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*MOT:	just how much time does he spend like in daycare or with other people .
+%mor:	adv|just adv|how adj|much-S1 noun|time-Acc aux|do-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 verb|spend-Inf-S adp|like adp|in noun|daycare cconj|or adp|with adj|other-S1 noun|person-Plur .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|4|AMOD 4|7|OBJ 5|7|AUX 6|7|NSUBJ 7|14|ROOT 8|7|COMPOUND-PRT 9|10|CASE 10|7|OBL 11|14|CC 12|14|CASE 13|14|AMOD 14|10|CONJ 15|7|PUNCT
+*MOT:	other than you taking he said it home every day okay me okay .
+%mor:	adj|other-S1 sconj|than pron|you-Prs-Nom-S2 verb|take-Part-Pres-S pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr pron|it-Prs-Acc-S3 adv|home det|every-Def-Tot noun|day intj|okay pron|I-Prs-Acc-S1 intj|okay .
+%gra:	1|6|ADVMOD 2|4|MARK 3|4|NSUBJ 4|1|ADVCL 5|6|NSUBJ 6|13|ROOT 7|6|OBJ 8|6|ADVMOD 9|10|DET 10|6|OBL-UNMARKED 11|6|DISCOURSE 12|6|VOCATIVE 13|6|DISCOURSE 14|6|PUNCT
+*MOT:	well that's fine I don't have to say for that .
+%mor:	intj|well pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|have-Inf-S part|to verb|say-Inf-S adp|for pron|that-Dem .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|12|ROOT 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|4|CCOMP 9|10|MARK 10|8|XCOMP 11|12|CASE 12|10|OBL 13|4|PUNCT
+*MOT:	oh okay yeah .
+%mor:	intj|oh intj|okay intj|yeah .
+%gra:	1|2|DISCOURSE 2|3|ROOT 3|2|DISCOURSE 4|2|PUNCT
+*CHI:	where is that belly .
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|belly .
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*CHI:	where is <Michael's belly I see Michael's belly> [/] I see Michael's belly .
+%mor:	adv|where aux|be-Fin-Ind-Pres-S3 pron|I-Prs-Nom-S1 verb|see-Inf-S propn|Michael~part|s noun|belly-Acc .
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|7|NMOD-POSS 6|5|CASE 7|4|OBJ 8|4|PUNCT
+*MOT:	you look tan already .
+%mor:	pron|you-Prs-Nom-S2 verb|look-Fin-Ind-Pres-S2 noun|tan-Acc adv|already .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+*MOT:	you out the sun .
+%mor:	pron|you-Prs-Nom-S2 adp|out det|the-Def-Art noun|sun .
+%gra:	1|4|NSUBJ 2|4|CASE 3|4|DET 4|4|ROOT 5|4|PUNCT
+*MOT:	maybe an hour today .
+%mor:	adv|maybe det|a-Ind-Art noun|hour noun|today .
+%gra:	1|3|ADVMOD 2|3|DET 3|4|ROOT 4|3|NMOD-UNMARKED 5|3|PUNCT
+*MOT:	really he looks great .
+%mor:	adv|really pron|he-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adj|great-S1 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+*MOT:	my little girl she's dark already she gets she tan .
+%mor:	pron|my-Prs-Gen-S1 adj|little-S1 noun|girl pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|dark-S1 adv|already pron|she-Prs-Nom-S3 verb|get-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 verb|tan-Fin-Ind-Pres-S3 .
+%gra:	1|3|NMOD-POSS 2|3|AMOD 3|9|NSUBJ-OUTER 4|6|NSUBJ 5|6|COP 6|3|ACL-RELCL 7|6|ADVMOD 8|9|NSUBJ 9|11|ROOT 10|11|NSUBJ 11|9|PARATAXIS 12|9|PUNCT
+*MOT:	she's lucky .
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|lucky-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	yeah twenty something like that okay .
+%mor:	intj|yeah num|twenty pron|something-Ind-S1 adp|like pron|that-Dem intj|okay .
+%gra:	1|3|DISCOURSE 2|3|NUMMOD 3|6|ROOT 4|5|CASE 5|3|NMOD 6|3|DISCOURSE 7|3|PUNCT
+*MOT:	if you could just lift him out of the chair .
+%mor:	sconj|if pron|you-Prs-Nom-S2 aux|could-Fin-S adv|just verb|lift-Inf-S pron|he-Prs-Acc-S3 adp|out adp|of det|the-Def-Art noun|chair .
+%gra:	1|5|MARK 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|10|ROOT 6|5|OBJ 7|10|CASE 8|10|CASE 9|10|DET 10|5|OBL 11|5|PUNCT
+*MOT:	so start with the ball and work your way down okay .
+%mor:	adv|so verb|start-Fin-Imp-S adp|with det|the-Def-Art noun|ball cconj|and verb|work-Fin-Imp-S pron|your-Prs-Gen-S2 noun|way-Acc adp|down adj|okay-S1 .
+%gra:	1|2|DISCOURSE 2|11|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|7|CC 7|2|CONJ 8|9|NMOD-POSS 9|7|OBJ 10|7|COMPOUND-PRT 11|7|XCOMP 12|2|PUNCT
+*MOT:	and I'll see you in ten minutes .
+%mor:	cconj|and pron|I-Prs-Nom-S1~aux|will-Fin-S verb|see-Inf-S pron|you-Prs-Acc-S2 adp|in num|ten noun|minute-Plur .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|4|OBJ 6|8|CASE 7|8|NUMMOD 8|4|OBL 9|4|PUNCT
+*MOT:	you gotta hold us I just always let it fall out .
+%mor:	pron|you-Prs-Nom-S2 aux|getta-Fin-S verb|hold-Inf-S pron|we-Prs-Acc-P1 pron|I-Prs-Nom-S1 adv|just adv|always verb|let-Fin-Ind-Past-S1-irr pron|it-Prs-Acc-S3 verb|fall-Inf-S adp|out .
+%gra:	1|3|NSUBJ 2|3|AUX 3|11|ROOT 4|3|OBJ 5|8|NSUBJ 6|8|ADVMOD 7|8|ADVMOD 8|3|PARATAXIS 9|8|OBJ 10|8|XCOMP 11|10|COMPOUND-PRT 12|3|PUNCT
+*MOT:	oh I just let the chair fall whatcha .
+%mor:	intj|oh pron|I-Prs-Nom-S1 adv|just verb|let-Fin-Ind-Past-S1-irr det|the-Def-Art noun|chair-Acc verb|fall-Inf-S intj|whatcha .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|8|ROOT 5|6|DET 6|4|OBJ 7|4|XCOMP 8|7|OBJ 9|4|PUNCT
+*MOT:	get it .
+%mor:	verb|get-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	oh give it to me here .
+%mor:	intj|oh verb|give-Fin-Imp-S pron|it-Prs-Acc-S3 adp|to pron|I-Prs-Acc-S1 adv|here .
+%gra:	1|2|DISCOURSE 2|6|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|2|ADVMOD 7|2|PUNCT
+*MOT:	here take get it .
+%mor:	adv|here verb|take-Fin-Imp-S verb|get-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|ROOT 2|1|COP 3|2|XCOMP 4|3|OBJ 5|1|PUNCT
+*MOT:	let's see .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*MOT:	oh a towel to do mikey oo .
+%mor:	intj|oh det|a-Ind-Art noun|towel part|to verb|do-Inf-S propn|mikey-Acc adv|oo .
+%gra:	1|3|DISCOURSE 2|3|DET 3|7|ROOT 4|5|MARK 5|3|ACL 6|5|OBJ 7|5|ADVMOD 8|3|PUNCT
+*MOT:	no not the box the towel Mikey not like that .
+%mor:	intj|no part|not det|the-Def-Art noun|box det|the-Def-Art noun|towel propn|Mikey part|not adp|like pron|that-Dem .
+%gra:	1|4|DISCOURSE 2|4|ADVMOD 3|4|DET 4|10|ROOT 5|6|DET 6|4|APPOS 7|6|APPOS 8|10|ADVMOD 9|10|CASE 10|4|NMOD 11|4|PUNCT
+*MOT:	oh fuck Micah hey guys yeah god stupid color .
+%mor:	intj|oh intj|fuck propn|Micah intj|hey noun|guy-Plur intj|yeah noun|god adj|stupid-S1 noun|color .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|9|ROOT 4|3|DISCOURSE 5|3|FLAT 6|9|DISCOURSE 7|9|DISCOURSE 8|9|AMOD 9|3|APPOS 10|3|PUNCT
+*MOT:	you want a color watch .
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 det|a-Ind-Art noun|color noun|watch-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+*MOT:	he's being silly .
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 aux|be-Part-Pres-S adj|silly-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|COP 4|4|ROOT 5|4|PUNCT
+*MOT:	it is silly .
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adj|silly-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	let see look mic donkey kit the donkey [/] donkey [/] donkey look Mikey look come here pigs .
+%mor:	verb|let-Fin-Imp-S verb|see-Inf-S noun|look noun|mic noun|donkey noun|kit-Acc det|the-Def-Art noun|donkey noun|look propn|Mikey verb|look-Inf-Imp-S verb|come-Inf-S adv|here noun|pig-Plur-Acc .
+%gra:	1|14|ROOT 2|1|XCOMP 3|6|COMPOUND 4|6|COMPOUND 5|6|COMPOUND 6|2|OBJ 7|9|DET 8|9|COMPOUND 9|12|NSUBJ 10|11|NSUBJ 11|9|ACL-RELCL 12|1|PARATAXIS 13|14|ADVMOD 14|12|OBJ 15|1|PUNCT
+*MOT:	why you going .
+%mor:	adv|why pron|you-Prs-Nom-S2 verb|go-Part-Pres-S .
+%gra:	1|3|ROOT 2|3|NSUBJ 3|1|ADVCL-RELCL 4|1|PUNCT
+*MOT:	come here see what is this .
+%mor:	verb|come-Fin-Imp-S adv|here verb|see-Fin-Imp-S pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 .
+%gra:	1|6|ROOT 2|1|ADVMOD 3|1|XCOMP 4|6|NSUBJ 5|6|COP 6|3|CCOMP 7|1|PUNCT
+*MOT:	a possum come on look .
+%mor:	det|a-Ind-Art noun|possum verb|come-Fin-Imp-S adp|on noun|look .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*MOT:	you don't want to even look at none of this stuff here .
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|want-Inf-S part|to adv|even verb|look-Inf-S adp|at pron|none-Neg-S1 adp|of det|this-Def-Dem-Sing noun|stuff adv|here .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|13|ROOT 5|7|MARK 6|7|ADVMOD 7|4|XCOMP 8|9|CASE 9|7|OBL 10|12|CASE 11|12|DET 12|9|NMOD 13|7|ADVMOD 14|4|PUNCT
+*MOT:	but look how just in eating the crayons huh .
+%mor:	cconj|but verb|look-Fin-Imp-S adv|how adv|just sconj|in verb|eat-Part-Pres-S det|the-Def-Art noun|crayon-Plur-Acc intj|huh .
+%gra:	1|2|CC 2|9|ROOT 3|2|OBJ 4|6|ADVMOD 5|6|MARK 6|2|ADVCL 7|8|DET 8|6|OBJ 9|8|APPOS 10|2|PUNCT
+@End

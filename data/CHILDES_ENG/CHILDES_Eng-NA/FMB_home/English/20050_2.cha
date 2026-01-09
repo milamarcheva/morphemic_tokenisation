@@ -1,0 +1,577 @@
+@UTF8
+@PID:	11312/a-00096658-0
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother, FAT Father, CHI Target_Child
+@ID:	eng|FMB_home|MOT||female|||Mother|||
+@ID:	eng|FMB_home|FAT||male|||Father|||
+@ID:	eng|FMB_home|CHI|2;00.|female|||Target_Child||20050|
+@Comment:	20050_Context2_30220
+@G:	ohs
+@Types:	long, everyday, TD
+*MOT:	xxx but the tie is like built look like , you know .
+%mor:	cconj|but det|the-Def-Art noun|tie aux|be-Fin-Ind-Pres-S3 intj|like verb|build-Part-Past-S-irr verb|look-Inf-S adp|like cm|cm pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%gra:	1|6|CC 2|3|DET 3|6|NSUBJ-PASS 4|6|AUX-PASS 5|6|DISCOURSE 6|11|ROOT 7|6|XCOMP 8|7|COMPOUND-PRT 9|11|PUNCT 10|11|NSUBJ 11|6|PARATAXIS 12|6|PUNCT
+*FAT:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	good .
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	very good , plenty good .
+%mor:	adv|very adj|good-S1 cm|cm noun|plenty adj|good-S1 .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|5|PUNCT 4|5|NSUBJ 5|2|PARATAXIS 6|2|PUNCT
+*CHI:	good .
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	ch_books
+*FAT:	it is a very fine house . [+ recit]
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adv|very adj|fine-S1 noun|house .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|DET 4|5|ADVMOD 5|6|AMOD 6|6|ROOT 7|6|PUNCT
+*FAT:	this is what it looked like inside . [+ recit]
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Past-S3 adp|like adv|inside .
+%gra:	1|3|NSUBJ 2|3|COP 3|7|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|5|OBL 7|5|ADVMOD 8|3|PUNCT
+*FAT:	that is a nice house .
+%mor:	pron|that-Dem aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|nice-S1 noun|house .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+*FAT:	would you like to live in a house like that ?
+%mor:	aux|would-Fin-S pron|you-Prs-Nom-S2 verb|like-Inf-S part|to verb|live-Inf-S adp|in det|a-Ind-Art noun|house adp|like pron|that-Dem ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|5|MARK 5|3|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|10|CASE 10|8|NMOD 11|3|PUNCT
+*FAT:	where's their kitchen table ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 pron|their-Prs-Gen-P3 noun|kitchen noun|table ?
+%gra:	1|5|ROOT 2|1|COP 3|5|NMOD-POSS 4|5|COMPOUND 5|1|NSUBJ 6|1|PUNCT
+*FAT:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	that's their stove .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|their-Prs-Gen-P3 noun|stove .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+*FAT:	that's the hot stove .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|hot-S1 noun|stove .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+*FAT:	where's the kitchen table ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|kitchen noun|table ?
+%gra:	1|5|ROOT 2|1|COP 3|5|DET 4|5|COMPOUND 5|1|NSUBJ 6|1|PUNCT
+@G:	ohs
+*MOT:	is Saturday the ninth , or Friday the nineteenth ?
+%mor:	aux|be-Fin-Ind-Pres-S3 propn|Saturday det|the-Def-Art adj|ninth-S1 cm|cm cconj|or propn|Friday det|the-Def-Art noun|nineteenth ?
+%gra:	1|2|COP 2|9|ROOT 3|4|DET 4|2|AMOD 5|7|PUNCT 6|7|CC 7|2|CONJ 8|9|DET 9|7|APPOS 10|2|PUNCT
+*FAT:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	microphone static .
+*FAT:	good .
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	ch_books
+*FAT:	where's their bed ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 pron|their-Prs-Gen-P3 noun|bed ?
+%gra:	1|4|ROOT 2|1|COP 3|4|NMOD-POSS 4|1|NSUBJ 5|1|PUNCT
+%com:	microphone static .
+*FAT:	very good .
+%mor:	adv|very adj|good-S1 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%com:	microphone static .
+*CHI:	xxx glasses .
+%mor:	noun|glasses-Ptan .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	yup .
+%mor:	intj|yup .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	they do .
+%mor:	pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*FAT:	it was fun growing up in Bear_Country . [+ recit]
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr noun|fun verb|grow-Part-Pres-S adp|up adp|in propn|BearCountry .
+%gra:	1|3|NSUBJ 2|3|COP 3|7|ROOT 4|3|ACL 5|4|COMPOUND-PRT 6|7|CASE 7|4|OBL 8|3|PUNCT
+*FAT:	helping Papa_(Bear) get honey from the old bee tree . [+ recit]
+%mor:	verb|help-Part-Pres-S propn|PapaBear-Acc verb|get-Inf-S noun|honey-Acc adp|from det|the-Def-Art adj|old-S1 noun|bee noun|tree .
+%gra:	1|9|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|9|CASE 6|9|DET 7|9|AMOD 8|9|COMPOUND 9|3|OBL 10|1|PUNCT
+*FAT:	helping Mama_(Bear) bring vegetables in from the garden . [+ recit]
+%mor:	verb|help-Part-Pres-S propn|MamaBear-Acc verb|bring-Inf-S noun|vegetable-Plur-Acc adp|in adp|from det|the-Def-Art noun|garden .
+%gra:	1|8|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|3|COMPOUND-PRT 6|8|CASE 7|8|DET 8|3|OBL 9|1|PUNCT
+%com:	microphone static .
+*FAT:	there were all sorts of interesting things for a Small_Bear to do and see in Bear_Country . [+ recit]
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Past-P3-irr det|all-Def-Tot noun|sort-Plur adp|of adj|interesting-S1 noun|thing-Plur adp|for det|a-Ind-Art propn|SmallBear part|to verb|do-Inf-S cconj|and verb|see-Inf-S adp|in propn|BearCountry .
+%gra:	1|2|EXPL 2|16|ROOT 3|4|DET 4|2|NSUBJ 5|7|CASE 6|7|AMOD 7|4|NMOD 8|10|CASE 9|10|DET 10|7|NMOD 11|12|MARK 12|7|ACL 13|14|CC 14|12|CONJ 15|16|CASE 16|14|OBL 17|2|PUNCT
+*FAT:	what's he chasing ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 verb|chase-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	butterflies .
+%mor:	noun|butterfly-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	what's he doing here ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 verb|do-Part-Pres-S adv|here ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*CHI:	a fish .
+%mor:	det|a-Ind-Art noun|fish .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	he caught a fish , and he's looking at a ? [+ cloze]
+%mor:	pron|he-Prs-Nom-S3 verb|catch-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|fish-Acc cm|cm cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|at det|a-Ind-Art ?
+%gra:	1|2|NSUBJ 2|11|ROOT 3|4|DET 4|2|OBJ 5|9|PUNCT 6|9|CC 7|9|NSUBJ 8|9|AUX 9|2|CONJ 10|9|OBL 11|2|PUNCT 12|2|PUNCT
+*CHI:	spider . [+ cloze]
+%mor:	noun|spider .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	and he's looking at the ? [+ cloze]
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|look-Part-Pres-S adp|at det|the-Def-Art ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*CHI:	xxx . [+ cloze]
+*FAT:	and he's flying a ? [+ cloze]
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|fly-Part-Pres-S det|a-Ind-Art ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|PUNCT 6|4|PUNCT
+*CHI:	kite . [+ cloze]
+%mor:	noun|kite .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	and he's going in a ? [+ cloze]
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|in det|a-Ind-Art ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|4|ADVMOD 6|4|PUNCT 7|4|PUNCT
+*CHI:	boat &=coughs . [+ cloze]
+%mor:	noun|boat .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	a boat ?
+%mor:	det|a-Ind-Art noun|boat ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	yeah , and he's chasin(g) a ? [+ cloze]
+%mor:	intj|yeah cm|cm cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|chase-Part-Pres-S det|a-Ind-Art ?
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|CC 4|6|NSUBJ 5|6|AUX 6|7|ROOT 7|6|PUNCT 8|6|PUNCT
+*CHI:	xxx &=coughs . [+ cloze]
+%com:	microphone static .
+*FAT:	a what ? [+ cloze]
+%mor:	det|a-Ind-Art pron|what-Int-S1 ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	a frog . [+ cloze]
+%mor:	det|a-Ind-Art noun|frog .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	and he's swimming with ? [+ cloze]
+%mor:	cconj|and pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|swim-Part-Pres-S adp|with ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|OBL 6|4|PUNCT
+*CHI:	fishes ! [+ cloze]
+%mor:	noun|fish-Plur !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	he has a good time , doesn't he ?
+%mor:	pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art adj|good-S1 noun|time-Acc cm|cm aux|do-Fin-Ind-Pres-S3~part|not pron|he-Prs-Nom-S3 ?
+%gra:	1|2|NSUBJ 2|9|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|7|PUNCT 7|2|PARATAXIS 8|7|ADVMOD 9|7|NSUBJ 10|2|PUNCT
+*FAT:	Small_Bear felt good growing up in a tree . [+ recit]
+%mor:	propn|SmallBear verb|feel-Fin-Ind-Past-S3-irr adj|good-S1 verb|grow-Ger-S adp|up adp|in det|a-Ind-Art noun|tree .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|2|XCOMP 4|3|XCOMP 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|2|PUNCT
+*FAT:	in his own room . [+ recit]
+%mor:	adp|in pron|his-Prs-Gen-S3 adj|own-S1 noun|room .
+%gra:	1|4|CASE 2|4|NMOD-POSS 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*FAT:	in the snug little bed that Papa_Bear had made for him . [+ recit]
+%mor:	adp|in det|the-Def-Art adj|snug-S1 adj|little-S1 noun|bed pron|that-Rel propn|PapaBear aux|have-Fin-Ind-Past-S3-irr verb|make-Part-Past-S-irr adp|for pron|he-Prs-Acc-S3 .
+%gra:	1|5|CASE 2|5|DET 3|5|AMOD 4|5|AMOD 5|11|ROOT 6|9|OBJ 7|9|NSUBJ 8|9|AUX 9|5|ACL-RELCL 10|11|CASE 11|9|OBL 12|5|PUNCT
+*FAT:	when he was a baby . [+ recit]
+%mor:	adv|when pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|baby .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+*FAT:	but one morning , he did not feel so good . [+ rmix]
+%mor:	cconj|but num|one noun|morning-Ger cm|cm pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr part|not verb|feel-Inf-S adv|so adj|good-S1 .
+%gra:	1|8|CC 2|3|NUMMOD 3|8|OBL-UNMARKED 4|3|PUNCT 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|10|ROOT 9|10|ADVMOD 10|8|XCOMP 11|8|PUNCT
+*FAT:	Small_Bear woke up with pains in his knees , and aches in his legs . [+ recit]
+%mor:	propn|SmallBear verb|wake-Fin-Ind-Past-S3-irr adp|up adp|with noun|pain-Plur adp|in pron|his-Prs-Gen-S3 noun|knee-Plur cm|cm cconj|and noun|ache-Plur adp|in pron|his-Prs-Gen-S3 noun|leg-Plur .
+%gra:	1|2|NSUBJ 2|14|ROOT 3|2|COMPOUND-PRT 4|5|CASE 5|2|OBL 6|8|CASE 7|8|NMOD-POSS 8|5|NMOD 9|11|PUNCT 10|11|CC 11|5|CONJ 12|14|CASE 13|14|NMOD-POSS 14|11|NMOD 15|2|PUNCT
+*FAT:	Small_Bear , you will outgrow your little bed said Papa_Bear . [+ rmix]
+%mor:	propn|SmallBear cm|cm pron|you-Prs-Nom-S2 aux|will-Fin-S verb|outgrow-Inf-S pron|your-Prs-Gen-S2 adj|little-S1 noun|bed-Acc verb|say-Fin-Ind-Past-S3-irr propn|PapaBear .
+%gra:	1|5|VOCATIVE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|10|ROOT 6|8|NMOD-POSS 7|8|AMOD 8|5|OBJ 9|5|PARATAXIS 10|9|NSUBJ 11|5|PUNCT
+*FAT:	as he hitched up his overalls . [+ recit]
+%mor:	sconj|as pron|he-Prs-Nom-S3 verb|hitch-Fin-Ind-Past-S3 adp|up pron|his-Prs-Gen-S3 noun|overall-Plur-Acc .
+%gra:	1|3|MARK 2|3|NSUBJ 3|6|ROOT 4|3|COMPOUND-PRT 5|6|NMOD-POSS 6|3|OBJ 7|3|PUNCT
+*FAT:	and buttoned his shoulder straps . [+ recit]
+%mor:	cconj|and verb|button-Fin-Ind-Past-S3 pron|his-Prs-Gen-S3 noun|shoulder noun|strap-Plur-Acc .
+%gra:	1|2|CC 2|5|ROOT 3|5|NMOD-POSS 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+*FAT:	today I shall go out into the woods , and make you a bigger one . [+ rmix]
+%mor:	noun|today pron|I-Prs-Nom-S1 aux|shall-Fin-S verb|go-Inf-S adv|out adp|into det|the-Def-Art noun|wood-Plur cm|cm cconj|and verb|make-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art adj|big-Cmp-S1 noun|one .
+%gra:	1|4|OBL-UNMARKED 2|4|NSUBJ 3|4|AUX 4|15|ROOT 5|4|ADVMOD 6|8|CASE 7|8|DET 8|4|OBL 9|11|PUNCT 10|11|CC 11|4|CONJ 12|11|IOBJ 13|15|DET 14|15|AMOD 15|11|XCOMP 16|4|PUNCT
+*FAT:	oh , what did make for breakfast ?
+%mor:	intj|oh cm|cm pron|what-Int-S1 aux|do-Fin-Ind-Past-S3-irr verb|make-Inf-S adp|for noun|breakfast ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	what did she make right there ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S3-irr pron|she-Prs-Nom-S3 verb|make-Inf-S adv|right adv|there ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|ADVMOD 6|4|ADVMOD 7|4|PUNCT
+*CHI:	oatmeal .
+%mor:	noun|oatmeal .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	it looks like it , doesn't it ?
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|like pron|it-Prs-Acc-S3 cm|cm aux|do-Fin-Ind-Pres-S3~part|not pron|it-Prs-Nom-S3 ?
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|CASE 4|2|OBL 5|6|PUNCT 6|2|PARATAXIS 7|6|ADVMOD 8|2|PARATAXIS 9|2|PUNCT
+*FAT:	with that , he ate his breakfast of piping hot porridge . [+ recit]
+%mor:	adp|with pron|that-Dem cm|cm pron|he-Prs-Nom-S3 verb|eat-Fin-Ind-Past-S3-irr pron|his-Prs-Gen-S3 noun|breakfast-Acc adp|of noun|piping-Ger adj|hot-S1 noun|porridge .
+%gra:	1|2|CASE 2|5|OBL 3|2|PUNCT 4|5|NSUBJ 5|11|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|11|CASE 9|11|COMPOUND 10|11|AMOD 11|7|NMOD 12|5|PUNCT
+*FAT:	which is like oatmeal .
+%mor:	pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 adp|like noun|oatmeal .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|4|ROOT 5|4|PUNCT
+*FAT:	and washed it down with a gulp of honey from the family honeypot &=sniffs . [+ recit]
+%mor:	cconj|and verb|wash-Fin-Ind-Past-S3 pron|it-Prs-Acc-S3 adp|down adp|with det|a-Ind-Art noun|gulp adp|of noun|honey adp|from det|the-Def-Art noun|family noun|honeypot .
+%gra:	1|2|CC 2|13|ROOT 3|2|OBJ 4|2|COMPOUND-PRT 5|7|CASE 6|7|DET 7|2|OBL 8|9|CASE 9|7|NMOD 10|13|CASE 11|13|DET 12|13|COMPOUND 13|7|NMOD 14|2|PUNCT
+*FAT:	took up his ax , and was out the door . [+ recit]
+%mor:	verb|take-Fin-Ind-Past-S3-irr adp|up pron|his-Prs-Gen-S3 noun|ax-Acc cm|cm cconj|and aux|be-Fin-Ind-Past-S3-irr adp|out det|the-Def-Art noun|door .
+%gra:	1|10|ROOT 2|1|COMPOUND-PRT 3|4|NMOD-POSS 4|1|OBJ 5|10|PUNCT 6|10|CC 7|10|COP 8|10|CASE 9|10|DET 10|1|CONJ 11|1|PUNCT
+*FAT:	but Papa_(Bear) cried Small_Bear following after him . [+ recit]
+%mor:	cconj|but propn|PapaBear verb|cry-Fin-Ind-Past-S3 propn|SmallBear-Acc verb|follow-Ger-S adp|after pron|he-Prs-Acc-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|3|ADVCL 6|7|CASE 7|5|OBL 8|3|PUNCT
+*FAT:	what will happen to my little bed ? [+ recit]
+%mor:	pron|what-Int-S1 aux|will-Fin-S verb|happen-Inf-S adp|to pron|my-Prs-Gen-S1 adj|little-S1 noun|bed ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|7|CASE 5|7|NMOD-POSS 6|7|AMOD 7|3|OBL 8|3|PUNCT
+*FAT:	<what will happen to his little bed> [/] what will happen to his little bed .
+%mor:	pron|what-Int-S1 aux|will-Fin-S verb|happen-Inf-S adp|to pron|his-Prs-Gen-S3 adj|little-S1 noun|bed .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|7|CASE 5|7|NMOD-POSS 6|7|AMOD 7|3|OBL 8|3|PUNCT
+*CHI:	ruined .
+%mor:	verb|ruin-Part-Past-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	it's ruined ?
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|ruin-Part-Past-S ?
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|3|ROOT 4|3|PUNCT
+*CHI:	xxx .
+*FAT:	don't worry about that , Small_Bear , said Mama_Bear . [+ recit]
+%mor:	aux|do-Fin-Imp-S~part|not verb|worry-Fin-Imp-S adp|about pron|that-Dem cm|cm propn|SmallBear cm|cm verb|say-Fin-Ind-Past-S3-irr propn|MamaBear .
+%gra:	1|3|AUX 2|3|ADVMOD 3|9|CCOMP 4|5|CASE 5|3|OBL 6|7|PUNCT 7|3|VOCATIVE 8|3|PUNCT 9|10|ROOT 10|9|NSUBJ 11|9|PUNCT
+*FAT:	as she closed the door after him . [+ recit]
+%mor:	sconj|as pron|she-Prs-Nom-S3 verb|close-Fin-Ind-Past-S3 det|the-Def-Art noun|door-Acc adp|after pron|he-Prs-Acc-S3 .
+%gra:	1|3|MARK 2|3|NSUBJ 3|7|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|3|OBL 8|3|PUNCT
+*FAT:	she smiled and patted her front . [+ recit]
+%mor:	pron|she-Prs-Nom-S3 verb|smile-Fin-Ind-Past-S3 cconj|and verb|patt-Fin-Ind-Past-S3 pron|her-Prs-Gen-S3 noun|front-Acc .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|CC 4|2|CONJ 5|6|NMOD-POSS 6|4|OBJ 7|2|PUNCT
+*FAT:	which had lately grown very big and round . [+ recit]
+%mor:	pron|which-Rel-S1 aux|have-Fin-Ind-Past-S3-irr adv|lately verb|grow-Part-Past-S-irr adv|very adj|big-S1 cconj|and adj|round-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|6|ADVMOD 6|4|XCOMP 7|8|CC 8|6|CONJ 9|4|PUNCT
+*FAT:	what's special about Mama_Bear ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adj|special-S1 adp|about propn|MamaBear ?
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*CHI:	jammies .
+%mor:	noun|jammy-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	she's wearing jammies ?
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|wear-Part-Pres-S noun|jammy-Plur-Acc ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*FAT:	no , what's , why is her belly so big ?
+%mor:	intj|no cm|cm pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 cm|cm adv|why aux|be-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|belly adv|so adj|big-S1 ?
+%gra:	1|11|DISCOURSE 2|1|PUNCT 3|11|NSUBJ-OUTER 4|11|REPARANDUM 5|4|PUNCT 6|11|ADVMOD 7|11|COP 8|9|NMOD-POSS 9|11|NSUBJ 10|11|ADVMOD 11|11|ROOT 12|11|PUNCT
+*FAT:	what's she gonna have ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|she-Prs-Nom-S3 part|go verb|have-Inf-S ?
+%gra:	1|5|OBJ 2|5|AUX 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+*CHI:	a baby .
+%mor:	det|a-Ind-Art noun|baby .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	what will happen to my little , or my little bed ? [+ recit]
+%mor:	pron|what-Int-S1 aux|will-Fin-S verb|happen-Inf-S adp|to pron|my-Prs-Gen-S1 adj|little-S1 cm|cm cconj|or pron|my-Prs-Gen-S1 adj|little-S1 noun|bed ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|11|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|11|PUNCT 8|11|CC 9|11|NMOD-POSS 10|11|AMOD 11|6|CONJ 12|3|PUNCT
+*FAT:	Small_Bear asked as he caught up with Papa_Bear . [+ recit]
+%mor:	propn|SmallBear verb|ask-Fin-Ind-Past-S3 sconj|as pron|he-Prs-Nom-S3 verb|catch-Fin-Ind-Past-S3-irr adp|up adp|with propn|PapaBear .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|5|MARK 4|5|NSUBJ 5|2|ADVCL 6|5|COMPOUND-PRT 7|8|CASE 8|5|OBL 9|2|PUNCT
+*FAT:	but Papa was sharpening his ax on his grinding stone and didn't hear . [+ recit]
+%mor:	cconj|but propn|Papa aux|be-Fin-Ind-Past-S3-irr verb|sharpen-Part-Pres-S pron|his-Prs-Gen-S3 noun|ax-Acc adp|on pron|his-Prs-Gen-S3 verb|grind-Ger-S noun|stone cconj|and aux|do-Fin-Ind-Past-S3-irr~part|not verb|hear-Inf-S .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|14|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|10|CASE 8|10|NMOD-POSS 9|10|AMOD 10|4|OBL 11|14|CC 12|14|AUX 13|14|ADVMOD 14|4|CONJ 15|4|PUNCT
+*FAT:	yes , indeed said Papa_Bear . [+ recit]
+%mor:	intj|yes cm|cm adv|indeed verb|say-Fin-Ind-Past-S3-irr propn|PapaBear .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|5|ROOT 5|4|NSUBJ 6|4|PUNCT
+*FAT:	you need a bed you can stretch out in . [+ recit]
+%mor:	pron|you-Prs-Nom-S2 verb|need-Fin-Ind-Pres-S2 det|a-Ind-Art noun|bed-Acc pron|you-Prs-Nom-S2 aux|can-Fin-S verb|stretch-Inf-S adp|out adp|in .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|DET 4|2|OBJ 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|7|COMPOUND-PRT 9|2|PUNCT 10|2|PUNCT
+*FAT:	and a bed that will not give you pains in your knees . [+ recit]
+%mor:	cconj|and det|a-Ind-Art noun|bed pron|that-Rel aux|will-Fin-S part|not verb|give-Inf-S pron|you-Prs-Acc-S2 noun|pain-Plur-Acc adp|in pron|your-Prs-Gen-S2 noun|knee-Plur .
+%gra:	1|3|CC 2|3|DET 3|12|ROOT 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|3|ACL-RELCL 8|7|IOBJ 9|7|OBJ 10|12|CASE 11|12|NMOD-POSS 12|7|OBL 13|3|PUNCT
+*FAT:	and aches in your legs . [+ recit]
+%mor:	cconj|and noun|ache-Plur adp|in pron|your-Prs-Gen-S2 noun|leg-Plur .
+%gra:	1|2|CC 2|5|ROOT 3|5|CASE 4|5|NMOD-POSS 5|2|NMOD 6|2|PUNCT
+*FAT:	he tested the ax to see if it was sharp . [+ recit]
+%mor:	pron|he-Prs-Nom-S3 verb|test-Fin-Ind-Past-S3 det|the-Def-Art noun|ax-Acc part|to verb|see-Inf-S sconj|if pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|sharp-S1 .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|4|DET 4|2|OBJ 5|6|MARK 6|2|ADVCL 7|10|MARK 8|10|NSUBJ 9|10|COP 10|6|CCOMP 11|2|PUNCT
+*MOT:	xxx .
+*FAT:	then .
+%mor:	adv|then .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I gotted [: got] the truck .
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Past-S1-irr det|the-Def-Art noun|truck-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*FAT:	oh , you got it at the truck ?
+%mor:	intj|oh cm|cm pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2-irr pron|it-Prs-Acc-S3 adp|at det|the-Def-Art noun|truck ?
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|8|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*FAT:	and they headed off into the woods . [+ rmix]
+%mor:	cconj|and pron|they-Prs-Nom-P3 verb|head-Fin-Ind-Past-P3 adp|off adp|into det|the-Def-Art noun|wood-Plur .
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+*FAT:	what will happen to my little bed ? [+ recit]
+%mor:	pron|what-Int-S1 aux|will-Fin-S verb|happen-Inf-S adp|to pron|my-Prs-Gen-S1 adj|little-S1 noun|bed ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|7|CASE 5|7|NMOD-POSS 6|7|AMOD 7|3|OBL 8|3|PUNCT
+*FAT:	Small_Bear asked . [+ recit]
+%mor:	propn|SmallBear verb|ask-Fin-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	xxx that sign . [+ ohs]
+%mor:	det|that-Def-Dem-Sing noun|sign .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+@G:	ohs
+*FAT:	no , I know .
+%mor:	intj|no cm|cm pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*MOT:	&=laughs I really think you did .
+%mor:	pron|I-Prs-Nom-S1 adv|really verb|think-Fin-Ind-Pres-S1 pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Past-S2-irr .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|5|ROOT 4|5|NSUBJ 5|3|CCOMP 6|3|PUNCT
+*CHI:	&=coughs .
+@G:	ch_books
+*FAT:	Small_Bear asked again as he caught up with Papa_Bear in the woods . [+ recit]
+%mor:	propn|SmallBear verb|ask-Fin-Ind-Past-S3 adv|again sconj|as pron|he-Prs-Nom-S3 verb|catch-Fin-Ind-Past-S3-irr adp|up adp|with propn|PapaBear adp|in det|the-Def-Art noun|wood-Plur .
+%gra:	1|2|NSUBJ 2|12|ROOT 3|2|ADVMOD 4|6|MARK 5|6|NSUBJ 6|2|ADVCL 7|6|COMPOUND-PRT 8|9|CASE 9|6|OBL 10|12|CASE 11|12|DET 12|6|OBL 13|2|PUNCT
+*FAT:	but Papa_Bear . [+ rmix]
+%mor:	cconj|but propn|PapaBear .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%com:	microphone static .
+*CHI:	&=coughs .
+*FAT:	had chopped down a tree and was splitting it into boards . [+ recit]
+%mor:	aux|have-Fin-Ind-Past-S1-irr verb|choppe-Part-Past-S adp|down det|a-Ind-Art noun|tree-Acc cconj|and aux|be-Fin-Ind-Past-S1-irr verb|split-Part-Pres-S pron|it-Prs-Acc-S3 adp|into noun|board-Plur .
+%gra:	1|2|AUX 2|11|ROOT 3|2|COMPOUND-PRT 4|5|DET 5|2|OBJ 6|8|CC 7|8|AUX 8|2|CONJ 9|8|OBJ 10|11|CASE 11|8|OBL 12|2|PUNCT
+*FAT:	what will happen to my new , we will , oh , sorry . [+ recit]
+%mor:	pron|what-Int-S1 aux|will-Fin-S verb|happen-Inf-S adp|to pron|my-Prs-Gen-S1 adj|new-S1 cm|cm pron|we-Prs-Nom-P1 aux|will-Fin-S cm|cm intj|oh cm|cm adj|sorry-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|13|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|9|PUNCT 8|9|NSUBJ 9|3|PARATAXIS 10|11|PUNCT 11|13|DISCOURSE 12|11|PUNCT 13|9|PARATAXIS 14|3|PUNCT
+*FAT:	we will have a new bed soon . [+ rmix]
+%mor:	pron|we-Prs-Nom-P1 aux|will-Fin-S verb|have-Inf-S det|a-Ind-Art adj|new-S1 noun|bed-Acc adv|soon .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|ADVMOD 8|3|PUNCT
+%com:	microphone static and target child coughing .
+*FAT:	well , we have a new baby soon . [+ rmix]
+%mor:	intj|well cm|cm pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 det|a-Ind-Art adj|new-S1 noun|baby-Acc adv|soon .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|8|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|4|ADVMOD 9|4|PUNCT
+*FAT:	who will need a little bed said Papa_Bear as he whacked off another board . [+ rmix]
+%mor:	pron|who-Int aux|will-Fin-S verb|need-Inf-S det|a-Ind-Art adj|little-S1 noun|bed-Acc verb|say-Fin-Ind-Past-S3-irr propn|PapaBear-Acc sconj|as pron|he-Prs-Nom-S3 verb|whack-Fin-Ind-Past-S3 adp|off det|another-Def-Ind noun|board-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|CSUBJ 4|6|DET 5|6|AMOD 6|3|OBJ 7|14|ROOT 8|7|OBJ 9|11|MARK 10|11|NSUBJ 11|7|ADVCL 12|11|COMPOUND-PRT 13|14|DET 14|11|OBJ 15|7|PUNCT
+%com:	thumping and bells jingling .
+*CHI:	oh , knock a tree over .
+%mor:	intj|oh cm|cm verb|knock-Fin-Imp-S det|a-Ind-Art noun|tree-Acc adv|over .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+*FAT:	yeah , he did .
+%mor:	intj|yeah cm|cm pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*FAT:	a new baby ? [+ recit]
+%mor:	det|a-Ind-Art adj|new-S1 noun|baby ?
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*FAT:	in that small bed .
+%mor:	adp|in det|that-Def-Dem-Sing adj|small-S1 noun|bed .
+%gra:	1|4|CASE 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*FAT:	he hadn't noticed that Mama_Bear had grown very round lately . [+ recit]
+%mor:	pron|he-Prs-Nom-S3 aux|have-Fin-Ind-Past-S3-irr~part|not verb|notice-Part-Past-S sconj|that propn|MamaBear aux|have-Fin-Ind-Past-S3-irr verb|grow-Part-Past-S-irr adv|very adv|round adv|lately .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|11|ROOT 5|8|MARK 6|8|NSUBJ 7|8|AUX 8|4|CCOMP 9|10|ADVMOD 10|8|ADVMOD 11|8|ADVMOD 12|4|PUNCT
+*FAT:	although she , he had noticed it was harder and harder to sit on her lap . [+ recit]
+%mor:	sconj|although pron|she-Prs-Nom-S3 cm|cm pron|he-Prs-Nom-S3 aux|have-Fin-Ind-Past-S3-irr verb|notice-Part-Past-S pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|hard-Cmp-S1 cconj|and adj|hard-Cmp-S1 part|to verb|sit-Inf-S adp|on pron|her-Prs-Gen-S3 noun|lap .
+%gra:	1|6|MARK 2|6|REPARANDUM 3|2|PUNCT 4|6|NSUBJ 5|6|AUX 6|16|ROOT 7|9|NSUBJ 8|9|COP 9|6|CCOMP 10|11|CC 11|9|CONJ 12|13|MARK 13|9|XCOMP 14|16|CASE 15|16|NMOD-POSS 16|13|OBL 17|6|PUNCT
+*MOT:	I'll be back inside in one minute , I'm gonna xxx .
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S aux|be-Inf-S adv|back adv|inside adp|in num|one noun|minute cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|gonna-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|COP 4|12|ROOT 5|4|ADVMOD 6|8|CASE 7|8|NUMMOD 8|4|OBL 9|12|PUNCT 10|12|NSUBJ 11|12|COP 12|4|PARATAXIS 13|4|PUNCT
+*FAT:	and it's coming soon ? [+ recit]
+%mor:	cconj|and pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|come-Part-Pres-S adv|soon ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*FAT:	yes , very soon said Papa_Bear . [+ recit]
+%mor:	intj|yes cm|cm adv|very adv|soon verb|say-Fin-Ind-Past-S3-irr propn|PapaBear .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|5|ADVMOD 5|6|ROOT 6|5|NSUBJ 7|5|PUNCT
+*FAT:	with a final whack , he split off the last board . [+ recit]
+%mor:	adp|with det|a-Ind-Art adj|final-S1 noun|whack cm|cm pron|he-Prs-Nom-S3 verb|split-Fin-Ind-Past-S3-irr adp|off det|the-Def-Art adj|last-S1 noun|board .
+%gra:	1|4|CASE 2|4|DET 3|4|AMOD 4|7|OBL 5|4|PUNCT 6|7|NSUBJ 7|11|ROOT 8|11|CASE 9|11|DET 10|11|AMOD 11|7|OBL 12|7|PUNCT
+%com:	target child breathing heavily .
+*FAT:	which gave him enough wood to make a bigger bed for Small_Bear . [+ recit]
+%mor:	pron|which-Rel-S1 verb|give-Fin-Ind-Past-S3-irr pron|he-Prs-Acc-S3 adj|enough-S1 noun|wood-Acc part|to verb|make-Inf-S det|a-Ind-Art adj|big-Cmp-S1 noun|bed-Acc adp|for propn|SmallBear .
+%gra:	1|2|NSUBJ 2|12|ROOT 3|2|IOBJ 4|5|AMOD 5|2|OBJ 6|7|MARK 7|2|XCOMP 8|10|DET 9|10|AMOD 10|7|OBJ 11|12|CASE 12|10|NMOD 13|2|PUNCT
+%com:	target child breathing heavily .
+*FAT:	they made a good , the bed , they made be a good size , and took a rest for a day . [+ rmix]
+%mor:	pron|they-Prs-Nom-P3 verb|make-Fin-Ind-Past-P3-irr det|a-Ind-Art adj|good-S1 cm|cm det|the-Def-Art noun|bed-Acc cm|cm pron|they-Prs-Nom-P3 verb|make-Fin-Ind-Past-P3-irr aux|be-Inf-S det|a-Ind-Art adj|good-S1 noun|size cm|cm cconj|and verb|take-Fin-Ind-Past-P3-irr det|a-Ind-Art noun|rest-Acc adp|for det|a-Ind-Art noun|day .
+%gra:	1|2|NSUBJ 2|22|ROOT 3|4|DET 4|2|OBJ 5|7|PUNCT 6|7|DET 7|2|OBJ 8|10|PUNCT 9|10|NSUBJ 10|2|PARATAXIS 11|14|COP 12|14|DET 13|14|AMOD 14|10|XCOMP 15|17|PUNCT 16|17|CC 17|2|CONJ 18|19|DET 19|17|OBJ 20|22|CASE 21|22|DET 22|17|OBL 23|2|PUNCT
+%com:	microphone static and target child coughing .
+*FAT:	the rest of the day , they chipped and shaved smooth and neat . [+ rmix]
+%mor:	det|the-Def-Art noun|rest adp|of det|the-Def-Art noun|day cm|cm pron|they-Prs-Nom-P3 verb|chip-Fin-Ind-Past-P3 cconj|and verb|shave-Fin-Ind-Past-P3 adj|smooth-S1 cconj|and adj|neat-S1 .
+%gra:	1|2|DET 2|8|OBL-UNMARKED 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT 7|8|NSUBJ 8|13|ROOT 9|10|CC 10|8|CONJ 11|10|XCOMP 12|13|CC 13|11|CONJ 14|8|PUNCT
+*FAT:	and then carried it back to the tree and put it in Small_Bear's room . [+ rmix]
+%mor:	cconj|and adv|then verb|carry-Fin-Ind-Past-S1 pron|it-Prs-Acc-S3 adv|back adp|to det|the-Def-Art noun|tree cconj|and verb|put-Fin-Ind-Past-S1-irr pron|it-Prs-Acc-S3 adp|in propn|SmallBear~part|s noun|room .
+%gra:	1|3|CC 2|3|ADVMOD 3|15|ROOT 4|3|OBJ 5|3|ADVMOD 6|8|CASE 7|8|DET 8|3|OBL 9|10|CC 10|3|CONJ 11|10|OBJ 12|15|CASE 13|15|NMOD-POSS 14|13|CASE 15|10|OBL 16|3|PUNCT
+%com:	microphone static .
+*FAT:	see how they're making it ?
+%mor:	verb|see-Fin-Imp-S adv|how pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|make-Part-Pres-S pron|it-Prs-Acc-S3 ?
+%gra:	1|6|ROOT 2|1|OBJ 3|5|NSUBJ 4|5|AUX 5|2|ADVCL-RELCL 6|5|OBJ 7|1|PUNCT
+%com:	microphone static and target child coughing .
+*FAT:	that's pretty good , huh ?
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|pretty adj|good-S1 cm|cm intj|huh ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|6|ROOT 5|6|PUNCT 6|4|VOCATIVE 7|4|PUNCT
+*CHI:	&=coughs .
+*FAT:	do you have a little cold ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|have-Inf-S det|a-Ind-Art adj|little-S1 adj|cold-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|DET 5|6|OBL-UNMARKED 6|3|XCOMP 7|3|PUNCT
+%com:	microphone static .
+*FAT:	you okay ?
+%mor:	pron|you-Prs-Nom-S2 intj|okay ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	um , house is xxx now .
+%mor:	intj|um cm|cm noun|house aux|be-Fin-Ind-Pres-S3 adv|now .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+*FAT:	yes , yup .
+%mor:	intj|yes cm|cm intj|yup .
+%gra:	1|3|ROOT 2|1|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*FAT:	when they got there , Small_Bear noticed right away that his old bed wasn't there anymore . [+ recit]
+%mor:	adv|when pron|they-Prs-Nom-P3 verb|get-Fin-Ind-Past-P3-irr adv|there cm|cm propn|SmallBear verb|notice-Fin-Ind-Past-S3 adv|right adv|away sconj|that pron|his-Prs-Gen-S3 adj|old-S1 noun|bed aux|be-Fin-Ind-Past-S3-irr~part|not adv|there adv|anymore .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|7|ADVCL 4|3|ADVMOD 5|3|PUNCT 6|7|NSUBJ 7|17|ROOT 8|9|ADVMOD 9|7|ADVMOD 10|16|MARK 11|13|NMOD-POSS 12|13|AMOD 13|16|NSUBJ 14|16|COP 15|16|ADVMOD 16|7|CCOMP 17|16|ADVMOD 18|7|PUNCT
+*FAT:	my little bed said Small_Bear . [+ recit]
+%mor:	pron|my-Prs-Gen-S1 adj|little-S1 noun|bed verb|say-Fin-Ind-Past-S3-irr propn|SmallBear .
+%gra:	1|3|NMOD-POSS 2|3|AMOD 3|4|NSUBJ 4|5|ROOT 5|4|NSUBJ 6|4|PUNCT
+*FAT:	it's already gone ! [+ recit]
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|already adj|gone-S1 !
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*MOT:	you've outgrown it just in time called Mama_Bear . [+ rmix]
+%mor:	pron|you-Prs-Nom-S2~aux|have-Fin-Ind-Pres-S2 verb|outgrow-Part-Past-S pron|it-Prs-Acc-S3 adv|just adp|in noun|time verb|call-Part-Past-S propn|MamaBear .
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|3|OBJ 5|7|ADVMOD 6|7|CASE 7|3|OBL 8|7|ACL 9|8|XCOMP 10|3|PUNCT
+%com:	microphone static .
+*CHI:	you hold it .
+%mor:	pron|you-Prs-Nom-S2 verb|hold-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*FAT:	come and see . [+ recit]
+%mor:	verb|come-Fin-Imp-S cconj|and verb|see-Fin-Imp-S .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+*FAT:	it was true ! [+ recit]
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|true-S1 !
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*FAT:	there was his snug little bed with a new little baby in it . [+ recit]
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr pron|his-Prs-Gen-S3 adj|snug-S1 adj|little-S1 noun|bed adp|with det|a-Ind-Art adj|new-S1 adj|little-S1 noun|baby adp|in pron|it-Prs-Acc-S3 .
+%gra:	1|2|EXPL 2|13|ROOT 3|6|NMOD-POSS 4|6|AMOD 5|6|AMOD 6|2|NSUBJ 7|11|CASE 8|11|DET 9|11|AMOD 10|11|AMOD 11|2|OBL 12|13|CASE 13|11|NMOD 14|2|PUNCT
+*FAT:	Small_Bear had outgrown his snug little bed just in time for his new baby sister . [+ recit]
+%mor:	propn|SmallBear aux|have-Fin-Ind-Past-S3-irr verb|outgrow-Part-Past-S pron|his-Prs-Gen-S3 adj|snug-S1 adj|little-S1 noun|bed-Acc adv|just adp|in noun|time adp|for pron|his-Prs-Gen-S3 adj|new-S1 noun|baby noun|sister .
+%gra:	1|3|NSUBJ 2|3|AUX 3|15|ROOT 4|7|NMOD-POSS 5|7|AMOD 6|7|AMOD 7|3|OBJ 8|10|ADVMOD 9|10|CASE 10|3|OBL 11|15|CASE 12|15|NMOD-POSS 13|15|AMOD 14|15|COMPOUND 15|10|NMOD 16|3|PUNCT
+*FAT:	and now he was a big brother ! [+ recit]
+%mor:	cconj|and adv|now pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|big-S1 noun|brother !
+%gra:	1|7|CC 2|7|ADVMOD 3|7|NSUBJ 4|7|COP 5|7|DET 6|7|AMOD 7|7|ROOT 8|7|PUNCT
+%com:	microphone static, target child coughs .
+*FAT:	oh_my_goodness !
+%mor:	propn|ohmygoodness !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=coughs .
+*FAT:	she was very little , but very lively . [+ recit]
+%mor:	pron|she-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|very adj|little-S1 cm|cm cconj|but adv|very adj|lively-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|8|ROOT 5|8|PUNCT 6|8|CC 7|8|ADVMOD 8|4|CONJ 9|4|PUNCT
+*FAT:	&+sma as Small_Bear leaned over for a closer look , she popped him on the nose with her tiny fist ! [+ recit]
+%mor:	sconj|as propn|SmallBear verb|learn-Fin-Ind-Past-S3 adp|over adp|for det|a-Ind-Art adj|close-Cmp-S1 noun|look cm|cm pron|she-Prs-Nom-S3 verb|pop-Fin-Ind-Past-S3 pron|he-Prs-Acc-S3 adp|on det|the-Def-Art noun|nose adp|with pron|her-Prs-Gen-S3 adj|tiny-S1 noun|fist !
+%gra:	1|3|MARK 2|3|NSUBJ 3|11|ADVCL 4|3|COMPOUND-PRT 5|8|CASE 6|8|DET 7|8|AMOD 8|3|OBL 9|3|PUNCT 10|11|NSUBJ 11|19|ROOT 12|11|OBJ 13|15|CASE 14|15|DET 15|11|OBL 16|19|CASE 17|19|NMOD-POSS 18|19|AMOD 19|11|OBL 20|11|PUNCT
+*FAT:	hmm , said Small_Bear , she has a pretty good punch for a little baby ! [+ recit]
+%mor:	intj|hmm cm|cm verb|say-Fin-Ind-Past-S3-irr propn|SmallBear cm|cm pron|she-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 det|a-Ind-Art adv|pretty adj|good-S1 noun|punch-Acc adp|for det|a-Ind-Art adj|little-S1 noun|baby !
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|15|ROOT 4|3|NSUBJ 5|7|PUNCT 6|7|NSUBJ 7|3|CCOMP 8|11|DET 9|10|ADVMOD 10|11|AMOD 11|7|OBJ 12|15|CASE 13|15|DET 14|15|AMOD 15|11|NMOD 16|3|PUNCT
+%com:	microphone static .
+*FAT:	that night , he stretched out proudly in his bigger bed .
+%mor:	det|that-Def-Dem-Sing noun|night cm|cm pron|he-Prs-Nom-S3 verb|stretch-Fin-Ind-Past-S3 adp|out adv|proudly adp|in pron|his-Prs-Gen-S3 adj|big-Cmp-S1 noun|bed .
+%gra:	1|2|DET 2|5|OBL-UNMARKED 3|2|PUNCT 4|5|NSUBJ 5|11|ROOT 6|5|COMPOUND-PRT 7|5|ADVMOD 8|11|CASE 9|11|NMOD-POSS 10|11|AMOD 11|5|OBL 12|5|PUNCT
+*FAT:	&+ah !
+*FAT:	he said , being a big brother is going to be fun ! [+ recit]
+%mor:	pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr cm|cm aux|be-Part-Pres-S det|a-Ind-Art adj|big-S1 noun|brother aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to aux|be-Inf-S adj|fun-S1 !
+%gra:	1|2|NSUBJ 2|12|ROOT 3|9|PUNCT 4|7|COP 5|7|DET 6|7|AMOD 7|9|NSUBJ 8|9|AUX 9|2|CCOMP 10|12|MARK 11|12|COP 12|9|XCOMP 13|2|PUNCT
+*FAT:	the next morning , he woke up feeling fine , with no pains in his knees , or aches in his legs . [+ recit]
+%mor:	det|the-Def-Art adj|next-S1 noun|morning-Ger cm|cm pron|he-Prs-Nom-S3 verb|wake-Fin-Ind-Past-S3-irr adp|up verb|feel-Ger-S adj|fine-S1 cm|cm adp|with det|no-Def-Neg noun|pain-Plur adp|in pron|his-Prs-Gen-S3 noun|knee-Plur cm|cm cconj|or noun|ache-Plur adp|in pron|his-Prs-Gen-S3 noun|leg-Plur .
+%gra:	1|3|DET 2|3|AMOD 3|6|OBL-UNMARKED 4|3|PUNCT 5|6|NSUBJ 6|22|ROOT 7|6|COMPOUND-PRT 8|6|XCOMP 9|8|XCOMP 10|13|PUNCT 11|13|CASE 12|13|DET 13|8|OBL 14|16|CASE 15|16|NMOD-POSS 16|13|NMOD 17|19|PUNCT 18|19|CC 19|13|CONJ 20|22|CASE 21|22|NMOD-POSS 22|19|NMOD 23|6|PUNCT
+*FAT:	his nose was little tender , though . [+ recit]
+%mor:	pron|his-Prs-Gen-S3 noun|nose aux|be-Fin-Ind-Past-S3-irr adj|little-S1 adj|tender-S1 cm|cm adv|though .
+%gra:	1|2|NMOD-POSS 2|5|NSUBJ 3|5|COP 4|5|OBL-UNMARKED 5|7|ROOT 6|7|PUNCT 7|5|ADVMOD 8|5|PUNCT
+*CHI:	xxx big brother .
+%mor:	adj|big-S1 noun|brother .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*FAT:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I think this one is a car one .
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 det|this-Def-Dem-Sing noun|one aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|car noun|one .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|DET 4|7|NSUBJ 5|7|COP 6|7|DET 7|2|CCOMP 8|2|CCOMP 9|2|PUNCT
+*FAT:	yeah , it looks , they went to their grandma and papa's house .
+%mor:	intj|yeah cm|cm pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 cm|cm pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Past-P3-irr adp|to pron|their-Prs-Gen-P3 noun|grandma cconj|and noun|papa~part|s noun|house .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|14|ROOT 5|7|PUNCT 6|7|NSUBJ 7|4|PARATAXIS 8|10|CASE 9|10|NMOD-POSS 10|7|OBL 11|14|CC 12|14|NMOD-POSS 13|12|CASE 14|10|CONJ 15|4|PUNCT
+*CHI:	I wanna see Grandpa .
+%mor:	pron|I-Prs-Nom-S1 aux|wanna-Fin-S verb|see-Fin-S propn|Grandpa-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*FAT:	do you wanna see Grandma and Papa ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 part|wana verb|see-Inf-S propn|Grandma-Acc cconj|and propn|Papa ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|7|ROOT 5|4|OBJ 6|7|CC 7|5|CONJ 8|4|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	well , maybe .
+%mor:	intj|well cm|cm adv|maybe .
+%gra:	1|3|ROOT 2|1|PUNCT 3|1|ADVMOD 4|1|PUNCT
+*FAT:	you want to read this other new book ?
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 part|to verb|read-Inf-S det|this-Def-Dem-Sing adj|other-S1 adj|new-S1 noun|book-Acc ?
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|MARK 4|2|XCOMP 5|8|DET 6|8|AMOD 7|8|AMOD 8|4|OBJ 9|2|PUNCT
+*FAT:	xxx .
+%com:	microphone static .
+*FAT:	I wrote to the zoo . [+ recit]
+%mor:	pron|I-Prs-Nom-S1 verb|write-Fin-Ind-Past-S1-irr adp|to det|the-Def-Art noun|zoo .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*FAT:	to send me a pet . [+ recit]
+%mor:	part|to verb|send-Inf-S pron|I-Prs-Acc-S1 det|a-Ind-Art noun|pet-Acc .
+%gra:	1|2|MARK 2|5|ROOT 3|2|IOBJ 4|5|DET 5|2|OBJ 6|2|PUNCT
+*FAT:	they sent me an ? [+ recit] [+ cloze]
+%mor:	pron|they-Prs-Nom-P3 verb|send-Fin-Ind-Past-P3-irr pron|I-Prs-Acc-S1 det|a-Ind-Art ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|IOBJ 4|2|OBJ 5|2|PUNCT
+*FAT:	what did they send him ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-P3-irr pron|they-Prs-Nom-P3 verb|send-Inf-S pron|he-Prs-Acc-S3 ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	doggy . [+ cloze]
+%mor:	adj|doggy-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	it's very heavy .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|very adj|heavy-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*FAT:	an elephant ! [+ recit]
+%mor:	det|a-Ind-Art noun|elephant !
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	he was too big , so I sent him back . [+ rmix]
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|too adj|big-S1 cm|cm adv|so pron|I-Prs-Nom-S1 verb|send-Fin-Ind-Past-S1-irr pron|he-Prs-Acc-S3 adv|back .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|10|ROOT 5|8|PUNCT 6|8|ADVMOD 7|8|NSUBJ 8|4|PARATAXIS 9|8|OBJ 10|8|ADVMOD 11|4|PUNCT
+*FAT:	so they sent me a ? [+ recit] [+ cloze]
+%mor:	adv|so pron|they-Prs-Nom-P3 verb|send-Fin-Ind-Past-P3-irr pron|I-Prs-Acc-S1 det|a-Ind-Art ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|PUNCT 6|3|PUNCT
+*CHI:	giraffe . [+ recit] [+ cloze]
+%mor:	noun|giraffe .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	he was too tall , I sent him back . [+ recit]
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|too adj|tall-S1 cm|cm pron|I-Prs-Nom-S1 verb|send-Fin-Ind-Past-S1-irr pron|he-Prs-Acc-S3 adv|back .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|9|ROOT 5|7|PUNCT 6|7|NSUBJ 7|4|PARATAXIS 8|7|OBJ 9|7|ADVMOD 10|4|PUNCT
+*FAT:	they sent me a ? [+ recit] [+ cloze]
+%mor:	pron|they-Prs-Nom-P3 verb|send-Fin-Ind-Past-P3-irr pron|I-Prs-Acc-S1 det|a-Ind-Art ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|PUNCT 5|2|PUNCT
+*FAT:	can you guess what that is ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|guess-Inf-S pron|what-Int-S1 pron|that-Dem aux|be-Fin-Ind-Pres-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|3|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	what is it ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	lion ! [+ recit]
+%mor:	noun|lion !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	he was too fierce . [+ recit]
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|too adj|fierce-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	&=sneezes .
+*FAT:	bless_you .
+%mor:	propn|blessyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	I sent him back . [+ recit]
+%mor:	pron|I-Prs-Nom-S1 verb|send-Fin-Ind-Past-S1-irr pron|he-Prs-Acc-S3 adv|back .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+*FAT:	they sent me a ? [+ recit] [+ cloze]
+%mor:	pron|they-Prs-Nom-P3 verb|send-Fin-Ind-Past-P3-irr pron|I-Prs-Acc-S1 det|a-Ind-Art ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|PUNCT 5|2|PUNCT
+*CHI:	horsie .
+%mor:	propn|horsie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	close , not quite a horsie .
+%mor:	adj|close-S1 cm|cm part|not det|quite-Def-Ind det|a-Ind-Art noun|horsie .
+%gra:	1|6|ROOT 2|6|PUNCT 3|6|ADVMOD 4|6|DET-PREDET 5|6|DET 6|1|PARATAXIS 7|1|PUNCT
+*FAT:	can you guess now ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|guess-Inf-S adv|now ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	what is it ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	I don't know .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*FAT:	it's a ? [+ cloze]
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|PUNCT 4|2|PUNCT
+@End

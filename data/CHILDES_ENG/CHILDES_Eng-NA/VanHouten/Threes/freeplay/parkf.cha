@@ -1,0 +1,436 @@
+@UTF8
+@PID:	11312/c-00017629-1
+@Begin
+@Languages:	eng
+@Participants:	INV Investigator, CHI Target_Child
+@Options:	bullets
+@ID:	eng|VanHouten|INV|3;04.|male|MOT_Older_||Investigator|||
+@ID:	eng|VanHouten|CHI|3;04.06|male|MOT_Older_||Target_Child|MOT_3_|McCarthyCog-124,_McCarthy_Verbal-66,_RITLS-27|
+@Media:	parkf, audio
+@Comment:	Education of MOT is 3
+@Situation:	Freeplay
+@Comment:	in the first 3 freeplay transcripts , the child was very shy and spoke only a little and very quietly. In this last segment , the child began to play with his own toys and opened up a bit more. This 3:20 segment is probably more representative of the child's true abilities.
+@Comment:	Mother's Age Group Older
+@Comment:	McCarthy-Cognitive 124
+@Comment:	McCarthy-Verbal 66
+@Comment:	RITLS 27
+@Comment:	cross, toyplay, TD
+@G:	Mother_Freeplay
+@Types:	cross, toyplay, TD
+*INV:	you have a what ? 
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 det|a-Ind-Art pron|what-Int-S1 ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	you  have  a what  ?
+%cod:	$MLU=4 $NMV=1 $Res $Cla
+*INV:	what's in that ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adp|in pron|that-Dem ?
+%gra:	1|4|ROOT 2|4|COP 3|4|CASE 4|1|OBL 5|1|PUNCT
+%wor:	what's  in  that  ?
+%cod:	$MLU=4 $NMV=1 $Con $Rfi
+*CHI:	blocks . 
+%mor:	noun|block-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	blocks  .
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*INV:	oh those are blocks . 
+%mor:	intj|oh pron|that-Dem-P1 aux|be-Fin-Ind-Pres-P3 noun|block-Plur .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	oh  those  are  blocks  .
+%cod:	$MLU=3 $NMV=1 $Rre $Exp
+*INV:	and what else is in there ? 
+%mor:	cconj|and pron|what-Int-S1 adj|else-S1 aux|be-Fin-Ind-Pres-S3 adp|in adv|there ?
+%gra:	1|2|CC 2|6|ROOT 3|2|AMOD 4|2|COP 5|6|CASE 6|2|NMOD 7|2|PUNCT
+%wor:	and  what  else  is  in  there  ?
+%cod:	$MLU=6 $NMV=1 $Con $Rfi
+*INV:	it looks like a +... 
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art +...
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|CASE 4|2|PUNCT 5|2|PUNCT
+%wor:	it  looks  like  a  +...
+%cod:	$Con $Rep
+*CHI:	toys slide and the Legos . 
+%mor:	noun|toy-Plur verb|slide-Fin-Ind-Pres-P3 cconj|and det|the-Def-Art propn|Legos-Plur .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CC 4|5|DET 5|2|CONJ 6|2|PUNCT
+%wor:	toys  slide  and  the  Legos  .
+%cod:	$MLU=5 $NMV=0 $Res $Rep
+*INV:	oh Legos . 
+%mor:	intj|oh propn|Legos .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	oh  Legos  .
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*INV:	you like Legos don't you ? 
+%mor:	pron|you-Prs-Nom-S2 verb|like-Fin-Ind-Pres-S2 propn|Legos-Plur aux|do-Fin-Ind-Pres-S3~part|not pron|you-Prs-Nom-S2 ?
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|ADVMOD 6|4|OBJ 7|2|PUNCT
+%wor:	you  like  Legos  don't  you  ?
+%cod:	$MLU=6 $NMV=2 $Con $Rfi
+*CHI:	0 .
+%sit:	nods
+%cod:	$Res $Epr
+*INV:	I like Legos to build a big big buildings right . 
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 propn|Legos-Acc part|to verb|build-Inf-S det|a-Ind-Art adj|big-S1 adj|big-S1 noun|building-Plur-Acc adv|right .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|2|OBJ 4|5|MARK 5|2|ADVCL 6|9|DET 7|9|AMOD 8|9|AMOD 9|5|OBJ 10|5|ADVMOD 11|2|PUNCT
+%wor:	I  like Legos  to  build  a  big  big  buildings  right  .
+%cod:	$MLU=9 $NMV=2 $Rex $Rep
+*INV:	what else can you build with Legos ? 
+%mor:	pron|what-Int-S1 adv|else aux|can-Fin-S pron|you-Prs-Nom-S2 verb|build-Inf-S adp|with propn|Legos ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+%wor:	what  else  can  you  build  with  Legos  ?
+%cod:	$MLU=7 $NMV=1 $Con $Rfi
+*CHI:	I can build Santa Claus .
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S verb|build-Inf-S propn|Santa-Acc propn|Claus .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|3|OBJ 5|4|FLAT 6|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Res $Rep
+*INV:	with what ? 
+%mor:	adp|with pron|what-Int-S1 ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+%wor:	with  what  ?
+%cod:	$MLU=2 $NMV=0 $Rre $Cla
+*CHI:	Santa Claus .
+%mor:	propn|Santa propn|Claus .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*INV:	you can build Santa Claus with Legos ? 
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|build-Inf-S propn|Santa-Acc propn|Claus adp|with propn|Legos ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|OBJ 5|4|FLAT 6|7|CASE 7|3|OBL 8|3|PUNCT
+%wor:	you  can  build  Santa  Claus  with  Legos  ?
+%cod:	$MLU=6 $NMV=1 $Rre $Rfi
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah  .
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*INV:	wow . 
+%mor:	intj|wow .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	wow  .
+%cod:	$MLU=1 $NMV=0 $Rre $Rep
+*INV:	look at those sneakers ! 
+%mor:	verb|look-Fin-Imp-S adp|at det|that-Def-Dem-Plur noun|sneaker-Plur !
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+%wor:	look at those sneakers  !
+%cod:	$MLU=4 $NMV=1 $Ini $Rep
+*INV:	can you run real real fast with those sneakers ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|run-Inf-S adj|real-S1 adj|real-S1 adv|fast adp|with det|that-Def-Dem-Plur noun|sneaker-Plur ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|3|OBJ 5|6|OBL-UNMARKED 6|3|ADVMOD 7|9|CASE 8|9|DET 9|3|OBL 10|3|PUNCT
+%wor:	can  you  run  real  real  fast  with  those  sneakers  ?
+%cod:	$MLU=9 $NMV=1 $Con $Rfi
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*INV:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah  .
+%cod:	$MLU=1 $NMV=0 $Rre $Rsc
+*CHI:	0 .
+%sit:	pulls out a new toy
+*INV:	what's in there ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adp|in adv|there ?
+%gra:	1|4|ROOT 2|4|COP 3|4|CASE 4|1|OBL 5|1|PUNCT
+%wor:	what's  in  there  ?
+%cod:	$MLU=4 $NMV=1 $Rta $Rfi
+*CHI:	0do you know what Dennis found [*] ?
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|what-Rel-S1 propn|Dennis verb|find-Fin-Ind-Past-S3-irr ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|2|PUNCT
+%cod:	$MLU=5 $NMV=2 $Res $Rfi
+*INV:	what is that ? 
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+%wor:	what  is  that  ?
+%cod:	$MLU=3 $NMV=1 $Rri $Rfi
+*INV:	I can't see . 
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|see-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I  can't  see  .
+%cod:	$MLU=4 $NMV=1 $Con $Rep
+*INV:	let me see . 
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+%wor:	let  me  see  .
+%cod:	$MLU=3 $NMV=2 $Con $C/R
+*INV:	o:h what is that ? 
+%mor:	intj|oh pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|2|COP 4|2|NSUBJ 5|2|PUNCT
+%wor:	oh  what  is  that  ?
+%cod:	$MLU=3 $NMV=1 $Con $Rfi
+*INV:	I don't know what that is . 
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Int-S1 pron|that-Dem aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|4|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|4|PUNCT
+%wor:	I  don't  know  what  that  is  .
+%cod:	$MLU=7 $NMV=2 $Con $Rep
+*CHI:	it's for Lego . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|for propn|Lego .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	it's  for  Lego  .
+%cod:	$MLU=4 $NMV=1 $Res $Rep
+*INV:	oh it's for Lego . 
+%mor:	intj|oh pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|for propn|Lego .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|CASE 5|5|ROOT 6|5|PUNCT
+%wor:	oh  it's  for  Lego  .
+%cod:	$MLU=4 $NMV=1 $Rre $C/A
+*CHI:	it's a light . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|light .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	it's  a  light  .
+%cod:	$MLU=4 $NMV=1 $Res $Rep
+*CHI:	Dennis found it .
+%mor:	propn|Dennis verb|find-Fin-Ind-Past-S3-irr pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rep
+*INV:	who found it ? 
+%mor:	pron|who-Rel verb|find-Fin-Ind-Past-S3-irr pron|it-Prs-Acc-S3 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	who  found  it  ?
+%cod:	$MLU=3 $NMV=1 $Rre $Rfi
+*INV:	o:h look at these . 
+%mor:	intj|oh verb|look-Fin-Imp-S adp|at pron|this-Dem-P1 .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+%wor:	oh  look  at  these  .
+%cod:	$MLU=3 $NMV=1 $Con $C/R
+*CHI:	Dennis found it . 
+%mor:	propn|Dennis verb|find-Fin-Ind-Past-S3-irr pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	Dennis  found  it  .
+%cod:	$MLU=3 $NMV=1 $Res $Rep
+*INV:	Dennis ? 
+%mor:	propn|Dennis ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	Dennis  ?
+%cod:	$MLU=1 $NMV=0 $Rre $Exp
+*INV:	wow you have a_lot_of cars . 
+%mor:	intj|wow pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 noun|alotof noun|car-Plur-Acc .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|5|ROOT 4|5|COMPOUND 5|3|OBJ 6|3|PUNCT
+%wor:	wow  you  have  a_lot_of  cars  .
+%cod:	$MLU=6 $NMV=1 $Ini $Rep
+*CHI:	and trucks . 
+%mor:	cconj|and noun|truck-Plur .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and  trucks  .
+%cod:	$MLU=2 $NMV=0 $Res $Rep
+*INV:	and trucks too . 
+%mor:	cconj|and noun|truck-Plur adv|too .
+%gra:	1|2|CC 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	and  trucks  too  .
+%cod:	$MLU=3 $NMV=0 $Rre $C/A
+*INV:	which is your favorite one ? 
+%mor:	pron|which-Rel-S1 aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 adj|favorite-S1 noun|one ?
+%gra:	1|5|NSUBJ 2|5|COP 3|5|NMOD-POSS 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%wor:	which  is  your  favorite  one  ?
+%cod:	$MLU=5 $NMV=1 $Ini $Rfi
+*CHI:	this .
+%mor:	pron|this-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*INV:	this one ? 
+%mor:	det|this-Def-Dem-Sing noun|one ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	this  one  ?
+%cod:	$MLU=2 $NMV=0 $Rre $Rfi
+*INV:	what kind of truck is that ? 
+%mor:	det|what-Def-Int noun|kind adp|of noun|truck aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|2|DET 2|6|NSUBJ 3|4|CASE 4|2|NMOD 5|6|COP 6|6|ROOT 7|6|PUNCT
+%wor:	what  kind  of  truck  is  that  ?
+%cod:	$MLU=6 $NMV=1 $Con $Rfi
+*CHI:	dump truck . 
+%mor:	verb|dump-Fin-Imp-S noun|truck-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	dump  truck  .
+%cod:	$MLU=2 $NMV=0 $Res $Rep
+*INV:	and what do you put inside there ? 
+%mor:	cconj|and pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|put-Inf-S adp|inside adv|there ?
+%gra:	1|5|CC 2|5|OBJ 3|5|AUX 4|5|NSUBJ 5|7|ROOT 6|2|CASE 7|5|OBL 8|5|PUNCT
+%wor:	and  what  do  you  put  inside  there  ?
+%cod:	$MLU=7 $NMV=1 $Rre $Rfi
+*CHI:	dirt . 
+%mor:	noun|dirt .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dirt  .
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*INV:	dirt . 
+%mor:	noun|dirt .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	dirt  .
+%cod:	$MLU=1 $NMV=0 $Res $C/A
+*INV:	and what else can go in a dump truck ? 
+%mor:	cconj|and pron|what-Int-S1 adv|else aux|can-Fin-S verb|go-Inf-S adp|in det|a-Ind-Art noun|dump noun|truck ?
+%gra:	1|5|CC 2|5|NSUBJ 3|2|ADVMOD 4|5|AUX 5|9|ROOT 6|9|CASE 7|9|DET 8|9|COMPOUND 9|5|OBL 10|5|PUNCT
+%wor:	and  what  else  can  go  in  a  dump  truck  ?
+%cod:	$MLU=7 $NMV=1 $Con $Rfi
+*CHI:	0 .
+%cod:	$Nul
+*INV:	what do you do with a dump truck ? 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Inf-S adp|with det|a-Ind-Art noun|dump noun|truck ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|8|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|4|PUNCT
+%wor:	what  do  you  do  with  a  dump  truck  ?
+%cod:	$MLU=8 $NMV=1 $Ini $Rfi
+*INV:	where do you take it ? 
+%mor:	adv|where aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|take-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	where  do  you  take  it  ?
+%cod:	$MLU=5 $NMV=1 $Con $Rfi
+*CHI:	right there .
+%mor:	adv|right adv|there .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Res $Rep
+*INV:	over here ? 
+%mor:	adp|over adv|here ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+%wor:	over  here  ?
+%cod:	$MLU=2 $NMV=0 $Rre $Exp
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*INV:	and dump stuff on the ground ? 
+%mor:	cconj|and verb|dump-Fin-Imp-S noun|stuff-Acc adp|on det|the-Def-Art noun|ground ?
+%gra:	1|2|CC 2|6|ROOT 3|2|OBJ 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+%wor:	and  dump  stuff  on  the  ground  ?
+%cod:	$MLU=6 $NMV=1 $Rre $Rfi
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*INV:	and then get some more dirt . 
+%mor:	cconj|and adv|then verb|get-Fin-Imp-S det|some-Def-Ind adj|more-Cmp-S1 noun|dirt-Acc .
+%gra:	1|3|CC 2|3|ADVMOD 3|6|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+%wor:	and  then  get  some  more  dirt  .
+%cod:	$MLU=6 $NMV=1 $Rre $Rep
+*INV:	and then bring it back over and dump it on the ground . 
+%mor:	cconj|and adv|then verb|bring-Fin-Imp-S pron|it-Prs-Acc-S3 adv|back adp|over cconj|and verb|dump-Fin-Imp-S pron|it-Prs-Acc-S3 adp|on det|the-Def-Art noun|ground .
+%gra:	1|3|CC 2|3|ADVMOD 3|12|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|COMPOUND-PRT 7|8|CC 8|3|CONJ 9|8|OBJ 10|12|CASE 11|12|DET 12|8|OBL 13|3|PUNCT
+%wor:	and  then  bring  it  back  over  and  dump  it  on  the  ground  .
+%cod:	$MLU=12 $NMV=2 $Con $Rep
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*INV:	yeah ? 
+%mor:	intj|yeah ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah  ?
+%cod:	$MLU=1 $NMV=0 $Rre $Exp
+*INV:	you can do a_lot_of work with these trucks can't you . 
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|do-Inf-S noun|alotof noun|work-Acc adp|with det|this-Def-Dem-Plur noun|truck-Plur aux|can-Fin-S~part|not pron|you-Prs-Nom-S2 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|11|ROOT 4|5|COMPOUND 5|3|OBJ 6|8|CASE 7|8|DET 8|9|NSUBJ 9|3|ADVCL 10|11|ADVMOD 11|3|PARATAXIS 12|3|PUNCT
+%wor:	you  can  do  a_lot_of  work  with  these  trucks  can't  you  .
+%cod:	$MLU=13 $NMV=2 $Con $Rep
+*CHI:	ummhm .
+%mor:	intj|ummhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*INV:	these are big trucks . 
+%mor:	pron|this-Dem-P1 aux|be-Fin-Ind-Pres-P3 adj|big-S1 noun|truck-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%wor:	these  are  big  trucks  .
+%cod:	$MLU=4 $NMV=1 $Ini $Rep
+*CHI:	this one's for carrying fish . 
+%mor:	det|this-Def-Dem-Sing noun|one~aux|be-Fin-Ind-Pres-S3 sconj|for verb|carry-Part-Pres-S noun|fish-Acc .
+%gra:	1|2|DET 2|5|NSUBJ-OUTER 3|5|COP 4|5|MARK 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%wor:	this  one's  for  carrying  fish  .
+%cod:	$MLU=6 $NMV=2 $Ini $Rep
+*INV:	that's for carrying fish ? 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 sconj|for verb|carry-Part-Pres-S noun|fish-Acc ?
+%gra:	1|4|NSUBJ-OUTER 2|4|COP 3|4|MARK 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	that's  for  carrying  fish  ?
+%cod:	$MLU=6 $NMV=2 $Rre $Exp
+*CHI:	and crabs . 
+%mor:	cconj|and noun|crab-Plur .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and  crabs  .
+%cod:	$MLU=2 $NMV=0 $Res $Rep
+*INV:	crabs . 
+%mor:	noun|crab-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	crabs  .
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*CHI:	0 .
+%sit:	drops toy .
+*INV:	whoop .
+%mor:	noun|whoop .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rta $Rep
+*INV:	you carry fish and crabs in there . 
+%mor:	pron|you-Prs-Nom-S2 verb|carry-Fin-Ind-Pres-S2 noun|fish-Plur-Acc cconj|and noun|crab-Plur adp|in adv|there .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|OBJ 4|5|CC 5|3|CONJ 6|7|CASE 7|2|OBL 8|2|PUNCT
+%wor:	you  carry  fish  and  crabs  in  there  .
+%cod:	$MLU=7 $NMV=1 $Ini $Rep
+*INV:	what's this one for ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|this-Def-Dem-Sing noun|one adp|for ?
+%gra:	1|5|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|CASE 6|1|PUNCT
+%wor:	what's  this  one  for  ?
+%cod:	$MLU=5 $NMV=1 $Con $Rfi
+*CHI:	<this one's for> [//] that one's for pick up (.) crabs too . 
+%mor:	sconj|that pron|one-Prs-S3~aux|be-Fin-Ind-Pres-S3 adp|for verb|pick-Inf-S adp|up noun|crab-Plur-Acc adv|too .
+%gra:	1|5|MARK 2|5|NSUBJ-OUTER 3|5|COP 4|5|MARK 5|8|ROOT 6|5|COMPOUND-PRT 7|5|OBJ 8|5|ADVMOD 9|5|PUNCT
+%wor:	this  one's  for  that  one's  for  pick  up  crabs  too  .
+%cod:	$MLU=8 $NMV=2 $Res $Rep
+*INV:	you pick up crabs with this ? 
+%mor:	pron|you-Prs-Nom-S2 verb|pick-Fin-Ind-Pres-S2 adp|up noun|crab-Plur-Acc adp|with pron|this-Dem-S1 ?
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|COMPOUND-PRT 4|2|OBJ 5|6|CASE 6|2|OBL 7|2|PUNCT
+%wor:	you pick  up  crabs  with  this  ?
+%cod:	$MLU=6 $NMV=1 $Rre $Exp
+*INV:	it looks like a racing car to me . 
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art noun|racing-Ger noun|car adp|to pron|I-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|6|CASE 4|6|DET 5|6|COMPOUND 6|2|OBL 7|8|CASE 8|2|OBL 9|2|PUNCT
+%wor:	it  looks  like  a  racing  car  to  me  .
+%cod:	$MLU=8 $NMV=1 $Con $Rep
+*INV:	it goes real real fast . 
+%mor:	pron|it-Prs-Nom-S3 verb|go-Fin-Ind-Pres-S3 adv|real adv|real adv|fast .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|ADVMOD 4|5|ADVMOD 5|2|ADVMOD 6|2|PUNCT
+%wor:	it goes  real  real  fast  .
+%cod:	$MLU=5 $NMV=1 $Con $Rep
+*CHI:	this one goes real [/] real fast . 
+%mor:	det|this-Def-Dem-Sing noun|one verb|go-Fin-Ind-Pres-S3 adv|real adv|fast .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|ADVMOD 5|3|ADVMOD 6|3|PUNCT
+%wor:	this  one  goes  real  real  fast  .
+%cod:	$MLU=6 $NMV=1 $Res $Rep
+*INV:	that one goes real fast too ? 
+%mor:	sconj|that pron|one-Prs-S3 verb|go-Fin-Ind-Pres-S3 adv|real adv|fast adv|too ?
+%gra:	1|3|MARK 2|3|NSUBJ 3|6|ROOT 4|5|ADVMOD 5|3|ADVMOD 6|3|ADVMOD 7|3|PUNCT
+%wor:	that one  goes  real  fast  too  ?
+%cod:	$MLU=6 $NMV=1 $Rre $Exp
+*CHI:	watch .
+%mor:	verb|watch-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Res $Des
+*INV:	wow that one does go +... 
+%mor:	intj|wow sconj|that pron|one-Prs-S3 aux|do-Fin-Ind-Pres-S3 verb|go-Inf-S +...
+%gra:	1|5|DISCOURSE 2|5|MARK 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+%wor:	wow  that one  does  go  +...
+*INV:	look .
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Ini $C/R
+*INV:	they're more ! 
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adj|more-Cmp-S1 !
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	they're  more  !
+%cod:	$MLU=3 $NMV=1 $Con $Rep
+*INV:	what is this one for ? 
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 det|this-Def-Dem-Sing noun|one adp|for ?
+%gra:	1|5|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|CASE 6|1|PUNCT
+%wor:	what  is  this  one  for  ?
+%cod:	$MLU=5 $NMV=1 $Con $Rfi
+*CHI:	tractor .
+%mor:	noun|tractor .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*INV:	yeah and what do you do with that ? 
+%mor:	intj|yeah cconj|and pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Inf-S adp|with pron|that-Dem ?
+%gra:	1|6|DISCOURSE 2|6|CC 3|6|OBJ 4|6|AUX 5|6|NSUBJ 6|8|ROOT 7|8|CASE 8|6|OBL 9|6|PUNCT
+%wor:	yeah  and  what  do  you  do  with  that  ?
+%cod:	$MLU=8 $NMV=1 $Rre $Rfi
+*CHI:	and you put dirt in the dump truck .
+%mor:	cconj|and pron|you-Prs-Nom-S2 verb|put-Fin-Ind-Past-S2-irr noun|dirt-Acc adp|in det|the-Def-Art noun|dump noun|truck .
+%gra:	1|3|CC 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|8|CASE 6|8|DET 7|8|COMPOUND 8|3|OBL 9|3|PUNCT
+%cod:	$MLU=8 $NMV=1 $Res $Rep
+*INV:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*CHI:	I have a game for you . 
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 det|a-Ind-Art noun|game-Acc adp|for pron|you-Prs-Acc-S2 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|4|NMOD 7|2|PUNCT
+%wor:	I have  a game for you  .
+%cod:	$MLU=6 $NMV=1 $Ini $Rep
+@End

@@ -1,0 +1,75 @@
+@UTF8
+@PID:	11312/c-00011187-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, SIS Sister, MOT Mother
+@ID:	eng|Braunwald|CHI|03;04.09|female|||Target_Child|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@Date:	29-JUN-1974
+@Types:	long, toyplay, TD
+*CHI:	maybe one's Hansen [: Hansel] and one's Gretel .
+%mor:	adv|maybe pron|one-Prs-S3~part|s propn|Hansel cconj|and pron|one-Prs-S3~part|s propn|Gretel .
+%gra:	1|4|ADVMOD 2|4|NMOD-POSS 3|2|CASE 4|8|ROOT 5|8|CC 6|8|NMOD-POSS 7|6|CASE 8|4|CONJ 9|4|PUNCT
+%sit:	890
+*SIS:	Hansel@q and Gretel@q , not Hansen@q and Gretel@q .
+%mor:	q|Hansel cconj|and q|Gretel cm|cm part|not q|Hansen cconj|and q|Gretel .
+%gra:	1|8|FLAT 2|3|CC 3|1|FLAT 4|6|PUNCT 5|6|ADVMOD 6|1|FLAT 7|8|CC 8|6|FLAT 9|1|PUNCT
+%sit:	890
+*CHI:	Hansome [: Hansel] and Gretel .
+%mor:	propn|Hansel cconj|and propn|Gretel .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+%sit:	890
+*SIS:	no , Hansel@q and Gretel@q .
+%mor:	intj|no cm|cm q|Hansel cconj|and q|Gretel .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|5|FLAT 4|5|CC 5|3|FLAT 6|3|PUNCT
+%sit:	890
+*CHI:	Mommy , I think my nightgown you bought me is too long because I keep falling on it .
+%mor:	intj|mommy cm|cm pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|nightgown pron|you-Prs-Nom-S2 verb|buy-Fin-Ind-Past-S2-irr pron|I-Prs-Acc-S1 aux|be-Fin-Ind-Pres-S3 adv|too adj|long-S1 sconj|because pron|I-Prs-Nom-S1 verb|keep-Fin-Ind-Pres-S1 verb|fall-Ger-S adp|on pron|it-Prs-Acc-S3 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|18|ROOT 5|6|NMOD-POSS 6|12|NSUBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|8|OBJ 10|12|COP 11|12|ADVMOD 12|4|CCOMP 13|15|MARK 14|15|NSUBJ 15|12|ADVCL 16|15|XCOMP 17|18|CASE 18|16|OBL 19|4|PUNCT
+%sit:	891
+*MOT:	oh , maybe you're right .
+%mor:	intj|oh cm|cm adv|maybe pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|right-S1 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|ADVMOD 4|6|NSUBJ 5|6|COP 6|6|ROOT 7|6|PUNCT
+%sit:	891
+*CHI:	I untied my shoe since I was angry .
+%mor:	pron|I-Prs-Nom-S1 verb|unty-Fin-Ind-Past-S1 pron|my-Prs-Gen-S1 noun|shoe-Acc sconj|since pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr adj|angry-S1 .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|8|MARK 6|8|NSUBJ 7|8|COP 8|2|ADVCL 9|2|PUNCT
+%sit:	892
+*MOT:	oh , that's too bad .
+%mor:	intj|oh cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|too adj|bad-S1 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%sit:	892
+*CHI:	and I tore my picture .
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|tore-Fin-Ind-Past-S1 pron|my-Prs-Gen-S1 noun|picture-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|5|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT
+%sit:	892
+*CHI:	I must have been really angry .
+%mor:	pron|I-Prs-Nom-S1 aux|must-Fin-S aux|have-Inf-S aux|be-Part-Past-S-irr adv|really adj|angry-S1 .
+%gra:	1|6|NSUBJ 2|6|AUX 3|6|AUX 4|6|COP 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%sit:	892
+*MOT:	yes , you were .
+%mor:	intj|yes cm|cm pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Past-S2-irr .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%sit:	892
+*CHI:	I'm glad you're home , not going to Santa Barbara without me .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|glad-S1 pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 noun|home cm|cm part|not verb|go-Part-Pres-S adp|to propn|Santa propn|Barbara adp|without pron|I-Prs-Acc-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|14|ROOT 4|6|NSUBJ 5|6|COP 6|3|CCOMP 7|9|PUNCT 8|9|ADVMOD 9|3|PARATAXIS 10|11|CASE 11|9|OBL 12|11|FLAT 13|14|CASE 14|9|OBL 15|3|PUNCT
+%sit:	893
+*MOT:	is David still in your group ?
+%mor:	aux|be-Fin-Ind-Pres-S3 propn|David adv|still adp|in pron|your-Prs-Gen-S2 noun|group ?
+%gra:	1|6|COP 2|6|NSUBJ 3|6|ADVMOD 4|6|CASE 5|6|NMOD-POSS 6|6|ROOT 7|6|PUNCT
+%sit:	894
+*CHI:	he has late temperature .
+%mor:	pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 adj|late-S1 noun|temperature-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|AMOD 4|2|OBJ 5|2|PUNCT
+%sit:	894
+*MOT:	what's a late temperature ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|late-S1 noun|temperature ?
+%gra:	1|5|ROOT 2|5|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|1|PUNCT
+%sit:	894
+*CHI:	I don't know .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%sit:	894
+@End

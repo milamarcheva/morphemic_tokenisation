@@ -1,0 +1,82 @@
+@UTF8
+@PID:	11312/a-00077477-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant, PAR1 Participant
+@ID:	eng|HSLLD|PAR0|||||Participant|||
+@ID:	eng|HSLLD|PAR1|||||Participant|||
+@Media:	suser1, audio
+@Comment:	Batchalign 0.7.1-beta.12, ASR Engine rev
+@Types:	long, narrative, TD
+*PAR0:	you can track it . 
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|track-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	you  can  track  it  .
+*PAR0:	you want . 
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%wor:	you want  .
+*PAR1:	did you think of her birthday . 
+%mor:	aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|think-Inf-S adp|of pron|her-Prs-Gen-S3 noun|birthday .
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|3|PUNCT
+%wor:	did you  think  of  her  birthday  .
+*PAR1:	could you pick tell her a little bit about . 
+%mor:	aux|could-Fin-S pron|you-Prs-Nom-S2 verb|pick-Inf-S verb|tell-Inf-S pron|her-Prs-Acc-S3 det|a-Ind-Art adj|little-S1 noun|bit adp|about .
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|3|XCOMP 5|4|IOBJ 6|8|DET 7|8|AMOD 8|4|OBL-UNMARKED 9|3|PUNCT 10|3|PUNCT
+%wor:	could  you  pick  tell  her  a  little  bit  about  .
+*PAR0:	that . 
+%mor:	pron|that-Dem .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	that  .
+*PAR0:	do you wanna tell her what happened in your birthday . 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 intj|wanna verb|tell-Inf-S pron|her-Prs-Acc-S3 pron|what-Int-S1 verb|happen-Fin-Ind-Past-S3 adp|in pron|your-Prs-Gen-S2 noun|birthday .
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|DISCOURSE 4|10|ROOT 5|4|IOBJ 6|7|NSUBJ 7|4|CCOMP 8|10|CASE 9|10|NMOD-POSS 10|7|OBL 11|4|PUNCT
+%wor:	do  you  wanna  tell  her  what  happened  in  your  birthday  .
+*PAR0:	do you remember how many children came . 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|remember-Inf-S adv|how adj|many-S1 noun|child-Plur verb|come-Fin-Ind-Past-P3-irr .
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|5|ADVMOD 5|6|AMOD 6|7|NSUBJ 7|3|CCOMP 8|3|PUNCT
+%wor:	do  you  remember  how  many  children  came  .
+*PAR0:	can you tell her . 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|her-Prs-Acc-S3 .
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|IOBJ 5|3|PUNCT
+%wor:	can  you  tell  her  .
+*PAR0:	Kate she missed your party . 
+%mor:	propn|Kate pron|she-Prs-Nom-S3 verb|miss-Fin-Ind-Past-S3 pron|your-Prs-Gen-S2 noun|party-Acc .
+%gra:	1|3|NSUBJ 2|3|NSUBJ 3|5|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT
+%wor:	Kate  she  missed  your  party  .
+*PAR0:	can you tell her what we had to eat . 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|her-Prs-Acc-S3 pron|what-Rel-S1 pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Past-P1-irr part|to verb|eat-Inf-S .
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|3|IOBJ 5|3|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|9|MARK 9|7|XCOMP 10|3|PUNCT
+%wor:	can  you  tell  her  what  we  had  to  eat  .
+*PAR0:	you don't have to be shy . 
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|have-Inf-S part|to aux|be-Inf-S adj|shy-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|7|MARK 6|7|COP 7|4|XCOMP 8|4|PUNCT
+%wor:	you don't  have  to  be  shy  .
+*PAR0:	what did you have to that you don't remember . 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|have-Inf-S part|to pron|that-Rel pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|remember-Inf-S .
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|10|ROOT 5|6|MARK 6|10|OBJ 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|4|CCOMP 11|4|PUNCT
+%wor:	what did  you  have  to  that  you  don't  remember  .
+*PAR0:	can you tell how many . 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S adv|how adj|many-S1 .
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|ADVMOD 5|3|OBJ 6|3|PUNCT
+%wor:	can  you  tell  how  many  .
+*PAR0:	can she know how old . 
+%mor:	aux|can-Fin-S pron|she-Prs-Nom-S3 verb|know-Inf-S adv|how adj|old-S1 .
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|ADVMOD 5|3|OBJ 6|3|PUNCT
+%wor:	can  she  know  how  old  .
+*PAR1:	kids .
+%mor:	noun|kid-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	they have four kids . 
+%mor:	pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Pres-P3 num|four noun|kid-Plur-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NUMMOD 4|2|OBJ 5|2|PUNCT
+%wor:	they have  four  kids  .
+*PAR0:	how many kids who was there . 
+%mor:	adv|how adj|many-S1 noun|kid-Plur pron|who-Rel aux|be-Fin-Ind-Past-S3-irr adv|there .
+%gra:	1|2|ADVMOD 2|3|AMOD 3|6|ROOT 4|6|NSUBJ 5|6|COP 6|3|ACL-RELCL 7|3|PUNCT
+%wor:	how  many  kids  who  was  there  .
+*PAR0:	tell how many shy . 
+%mor:	verb|tell-Fin-Imp-S adv|how adj|many-S1 adj|shy-S1 .
+%gra:	1|4|ROOT 2|3|ADVMOD 3|4|AMOD 4|1|CCOMP 5|1|PUNCT
+%wor:	tell  how  many  shy  .
+@End

@@ -1,0 +1,477 @@
+@UTF8
+@PID:	11312/a-00096720-0
+@Begin
+@Languages:	eng
+@Participants:	ADF Sister, CHI Target_Child
+@ID:	eng|FMB_home|ADF||female|||Sister|||
+@ID:	eng|FMB_home|CHI|2;00.|female|||Target_Child||20127|
+@Comment:	20127_context15_5533
+@G:	ch_conversation
+@Types:	long, everyday, TD
+*ADF:	&+a .
+*ADF:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	record all the things targetchild_name can say ?
+%mor:	verb|record-Inf-Imp-S det|all-Def-Tot det|the-Def-Art noun|thing-Plur-Acc noun|targetchildname aux|can-Fin-S verb|say-Inf-S ?
+%gra:	1|7|ROOT 2|4|DET-PREDET 3|4|DET 4|1|OBJ 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|1|PUNCT
+*CHI:	(o)kay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	high_five .
+%mor:	noun|highfive .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	no high_five ?
+%mor:	det|no-Def-Neg noun|highfive ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	hands slapping .
+*ADF:	good_job .
+%mor:	noun|goodjob .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mommy .
+%mor:	propn|Mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	TV playing in the background .
+*CHI:	home .
+%mor:	noun|home .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	hmm ?
+%mor:	intj|hmm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	home .
+%mor:	noun|home .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	home ?
+%mor:	noun|home ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	we are at home .
+%mor:	pron|we-Prs-Nom-P1 aux|be-Fin-Ind-Pres-P1 adp|at noun|home .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|4|ROOT 5|4|PUNCT
+@G:	ch_meals
+*ADF:	would you like to eat breakfast ?
+%mor:	aux|would-Fin-S pron|you-Prs-Nom-S2 verb|like-Inf-S part|to verb|eat-Inf-S noun|breakfast-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	you wanna waffle ?
+%mor:	pron|you-Prs-Nom-S2 aux|wanna-Fin-Ind-Pres-S2 noun|waffle ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	ow .
+%mor:	intj|ow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	your arm hurt ?
+%mor:	pron|your-Prs-Gen-S2 noun|arm verb|hurt-Fin-Ind-Past-S3-irr ?
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*ADF:	let me see .
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*ADF:	I don't see anything on it .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|see-Inf-S pron|anything-Ind-S1 adp|on pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|4|OBJ 6|7|CASE 7|4|OBL 8|4|PUNCT
+*CHI:	ouch .
+%mor:	intj|ouch .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	you okay ?
+%mor:	pron|you-Prs-Nom-S2 intj|okay ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%com:	TV playing in the background .
+*CHI:	xxx .
+%com:	TV playing in the background .
+*CHI:	xxx .
+*ADF:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	you have to leave that alone .
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 part|to verb|leave-Inf-S pron|that-Dem adv|alone .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|4|ADVMOD 7|2|PUNCT
+*ADF:	we're gonna eat breakfast in a minute .
+%mor:	pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 part|go verb|eat-Inf-S noun|breakfast-Acc adp|in det|a-Ind-Art noun|minute .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*ADF:	are you hungry .
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adj|hungry-S1 .
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	um xxx .
+%mor:	intj|um .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*CHI:	mine !
+%mor:	pron|my-Prs-S1 !
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mine [/] mine .
+%mor:	pron|my-Prs-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	ready to eat a waffle .
+%mor:	adj|ready-S1 part|to verb|eat-Inf-S det|a-Ind-Art noun|waffle-Acc .
+%gra:	1|5|ROOT 2|3|MARK 3|1|XCOMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*ADF:	mmm .
+%mor:	intj|mmm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mum [: yum] .
+%mor:	intj|yum .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	mum [: yum] .
+%mor:	intj|yum .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yum .
+%mor:	intj|yum .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	yum .
+%mor:	intj|yum .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mine .
+%mor:	pron|my-Prs-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	is it your waffle ?
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 pron|your-Prs-Gen-S2 noun|waffle ?
+%gra:	1|4|COP 2|4|NSUBJ 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	all mine .
+%mor:	det|all-Def-Tot pron|my-Prs-S1 .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*ADF:	well , it's not ready yet .
+%mor:	intj|well cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adj|ready-S1 adv|yet .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|7|ROOT 7|6|ADVMOD 8|6|PUNCT
+*ADF:	it's cooking .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|cook-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+*ADF:	it's done .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|do-Part-Past-S-irr .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|3|ROOT 4|3|PUNCT
+*CHI:	mine [/] mine ?
+%mor:	pron|my-Prs-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*ADF:	xxx .
+*ADF:	uhuh , those are for Six_Flags .
+%mor:	intj|uhuh cm|cm pron|that-Dem-P1 aux|be-Fin-Ind-Pres-P3 adp|for propn|SixFlags-Plur .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|CASE 6|6|ROOT 7|6|PUNCT
+*ADF:	you can use those on Sunday .
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|use-Inf-S pron|that-Dem-P1 adp|on propn|Sunday .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+*CHI:	xxx .
+*CHI:	swim .
+%mor:	verb|swim-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&+sw .
+*ADF:	swim .
+%mor:	verb|swim-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	it's too early it's cold .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|too adj|early-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|cold-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|7|ROOT 5|7|NSUBJ 6|7|COP 7|4|PARATAXIS 8|4|PUNCT
+*CHI:	(i)t cold ?
+%mor:	pron|it-Prs-Nom-S3 adj|cold-S1 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%com:	TV playing in the background .
+*CHI:	house .
+%mor:	noun|house .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	nap [/] nap .
+%mor:	noun|nap .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ta_da !
+%mor:	propn|tada !
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	ta_da !
+%mor:	propn|tada !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	up .
+%mor:	adv|up .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	xxx .
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	nana [: banana] ?
+%mor:	noun|banana ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	oh , no .
+%mor:	intj|oh cm|cm intj|no .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+*ADF:	those bananas are for banana bread .
+%mor:	det|that-Def-Dem-Plur noun|banana-Plur aux|be-Fin-Ind-Pres-P3 adp|for noun|banana noun|bread .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|COMPOUND 6|6|ROOT 7|6|PUNCT
+*CHI:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	they're not fresh .
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 part|not adj|fresh-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*ADF:	would you like some raspberries ?
+%mor:	aux|would-Fin-S pron|you-Prs-Nom-S2 verb|like-Inf-S det|some-Def-Ind noun|raspberry-Plur-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	wash .
+%mor:	verb|wash-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	xxx wash your hands then .
+%mor:	verb|wash-Fin-Imp-S pron|your-Prs-Gen-S2 noun|hand-Plur-Acc adv|then .
+%gra:	1|4|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|ADVMOD 5|1|PUNCT
+*CHI:	(o)kay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*CHI:	xxx .
+*CHI:	me .
+%mor:	pron|I-Prs-Acc-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*ADF:	xxx .
+*ADF:	did you get your hands wet ?
+%mor:	aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|get-Inf-S pron|your-Prs-Gen-S2 noun|hand-Plur-Acc adj|wet-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|XCOMP 7|3|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	one hand .
+%mor:	num|one noun|hand .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*ADF:	other hand .
+%mor:	adj|other-S1 noun|hand .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*ADF:	two hands .
+%mor:	num|two noun|hand-Plur .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+*ADF:	oh , hold_on there .
+%mor:	intj|oh cm|cm intj|holdon adv|there .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*ADF:	we have to get the soap down .
+%mor:	pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 part|to verb|get-Inf-S det|the-Def-Art noun|soap-Acc adp|down .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|MARK 4|2|XCOMP 5|6|DET 6|4|OBJ 7|4|COMPOUND-PRT 8|2|PUNCT
+*CHI:	soap ?
+%mor:	noun|soap ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	uhhuh .
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hot .
+%mor:	adj|hot-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	wash [/] wash [/] wash your hands , wash (th)em every day &=sings . [+ rmix]
+%mor:	verb|wash-Fin-Imp-S pron|your-Prs-Gen-S2 noun|hand-Plur-Acc cm|cm verb|wash-Fin-Imp-S2 pron|they-Prs-Acc-P3 det|every-Def-Tot noun|day .
+%gra:	1|8|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|5|PUNCT 5|1|PARATAXIS 6|5|OBJ 7|8|DET 8|5|OBL-UNMARKED 9|1|PUNCT
+*ADF:	on the tops and on the bottoms , wash the germs away &=sings . [+ rmix]
+%mor:	adp|on det|the-Def-Art noun|top-Plur cconj|and adp|on det|the-Def-Art noun|bottom-Plur cm|cm verb|wash-Fin-Imp-S2 det|the-Def-Art noun|germ-Plur-Acc adv|away .
+%gra:	1|3|CASE 2|3|DET 3|9|OBL 4|7|CC 5|7|CASE 6|7|DET 7|3|CONJ 8|3|PUNCT 9|12|ROOT 10|11|DET 11|9|OBJ 12|9|ADVMOD 13|9|PUNCT
+*CHI:	xxx .
+*ADF:	you ready ?
+%mor:	pron|you-Prs-Nom-S2 adj|ready-S1 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	to rinse ?
+%mor:	part|to verb|rinse-Inf-S ?
+%gra:	1|2|MARK 2|2|ROOT 3|2|PUNCT
+*ADF:	xxx .
+*ADF:	wash [/] wash [/] wash your hands wash (th)em every day &=sings . [+ rmix]
+%mor:	verb|wash-Fin-Imp-S pron|your-Prs-Gen-S2 noun|hand-Plur-Acc verb|wash-Inf-S pron|they-Prs-Acc-P3 det|every-Def-Tot noun|day .
+%gra:	1|7|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|XCOMP 5|4|OBJ 6|7|DET 7|4|OBL-UNMARKED 8|1|PUNCT
+*ADF:	xxx drink the water .
+%mor:	verb|drink-Fin-Imp-S det|the-Def-Art noun|water-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	me .
+%mor:	pron|I-Prs-Acc-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	hold_on .
+%mor:	noun|holdon .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	I need you to do under the water .
+%mor:	pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 part|to verb|do-Inf-S adp|under det|the-Def-Art noun|water .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|2|PUNCT
+*ADF:	rub (th)em together .
+%mor:	verb|rub-Fin-Imp-S pron|they-Prs-Acc-P3 adv|together .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+*ADF:	to get all the germs away .
+%mor:	part|to verb|get-Inf-S det|all-Def-Tot det|the-Def-Art noun|germ-Plur-Acc adv|away .
+%gra:	1|2|MARK 2|6|ROOT 3|5|DET-PREDET 4|5|DET 5|2|OBJ 6|2|ADVMOD 7|2|PUNCT
+*CHI:	xxx .
+*ADF:	I'm sorry .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sorry-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*ADF:	there_you_go .
+%mor:	propn|thereyougo .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*ADF:	alright .
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	they look clean .
+%mor:	pron|they-Prs-Nom-P3 verb|look-Fin-Ind-Pres-P3 adj|clean-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|XCOMP 4|2|PUNCT
+*CHI:	clean .
+%mor:	adj|clean-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	clean [/] clean &=sings .
+%mor:	adj|clean-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ow .
+%mor:	intj|ow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	owie .
+%mor:	intj|owie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	owie .
+%mor:	intj|owie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	what's wrong ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adj|wrong-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	feets .
+%mor:	noun|feet-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	feets .
+%mor:	noun|feet-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	feets ?
+%mor:	noun|feet-Plur ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	let's buckle .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|buckle-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*ADF:	you buckle .
+%mor:	pron|you-Prs-Nom-S2 verb|buckle-Fin-Ind-Pres-S2 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	(o)kay you can do one and I can do one .
+%mor:	intj|okay pron|you-Prs-Nom-S2 aux|can-Fin-S verb|do-Inf-S num|one cconj|and pron|I-Prs-Nom-S1 aux|can-Fin-S verb|do-Inf-S num|one .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|4|OBJ 6|9|CC 7|9|NSUBJ 8|9|AUX 9|4|CONJ 10|9|OBJ 11|4|PUNCT
+*CHI:	xxx .
+*ADF:	ta_da !
+%mor:	propn|tada !
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	xxx .
+*CHI:	xxx .
+*ADF:	arm's up !
+%mor:	noun|arm~part|s noun|up !
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|3|ROOT 4|3|PUNCT
+*ADF:	waffle &=sings .
+%mor:	noun|waffle .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mine ?
+%mor:	pron|my-Prs-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	your waffle .
+%mor:	pron|your-Prs-Gen-S2 noun|waffle .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*ADF:	here_you_go .
+%mor:	propn|hereyougo .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	you're gonna start with your waffle .
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 part|go verb|start-Inf-S adp|with pron|your-Prs-Gen-S2 noun|waffle .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|4|PUNCT
+*CHI:	milk [/] milk .
+%mor:	noun|milk .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	I will get you some milk .
+%mor:	pron|I-Prs-Nom-S1 aux|will-Fin-S verb|get-Inf-S pron|you-Prs-Acc-S2 det|some-Def-Ind noun|milk-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|3|IOBJ 5|6|DET 6|3|OBJ 7|3|PUNCT
+*CHI:	milk .
+%mor:	noun|milk .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	also going to get you some raspberries .
+%mor:	adv|also verb|go-Part-Pres-S part|to verb|get-Inf-S pron|you-Prs-Acc-S2 det|some-Def-Ind noun|raspberry-Plur-Acc .
+%gra:	1|2|ADVMOD 2|7|ROOT 3|4|MARK 4|2|XCOMP 5|4|IOBJ 6|7|DET 7|4|OBJ 8|2|PUNCT
+*ADF:	xxx .
+*CHI:	milk .
+%mor:	noun|milk .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	here they are .
+%mor:	adv|here pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 .
+%gra:	1|3|ROOT 2|3|NSUBJ 3|1|COP 4|1|PUNCT
+*CHI:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	milk .
+%mor:	noun|milk .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	milk , please .
+%mor:	noun|milk cm|cm intj|please .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*CHI:	please .
+%mor:	intj|please .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	here's your milk .
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|milk .
+%gra:	1|4|ROOT 2|1|COP 3|4|NMOD-POSS 4|1|NSUBJ 5|1|PUNCT
+*CHI:	mine ?
+%mor:	pron|my-Prs-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	yup .
+%mor:	intj|yup .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	<Sissy sleep> [/] Sissy sleep ?
+%mor:	adj|sissy-S1 noun|sleep ?
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	Sissy .
+%mor:	noun|sissy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	yes .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Sissy sleep .
+%mor:	adj|sissy-S1 noun|sleep .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*ADF:	Sissy is asleep .
+%mor:	propn|Sissy aux|be-Fin-Ind-Pres-S3 adj|asleep-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*ADF:	she'll wake up soon .
+%mor:	pron|she-Prs-Nom-S3~aux|will-Fin-S verb|wake-Inf-S adp|up adv|soon .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|3|COMPOUND-PRT 5|3|ADVMOD 6|3|PUNCT
+*CHI:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	whoa , baby .
+%mor:	intj|whoa cm|cm noun|baby .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+*ADF:	whoa , baby ?
+%mor:	intj|whoa cm|cm noun|baby ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+*CHI:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	xxx .
+*ADF:	here's your raspberries .
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|raspberry-Plur .
+%gra:	1|4|ROOT 2|1|COP 3|4|NMOD-POSS 4|1|NSUBJ 5|1|PUNCT
+@End

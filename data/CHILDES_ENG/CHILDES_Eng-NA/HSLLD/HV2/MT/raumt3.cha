@@ -1,0 +1,718 @@
+@UTF8
+@PID:	11312/a-00077450-1
+@Begin
+@Languages:	eng
+@Participants:	PAR1 Participant, PAR2 Participant, PAR0 Participant
+@ID:	eng|HSLLD|PAR1|||||Participant|||
+@ID:	eng|HSLLD|PAR2|||||Participant|||
+@ID:	eng|HSLLD|PAR0|||||Participant|||
+@Media:	raumt3, audio
+@Comment:	Batchalign 0.7.1-beta.12, ASR Engine rev
+@Types:	long, meal, TD
+*PAR1:	what's that . 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem .
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+%wor:	what's  that  .
+*PAR1:	what's that . 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem .
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+%wor:	what's  that  .
+*PAR1:	no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no  .
+*PAR1:	I'm doing something . 
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|do-Part-Pres-S pron|something-Ind-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	I'm  doing  something  .
+*PAR1:	s didn't . 
+%mor:	part|s aux|do-Fin-Ind-Past-S3-irr~part|not .
+%gra:	1|2|CASE 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	s didn't  .
+*PAR2:	me no . 
+%mor:	pron|I-Prs-Acc-S1 intj|no .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%wor:	me no  .
+*PAR2:	batteries . 
+%mor:	noun|battery-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	batteries  .
+*PAR1:	who wake get food . 
+%mor:	pron|who-Rel verb|wake-Fin-Ind-Pres-P3 verb|get-Inf-S noun|food-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|XCOMP 4|3|OBJ 5|2|PUNCT
+%wor:	who  wake  get  food  .
+*PAR1:	and who give their food . 
+%mor:	cconj|and pron|who-Rel verb|give-Fin-Ind-Pres-P3 pron|their-Prs-Gen-P3 noun|food-Acc .
+%gra:	1|3|CC 2|3|NSUBJ 3|5|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT
+%wor:	and  who  give  their  food  .
+*PAR2:	baby the only one that did me . 
+%mor:	noun|baby det|the-Def-Art adj|only-S1 noun|one pron|that-Rel verb|do-Fin-Ind-Past-S3-irr pron|I-Prs-Acc-S1 .
+%gra:	1|4|NSUBJ 2|4|DET 3|4|AMOD 4|7|ROOT 5|6|NSUBJ 6|4|ACL-RELCL 7|6|OBJ 8|4|PUNCT
+%wor:	baby  the  only  one  that  did  me  .
+*PAR1:	did you eat peanut . 
+%mor:	aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|eat-Inf-S noun|peanut-Acc .
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	did you  eat  peanut  .
+*PAR1:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah  .
+*PAR1:	Richard . 
+%mor:	propn|Richard .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	Richard  .
+*PAR2:	yep . 
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yep  .
+*PAR2:	baby's the only one . 
+%mor:	noun|baby~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|only-S1 noun|one .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%wor:	baby's  the  only  one  .
+*PAR2:	I didn't . 
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	I didn't  .
+*PAR1:	sit thing on . 
+%mor:	verb|sit-Fin-Imp-S noun|thing-Acc-Ger adp|on .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+%wor:	sit thing  on  .
+*PAR1:	and daddy . 
+%mor:	cconj|and noun|daddy .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and  daddy  .
+*PAR1:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	oh . 
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	oh  .
+*PAR1:	wow . 
+%mor:	intj|wow .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	wow  .
+*PAR1:	oh . 
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	oh  .
+*PAR0:	so . 
+%mor:	adv|so .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	so  .
+*PAR1:	they we got the bombs down . 
+%mor:	pron|they-Prs-Nom-P3 pron|we-Prs-Nom-P1 verb|get-Fin-Ind-Past-P1-irr det|the-Def-Art noun|bomb-Plur-Acc adp|down .
+%gra:	1|3|NSUBJ 2|3|NSUBJ 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|COMPOUND-PRT 7|3|PUNCT
+%wor:	they we  got  the  bombs  down  .
+*PAR1:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR2:	got the barns . 
+%mor:	verb|get-Fin-Ind-Past-S1-irr det|the-Def-Art noun|barn-Plur-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	got  the  barns  .
+*PAR0:	that .
+%mor:	pron|that-Dem .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR2:	was a bomb . 
+%mor:	aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|bomb .
+%gra:	1|3|COP 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	was  a  bomb  .
+*PAR1:	ah son . 
+%mor:	intj|ah noun|son .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	ah  son  .
+*PAR1:	just feed it right . 
+%mor:	adv|just verb|feed-Fin-Imp-S pron|it-Prs-Acc-S3 adv|right .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+%wor:	just  feed  it  right  .
+*PAR1:	daddy have bit back . 
+%mor:	noun|daddy verb|have-Fin-Ind-Pres-S3 noun|bit adv|back .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|OBL-UNMARKED 4|2|ADVMOD 5|2|PUNCT
+%wor:	daddy  have  bit  back  .
+*PAR1:	have to beat come in on one way . 
+%mor:	verb|have-Fin-Imp-S part|to verb|beat-Inf-S verb|come-Inf-S adp|in adp|on num|one noun|way .
+%gra:	1|8|ROOT 2|3|MARK 3|1|XCOMP 4|3|XCOMP 5|4|COMPOUND-PRT 6|8|CASE 7|8|NUMMOD 8|4|OBL 9|1|PUNCT
+%wor:	have  to  beat  come  in  on  one  way  .
+*PAR1:	daddy .
+%mor:	noun|daddy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	this is supposed to be like this . 
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 verb|suppose-Part-Past-S part|to aux|be-Inf-S adp|like pron|this-Dem-S1 .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|7|ROOT 4|7|MARK 5|7|COP 6|7|CASE 7|3|XCOMP 8|3|PUNCT
+%wor:	this  is  supposed  to  be  like  this  .
+*PAR1:	come on . 
+%mor:	verb|come-Fin-Imp-S adp|on .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	come  on  .
+*PAR2:	machine .
+%mor:	noun|machine .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	wow .
+%mor:	intj|wow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	touch it . 
+%mor:	verb|touch-Inf-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	touch  it  .
+*PAR1:	baby . 
+%mor:	noun|baby .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	baby  .
+*PAR1:	wait .
+%mor:	verb|wait-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	wait baby . 
+%mor:	verb|wait-Fin-Imp-S noun|baby-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	wait baby  .
+*PAR1:	let drop it on you so you can fall and yourself . 
+%mor:	verb|let-Fin-Imp-S verb|drop-Inf-S pron|it-Prs-Acc-S3 adp|on pron|you-Prs-Acc-S2 sconj|so pron|you-Prs-Nom-S2 aux|can-Fin-S verb|fall-Inf-S cconj|and pron|yourself-Prs-Acc-reflx-S2 .
+%gra:	1|11|ROOT 2|1|XCOMP 3|2|OBJ 4|5|CASE 5|2|OBL 6|9|MARK 7|9|NSUBJ 8|9|AUX 9|1|ADVCL 10|11|CC 11|9|CONJ 12|1|PUNCT
+%wor:	let  drop  it  on  you  so  you  can  fall  and  yourself  .
+*PAR0:	this .
+%mor:	pron|this-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR2:	is a power right here . 
+%mor:	aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|power adv|right adv|here .
+%gra:	1|3|COP 2|3|DET 3|5|ROOT 4|5|ADVMOD 5|3|ADVMOD 6|3|PUNCT
+%wor:	is  a  power  right  here  .
+*PAR2:	you know . 
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%wor:	you know  .
+*PAR1:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah  .
+*PAR1:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay  .
+*PAR1:	we have to do with that . 
+%mor:	pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 part|to verb|do-Inf-S adp|with pron|that-Dem .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|MARK 4|2|XCOMP 5|6|CASE 6|4|OBL 7|2|PUNCT
+%wor:	we  have  to  do  with  that  .
+*PAR1:	&-um &-um . 
+%wor:	um  um  .
+*PAR2:	don't have . 
+%mor:	aux|do-Fin-Imp-S~part|not verb|have-Fin-Imp-S .
+%gra:	1|3|AUX 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%wor:	don't  have  .
+*PAR1:	don't have on it . 
+%mor:	aux|do-Fin-Imp-S~part|not verb|have-Fin-Imp-S adp|on pron|it-Prs-Acc-S3 .
+%gra:	1|3|AUX 2|3|ADVMOD 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%wor:	don't have  on  it  .
+*PAR2:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah  .
+*PAR2:	some more pops to it but I can't find it . 
+%mor:	det|some-Def-Ind adj|more-Cmp-S1 noun|pop-Plur adp|to pron|it-Prs-Acc-S3 cconj|but pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|find-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|DET 2|3|AMOD 3|11|ROOT 4|5|CASE 5|3|NMOD 6|10|CC 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|3|CONJ 11|10|OBJ 12|3|PUNCT
+%wor:	some  more  pops  to  it  but  I  can't  find  it  .
+*PAR2:	it's close to the rib . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|close-S1 adp|to det|the-Def-Art noun|rib .
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	it's  close  to  the  rib  .
+*PAR1:	you that's why this . 
+%mor:	pron|you-Prs-Acc-S2 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|why pron|this-Dem-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|5|ROOT 5|4|NSUBJ 6|4|PUNCT
+%wor:	you  that's  why  this  .
+*PAR2:	don't do that . 
+%mor:	aux|do-Fin-Imp-S~part|not verb|do-Fin-Imp-S pron|that-Dem .
+%gra:	1|3|AUX 2|3|ADVMOD 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	don't  do  that  .
+*PAR2:	don't do that . 
+%mor:	aux|do-Fin-Imp-S~part|not verb|do-Fin-Imp-S pron|that-Dem .
+%gra:	1|3|AUX 2|3|ADVMOD 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	don't  do  that  .
+*PAR2:	play with . 
+%mor:	verb|play-Fin-Imp-S adp|with .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	play  with  .
+*PAR2:	don't him like that . 
+%mor:	verb|do-Fin-Imp-S~part|not pron|he-Prs-Acc-S3 adp|like pron|that-Dem .
+%gra:	1|5|ROOT 2|1|ADVMOD 3|1|OBJ 4|5|CASE 5|1|OBL 6|1|PUNCT
+%wor:	don't  him  like  that  .
+*PAR2:	don't treat him like that . 
+%mor:	aux|do-Fin-Imp-S~part|not verb|treat-Fin-Imp-S pron|he-Prs-Acc-S3 adp|like pron|that-Dem .
+%gra:	1|3|AUX 2|3|ADVMOD 3|6|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+%wor:	don't  treat  him  like  that  .
+*PAR2:	don't your brother like . 
+%mor:	aux|do-Fin-Imp-S~part|not pron|your-Prs-Gen-S2 noun|brother intj|like .
+%gra:	1|5|ROOT 2|1|ADVMOD 3|4|NMOD-POSS 4|1|NSUBJ 5|1|DISCOURSE 6|1|PUNCT
+%wor:	don't  your  brother  like  .
+*PAR1:	it's mine .
+%mor:	pron|it-Prs-S3~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*PAR1:	no hat .
+%mor:	det|no-Def-Neg noun|hat .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*PAR0:	put the . 
+%mor:	verb|put-Fin-Imp-S det|the-Def-Art .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	put  the  .
+*PAR1:	candy . 
+%mor:	noun|candy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	candy  .
+*PAR1:	you put it where you put the candy . 
+%mor:	pron|you-Prs-Nom-S2 verb|put-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 adv|where pron|you-Prs-Nom-S2 verb|put-Fin-Ind-Past-S2-irr det|the-Def-Art noun|candy-Acc .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|2|OBJ 4|6|ADVMOD 5|6|NSUBJ 6|2|ADVCL 7|8|DET 8|6|OBJ 9|2|PUNCT
+%wor:	you put  it  where  you  put  the  candy  .
+*PAR1:	at that point . 
+%mor:	adp|at det|that-Def-Dem-Sing noun|point .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	at that  point  .
+*PAR1:	candy . 
+%mor:	noun|candy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	candy  .
+*PAR1:	I added .
+%mor:	pron|I-Prs-Nom-S1 verb|add-Fin-Ind-Past-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*PAR1:	I you going to get hit . 
+%mor:	pron|I-Prs-Nom-S1 pron|you-Prs-Nom-S2 verb|go-Part-Pres-S part|to verb|get-Inf-S verb|hit-Part-Past-S-irr .
+%gra:	1|3|NSUBJ 2|3|NSUBJ 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|5|XCOMP 7|3|PUNCT
+%wor:	I  you going  to  get  hit  .
+*PAR1:	why you got again . 
+%mor:	adv|why pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2-irr adv|again .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	why you  got  again  .
+*PAR1:	right . 
+%mor:	adj|right-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	right  .
+*PAR1:	daddy . 
+%mor:	noun|daddy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	daddy  .
+*PAR1:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah  .
+*PAR2:	dropping the phone from me . 
+%mor:	verb|drop-Part-Pres-S det|the-Def-Art noun|phone-Acc adp|from pron|I-Prs-Acc-S1 .
+%gra:	1|5|ROOT 2|3|DET 3|1|OBJ 4|5|CASE 5|1|OBL 6|1|PUNCT
+%wor:	dropping  the  phone  from  me  .
+*PAR0:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR2:	what do you do with your twenty five dollars . 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Inf-S adp|with pron|your-Prs-Gen-S2 num|twenty num|five noun|dollar-Plur .
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|9|ROOT 5|9|CASE 6|9|NMOD-POSS 7|8|COMPOUND 8|9|NUMMOD 9|4|OBL 10|4|PUNCT
+%wor:	what  do you  do  with  your  twenty  five  dollars  .
+*PAR1:	spend it . 
+%mor:	verb|spend-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	spend  it  .
+*PAR2:	I know you bought a lot of toys . 
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|you-Prs-Nom-S2 verb|buy-Fin-Ind-Past-S2-irr det|a-Ind-Art noun|lot-Acc adp|of noun|toy-Plur .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|DET 6|4|OBJ 7|8|CASE 8|6|NMOD 9|2|PUNCT
+%wor:	I  know  you  bought  a  lot  of  toys  .
+*PAR2:	mhm . 
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm  .
+*PAR2:	what . 
+%mor:	pron|what-Int-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	what  .
+*PAR2:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR2:	you happy what you bought . 
+%mor:	pron|you-Prs-Nom-S2 adj|happy-S1 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|buy-Fin-Ind-Past-S2-irr .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|2|PUNCT
+%wor:	you happy  what  you  bought  .
+*PAR1:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	Tina come here . 
+%mor:	propn|Tina verb|come-Fin-Ind-Pres-S3 adv|here .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	Tina  come  here  .
+*PAR0:	huh .
+%mor:	intj|huh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	what do you want for your birthday . 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S adp|for pron|your-Prs-Gen-S2 noun|birthday .
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|4|PUNCT
+%wor:	what  do  you  want  for  your  birthday  .
+*PAR1:	&-um how wheel you . 
+%mor:	adv|how noun|wheel pron|you-Prs-Nom-S2 .
+%gra:	1|2|ADVMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%wor:	um  how  wheel  you  .
+*PAR0:	power wheel . 
+%mor:	noun|power noun|wheel .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	power  wheel  .
+*PAR0:	mhm . 
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm  .
+*PAR0:	that's . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%wor:	that's  .
+*PAR1:	it mhm . 
+%mor:	pron|it-Prs-Nom-S3 intj|mhm .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%wor:	it  mhm  .
+*PAR0:	what else . 
+%mor:	pron|what-Int-S1 adv|else .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	what  else  .
+*PAR1:	one of those thing that [/] that and towards that next [/] next [/] next to the wall and towards the bus . 
+%mor:	num|one adp|of det|that-Def-Dem-Plur noun|thing-Ger pron|that-Rel cconj|and adp|towards pron|that-Dem adj|next-S1 adp|to det|the-Def-Art noun|wall cconj|and adp|towards det|the-Def-Art noun|bus .
+%gra:	1|16|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|8|NSUBJ 6|8|CC 7|8|CASE 8|4|CONJ 9|8|AMOD 10|12|CASE 11|12|DET 12|9|OBL 13|16|CC 14|16|CASE 15|16|DET 16|12|CONJ 17|1|PUNCT
+%wor:	one  of  those  thing  that  that  and  towards  that  next  next  next  to  the  wall  and  towards  the  bus  .
+*PAR1:	&-um . 
+%wor:	um  .
+*PAR0:	you know baby loves you . 
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 noun|baby verb|love-Fin-Ind-Pres-S3 pron|you-Prs-Acc-S2 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|NSUBJ 4|2|CCOMP 5|4|OBJ 6|2|PUNCT
+%wor:	you  know  baby  loves  you .
+*PAR0:	right .
+%mor:	adj|right-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	mhm .
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	all righty .
+%mor:	det|all-Def-Tot noun|righty .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*PAR0:	you want to eat . 
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 part|to verb|eat-Inf-S .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|MARK 4|2|XCOMP 5|2|PUNCT
+%wor:	you  want  to  eat  .
+*PAR1:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah  .
+*PAR1:	whoa .
+%mor:	intj|whoa .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	whoa .
+%mor:	intj|whoa .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	like that . 
+%mor:	adp|like pron|that-Dem .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+%wor:	like  that  .
+*PAR1:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	I like it . 
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	I like  it  .
+*PAR1:	why .
+%mor:	adv|why .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	up baby . 
+%mor:	adp|up noun|baby .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+%wor:	up  baby .
+*PAR1:	yep .
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	I pick ketchup up . 
+%mor:	pron|I-Prs-Nom-S1 verb|pick-Fin-Ind-Pres-S1 noun|ketchup-Acc adp|up .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|COMPOUND-PRT 5|2|PUNCT
+%wor:	I pick  ketchup  up  .
+*PAR1:	baby . 
+%mor:	noun|baby .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	baby  .
+*PAR1:	huh . 
+%mor:	intj|huh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	huh  .
+*PAR1:	I [/] I [/] I picked ketchup . 
+%mor:	pron|I-Prs-Nom-S1 verb|pick-Fin-Ind-Past-S1 noun|ketchup-Acc .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	I  I  I  picked  ketchup  .
+*PAR1:	pick .
+%mor:	verb|pick-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	you .
+%mor:	pron|you-Prs-Nom-S2 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	want [/] want ketchup . 
+%mor:	verb|want-Fin-Imp-S noun|ketchup-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	want want  ketchup  .
+*PAR1:	no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no  .
+*PAR1:	you want up this up . 
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 adp|up pron|this-Dem-S1 adp|up .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|COMPOUND-PRT 4|2|OBJ 5|2|COMPOUND-PRT 6|2|PUNCT
+%wor:	you want up this up  .
+*PAR1:	I . 
+%mor:	pron|I-Prs-Nom-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	I  .
+*PAR0:	one and eat . 
+%mor:	num|one cconj|and verb|eat-Fin-Imp-S .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+%wor:	one and  eat  .
+*PAR1:	yes . 
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yes  .
+*PAR1:	what is it . 
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 .
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+%wor:	what is  it  .
+*PAR0:	test the potatoes . 
+%mor:	verb|test-Fin-Imp-S det|the-Def-Art noun|potato-Plur-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	test  the  potatoes  .
+*PAR1:	potatoes .
+%mor:	noun|potato-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	salad . 
+%mor:	noun|salad .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	salad  .
+*PAR0:	you don't like French fries . 
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|like-Inf-S adj|French-S1 noun|fry-Plur-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|AMOD 6|4|OBJ 7|4|PUNCT
+%wor:	you  don't  like  French  fries  .
+*PAR0:	want chicken . 
+%mor:	verb|want-Fin-Imp-S noun|chicken-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	want  chicken  .
+*PAR0:	what do you want . 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S .
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	what  do  you  want  .
+*PAR1:	daddy .
+%mor:	noun|daddy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	eat your food . 
+%mor:	verb|eat-Fin-Imp-S pron|your-Prs-Gen-S2 noun|food-Acc .
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+%wor:	eat  your  food  .
+*PAR0:	what fries . 
+%mor:	det|what-Def-Int noun|fry-Plur .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	what  fries  .
+*PAR0:	eat your food . 
+%mor:	verb|eat-Fin-Imp-S pron|your-Prs-Gen-S2 noun|food-Acc .
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+%wor:	eat  your  food  .
+*PAR0:	baby .
+%mor:	noun|baby .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	don't eat .
+%mor:	aux|do-Fin-Imp-S~part|not verb|eat-Fin-Imp-S .
+%gra:	1|3|AUX 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*PAR0:	I sure know . 
+%mor:	pron|I-Prs-Nom-S1 adv|sure verb|know-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%wor:	I  sure know  .
+*PAR1:	I want the chicken . 
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 det|the-Def-Art noun|chicken-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	I  want  the  chicken  .
+*PAR1:	you want the chicken . 
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 det|the-Def-Art noun|chicken-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	you  want  the  chicken  .
+*PAR1:	finish .
+%mor:	noun|finish .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	and daddy . 
+%mor:	cconj|and noun|daddy .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and  daddy  .
+*PAR1:	how about get when he was in when he was even finish . 
+%mor:	adv|how adp|about verb|get-Inf-S adv|when pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adp|in adv|when pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|even noun|finish .
+%gra:	1|12|ROOT 2|3|MARK 3|1|ACL 4|7|ADVMOD 5|7|NSUBJ 6|7|COP 7|3|ADVCL 8|12|ADVMOD 9|12|NSUBJ 10|12|COP 11|12|ADVMOD 12|7|ADVCL 13|1|PUNCT
+%wor:	how  about  get  when  he  was  in  when  he  was  even  finish  .
+*PAR0:	what happened to your car . 
+%mor:	pron|what-Int-S1 verb|happen-Fin-Ind-Past-S3 adp|to pron|your-Prs-Gen-S2 noun|car .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|NMOD-POSS 5|2|OBL 6|2|PUNCT
+%wor:	what  happened  to  your  car  .
+*PAR0:	what why your broke up like that . 
+%mor:	pron|what-Int-S1 adv|why pron|your-Prs-Gen-S2 verb|break-Fin-Ind-Past-S3-irr adp|up adp|like pron|that-Dem .
+%gra:	1|7|ROOT 2|4|ADVMOD 3|4|NSUBJ 4|1|ACL-RELCL 5|4|COMPOUND-PRT 6|7|CASE 7|4|OBL 8|1|PUNCT
+%wor:	what why  your  broke  up  like  that  .
+*PAR1:	wow .
+%mor:	intj|wow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	oh because you took on the battery . 
+%mor:	intj|oh sconj|because pron|you-Prs-Nom-S2 verb|take-Fin-Ind-Past-S2-irr adp|on det|the-Def-Art noun|battery-Acc .
+%gra:	1|4|DISCOURSE 2|4|MARK 3|4|NSUBJ 4|7|ROOT 5|4|COMPOUND-PRT 6|7|DET 7|4|OBJ 8|4|PUNCT
+%wor:	oh  because  you  took  on  the  battery  .
+*PAR1:	goes . 
+%mor:	verb|go-Fin-Ind-Pres-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	goes  .
+*PAR1:	I said this says I did that [/] that the knife . 
+%mor:	pron|I-Prs-Nom-S1 verb|say-Fin-Ind-Past-S1-irr pron|this-Dem-S1 verb|say-Fin-Ind-Pres-S3 pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Past-S1-irr pron|that-Dem det|the-Def-Art noun|knife-Acc .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|NSUBJ 6|4|CCOMP 7|6|IOBJ 8|9|DET 9|6|OBJ 10|2|PUNCT
+%wor:	I  said  this says I did  that  that  the  knife  .
+*PAR1:	huh .
+%mor:	intj|huh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	oh how did you take it off . 
+%mor:	intj|oh adv|how aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|take-Inf-S pron|it-Prs-Acc-S3 adp|off .
+%gra:	1|5|DISCOURSE 2|5|ADVMOD 3|5|AUX 4|5|NSUBJ 5|7|ROOT 6|5|OBJ 7|5|COMPOUND-PRT 8|5|PUNCT
+%wor:	oh  how  did  you  take  it  off  .
+*PAR1:	you took it off with the gun . 
+%mor:	pron|you-Prs-Nom-S2 verb|take-Fin-Ind-Past-S2-irr pron|it-Prs-Acc-S3 adp|off adp|with det|the-Def-Art noun|gun .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|OBJ 4|2|COMPOUND-PRT 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+%wor:	you took  it  off  with  the  gun  .
+*PAR1:	knife .
+%mor:	noun|knife .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay  .
+*PAR1:	take it off . 
+%mor:	verb|take-Fin-Imp-S pron|it-Prs-Acc-S3 adp|off .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|PUNCT
+%wor:	take  it  off .
+*PAR0:	it .
+%mor:	pron|it-Prs-Acc-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	on how did take it on both sides . 
+%mor:	adp|on adv|how aux|do-Fin-Ind-Past-S3-irr verb|take-Inf-S pron|it-Prs-Acc-S3 adp|on det|both-Def-Tot noun|side-Plur .
+%gra:	1|2|CASE 2|4|OBL 3|4|AUX 4|8|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	on  how  did  take  it  on  both  sides  .
+*PAR0:	no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no  .
+*PAR1:	soft it . 
+%mor:	adj|soft-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|PUNCT 3|1|PUNCT
+%wor:	soft  it  .
+*PAR1:	who do you call you . 
+%mor:	pron|who-Int aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|call-Inf-S pron|you-Prs-Acc-S2 .
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	who  do  you  call  you  .
+*PAR1:	open this . 
+%mor:	verb|open-Fin-Imp-S pron|this-Dem-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	open  this  .
+*PAR1:	I like this . 
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 pron|this-Dem-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	I  like  this  .
+*PAR1:	daddy is this girl . 
+%mor:	noun|daddy aux|be-Fin-Ind-Pres-S3 det|this-Def-Dem-Sing noun|girl .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	daddy  is  this  girl  .
+*PAR1:	open it like this . 
+%mor:	verb|open-Fin-Imp-S pron|it-Prs-Acc-S3 adp|like pron|this-Dem-S1 .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|CASE 4|1|OBL 5|1|PUNCT
+%wor:	open it  like  this  .
+*PAR1:	oh watch .
+%mor:	intj|oh verb|watch-Fin-Imp-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*PAR0:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah  .
+*PAR1:	this go too . 
+%mor:	pron|this-Dem-S1 verb|go-Fin-S adv|too .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	this  go  too  .
+*PAR1:	no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no  .
+*PAR1:	cars won't fly this fly daddy . 
+%mor:	noun|car-Plur aux|will-Fin-S~part|not verb|fly-Inf-S det|this-Def-Dem-Sing noun|fly noun|daddy-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|4|PUNCT
+%wor:	cars  won't  fly  this  fly  daddy  .
+*PAR0:	huh .
+%mor:	intj|huh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah  .
+*PAR0:	that could fly this one . 
+%mor:	pron|that-Dem aux|could-Fin-S verb|fly-Inf-S det|this-Def-Dem-Sing noun|one-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	that  could  fly  this  one  .
+*PAR0:	flying cars too . 
+%mor:	verb|fly-Ger-S noun|car-Plur-Acc adv|too .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+%wor:	flying  cars  too  .
+*PAR1:	that's back to the fruit . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|back adp|to det|the-Def-Art noun|fruit .
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	that's  back  to  the  fruit  .
+*PAR1:	flying cars . 
+%mor:	verb|fly-Ger-S noun|car-Plur-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	flying  cars  .
+*PAR1:	my daddy . 
+%mor:	pron|my-Prs-Gen-S1 noun|daddy .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+%wor:	my  daddy  .
+*PAR1:	bathroom .
+%mor:	noun|bathroom .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	lets do it . 
+%mor:	noun|let-Plur verb|do-Fin-Ind-Pres-P3 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	lets  do  it  .
+*PAR1:	wait . 
+%mor:	verb|wait-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	wait  .
+*PAR1:	you put the palm on here . 
+%mor:	pron|you-Prs-Nom-S2 verb|put-Fin-Ind-Past-S2-irr det|the-Def-Art noun|palm-Acc adp|on adv|here .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|2|OBL 7|2|PUNCT
+%wor:	you  put the  palm  on  here  .
+*PAR1:	put the palm on [/] on here . 
+%mor:	verb|put-Fin-Imp-S det|the-Def-Art noun|palm-Acc adp|on adv|here .
+%gra:	1|5|ROOT 2|3|DET 3|1|OBJ 4|5|CASE 5|1|OBL 6|1|PUNCT
+%wor:	put the palm  on  on  here  .
+*PAR1:	<what that> [/] what that you not having . 
+%mor:	pron|what-Int-S1 pron|that-Rel pron|you-Prs-Nom-S2 part|not verb|have-Part-Pres-S .
+%gra:	1|5|ROOT 2|5|OBJ 3|5|NSUBJ 4|5|ADVMOD 5|1|ACL-RELCL 6|1|PUNCT
+%wor:	what  that  what  that  you  not  having  .
+*PAR0:	a volcano . 
+%mor:	det|a-Ind-Art noun|volcano .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a volcano  .
+*PAR1:	huh . 
+%mor:	intj|huh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	huh  .
+*PAR1:	volcano . 
+%mor:	noun|volcano .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	volcano  .
+*PAR1:	so push the volcano . 
+%mor:	adv|so verb|push-Fin-Imp-S det|the-Def-Art noun|volcano-Acc .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	so  push  the  volcano  .
+*PAR1:	yes . 
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yes  .
+*PAR1:	gonna become a that one on the . 
+%mor:	adv|gonna verb|become-Inf-S det|a-Ind-Art det|that-Def-Dem-Sing noun|one adp|on det|the-Def-Art .
+%gra:	1|2|ADVMOD 2|7|ROOT 3|5|DET 4|5|DET 5|2|XCOMP 6|7|CASE 7|5|NMOD 8|2|PUNCT
+%wor:	gonna  become a that one  on  the .
+*PAR0:	anybody the their character for creating this [/] this great environment of in innuendo . 
+%mor:	pron|anybody-Ind-S1 det|the-Def-Art pron|their-Prs-Gen-P3 noun|character sconj|for verb|create-Ger-S det|this-Def-Dem-Sing adj|great-S1 noun|environment-Acc adp|of adp|in noun|innuendo .
+%gra:	1|12|ROOT 2|4|DET 3|4|NMOD-POSS 4|1|APPOS 5|6|MARK 6|4|ACL 7|9|DET 8|9|AMOD 9|6|OBJ 10|12|CASE 11|12|CASE 12|9|NMOD 13|1|PUNCT
+%wor:	anybody  the  their  character  for  creating  this  this  great  environment  of  in  innuendo  .
+@End

@@ -1,0 +1,535 @@
+@UTF8
+@PID:	11312/c-00034939-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, SIS Sister, MOT Mother, JES Sister, STE Adult
+@Options:	bullets
+@ID:	eng|HSLLD|CHI|3;11.23|male|||Target_Child|||
+@ID:	eng|HSLLD|SIS|||||Sister|||
+@ID:	eng|HSLLD|MOT||female|||Mother|12||
+@ID:	eng|HSLLD|JES|||||Sister|||
+@ID:	eng|HSLLD|STE|||||Adult|||
+@Birth of CHI:	27-JUL-1985
+@Media:	arlmt1, audio
+@Comment:	SES of Mot is lower
+@Date:	19-JUL-1989
+@Location:	Boston , MA USA
+@Situation:	Home Visit 1
+@Activities:	Meal time
+@Types:	long, meal, TD
+*CHI:	good .
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+@Comment:	Time is 0:04
+*CHI:	chinese food .
+%mor:	adj|Chinese-S1 noun|food .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*SIS:	xxx eating chinese food .
+%mor:	verb|eat-Part-Pres-S adj|Chinese-S1 noun|food-Acc .
+%gra:	1|3|ROOT 2|3|AMOD 3|1|OBJ 4|1|PUNCT
+*SIS:	xxx there .
+%mor:	adv|there .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	chinese food &=shouts !
+%mor:	adj|Chinese-S1 noun|food !
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	don't yell .
+%mor:	aux|do-Fin-Imp-S~part|not verb|yell-Fin-Imp-S .
+%gra:	1|3|AUX 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*SIS:	you're eating chinese food [>] .
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|eat-Part-Pres-S adj|Chinese-S1 noun|food-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|AMOD 5|3|OBJ 6|3|PUNCT
+*CHI:	<Mommy> [<] can you give me one of those ?
+%mor:	propn|Mommy aux|can-Fin-S pron|you-Prs-Nom-S2 verb|give-Inf-S pron|I-Prs-Acc-S1 num|one adp|of pron|that-Dem-P1 ?
+%gra:	1|4|VOCATIVE 2|4|AUX 3|4|NSUBJ 4|8|ROOT 5|4|IOBJ 6|4|OBJ 7|8|CASE 8|6|NMOD 9|4|PUNCT
+%spa:	$CONV:PRQ
+*CHI:	can you give me a plate ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|give-Inf-S pron|I-Prs-Acc-S1 det|a-Ind-Art noun|plate-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|IOBJ 5|6|DET 6|3|OBJ 7|3|PUNCT
+%spa:	$CONV:PRQ
+*MOT:	please ?
+%mor:	intj|please ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%spa:	$CONV:DI
+*CHI:	please .
+%mor:	intj|please .
+%gra:	1|1|ROOT 2|1|PUNCT
+*SIS:	I'm starving .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|starve-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	ah the blue one the blue one . 
+%mor:	intj|ah det|the-Def-Art adj|blue-S1 noun|one det|the-Def-Art adj|blue-S1 noun|one .
+%gra:	1|4|DISCOURSE 2|4|DET 3|4|AMOD 4|7|ROOT 5|7|DET 6|7|AMOD 7|4|APPOS 8|4|PUNCT
+%wor:	ah  the blue one the blue  one  .
+*CHI:	oops .
+%mor:	intj|oop .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx the blue one . 
+%mor:	det|the-Def-Art adj|blue-S1 noun|one .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%wor:	the blue one  .
+*CHI:	can you give me one of those ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|give-Inf-S pron|I-Prs-Acc-S1 num|one adp|of pron|that-Dem-P1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|IOBJ 5|3|OBJ 6|7|CASE 7|5|NMOD 8|3|PUNCT
+%spa:	$CONV:PRQ
+*MOT:	in a minute .
+%mor:	adp|in det|a-Ind-Art noun|minute .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	please can you give me a plate ?
+%mor:	intj|please aux|can-Fin-S pron|you-Prs-Nom-S2 verb|give-Inf-S pron|I-Prs-Acc-S1 det|a-Ind-Art noun|plate-Acc ?
+%gra:	1|4|DISCOURSE 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|4|IOBJ 6|7|DET 7|4|OBJ 8|4|PUNCT
+%spa:	$CONV:PRQ
+*MOT:	just a minute Arlo .
+%mor:	adv|just det|a-Ind-Art noun|minute propn|Arlo .
+%gra:	1|3|ADVMOD 2|3|DET 3|4|NMOD-UNMARKED 4|4|ROOT 5|4|PUNCT
+*CHI:	what is in there ? 
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 adp|in adv|there ?
+%gra:	1|4|ROOT 2|4|COP 3|4|CASE 4|1|OBL 5|1|PUNCT
+%wor:	what  is  in there  ?
+*SIS:	xxx that's salad .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 noun|salad .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	I want one of those . 
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 num|one adp|of pron|that-Dem-P1 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|CASE 5|3|NMOD 6|2|PUNCT
+%wor:	I want one of those  .
+*CHI:	I don't got a plate .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|get-Part-Past-S-irr det|a-Ind-Art noun|plate-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	xxx .
+*SIS:	xxx .
+@Bg:	2
+*CHI:	that's so hungry can I have one of these ? 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|so adj|hungry-S1 aux|can-Fin-S pron|I-Prs-Nom-S1 verb|have-Inf-S num|one adp|of pron|this-Dem-P1 ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|10|ROOT 5|7|AUX 6|7|NSUBJ 7|4|PARATAXIS 8|7|OBJ 9|10|CASE 10|8|NMOD 11|4|PUNCT
+%wor:	that's so hungry  can I have one of  these  ?
+%spa:	$CONV:PRQ
+@Eg:	2
+*MOT:	wait a minute Arlo wait .
+%mor:	verb|wait-Fin-Imp-S det|a-Ind-Art noun|minute propn|Arlo noun|wait .
+%gra:	1|5|ROOT 2|3|DET 3|1|OBL-UNMARKED 4|5|COMPOUND 5|1|OBL-UNMARKED 6|1|PUNCT
+*CHI:	xxx .
+*MOT:	just a minute .
+%mor:	adv|just det|a-Ind-Art noun|minute .
+%gra:	1|3|ADVMOD 2|3|DET 3|3|ROOT 4|3|PUNCT
+*CHI:	Jessie come and eat . 
+%mor:	propn|Jessie verb|come-Fin-Ind-Pres-S3 cconj|and verb|eat-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|CC 4|2|CONJ 5|2|PUNCT
+%wor:	Jessie come and eat  .
+*JES:	xxx .
+%sit:	answers from next room .
+*MOT:	are those all shrimp honey ?
+%mor:	aux|be-Fin-Ind-Pres-P3 det|that-Def-Dem-Plur det|all-Def-Tot noun|shrimp noun|honey ?
+%gra:	1|5|COP 2|5|DET 3|5|DET 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+*SIS:	Mommy I want one of those big things .
+%mor:	propn|Mommy pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 num|one adp|of det|that-Def-Dem-Plur adj|big-S1 noun|thing-Plur .
+%gra:	1|3|VOCATIVE 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|8|CASE 6|8|DET 7|8|AMOD 8|4|NMOD 9|3|PUNCT
+*MOT:	shh !
+%mor:	intj|shh !
+%gra:	1|1|ROOT 2|1|PUNCT
+*SIS:	xxx .
+*CHI:	<mommy what's those> [>] ?
+%mor:	intj|mommy pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem-P1 ?
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|COP 4|2|NSUBJ 5|2|PUNCT
+%spa:	$REAL:OB
+*SIS:	no <I want one of the big things> [<] . 
+%mor:	intj|no pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 num|one adp|of det|the-Def-Art adj|big-S1 noun|thing-Plur .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|8|CASE 6|8|DET 7|8|AMOD 8|4|NMOD 9|3|PUNCT
+%wor:	no I  want one of the big things  .
+*MOT:	shrimp .
+%mor:	noun|shrimp .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yeah I want shrimp . 
+%mor:	intj|yeah pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 noun|shrimp-Acc .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	yeah  I  want shrimp  .
+*CHI:	I want those . 
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 pron|that-Dem-P1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	I  want those  .
+*SIS:	mommy +/.
+%mor:	noun|mommy +/.
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I want a shrimp xxx +...
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 det|a-Ind-Art noun|shrimp-Acc +...
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*SIS:	mm .
+%mor:	intj|mm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	&=coughs .
+*SIS:	mommy this is good . 
+%mor:	intj|mommy pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	mommy this is good  .
+*CHI:	I ate this before over at Pepe's . 
+%mor:	pron|I-Prs-Nom-S1 verb|eat-Fin-Ind-Past-S1-irr pron|this-Dem-S1 adv|before adv|over adp|at propn|Pepe~part|s .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|ADVMOD 6|7|CASE 7|2|OBL 8|7|CASE 9|2|PUNCT
+%wor:	I ate this before  over  at Pepe's  .
+*MOT:	what are you eating [>] Arlo ? 
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|eat-Part-Pres-S propn|Arlo-Acc ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	what  are you eating  Arlo  ?
+%spa:	$REAL:OB
+*CHI:	right [<] ?
+%mor:	adj|right-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%spa:	$UNCO
+*CHI:	I don't know .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*SIS:	teriyaki that's teriyaki .
+%mor:	noun|teriyaki pron|that-Rel~aux|be-Fin-Ind-Pres-S3 noun|teriyaki .
+%gra:	1|4|ROOT 2|4|NSUBJ 3|4|COP 4|1|ACL-RELCL 5|1|PUNCT
+*CHI:	teriyaki .
+%mor:	noun|teriyaki .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	what does Steve give me ? 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S3 propn|Steve verb|give-Inf-S pron|I-Prs-Acc-S1 ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|IOBJ 6|4|PUNCT
+%wor:	what does Steve give  me  ?
+*SIS:	chicken .
+%mor:	noun|chicken .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	chicken .
+%mor:	noun|chicken .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	is Steve gone ?
+%mor:	aux|be-Fin-Ind-Pres-S3 propn|Steve adj|gone-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	(..) what's in there ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adp|in adv|there ?
+%gra:	1|4|ROOT 2|4|COP 3|4|CASE 4|1|OBL 5|1|PUNCT
+*CHI:	Steve know what's in there ?
+%mor:	propn|Steve verb|know-Fin-Ind-Pres-S3 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adp|in adv|there ?
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|6|COP 5|6|CASE 6|2|CCOMP 7|2|PUNCT
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah  .
+*SIS:	that's the rice . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|rice .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	that's  the  rice  .
+*CHI:	I want some rice .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 det|some-Def-Ind noun|rice-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*STE:	xxx the box please . 
+%mor:	det|the-Def-Art noun|box intj|please .
+%gra:	1|2|DET 2|3|ROOT 3|2|DISCOURSE 4|2|PUNCT
+%wor:	the box  please  .
+*MOT:	you want some rice please .
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 det|some-Def-Ind noun|rice-Acc intj|please .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|DET 4|2|OBJ 5|2|DISCOURSE 6|2|PUNCT
+*CHI:	please can I have some rice ? 
+%mor:	intj|please aux|can-Fin-S pron|I-Prs-Nom-S1 verb|have-Inf-S det|some-Def-Ind noun|rice-Acc ?
+%gra:	1|4|DISCOURSE 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	please  can  I have  some rice  ?
+*STE:	xxx clean the car .
+%mor:	verb|clean-Fin-Imp-S det|the-Def-Art noun|car-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*STE:	sit down please .
+%mor:	verb|sit-Fin-Imp-S adp|down intj|please .
+%gra:	1|3|ROOT 2|1|COMPOUND-PRT 3|1|DISCOURSE 4|1|PUNCT
+*CHI:	no (.) I putting with the teriyaki on there &=chuckles . 
+%mor:	intj|no pron|I-Prs-Nom-S1 verb|put-Part-Pres-S adp|with det|the-Def-Art noun|teriyaki adp|on adv|there .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|8|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|CASE 8|3|OBL 9|3|PUNCT
+%wor:	no I putting with the teriyaki on there  .
+*SIS:	don't .
+%mor:	aux|do-Fin-Imp-S~part|not .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*MOT:	don't that's not mommy's .
+%mor:	aux|do-Fin-Ind-Pres-S3~part|not pron|that-Dem~aux|be-Fin-Ind-Pres-S3 part|not noun|mommy~part|s .
+%gra:	1|6|AUX 2|6|ADVMOD 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|7|ROOT 7|6|CASE 8|6|PUNCT
+*CHI:	why you put it on ? 
+%mor:	adv|why pron|you-Prs-Nom-S2 verb|put-Fin-Ind-Past-S2-irr pron|it-Prs-Acc-S3 adp|on ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|PUNCT
+%wor:	why  you put it on  ?
+*STE:	that's yours Jessie .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-S2 propn|Jessie .
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|FLAT 5|3|PUNCT
+*JES:	thank you . 
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	thank  you  .
+*STE:	xxx for Christa (.) one for Arlo (.) one for Mom (.) one for +...
+%mor:	adp|for propn|Christa num|one adp|for propn|Arlo num|one adp|for noun|mom num|one adp|for +...
+%gra:	1|2|CASE 2|10|ROOT 3|2|NUMMOD 4|5|CASE 5|2|NMOD 6|5|NUMMOD 7|8|CASE 8|5|NMOD 9|8|NUMMOD 10|2|NMOD 11|2|PUNCT
+*CHI:	Jessie Shamu .
+%mor:	propn|Jessie propn|Shamu .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*STE:	Shamu ?
+%mor:	propn|Shamu ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	rice !
+%mor:	noun|rice !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	rice !
+%mor:	noun|rice !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	(..) watch out Arlo .
+%mor:	verb|watch-Fin-Imp-S adp|out propn|Arlo-Acc .
+%gra:	1|3|ROOT 2|1|COMPOUND-PRT 3|1|OBJ 4|1|PUNCT
+*JES:	xxx .
+*CHI:	xxx .
+*MOT:	could you get me the butter please ? 
+%mor:	aux|could-Fin-S pron|you-Prs-Nom-S2 verb|get-Inf-S pron|I-Prs-Acc-S1 det|the-Def-Art noun|butter-Acc intj|please ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|IOBJ 5|6|DET 6|3|OBJ 7|3|DISCOURSE 8|3|PUNCT
+%wor:	could you get  me the  butter  please  ?
+%spa:	$CONV:PRQ
+*CHI:	Mom I don't like this .
+%mor:	noun|mom pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S pron|this-Dem-S1 .
+%gra:	1|5|VOCATIVE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+*MOT:	just leave it on your plate . 
+%mor:	adv|just verb|leave-Fin-Imp-S pron|it-Prs-Acc-S3 adp|on pron|your-Prs-Gen-S2 noun|plate .
+%gra:	1|2|ADVMOD 2|6|ROOT 3|2|OBJ 4|6|CASE 5|6|NMOD-POSS 6|2|OBL 7|2|PUNCT
+%wor:	just  leave it  on your plate  .
+*MOT:	xxx .
+*CHI:	can you eat that all Mommy ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|eat-Inf-S pron|that-Dem det|all-Def-Tot propn|Mommy-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|6|DET 6|3|OBJ 7|3|PUNCT
+%wor:	can  you  eat  that  all  Mommy  ?
+%spa:	$REAL:AB
+*JES:	it's better than nothing .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|good-Cmp-S1 adp|than pron|nothing-Neg-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*CHI:	that [//] all that rice ?
+%mor:	det|all-Def-Tot det|that-Def-Dem-Sing noun|rice ?
+%gra:	1|3|DET-PREDET 2|3|DET 3|3|ROOT 4|3|PUNCT
+%spa:	$REAL:AB
+*MOT:	yes .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	oh [!] Jessie <guess what I> [//] guess what↑ I heard ? 
+%mor:	intj|oh propn|Jessie verb|guess-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|I-Prs-Nom-S1 verb|hear-Fin-Ind-Past-S1-irr ?
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|3|PUNCT
+%wor:	oh  Jessie  guess  what  I guess what I heard  ?
+*MOT:	Crista !
+%mor:	propn|Crista !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	was that good Arlo ?
+%mor:	aux|be-Fin-Ind-Past-S3-irr det|that-Def-Dem-Sing adj|good-S1 propn|Arlo ?
+%gra:	1|4|COP 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%spa:	$REAL:TOM
+*CHI:	&-um yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*STE:	anybody want sauce [>] ?
+%mor:	pron|anybody-Ind-S1 verb|want-Fin-Ind-S noun|sauce-Acc ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*JES:	<is this mine> [<] dad ?
+%mor:	aux|be-Fin-Ind-Pres-S3 det|this-Def-Dem-Sing pron|my-Prs-S1 noun|dad ?
+%gra:	1|4|COP 2|4|DET 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	mom .
+%mor:	noun|mom .
+%gra:	1|1|ROOT 2|1|PUNCT
+*SIS:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*STE:	whatdya [: what do you] want it on ? 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|it-Prs-Acc-S3 adp|on ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|4|OBJ 6|4|ADVMOD 7|4|PUNCT
+%wor:	what  do  you want it on  ?
+*STE:	rice ?
+%mor:	noun|rice ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*STE:	how (a)bout you .
+%mor:	adv|how adp|about pron|you-Prs-Acc-S2 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*STE:	what do you want it on ? 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|it-Prs-Acc-S3 adp|on ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|4|OBJ 6|4|ADVMOD 7|4|PUNCT
+%wor:	what  do  you want it on  ?
+*JES:	that's good .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*STE:	what do you want it on ? 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|it-Prs-Acc-S3 adp|on ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|4|OBJ 6|4|ADVMOD 7|4|PUNCT
+%wor:	what do you want it on  ?
+*CHI:	rice .
+%mor:	noun|rice .
+%gra:	1|1|ROOT 2|1|PUNCT
+*STE:	what do you want it on ? 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|it-Prs-Acc-S3 adp|on ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|4|OBJ 6|4|ADVMOD 7|4|PUNCT
+%wor:	what do  you want it on  ?
+*CHI:	&=laughs .
+*SIS:	what do you want it on ? 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S pron|it-Prs-Acc-S3 adp|on ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|4|OBJ 6|4|ADVMOD 7|4|PUNCT
+%wor:	what  do  you want  it  on  ?
+*STE:	xxx wait a second .
+%mor:	verb|wait-Fin-Imp-S det|a-Ind-Art noun|second-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*JES:	what's that ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	you know what this is ? 
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|what-Int-S1 pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|2|PUNCT
+%wor:	you know what this is  ?
+%spa:	$REAL:TOM
+*MOT:	what is that Arlo ? 
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem propn|Arlo ?
+%gra:	1|4|ROOT 2|1|COP 3|4|NSUBJ 4|1|NSUBJ 5|1|PUNCT
+%wor:	what  is  that  Arlo  ?
+%spa:	$REAL:OB
+*CHI:	teriyaki .
+%mor:	noun|teriyaki .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what kind of food is this that you're eating tonight ? 
+%mor:	det|what-Def-Int noun|kind adp|of noun|food aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 pron|that-Rel pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|eat-Part-Pres-S noun|tonight ?
+%gra:	1|2|DET 2|6|NSUBJ 3|4|CASE 4|2|NMOD 5|6|COP 6|11|ROOT 7|10|OBJ 8|10|NSUBJ 9|10|AUX 10|6|ACL-RELCL 11|10|OBL-UNMARKED 12|6|PUNCT
+%wor:	what  kind of food is this that  you're  eating  tonight  ?
+%spa:	$REAL:CL
+*MOT:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%spa:	$CONV:CO
+*CHI:	rice ?
+%mor:	noun|rice ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%spa:	$REAL:OB
+*SIS:	chinese food .
+%mor:	adj|Chinese-S1 noun|food .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	chinese food !
+%mor:	adj|Chinese-S1 noun|food !
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	chinese food .
+%mor:	adj|Chinese-S1 noun|food .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	chinese food .
+%mor:	adj|Chinese-S1 noun|food .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%com:	at this point (5:40) the tape become untranscribable due to some kind of noise on the tape
+@Comment:	Time is 6:27
+*MOT:	Arlo don't play with the fork .
+%mor:	propn|Arlo aux|do-Fin-Imp-S~part|not verb|play-Fin-Imp-S adp|with det|the-Def-Art noun|fork .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*MOT:	(..) how is that ? 
+%mor:	adv|how aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+%wor:	how  is  that  ?
+%spa:	$REAL:TOM
+*CHI:	good .
+%mor:	adj|good-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I like it . 
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	I  like  it  .
+*CHI:	(..) give me that I like it . 
+%mor:	verb|give-Fin-Imp-S pron|I-Prs-Acc-S1 sconj|that pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|6|ROOT 2|1|IOBJ 3|5|MARK 4|5|NSUBJ 5|1|CCOMP 6|5|OBJ 7|1|PUNCT
+%wor:	give me that I like it  .
+*SIS:	you like it ? 
+%mor:	pron|you-Prs-Nom-S2 verb|like-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	you like it  ?
+*MOT:	(..) you like shrimp Arlo ?
+%mor:	pron|you-Prs-Nom-S2 verb|like-Fin-Ind-Pres-S2 noun|shrimp propn|Arlo-Acc ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|COMPOUND 4|2|OBJ 5|2|PUNCT
+%spa:	$REAL:TOM
+*CHI:	I like this too . 
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 pron|this-Dem-S1 adv|too .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+%wor:	I  like  this  too  .
+*MOT:	those are shrimp .
+%mor:	pron|that-Dem-P1 aux|be-Fin-Ind-Pres-P3 noun|shrimp .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	I like the shrimp . 
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 det|the-Def-Art noun|shrimp-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	I  like  the  shrimp  .
+*SIS:	that shrimp ?
+%mor:	det|that-Def-Dem-Sing noun|shrimp ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	no this [!] is shrimp .
+%mor:	intj|no pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 noun|shrimp .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*SIS:	xxx you can try it . 
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|try-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	you can try it  .
+*STE:	did my sister call yet (.) Jessie ? 
+%mor:	verb|do-Fin-Ind-Past-S1-irr pron|my-Prs-Gen-S1 noun|sister noun|call-Acc adv|yet propn|Jessie ?
+%gra:	1|6|ROOT 2|4|NMOD-POSS 3|4|COMPOUND 4|1|OBJ 5|6|ADVMOD 6|1|VOCATIVE 7|1|PUNCT
+%wor:	did  my sister  call  yet  Jessie  ?
+*JES:	which one ? 
+%mor:	det|which-Def-Int noun|one ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	which  one  ?
+*CHI:	Mommy can I have one more of this ? 
+%mor:	propn|Mommy aux|can-Fin-S pron|I-Prs-Nom-S1 verb|have-Inf-S num|one adj|more-Cmp-S1 adp|of pron|this-Dem-S1 ?
+%gra:	1|4|VOCATIVE 2|4|AUX 3|4|NSUBJ 4|8|ROOT 5|6|NUMMOD 6|4|OBJ 7|8|CASE 8|6|OBL 9|4|PUNCT
+%wor:	Mommy  can I have one more of this  ?
+%spa:	$CONV:PRQ
+*MOT:	eat what's in your plate first okay ?
+%mor:	verb|eat-Fin-Imp-S pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adp|in pron|your-Prs-Gen-S2 noun|plate adv|first intj|okay ?
+%gra:	1|8|ROOT 2|1|OBJ 3|6|COP 4|6|CASE 5|6|NMOD-POSS 6|2|ACL-RELCL 7|6|ADVMOD 8|1|DISCOURSE 9|1|PUNCT
+%spa:	$CONV:DI
+%com:	tape problems again
+*CHI:	xxx .
+*MOT:	you eat what's on your plate first okay ?
+%mor:	pron|you-Prs-Nom-S2 verb|eat-Fin-Ind-Pres-S2 pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adp|on pron|your-Prs-Gen-S2 noun|plate adv|first intj|okay ?
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|OBJ 4|7|COP 5|7|CASE 6|7|NMOD-POSS 7|3|ACL-RELCL 8|7|ADVMOD 9|2|DISCOURSE 10|2|PUNCT
+%spa:	$CONV:DI
+@Comment:	Time is 9:14
+*CHI:	I hate that .
+%mor:	pron|I-Prs-Nom-S1 verb|hate-Fin-Ind-Pres-S1 pron|that-Dem .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	I hate that .
+%mor:	pron|I-Prs-Nom-S1 verb|hate-Fin-Ind-Pres-S1 pron|that-Dem .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	Arlo sposta talk but he's not .
+%mor:	propn|Arlo propn|sposta verb|talk-Inf-S cconj|but pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not .
+%gra:	1|3|NSUBJ 2|3|NSUBJ 3|7|ROOT 4|7|CC 5|7|NSUBJ 6|7|COP 7|3|CONJ 8|3|PUNCT
+*CHI:	not !
+%mor:	part|not !
+%gra:	1|1|ROOT 2|1|PUNCT
+*STE:	Arlo (.) talk .
+%mor:	propn|Arlo verb|talk-Fin-Ind-S .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	Mommy I'm eating ! 
+%mor:	propn|Mommy pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|eat-Part-Pres-S !
+%gra:	1|4|ROOT 2|4|NSUBJ 3|4|AUX 4|1|PARATAXIS 5|1|PUNCT
+%wor:	Mommy  I'm  eating  !
+*MOT:	that's why you can't talk ?
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|why pron|you-Prs-Nom-S2 aux|can-Fin-S~part|not verb|talk-Inf-S ?
+%gra:	1|3|NSUBJ 2|3|COP 3|7|ROOT 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|3|ADVCL-RELCL 8|3|PUNCT
+%spa:	$REAL:EX
+*CHI:	uhhum .
+%mor:	intj|uhhum .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Mom <can you put that> [//] can you put butter on that ? 
+%mor:	noun|mom aux|can-Fin-S pron|you-Prs-Nom-S2 verb|put-Inf-S noun|butter-Acc adp|on pron|that-Dem ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|4|OBJ 6|7|CASE 7|4|OBL 8|4|PUNCT
+%wor:	Mom can you put that can  you put  butter on  that  ?
+%spa:	$CONV:PRQ
+*MOT:	please ?
+%mor:	intj|please ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%spa:	$CONV:DI
+*CHI:	please .
+%mor:	intj|please .
+%gra:	1|1|ROOT 2|1|PUNCT
+*SIS:	Arlo use this xxx like I am .
+%mor:	propn|Arlo verb|use-Fin-Ind-Pres-S3 pron|this-Dem-S1 sconj|like pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|6|MARK 5|6|NSUBJ 6|2|ADVCL 7|2|PUNCT
+*MOT:	Arlo don't drop it on the floor .
+%mor:	propn|Arlo aux|do-Fin-Imp-S~part|not verb|drop-Fin-Imp-S pron|it-Prs-Acc-S3 adp|on det|the-Def-Art noun|floor .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+*MOT:	eat what's in your plate first . 
+%mor:	verb|eat-Fin-Imp-S pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adp|in pron|your-Prs-Gen-S2 noun|plate adv|first .
+%gra:	1|7|ROOT 2|1|OBJ 3|6|COP 4|6|CASE 5|6|NMOD-POSS 6|1|ADVCL 7|6|ADVMOD 8|1|PUNCT
+%wor:	eat what's  in your plate first  .
+*CHI:	(.) do you like lemonade ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|like-Inf-S noun|lemonade-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$REAL:TOM
+@Comment:	Time is 10:55 , the rest of the tape is drowned out by a loud humming noise.
+@End

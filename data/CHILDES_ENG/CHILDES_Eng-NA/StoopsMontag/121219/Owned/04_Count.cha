@@ -1,0 +1,833 @@
+@UTF8
+@PID:	11312/a-00077908-1
+@Begin
+@Languages:	eng
+@Participants:	FA1 Adult, CHI Target_Child
+@Options:	bullets
+@ID:	eng|StoopsMontag|FA1|||||Adult|||
+@ID:	eng|StoopsMontag|CHI|||||Target_Child|||
+@Media:	04_Count, audio
+@Types:	cross, book, TD
+*FA1:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	The_Counts_Hanukkah_Countdown . 
+%mor:	propn|TheCountsHanukkahCountdown .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	hello everybody . 
+%mor:	intj|hello pron|everybody-Tot-S1 .
+%gra:	1|2|ROOT 2|1|VOCATIVE 3|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	this your furry friend- , your furry blue monster friend Grover here . 
+%mor:	pron|this-Dem-S1 pron|your-Prs-Gen-S2 adj|furry-S1 noun|friend cm|cm pron|your-Prs-Gen-S2 adj|furry-S1 adj|blue-S1 noun|monster noun|friend propn|Grover adv|here .
+%gra:	1|4|NSUBJ 2|4|NMOD-POSS 3|4|AMOD 4|12|ROOT 5|10|PUNCT 6|10|NMOD-POSS 7|10|AMOD 8|10|AMOD 9|10|COMPOUND 10|4|APPOS 11|10|APPOS 12|10|ADVMOD 13|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	I would like to tell you about an awesome Hanukkah party we had on sesame street with our friends from Israel , Avigail , and Brosh . 
+%mor:	pron|I-Prs-Nom-S1 aux|would-Fin-S verb|like-Inf-S part|to verb|tell-Inf-S pron|you-Prs-Acc-S2 adp|about det|a-Ind-Art adj|awesome-S1 propn|Hanukkah noun|party pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Past-P1-irr adp|on noun|sesame noun|street adp|with pron|our-Prs-Gen-P1 noun|friend-Plur adp|from propn|Israel cm|cm propn|Avigail cm|cm cconj|and propn|Brosh .
+%gra:	1|3|NSUBJ 2|3|AUX 3|26|ROOT 4|5|MARK 5|3|XCOMP 6|5|IOBJ 7|11|CASE 8|11|DET 9|11|AMOD 10|11|COMPOUND 11|5|OBL 12|13|NSUBJ 13|11|ACL-RELCL 14|16|CASE 15|16|COMPOUND 16|13|OBL 17|19|CASE 18|19|NMOD-POSS 19|13|OBL 20|21|CASE 21|19|NMOD 22|23|PUNCT 23|21|CONJ 24|26|PUNCT 25|26|CC 26|21|CONJ 27|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Grover checked his list one more time . 
+%mor:	propn|Grover verb|check-Fin-Ind-Past-S3 pron|his-Prs-Gen-S3 noun|list-Acc num|one adj|more-Cmp-S1 noun|time .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|7|NUMMOD 6|7|AMOD 7|2|OBL-UNMARKED 8|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	let me see . 
+%mor:	verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|see-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	hi Grover , said the Count . 
+%mor:	intj|hi propn|Grover cm|cm verb|say-Fin-Ind-Past-S3-irr det|the-Def-Art noun|Count .
+%gra:	1|4|CCOMP 2|4|CCOMP 3|2|PUNCT 4|6|ROOT 5|6|DET 6|4|NSUBJ 7|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	what's on the paper you are reading ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|paper pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 verb|read-Part-Pres-S ?
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|DET 5|8|ROOT 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Grover showed him , it is my grocery list . 
+%mor:	propn|Grover verb|show-Fin-Ind-Past-S3 pron|he-Prs-Acc-S3 cm|cm pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|grocery noun|list .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|IOBJ 4|9|PUNCT 5|9|NSUBJ 6|9|COP 7|9|NMOD-POSS 8|9|COMPOUND 9|2|PARATAXIS 10|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Brosh and Avigail are here from Israel visiting Aunt Sara . 
+%mor:	propn|Brosh cconj|and propn|Avigail aux|be-Fin-Ind-Pres-P3 adv|here adp|from propn|Israel verb|visit-Part-Pres-S propn|aunt-Acc propn|Sara .
+%gra:	1|5|NSUBJ 2|3|CC 3|1|CONJ 4|5|COP 5|10|ROOT 6|7|CASE 7|5|OBL 8|5|ADVCL 9|8|OBJ 10|9|FLAT 11|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Uncle Joe , and the twins Sam and Sadie . 
+%mor:	propn|uncle propn|Joe cm|cm cconj|and det|the-Def-Art noun|twin-Plur propn|Sam cconj|and propn|Sadie .
+%gra:	1|9|ROOT 2|1|FLAT 3|6|PUNCT 4|6|CC 5|6|DET 6|1|CONJ 7|6|APPOS 8|9|CC 9|7|CONJ 10|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	they came to celebrate the eight nights of Hanukkah . 
+%mor:	pron|they-Prs-Nom-P3 verb|come-Fin-Ind-Past-P3-irr part|to verb|celebrate-Inf-S det|the-Def-Art num|eight noun|night-Plur-Acc adp|of propn|Hanukkah .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|MARK 4|2|ADVCL 5|7|DET 6|7|NUMMOD 7|4|OBJ 8|9|CASE 9|7|NMOD 10|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	tonight is the first night , and I am doing the shopping . 
+%mor:	noun|tonight aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|first-S1 noun|night cm|cm cconj|and pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 verb|do-Part-Pres-S det|the-Def-Art noun|shopping-Acc-Ger .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|12|ROOT 6|10|PUNCT 7|10|CC 8|10|NSUBJ 9|10|AUX 10|5|CONJ 11|12|DET 12|10|OBJ 13|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	I bet you did not know that furry blue monsters are excellent shoppers . 
+%mor:	pron|I-Prs-Nom-S1 verb|bet-Fin-Ind-Pres-S1 pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Past-S2-irr part|not verb|know-Inf-S sconj|that adj|furry-S1 adj|blue-S1 noun|monster-Plur aux|be-Fin-Ind-Pres-P3 adj|excellent-S1 noun|shopper-Plur .
+%gra:	1|2|NSUBJ 2|13|ROOT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|2|CCOMP 7|13|MARK 8|10|AMOD 9|10|AMOD 10|13|NSUBJ 11|13|COP 12|13|AMOD 13|6|CCOMP 14|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	the Count read , onions that's one , potatoes two , apples three . 
+%mor:	det|the-Def-Art noun|Count verb|read-Fin-Ind-Past-S3-irr cm|cm noun|onion-Plur-Acc pron|that-Rel~aux|be-Fin-Ind-Pres-S3 num|one cm|cm noun|potato-Plur num|two cm|cm noun|apple-Plur num|three .
+%gra:	1|2|DET 2|3|NSUBJ 3|14|ROOT 4|5|PUNCT 5|3|OBJ 6|8|NSUBJ 7|8|COP 8|5|ACL-RELCL 9|10|PUNCT 10|8|CONJ 11|10|NUMMOD 12|13|PUNCT 13|8|CONJ 14|13|NUMMOD 15|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	you have eight things to buy . 
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 num|eight noun|thing-Plur-Acc part|to verb|buy-Inf-S .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|NUMMOD 4|2|OBJ 5|6|MARK 6|4|ACL 7|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	oh how I love the number eight , ah ah ah ! 
+%mor:	intj|oh adv|how pron|I-Prs-Nom-S1 verb|love-Fin-Ind-Pres-S1 det|the-Def-Art noun|number-Acc num|eight cm|cm intj|ah intj|ah intj|ah !
+%gra:	1|4|DISCOURSE 2|4|ADVMOD 3|4|NSUBJ 4|11|ROOT 5|6|DET 6|4|OBJ 7|6|NUMMOD 8|9|PUNCT 9|4|DISCOURSE 10|4|DISCOURSE 11|4|DISCOURSE 12|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	would you like to come celebrate with us ?
+%mor:	aux|would-Fin-S pron|you-Prs-Nom-S2 verb|like-Inf-S part|to verb|come-Inf-S verb|celebrate-Inf-S adp|with pron|we-Prs-Acc-P1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|5|MARK 5|3|XCOMP 6|5|XCOMP 7|8|CASE 8|6|OBL 9|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	said Grover , there is always room for one more . 
+%mor:	verb|say-Fin-Ind-Past-S3-irr propn|Grover cm|cm pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 adv|always noun|room adp|for num|one adj|more-Cmp-S1 .
+%gra:	1|10|ROOT 2|5|VOCATIVE 3|2|PUNCT 4|5|EXPL 5|1|CCOMP 6|5|ADVMOD 7|5|NSUBJ 8|10|CASE 9|10|NUMMOD 10|7|NMOD 11|1|PUNCT
+*CHI:	and Count . 
+%mor:	cconj|and verb|Count-Fin-Imp-S .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	and the Count . 
+%mor:	cconj|and det|the-Def-Art noun|Count .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	wonderful , said the Count . 
+%mor:	adj|wonderful-S1 cm|cm verb|say-Fin-Ind-Past-S3-irr det|the-Def-Art noun|Count .
+%gra:	1|3|CCOMP 2|1|PUNCT 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Aunt Sara , Uncle Joe , Sam , and Sadie make four , Brosh and Avigail make six . 
+%mor:	propn|aunt propn|Sara cm|cm propn|uncle propn|Joe cm|cm propn|Sam cm|cm cconj|and propn|Sadie verb|make-Fin-Ind-Pres-P3 num|four cm|cm propn|Brosh cconj|and propn|Avigail verb|make-Fin-Ind-Pres-P3 num|six .
+%gra:	1|11|NSUBJ 2|1|FLAT 3|4|PUNCT 4|1|CONJ 5|4|FLAT 6|7|PUNCT 7|1|CONJ 8|10|PUNCT 9|10|CC 10|1|CONJ 11|18|ROOT 12|11|OBJ 13|17|PUNCT 14|17|NSUBJ 15|16|CC 16|14|CONJ 17|11|PARATAXIS 18|17|OBJ 19|11|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	and you and I make eight guests in all .
+%mor:	cconj|and pron|you-Prs-Nom-S2 cconj|and pron|I-Prs-Nom-S1 verb|make-Fin-Ind-Pres-S1 num|eight noun|guest-Plur-Acc adp|in det|all-Def-Tot .
+%gra:	1|5|CC 2|5|NSUBJ 3|4|CC 4|2|CONJ 5|9|ROOT 6|7|NUMMOD 7|5|OBJ 8|9|CASE 9|5|OBL 10|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	eight is a perfect Hanukkah number . 
+%mor:	num|eight aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|perfect-S1 propn|Hanukkah noun|number .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|DET 4|6|AMOD 5|6|COMPOUND 6|6|ROOT 7|6|PUNCT
+*CHI:	that will be six . 
+%mor:	pron|that-Dem aux|will-Fin-S aux|be-Inf-S num|six .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|COP 4|4|ROOT 5|4|PUNCT
+%cod:	$xds:A
+*FA1:	mm-mh . 
+%mor:	intj|mmmh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	that's right , that's six . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 num|six .
+%gra:	1|3|NSUBJ 2|3|COP 3|7|ROOT 4|7|PUNCT 5|7|NSUBJ 6|7|COP 7|3|PARATAXIS 8|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	alright Grover was a monster in a hurry . 
+%mor:	intj|alright propn|Grover aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|monster adp|in det|a-Ind-Art noun|hurry .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|DET 5|8|ROOT 6|8|CASE 7|8|DET 8|5|NMOD 9|5|PUNCT
+%cod:	$xds:T
+*FA1:	I will see you tonight , Count .
+%mor:	pron|I-Prs-Nom-S1 aux|will-Fin-S verb|see-Inf-S pron|you-Prs-Acc-S2 noun|tonight cm|cm noun|Count .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|OBJ 5|3|OBL-UNMARKED 6|7|PUNCT 7|3|PARATAXIS 8|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	we light the candles just after sunset . 
+%mor:	pron|we-Prs-Nom-P1 verb|light-Fin-Ind-Pres-P1 det|the-Def-Art noun|candle-Plur-Acc adv|just adp|after noun|sunset .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|ADVMOD 6|7|CASE 7|2|OBL 8|2|PUNCT
+*FA1:	I will be there eight minutes before , said the Count . 
+%mor:	pron|I-Prs-Nom-S1 aux|will-Fin-S aux|be-Inf-S adv|there num|eight noun|minute-Plur adv|before cm|cm verb|say-Fin-Ind-Past-S3-irr det|the-Def-Art noun|Count .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|COP 4|9|CCOMP 5|6|NUMMOD 6|7|OBL-UNMARKED 7|4|ADVMOD 8|4|PUNCT 9|11|ROOT 10|11|DET 11|9|NSUBJ 12|9|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	back home , everyone began getting ready . 
+%mor:	adv|back adv|home cm|cm pron|everyone-Tot-S1 verb|begin-Fin-Ind-Past-S3-irr verb|get-Ger-S adj|ready-S1 .
+%gra:	1|2|ADVMOD 2|5|ADVMOD 3|2|PUNCT 4|5|NSUBJ 5|7|ROOT 6|5|XCOMP 7|6|XCOMP 8|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Grover and Brosh were peeling potatoes for latkes . 
+%mor:	propn|Grover cconj|and propn|Brosh aux|be-Fin-Ind-Past-P3-irr verb|peel-Part-Pres-S noun|potato-Plur-Acc adp|for noun|latke-Plur .
+%gra:	1|5|NSUBJ 2|3|CC 3|1|CONJ 4|5|AUX 5|8|ROOT 6|5|OBJ 7|8|CASE 8|5|OBL 9|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Aunt Sara was measuring the oil . 
+%mor:	propn|aunt propn|Sara aux|be-Fin-Ind-Past-S3-irr verb|measure-Part-Pres-S det|the-Def-Art noun|oil-Acc .
+%gra:	1|4|NSUBJ 2|1|FLAT 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Avigail was helping Uncle Joe polish the menorah . 
+%mor:	propn|Avigail aux|be-Fin-Ind-Past-S3-irr verb|help-Part-Pres-S propn|uncle-Acc propn|Joe verb|polish-Inf-S det|the-Def-Art noun|menorah-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|3|OBJ 5|4|FLAT 6|3|XCOMP 7|8|DET 8|6|OBJ 9|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Sam and Sadie were setting the table . 
+%mor:	propn|Sam cconj|and propn|Sadie aux|be-Fin-Ind-Past-P3-irr verb|set-Part-Pres-S det|the-Def-Art noun|table-Acc .
+%gra:	1|5|NSUBJ 2|3|CC 3|1|CONJ 4|5|AUX 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	knock@o knock@o knock@o .
+%mor:	o|knock o|knock o|knock .
+%gra:	1|3|FLAT 2|3|FLAT 3|1|FLAT 4|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	who was at the door ? 
+%mor:	pron|who-Rel aux|be-Fin-Ind-Past-S3-irr adp|at det|the-Def-Art noun|door ?
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|DET 5|5|ROOT 6|5|PUNCT
+*FA1:	knock@o knock@o knock@o .
+%mor:	o|knock o|knock o|knock .
+%gra:	1|3|FLAT 2|3|FLAT 3|1|FLAT 4|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Sam opened the door . 
+%mor:	propn|Sam verb|open-Fin-Ind-Past-S3 det|the-Def-Art noun|door-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*FA1:	wait , said the Count .
+%mor:	verb|wait-Fin-Imp-S cm|cm verb|say-Fin-Ind-Past-S3-irr det|the-Def-Art noun|Count .
+%gra:	1|3|CCOMP 2|1|PUNCT 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	I am not finished . 
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 part|not verb|finish-Part-Past-S .
+%gra:	1|4|NSUBJ-PASS 2|4|AUX-PASS 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*FA1:	two more knocks make eight . 
+%mor:	num|two adj|more-Cmp-S1 noun|knock-Plur verb|make-Fin-Ind-Pres-P3 num|eight .
+%gra:	1|3|NUMMOD 2|3|AMOD 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	eight is a perfect Hanukkah number . 
+%mor:	num|eight aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|perfect-S1 propn|Hanukkah noun|number .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|DET 4|6|AMOD 5|6|COMPOUND 6|6|ROOT 7|6|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	hurry , we're about to light the menorah , said Sam , pulling the Count over to the window . 
+%mor:	noun|hurry cm|cm pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 adj|about-S1 part|to verb|light-Inf-S det|the-Def-Art noun|menorah-Acc cm|cm verb|say-Fin-Ind-Past-S3-irr propn|Sam cm|cm verb|pull-Part-Pres-S det|the-Def-Art noun|Count-Acc adp|over adp|to det|the-Def-Art noun|window .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|20|ROOT 6|7|MARK 7|5|XCOMP 8|9|DET 9|7|OBJ 10|5|PUNCT 11|5|PARATAXIS 12|11|NSUBJ 13|14|PUNCT 14|11|ADVCL 15|16|DET 16|14|OBJ 17|14|COMPOUND-PRT 18|20|CASE 19|20|DET 20|14|OBL 21|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Aunt Sara lit the shamash candle . 
+%mor:	propn|aunt propn|Sara verb|light-Fin-Ind-Past-S3 det|the-Def-Art noun|shamash noun|candle-Acc .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|6|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	that's the helper candle , Brosh whispered to Grover .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|helper noun|candle cm|cm propn|Brosh verb|whisper-Fin-Ind-Past-S3 adp|to propn|Grover .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|COMPOUND 5|10|ROOT 6|8|PUNCT 7|8|NSUBJ 8|5|PARATAXIS 9|10|CASE 10|8|OBL 11|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	it lights the others . 
+%mor:	pron|it-Prs-Nom-S3 verb|light-Fin-Ind-Pres-S3 det|the-Def-Art noun|other-Plur-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*FA1:	can Avigail light tonight's candle , Uncle Joe ? 
+%mor:	aux|can-Fin-S propn|Avigail verb|light-Inf-S noun|tonight~part|s noun|candle-Acc cm|cm propn|uncle propn|Joe ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|6|NMOD-POSS 5|4|CASE 6|3|OBJ 7|8|PUNCT 8|6|APPOS 9|8|FLAT 10|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	after the blessings , he answered . 
+%mor:	adp|after det|the-Def-Art noun|blessing-Plur cm|cm pron|he-Prs-Nom-S3 verb|answer-Fin-Ind-Past-S3 .
+%gra:	1|3|CASE 2|3|DET 3|6|OBL 4|3|PUNCT 5|6|NSUBJ 6|6|ROOT 7|6|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	everyone joined as they sang the special Hebrew words . 
+%mor:	pron|everyone-Tot-S1 verb|join-Fin-Ind-Past-S3 sconj|as pron|they-Prs-Nom-P3 verb|sing-Fin-Ind-Past-P3-irr det|the-Def-Art adj|special-S1 adj|Hebrew-S1 noun|word-Plur-Acc .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|5|MARK 4|5|NSUBJ 5|2|ADVCL 6|9|DET 7|9|AMOD 8|9|AMOD 9|5|OBJ 10|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	now , Uncle Joe told Avigail , I'll help you light the first candle . 
+%mor:	adv|now cm|cm propn|uncle propn|Joe verb|tell-Fin-Ind-Past-S3-irr propn|Avigail cm|cm pron|I-Prs-Nom-S1~aux|will-Fin-S verb|help-Inf-S pron|you-Prs-Acc-S2 verb|light-Inf-S det|the-Def-Art adj|first-S1 noun|candle-Acc .
+%gra:	1|5|ADVMOD 2|1|PUNCT 3|5|NSUBJ 4|3|FLAT 5|15|ROOT 6|5|IOBJ 7|10|PUNCT 8|10|NSUBJ 9|10|AUX 10|5|CCOMP 11|10|OBJ 12|10|XCOMP 13|15|DET 14|15|AMOD 15|12|OBJ 16|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	the Count was confused , where are the other candles ?
+%mor:	det|the-Def-Art noun|Count aux|be-Fin-Ind-Past-S3-irr verb|confuse-Part-Past-S cm|cm adv|where aux|be-Fin-Ind-Pres-P3 det|the-Def-Art adj|other-S1 noun|candle-Plur ?
+%gra:	1|2|DET 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|10|ROOT 5|6|PUNCT 6|4|PARATAXIS 7|10|COP 8|10|DET 9|10|AMOD 10|6|NSUBJ 11|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	we need eight . 
+%mor:	pron|we-Prs-Nom-P1 verb|need-Fin-Ind-Pres-P1 num|eight .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*FA1:	no no no , said Brosh . 
+%mor:	intj|no intj|no intj|no cm|cm verb|say-Fin-Ind-Past-S3-irr propn|Brosh .
+%gra:	1|5|CCOMP 2|5|CCOMP 3|5|CCOMP 4|3|PUNCT 5|6|ROOT 6|5|NSUBJ 7|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	tonight we'll light one candle with the shamash .
+%mor:	noun|tonight pron|we-Prs-Nom-P1~aux|will-Fin-S verb|light-Inf-S num|one noun|candle-Acc adp|with det|the-Def-Art noun|shamash .
+%gra:	1|4|OBL-UNMARKED 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|6|NUMMOD 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	tomorrow we'll light two , and we'll add another candle each night . 
+%mor:	noun|tomorrow pron|we-Prs-Nom-P1~aux|will-Fin-S verb|light-Inf-S num|two cm|cm cconj|and pron|we-Prs-Nom-P1~aux|will-Fin-S verb|add-Inf-S det|another-Def-Ind noun|candle-Acc det|each-Def-Tot noun|night .
+%gra:	1|4|OBL-UNMARKED 2|4|NSUBJ 3|4|AUX 4|14|ROOT 5|4|OBJ 6|10|PUNCT 7|10|CC 8|10|NSUBJ 9|10|AUX 10|4|CONJ 11|12|DET 12|10|OBJ 13|14|DET 14|10|OBL-UNMARKED 15|4|PUNCT
+*FA1:	on the last night of Hanukkah , we'll use the shamash to light all eight candles . 
+%mor:	adp|on det|the-Def-Art adj|last-S1 noun|night adp|of propn|Hanukkah cm|cm pron|we-Prs-Nom-P1~aux|will-Fin-S verb|use-Inf-S det|the-Def-Art noun|shamash-Acc part|to verb|light-Inf-S det|all-Def-Tot num|eight noun|candle-Plur-Acc .
+%gra:	1|4|CASE 2|4|DET 3|4|AMOD 4|10|OBL 5|6|CASE 6|4|NMOD 7|4|PUNCT 8|10|NSUBJ 9|10|AUX 10|17|ROOT 11|12|DET 12|10|OBJ 13|14|MARK 14|10|ADVCL 15|17|DET 16|17|NUMMOD 17|14|OBJ 18|10|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	ah , eight candles , eight nights .
+%mor:	intj|ah cm|cm num|eight noun|candle-Plur cm|cm num|eight noun|night-Plur .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NUMMOD 4|7|ROOT 5|7|PUNCT 6|7|NUMMOD 7|4|APPOS 8|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	I like it , said the Count . 
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 cm|cm verb|say-Fin-Ind-Past-S3-irr det|the-Def-Art noun|Count .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|OBJ 4|2|PUNCT 5|2|PARATAXIS 6|7|DET 7|5|NSUBJ 8|2|PUNCT
+*FA1:	eight is the perfect Hanukkah number . 
+%mor:	num|eight aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|perfect-S1 propn|Hanukkah noun|number .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|DET 4|6|AMOD 5|6|COMPOUND 6|6|ROOT 7|6|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Uncle Joe , will you tell us the Hahukkah story , asked Brosh . 
+%mor:	propn|uncle propn|Joe cm|cm aux|will-Fin-S pron|you-Prs-Nom-S2 verb|tell-Inf-S pron|we-Prs-Acc-P1 det|the-Def-Art propn|Hahukkah noun|story-Acc cm|cm verb|ask-Fin-Ind-Past-S3 propn|Brosh .
+%gra:	1|6|VOCATIVE 2|1|FLAT 3|1|PUNCT 4|6|AUX 5|6|NSUBJ 6|13|ROOT 7|6|IOBJ 8|10|DET 9|10|COMPOUND 10|6|OBJ 11|12|PUNCT 12|6|PARATAXIS 13|12|IOBJ 14|6|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	long , long ago , Uncle Joe began . 
+%mor:	adj|long-S1 cm|cm adv|long adv|ago cm|cm propn|uncle propn|Joe verb|begin-Fin-Ind-Past-S3-irr .
+%gra:	1|8|ADVMOD 2|1|PUNCT 3|4|ADVMOD 4|8|ADVMOD 5|4|PUNCT 6|8|NSUBJ 7|6|FLAT 8|8|ROOT 9|8|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	there was a powerful king called Antiochus . 
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|powerful-S1 noun|king-Ger verb|call-Part-Past-S propn|Antiochus .
+%gra:	1|2|EXPL 2|7|ROOT 3|5|DET 4|5|AMOD 5|2|NSUBJ 6|5|ACL 7|6|XCOMP 8|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	he wouldn't allow the Jewish people to pray in their own way . 
+%mor:	pron|he-Prs-Nom-S3 aux|would-Fin-S~part|not verb|allow-Inf-S det|the-Def-Art adj|Jewish-S1 noun|person-Plur part|to verb|pray-Inf-S adp|in pron|their-Prs-Gen-P3 adj|own-S1 noun|way .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|13|ROOT 5|7|DET 6|7|AMOD 7|4|IOBJ 8|9|MARK 9|4|XCOMP 10|13|CASE 11|13|NMOD-POSS 12|13|AMOD 13|9|OBL 14|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	many Jews refused to do what Antiochus commanded . 
+%mor:	adj|many-S1 propn|Jew-Plur verb|refuse-Fin-Ind-Past-P3 part|to verb|do-Inf-S pron|what-Rel-S1 propn|Antiochus verb|command-Fin-Ind-Past-S3 .
+%gra:	1|2|AMOD 2|3|NSUBJ 3|8|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Judah Maccabee and his small , brave army fought for a long time . 
+%mor:	propn|Judah propn|Maccabee cconj|and pron|his-Prs-Gen-S3 adj|small-S1 cm|cm adj|brave-S1 noun|army verb|fight-Fin-Ind-Past-P3-irr adp|for det|a-Ind-Art adj|long-S1 noun|time .
+%gra:	1|9|NSUBJ 2|1|FLAT 3|8|CC 4|8|NMOD-POSS 5|8|AMOD 6|5|PUNCT 7|8|AMOD 8|1|CONJ 9|13|ROOT 10|13|CASE 11|13|DET 12|13|AMOD 13|9|OBL 14|9|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Maccabees finally won .
+%mor:	propn|Maccabees-Plur adv|finally verb|win-Fin-Ind-Past-P3-irr .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	they were free to practice their own religion again . 
+%mor:	pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr adj|free-S1 part|to verb|practice-Inf-S pron|their-Prs-Gen-P3 adj|own-S1 noun|religion-Acc adv|again .
+%gra:	1|3|NSUBJ 2|3|COP 3|9|ROOT 4|5|MARK 5|3|XCOMP 6|8|NMOD-POSS 7|8|AMOD 8|5|OBJ 9|5|ADVMOD 10|3|PUNCT
+*FA1:	hooray !
+%mor:	intj|hooray !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	cheered Avigail . 
+%mor:	verb|cheer-Fin-Ind-Past-S1 propn|Avigail-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*FA1:	Uncle Joe continued . 
+%mor:	propn|uncle propn|Joe verb|continue-Fin-Ind-Past-S3 .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	now they had to fix the temple which Antiochus and his soldiers had ruined . 
+%mor:	adv|now pron|they-Prs-Nom-P3 verb|have-Fin-Ind-Past-P3-irr part|to verb|fix-Inf-S det|the-Def-Art noun|temple-Acc pron|which-Rel-S1 propn|Antiochus cconj|and pron|his-Prs-Gen-S3 noun|soldier-Plur aux|have-Fin-Ind-Past-P3-irr verb|ruin-Part-Past-S .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|14|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|14|OBJ 9|14|NSUBJ 10|12|CC 11|12|NMOD-POSS 12|9|CONJ 13|14|AUX 14|7|ACL-RELCL 15|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	there was enough oil to light the temple's lamp for one night only . 
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Past-S3-irr adj|enough-S1 noun|oil part|to verb|light-Inf-S det|the-Def-Art noun|temple~part|s noun|lamp-Acc adp|for num|one noun|night adv|only .
+%gra:	1|2|EXPL 2|14|ROOT 3|4|AMOD 4|2|NSUBJ 5|6|MARK 6|4|ACL 7|8|DET 8|10|NMOD-POSS 9|8|CASE 10|6|OBJ 11|13|CASE 12|13|NUMMOD 13|6|OBL 14|6|ADVMOD 15|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	but then a miracle happened .
+%mor:	cconj|but adv|then det|a-Ind-Art noun|miracle verb|happen-Fin-Ind-Past-S3 .
+%gra:	1|5|CC 2|5|ADVMOD 3|4|DET 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	the oil burned for eight straight days and eight straight nights . 
+%mor:	det|the-Def-Art noun|oil verb|burn-Fin-Ind-Past-S3 adp|for num|eight adj|straight-S1 noun|day-Plur cconj|and num|eight adj|straight-S1 noun|night-Plur .
+%gra:	1|2|DET 2|3|NSUBJ 3|11|ROOT 4|7|CASE 5|7|NUMMOD 6|7|AMOD 7|3|OBL 8|11|CC 9|11|NUMMOD 10|11|AMOD 11|7|CONJ 12|3|PUNCT
+*FA1:	Hanukkah celebrates the victory of Ju- Judah's small army and the miracle of the oil . 
+%mor:	propn|Hanukkah verb|celebrate-Fin-Ind-Pres-S3 det|the-Def-Art noun|victory-Acc adp|of propn|Ju propn|Judah~part|s adj|small-S1 noun|army cconj|and det|the-Def-Art noun|miracle adp|of det|the-Def-Art noun|oil .
+%gra:	1|2|NSUBJ 2|16|ROOT 3|4|DET 4|2|OBJ 5|10|CASE 6|10|NMOD-POSS 7|6|FLAT 8|6|CASE 9|10|AMOD 10|4|NMOD 11|13|CC 12|13|DET 13|10|CONJ 14|16|CASE 15|16|DET 16|13|NMOD 17|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	and that's why Hanukkah lasts eight days ?
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|why propn|Hanukkah verb|last-Fin-Ind-Pres-S3 num|eight noun|day-Plur ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|8|ROOT 5|6|NSUBJ 6|4|ADVCL-RELCL 7|8|NUMMOD 8|6|OBL-UNMARKED 9|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	asked Grover . 
+%mor:	verb|ask-Fin-Ind-Past-S1 propn|Grover .
+%gra:	1|2|ROOT 2|1|IOBJ 3|1|PUNCT
+*FA1:	that's right , said Aunt Sara , as she set a plate of latkes on the table . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 cm|cm verb|say-Fin-Ind-Past-S3-irr propn|aunt propn|Sara cm|cm sconj|as pron|she-Prs-Nom-S3 verb|set-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|plate-Acc adp|of noun|latke-Plur adp|on det|the-Def-Art noun|table .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|CCOMP 4|3|PUNCT 5|18|ROOT 6|5|NSUBJ 7|6|FLAT 8|11|PUNCT 9|11|MARK 10|11|NSUBJ 11|5|ADVCL 12|13|DET 13|11|OBJ 14|15|CASE 15|13|NMOD 16|18|CASE 17|18|DET 18|11|OBL 19|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	and dinner is ready . 
+%mor:	cconj|and noun|dinner aux|be-Fin-Ind-Pres-S3 adj|ready-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	the Count looked at the plate of latkes . 
+%mor:	det|the-Def-Art noun|Count verb|look-Fin-Ind-Past-S3 adp|at det|the-Def-Art noun|plate adp|of noun|latke-Plur .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|CASE 8|6|NMOD 9|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	oh no , there are nine latkes , said the Count .
+%mor:	intj|oh intj|no cm|cm pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 num|nine noun|latke-Plur cm|cm verb|say-Fin-Ind-Past-S3-irr det|the-Def-Art noun|Count .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|2|PUNCT 4|5|EXPL 5|11|ROOT 6|7|NUMMOD 7|5|NSUBJ 8|5|PUNCT 9|5|PARATAXIS 10|11|DET 11|9|NSUBJ 12|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	but don't worry , I can fix this . 
+%mor:	cconj|but aux|do-Fin-Imp-S~part|not verb|worry-Fin-Imp-S cm|cm pron|I-Prs-Nom-S1 aux|can-Fin-S verb|fix-Inf-S pron|this-Dem-S1 .
+%gra:	1|4|CC 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|8|PUNCT 6|8|NSUBJ 7|8|AUX 8|4|PARATAXIS 9|8|OBJ 10|4|PUNCT
+*FA1:	he popped one latke into his mouth . 
+%mor:	pron|he-Prs-Nom-S3 verb|pop-Fin-Ind-Past-S3 num|one noun|latke-Acc adp|into pron|his-Prs-Gen-S3 noun|mouth .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|NUMMOD 4|2|OBJ 5|7|CASE 6|7|NMOD-POSS 7|2|OBL 8|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	much better , eight is the perfect Hanukkah number . 
+%mor:	adv|much adj|good-Cmp-S1 cm|cm num|eight aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|perfect-S1 propn|Hanukkah noun|number .
+%gra:	1|2|ADVMOD 2|9|ROOT 3|9|PUNCT 4|9|NSUBJ 5|9|COP 6|9|DET 7|9|AMOD 8|9|COMPOUND 9|2|PARATAXIS 10|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	that's silly , said Sadie , giggling , but they all followed the Count's example and took exactly eight bites of everything . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|silly-S1 cm|cm verb|say-Fin-Ind-Past-S3-irr propn|Sadie cm|cm verb|giggle-Part-Pres-S cm|cm cconj|but pron|they-Prs-Nom-P3 det|all-Def-Tot verb|follow-Fin-Ind-Past-P3 det|the-Def-Art propn|Count~part|s noun|example-Acc cconj|and verb|take-Fin-Ind-Past-P3-irr adv|exactly num|eight noun|bite-Plur-Acc adp|of pron|everything-Tot-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|24|ROOT 4|5|PUNCT 5|3|PARATAXIS 6|5|NSUBJ 7|8|PUNCT 8|5|ADVCL 9|13|PUNCT 10|13|CC 11|13|NSUBJ 12|11|DET 13|3|CONJ 14|15|DET 15|17|NMOD-POSS 16|15|CASE 17|13|OBJ 18|19|CC 19|13|CONJ 20|21|ADVMOD 21|22|NUMMOD 22|19|OBJ 23|24|CASE 24|22|NMOD 25|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	delicious latkes , applesause , and sufganiyot . 
+%mor:	adj|delicious-S1 noun|latke-Plur cm|cm noun|applesause cm|cm cconj|and noun|sufganiyot .
+%gra:	1|2|AMOD 2|7|ROOT 3|4|PUNCT 4|2|CONJ 5|7|PUNCT 6|7|CC 7|2|CONJ 8|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	after dinner they even sang eight verses of a Hanukkah song . 
+%mor:	adp|after noun|dinner pron|they-Prs-Nom-P3 adv|even verb|sing-Fin-Ind-Past-P3-irr num|eight noun|verse-Plur-Acc adp|of det|a-Ind-Art propn|Hanukkah noun|song .
+%gra:	1|2|CASE 2|5|OBL 3|5|NSUBJ 4|5|ADVMOD 5|11|ROOT 6|7|NUMMOD 7|5|OBJ 8|11|CASE 9|11|DET 10|11|COMPOUND 11|7|NMOD 12|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	the Count set a bag on the table . 
+%mor:	det|the-Def-Art noun|Count verb|set-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|bag-Acc adp|on det|the-Def-Art noun|table .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	I brought a small gift for each of you . 
+%mor:	pron|I-Prs-Nom-S1 verb|bring-Fin-Ind-Past-S1-irr det|a-Ind-Art adj|small-S1 noun|gift-Acc adp|for det|each-Def-Tot adp|of pron|you-Prs-Acc-S2 .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|7|CASE 7|2|OBL 8|9|CASE 9|7|NMOD 10|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	he counted as he passed them out . 
+%mor:	pron|he-Prs-Nom-S3 verb|count-Fin-Ind-Past-S3 sconj|as pron|he-Prs-Nom-S3 verb|pass-Fin-Ind-Past-S3 pron|they-Prs-Acc-P3 adp|out .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|5|MARK 4|5|NSUBJ 5|2|ADVCL 6|5|OBJ 7|5|COMPOUND-PRT 8|2|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	one , two , three . 
+%mor:	num|one cm|cm num|two cm|cm num|three .
+%gra:	1|5|ROOT 2|3|PUNCT 3|1|CONJ 4|5|PUNCT 5|1|CONJ 6|1|PUNCT
+%cod:	$xds:A
+*CHI:	four , five , six , seven . 
+%mor:	num|four cm|cm num|five cm|cm num|six cm|cm num|seven .
+%gra:	1|7|ROOT 2|3|PUNCT 3|1|CONJ 4|5|PUNCT 5|1|CONJ 6|7|PUNCT 7|1|CONJ 8|1|PUNCT
+%cod:	$xds:A
+*FA1:	good ! 
+%mor:	adj|good-S1 !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	Sadie noticed one was left over . 
+%mor:	propn|Sadie verb|notice-Fin-Ind-Past-S3 num|one aux|be-Fin-Ind-Past-S3-irr verb|leave-Part-Past-S-irr adv|over .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|2|CCOMP 6|5|ADVMOD 7|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	who is that for ? 
+%mor:	pron|who-Int aux|be-Fin-Ind-Pres-S3 pron|that-Dem adp|for ?
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|CASE 5|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	me , said the Count .
+%mor:	pron|I-Prs-Acc-S1 cm|cm verb|say-Fin-Ind-Past-S3-irr det|the-Def-Art noun|Count .
+%gra:	1|3|NSUBJ 2|1|PUNCT 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	seven Hanukkah presents aren't enough . 
+%mor:	num|seven propn|Hanukkah noun|present-Plur aux|be-Fin-Ind-Pres-P3~part|not adj|enough-S1 .
+%gra:	1|3|NUMMOD 2|3|COMPOUND 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+*FA1:	mine makes eight . 
+%mor:	pron|my-Prs-S1 verb|make-Fin-Ind-Pres-S3 num|eight .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	eight is a perfect Hanukkah number . 
+%mor:	num|eight aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|perfect-S1 propn|Hanukkah noun|number .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|DET 4|6|AMOD 5|6|COMPOUND 6|6|ROOT 7|6|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	no , Count's make eight . 
+%mor:	intj|no cm|cm noun|Count~part|s verb|make-Inf-S num|eight .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|3|CASE 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%cod:	$xds:A
+*CHI:	and Count's make seven , and Count's make one . 
+%mor:	cconj|and verb|Count-Fin-Imp-S~part|s verb|make-Inf-S num|seven cm|cm cconj|and noun|Count~part|s verb|make-Inf-S num|one .
+%gra:	1|4|CC 2|4|NSUBJ 3|2|CASE 4|11|ROOT 5|4|OBJ 6|10|PUNCT 7|10|CC 8|10|NSUBJ 9|8|CASE 10|4|CONJ 11|10|OBJ 12|4|PUNCT
+%cod:	$xds:A
+*CHI:	and Count's make , other eight . 
+%mor:	cconj|and verb|Count-Fin-Imp-S~part|s verb|make-Inf-S cm|cm adj|other-S1 num|eight .
+%gra:	1|4|CC 2|4|NSUBJ 3|2|CASE 4|7|ROOT 5|7|PUNCT 6|7|AMOD 7|4|PARATAXIS 8|4|PUNCT
+%cod:	$xds:A
+*FA1:	yeah that's all the number on the page , good Abby . 
+%mor:	intj|yeah pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot det|the-Def-Art noun|number adp|on det|the-Def-Art noun|page cm|cm adj|good-S1 propn|Abby .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|COP 4|6|DET-PREDET 5|6|DET 6|12|ROOT 7|9|CASE 8|9|DET 9|6|NMOD 10|12|PUNCT 11|12|AMOD 12|6|PARATAXIS 13|6|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	can I go get the dreidel now ?
+%mor:	aux|can-Fin-S pron|I-Prs-Nom-S1 verb|go-Inf-S verb|get-Inf-S det|the-Def-Art noun|dreidel-Acc adv|now ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|XCOMP 5|6|DET 6|4|OBJ 7|4|ADVMOD 8|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	asked Sam . 
+%mor:	verb|ask-Fin-Ind-Past-S1 propn|Sam-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*FA1:	Aunt Sara smiled , yes . 
+%mor:	propn|aunt propn|Sara verb|smile-Fin-Ind-Past-S3 cm|cm intj|yes .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|5|ROOT 4|5|PUNCT 5|3|DISCOURSE 6|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	we'll all play . 
+%mor:	pron|we-Prs-Nom-P1~aux|will-Fin-S adv|all verb|play-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	now play dreidel . 
+%mor:	adv|now verb|play-Fin-Imp-S noun|dreidel-Acc .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$xds:A
+*FA1:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	what ? 
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	the Count frowned , only one dreidel ? 
+%mor:	det|the-Def-Art noun|Count verb|frown-Fin-Ind-Past-S3 cm|cm adv|only num|one noun|dreidel ?
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|7|PUNCT 5|7|ADVMOD 6|7|NUMMOD 7|3|PARATAXIS 8|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	not yet . 
+%mor:	part|not adv|yet .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	Sam giggled . 
+%mor:	propn|Sam verb|giggle-Fin-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	everything at Hanukkah doesn't have to be eight . 
+%mor:	pron|everything-Tot-S1 adp|at propn|Hanukkah aux|do-Fin-Ind-Pres-S3~part|not verb|have-Inf-S part|to aux|be-Inf-S num|eight .
+%gra:	1|6|NSUBJ 2|3|CASE 3|1|NMOD 4|6|AUX 5|6|ADVMOD 6|9|ROOT 7|9|MARK 8|9|COP 9|6|XCOMP 10|6|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Brosh dropped a- dropped a handful of chocolate gelt on the floor and was about to explain the rules . 
+%mor:	propn|Brosh verb|drop-Fin-Ind-Past-S3 det|a-Ind-Art verb|drop-Fin-Ind-Past-S3 det|a-Ind-Art noun|handful-Acc adp|of noun|chocolate noun|gelt adp|on det|the-Def-Art noun|floor cconj|and aux|be-Fin-Ind-Past-S3-irr adj|about-S1 part|to verb|explain-Inf-S det|the-Def-Art noun|rule-Plur-Acc .
+%gra:	1|2|NSUBJ 2|19|ROOT 3|4|NSUBJ 4|2|XCOMP 5|6|DET 6|4|OBJ 7|9|CASE 8|9|COMPOUND 9|6|NMOD 10|12|CASE 11|12|DET 12|9|NMOD 13|15|CC 14|15|COP 15|2|CONJ 16|17|MARK 17|15|XCOMP 18|19|DET 19|17|OBJ 20|2|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	not yet ! 
+%mor:	part|not adv|yet !
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	count it . 
+%mor:	verb|count-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	one . 
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	two . 
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	three . 
+%mor:	num|three .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	four . 
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	five . 
+%mor:	num|five .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	six . 
+%mor:	num|six .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	seven . 
+%mor:	num|seven .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	eight . 
+%mor:	num|eight .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	yep . 
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	eight chocolote coins .
+%mor:	num|eight noun|chocolote noun|coin-Plur .
+%gra:	1|3|NUMMOD 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	eight is the perfect Hanukkah number . 
+%mor:	num|eight aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|perfect-S1 propn|Hanukkah noun|number .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|DET 4|6|AMOD 5|6|COMPOUND 6|6|ROOT 7|6|PUNCT
+*FA1:	don't worry , the Count said .
+%mor:	aux|do-Fin-Imp-S~part|not verb|worry-Fin-Imp-S cm|cm det|the-Def-Art propn|Count verb|say-Fin-Ind-Past-S3-irr .
+%gra:	1|3|AUX 2|3|ADVMOD 3|7|ROOT 4|7|PUNCT 5|6|DET 6|7|NSUBJ 7|3|PARATAXIS 8|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	I'll be back seven more nights . 
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S aux|be-Inf-S adv|back num|seven adj|more-Cmp-S1 noun|night-Plur .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|COP 4|7|ROOT 5|7|NUMMOD 6|7|AMOD 7|4|OBL-UNMARKED 8|4|PUNCT
+*FA1:	like all eight candles . 
+%mor:	adp|like det|all-Def-Tot num|eight noun|candle-Plur .
+%gra:	1|4|CASE 2|4|DET 3|4|NUMMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	oh dear , chuckled Aunt Sara as they began to play . 
+%mor:	intj|oh adj|dear-S1 cm|cm verb|chuckle-Fin-Ind-Past-S3 propn|aunt-Acc propn|Sara sconj|as pron|they-Prs-Nom-P3 verb|begin-Fin-Ind-Past-P3-irr part|to verb|play-Inf-S .
+%gra:	1|4|DISCOURSE 2|4|ADVMOD 3|2|PUNCT 4|11|ROOT 5|4|OBJ 6|5|FLAT 7|9|MARK 8|9|NSUBJ 9|4|ADVCL 10|11|MARK 11|9|XCOMP 12|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	after Grover . 
+%mor:	adp|after propn|Grover .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	after a while , Grover looked at the clock . 
+%mor:	adp|after det|a-Ind-Art noun|while cm|cm propn|Grover verb|look-Fin-Ind-Past-S3 adp|at det|the-Def-Art noun|clock .
+%gra:	1|3|CASE 2|3|DET 3|6|OBL 4|3|PUNCT 5|6|NSUBJ 6|9|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Count , it's eight o'clock . 
+%mor:	verb|Count-Fin-Imp-S cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 num|eight noun|oclock .
+%gra:	1|6|ROOT 2|6|PUNCT 3|6|NSUBJ 4|6|COP 5|6|NUMMOD 6|1|PARATAXIS 7|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	is that not the perfect time to end our totally awesome Hanukkah party ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem part|not det|the-Def-Art adj|perfect-S1 noun|time part|to verb|end-Inf-S pron|our-Prs-Gen-P1 adv|totally adj|awesome-S1 propn|Hanukkah noun|party-Acc ?
+%gra:	1|6|COP 2|6|NSUBJ 3|6|ADVMOD 4|6|DET 5|6|AMOD 6|13|ROOT 7|8|MARK 8|6|ACL 9|13|NMOD-POSS 10|11|ADVMOD 11|13|AMOD 12|13|COMPOUND 13|8|OBJ 14|6|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	perfect , agreed the Count . 
+%mor:	adj|perfect-S1 cm|cm verb|agree-Fin-Ind-Past-S3 det|the-Def-Art noun|Count-Acc .
+%gra:	1|3|ADVCL 2|3|PUNCT 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	yes ! 
+%mor:	intj|yes !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	yeah ! 
+%mor:	intj|yeah !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	and then he added . 
+%mor:	cconj|and adv|then pron|he-Prs-Nom-S3 verb|add-Fin-Ind-Past-S3 .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	hip hip . 
+%mor:	adj|hip-S1 noun|hip .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	hip hip . 
+%mor:	adj|hip-S1 noun|hip .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	hip hip . 
+%mor:	adj|hip-S1 noun|hip .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	hip hip . 
+%mor:	adj|hip-S1 noun|hip .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	that's eight hips . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 num|eight noun|hip-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NUMMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	hooray for Hanukkah . 
+%mor:	intj|hooray adp|for propn|Hanukkah .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:U
+*CHI:	not yet . 
+%mor:	part|not adv|yet .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	which book ? 
+%mor:	det|which-Def-Int noun|book ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C $xds:T
+*CHI:	not yet . 
+%mor:	part|not adv|yet .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*CHI:	oh , go for xxx . 
+%mor:	intj|oh cm|cm verb|go-Fin-Imp-S adp|for .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%cod:	$xds:A
+*CHI:	go for it xxx . 
+%mor:	verb|go-Fin-Imp-S adp|for pron|it-Prs-Acc-S3 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+%cod:	$xds:A
+*CHI:	ounce . 
+%mor:	noun|ounce .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	boom . 
+%mor:	noun|boom .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	we're gonna read this book now . 
+%mor:	pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 part|go verb|read-Inf-S det|this-Def-Dem-Sing noun|book-Acc adv|now .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|6|DET 6|4|OBJ 7|4|ADVMOD 8|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	Where_is_Baby's_Drediel ? 
+%mor:	propn|WhereisBaby~propn|sDrediel ?
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	it's Hanukkah .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 propn|Hanukkah .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	where's baby xxx though ? 
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 noun|baby adv|though ?
+%gra:	1|4|ROOT 2|1|COP 3|1|NSUBJ 4|1|ADVMOD 5|1|PUNCT
+*FA1:	is it behind the curtains ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 adp|behind det|the-Def-Art noun|curtain-Plur ?
+%gra:	1|5|COP 2|5|NSUBJ 3|5|CASE 4|5|DET 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C $xds:T
+*CHI:	at the xxx . 
+%mor:	adp|at det|the-Def-Art .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	no what's there ? 
+%mor:	intj|no pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adv|there ?
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|COP 4|2|ACL-RELCL 5|2|PUNCT
+%cod:	$txt:C $xds:T
+*CHI:	candles holders . 
+%mor:	noun|candle-Plur noun|holder-Plur .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	yeah candle holders .
+%mor:	intj|yeah noun|candle noun|holder-Plur .
+%gra:	1|3|DISCOURSE 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	is that candle holders called a menorah . 
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that noun|candle noun|holder-Plur verb|call-Fin-Ind-Past-P3 det|a-Ind-Art noun|menorah-Acc .
+%gra:	1|5|COP 2|5|MARK 3|4|COMPOUND 4|5|NSUBJ 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*FA1:	can you say menorah ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|say-Inf-S noun|menorah-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$txt:C $xds:T
+*CHI:	menorah . 
+%mor:	noun|menorah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	is it under the table ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 adp|under det|the-Def-Art noun|table ?
+%gra:	1|5|COP 2|5|NSUBJ 3|5|CASE 4|5|DET 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C $xds:T
+*CHI:	puppy . 
+%mor:	noun|puppy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	what's under the table ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adp|under det|the-Def-Art noun|table ?
+%gra:	1|5|ROOT 2|5|COP 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+%cod:	$txt:C $xds:T
+*FA1:	no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	look , there (a)re [: there are] Hanukkah candles . 
+%mor:	verb|look-Fin-Imp-S cm|cm pron|there-Int-S1 pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 propn|Hanukkah noun|candle-Plur .
+%gra:	1|7|ROOT 2|5|PUNCT 3|5|EXPL 4|5|EXPL 5|1|PARATAXIS 6|7|COMPOUND 7|5|NSUBJ 8|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	mama . 
+%mor:	noun|mama .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	oh , is it behind the eggs ? 
+%mor:	intj|oh cm|cm aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 adp|behind det|the-Def-Art noun|egg-Plur ?
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|COP 4|7|NSUBJ 5|7|CASE 6|7|DET 7|7|ROOT 8|7|PUNCT
+%cod:	$txt:C $xds:T
+*FA1:	no what are those ? 
+%mor:	intj|no pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 pron|that-Dem-P1 ?
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|COP 4|2|NSUBJ 5|2|PUNCT
+%cod:	$txt:C $xds:T
+*CHI:	latkes . 
+%mor:	noun|latke-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	there's a latkes , yeah . 
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|latke-Plur cm|cm intj|yeah .
+%gra:	1|2|EXPL 2|6|ROOT 3|4|DET 4|2|NSUBJ 5|6|PUNCT 6|2|DISCOURSE 7|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	maybe we make latkes for dinners tomorrrow night . 
+%mor:	adv|maybe pron|we-Prs-Nom-P1 verb|make-Fin-Ind-Pres-P1 noun|latke-Plur-Acc adp|for noun|dinner-Plur adp|tomorrrow noun|night .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|6|CASE 6|3|OBL 7|8|CASE 8|6|NMOD 9|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	is it under grandma's apron ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 adp|under noun|grandma~part|s noun|apron ?
+%gra:	1|6|COP 2|6|NSUBJ 3|6|CASE 4|6|NMOD-POSS 5|4|CASE 6|6|ROOT 7|6|PUNCT
+%cod:	$txt:C $xds:T
+*FA1:	no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	what's under the xxx ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adp|under det|the-Def-Art ?
+%gra:	1|4|ROOT 2|4|COP 3|4|CASE 4|1|OBL 5|1|PUNCT
+%cod:	$txt:C $xds:T
+*CHI:	just for me ? 
+%mor:	adv|just adp|for pron|I-Prs-Acc-S1 ?
+%gra:	1|3|ADVMOD 2|3|CASE 3|3|ROOT 4|3|PUNCT
+%cod:	$xds:A
+*FA1:	yeah but special present just for me . 
+%mor:	intj|yeah cconj|but adj|special-S1 noun|present adv|just adp|for pron|I-Prs-Acc-S1 .
+%gra:	1|4|DISCOURSE 2|4|CC 3|4|AMOD 4|7|ROOT 5|7|ADVMOD 6|7|CASE 7|4|NMOD 8|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	is it behind the fruit ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 adp|behind det|the-Def-Art noun|fruit ?
+%gra:	1|5|COP 2|5|NSUBJ 3|5|CASE 4|5|DET 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C $xds:T
+*CHI:	three of xxx . 
+%mor:	num|three adp|of .
+%gra:	1|2|ROOT 2|1|PUNCT 3|1|PUNCT
+%cod:	$xds:A
+*CHI:	say yeah . 
+%mor:	verb|say-Fin-Imp-S intj|yeah .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%cod:	$xds:A
+*FA1:	oh careful careful , not right there . 
+%mor:	intj|oh adj|careful-S1 adj|careful-S1 cm|cm part|not adj|right-S1 adv|there .
+%gra:	1|3|DISCOURSE 2|3|AMOD 3|7|ROOT 4|6|PUNCT 5|6|ADVMOD 6|3|CONJ 7|3|CONJ 8|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	there you go . 
+%mor:	pron|there-Dem-S1 pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	what's there ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adv|there ?
+%gra:	1|3|ROOT 2|3|COP 3|1|ACL-RELCL 4|1|PUNCT
+%cod:	$txt:C $xds:T
+*CHI:	no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	say no . 
+%mor:	verb|say-Fin-Imp-S intj|no .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%cod:	$xds:A
+*FA1:	no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	there's . 
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|EXPL 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*CHI:	there's xxx . 
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|EXPL 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*CHI:	coins . 
+%mor:	noun|coin-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	yeah , there's gold coins . 
+%mor:	intj|yeah cm|cm pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|gold noun|coin-Plur .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|EXPL 4|6|ROOT 5|6|COMPOUND 6|4|NSUBJ 7|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	is baby's dreidel in the living room ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 noun|baby~part|s noun|dreidel adp|in det|the-Def-Art noun|living-Ger noun|room ?
+%gra:	1|4|COP 2|4|NMOD-POSS 3|2|CASE 4|8|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|NMOD 9|4|PUNCT
+%cod:	$txt:C $xds:T
+*FA1:	yes !
+%mor:	intj|yes !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	and now we can start our Hanukkah celebration . 
+%mor:	cconj|and adv|now pron|we-Prs-Nom-P1 aux|can-Fin-S verb|start-Inf-S pron|our-Prs-Gen-P1 propn|Hanukkah noun|celebration-Acc .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|NMOD-POSS 7|8|COMPOUND 8|5|OBJ 9|5|PUNCT
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	yeah ! 
+%mor:	intj|yeah !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	the end . 
+%mor:	det|the-Def-Art noun|end .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+@End

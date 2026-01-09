@@ -1,0 +1,704 @@
+@UTF8
+@PID:	11312/a-00047559-1
+@Begin
+@Languages:	eng
+@Participants:	FAT Father, MOT Mother, CHI Target_Child
+@Options:	bullets
+@ID:	eng|Edinburgh|FAT||male|||Father|||
+@ID:	eng|Edinburgh|MOT||female|||Mother|||
+@ID:	eng|Edinburgh|CHI|0;09.22|female|||Target_Child|||
+@Media:	ellen0904, audio
+@Date:	08-MAR-2014
+@Types:	long, toyplay, TD
+*FAT:	what's that poppet ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|poppet ?
+%gra:	1|4|ROOT 2|4|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*MOT:	look what colors are they ? 
+%mor:	verb|look-Fin-Imp-S det|what-Def-Int noun|color-Plur aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 ?
+%gra:	1|5|ROOT 2|3|DET 3|5|NSUBJ 4|5|COP 5|1|CCOMP 6|1|PUNCT
+*MOT:	which ones ? 
+%mor:	det|which-Def-Int noun|one-Plur ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	look . 
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	this one's the blue one . 
+%mor:	det|this-Def-Dem-Sing noun|one~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|blue-S1 noun|one .
+%gra:	1|2|DET 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|6|ROOT 7|6|PUNCT
+*MOT:	can you touch the blue paint ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|touch-Inf-S det|the-Def-Art adj|blue-S1 noun|paint-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+*MOT:	you could put it on the silver bit . 
+%mor:	pron|you-Prs-Nom-S2 aux|could-Fin-S verb|put-Inf-S pron|it-Prs-Acc-S3 adp|on det|the-Def-Art adj|silver-S1 noun|bit .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|3|OBJ 5|8|CASE 6|8|DET 7|8|AMOD 8|3|OBL 9|3|PUNCT
+*MOT:	look . 
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what about the blue paint on Ellen's belly &=laughs ?
+%mor:	pron|what-Int-S1 adp|about det|the-Def-Art adj|blue-S1 noun|paint adp|on propn|Ellen~part|s noun|belly ?
+%gra:	1|9|ROOT 2|5|CASE 3|5|DET 4|5|AMOD 5|1|NMOD 6|9|CASE 7|9|NMOD-POSS 8|7|CASE 9|5|NMOD 10|1|PUNCT
+*MOT:	how does that feel ? 
+%mor:	adv|how aux|do-Fin-Ind-Pres-S3 pron|that-Dem verb|feel-Inf-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*MOT:	is that cold ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing adj|cold-S1 ?
+%gra:	1|3|COP 2|3|DET 3|3|ROOT 4|3|PUNCT
+*MOT:	is that cold ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing adj|cold-S1 ?
+%gra:	1|3|COP 2|3|DET 3|3|ROOT 4|3|PUNCT
+*MOT:	&=laughs have we put blue paint on your tummy ? 
+%mor:	aux|have-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|put-Part-Past-S-irr adj|blue-S1 noun|paint-Acc adp|on pron|your-Prs-Gen-S2 noun|tummy ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|5|AMOD 5|3|OBJ 6|8|CASE 7|8|NMOD-POSS 8|3|OBL 9|3|PUNCT
+*MOT:	what about this one what color's this one ? 
+%mor:	pron|what-Int-S1 adp|about det|this-Def-Dem-Sing noun|one det|what-Def-Int noun|color~aux|be-Fin-Ind-Pres-S3 det|this-Def-Dem-Sing noun|one ?
+%gra:	1|9|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|6|DET 6|9|NSUBJ 7|9|COP 8|9|DET 9|4|ACL-RELCL 10|1|PUNCT
+*MOT:	this one is yellow . 
+%mor:	det|this-Def-Dem-Sing noun|one aux|be-Fin-Ind-Pres-S3 adj|yellow-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*MOT:	can you touch it ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|touch-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	good girl well done . 
+%mor:	adj|good-S1 noun|girl adv|well verb|do-Part-Past-S-irr .
+%gra:	1|2|AMOD 2|4|ROOT 3|4|ADVMOD 4|2|ACL 5|2|PUNCT
+*MOT:	what are you going to do with it ? 
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|go-Part-Pres-S part|to verb|do-Inf-S adp|with pron|it-Prs-Acc-S3 ?
+%gra:	1|6|OBJ 2|4|AUX 3|4|NSUBJ 4|8|ROOT 5|6|MARK 6|4|XCOMP 7|8|CASE 8|6|OBL 9|4|PUNCT
+*MOT:	are you gonna [: going to ] put it on your cheek ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|go-Part-Pres-S part|to verb|put-Inf-S pron|it-Prs-Acc-S3 adp|on pron|your-Prs-Gen-S2 noun|cheek ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|9|CASE 8|9|NMOD-POSS 9|5|OBL 10|3|PUNCT
+*MOT:	are you gonna [: going to ] put it on your arm ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|go-Part-Pres-S part|to verb|put-Inf-S pron|it-Prs-Acc-S3 adp|on pron|your-Prs-Gen-S2 noun|arm ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|9|CASE 8|9|NMOD-POSS 9|5|OBL 10|3|PUNCT
+*MOT:	look Mummy's putting it on Ellen's arm &=laughs . 
+%mor:	verb|look-Fin-Imp-S propn|Mummy~aux|be-Fin-Ind-Pres-S3 verb|put-Ger-S pron|it-Prs-Acc-S3 adp|on propn|Ellen~part|s noun|arm .
+%gra:	1|9|ROOT 2|4|NSUBJ 3|4|AUX 4|1|CCOMP 5|4|OBJ 6|9|CASE 7|9|NMOD-POSS 8|7|CASE 9|4|OBL 10|1|PUNCT
+*MOT:	what do you think ? 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*MOT:	that's it , mix those ones together . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 cm|cm verb|mix-Fin-Imp-S det|that-Def-Dem-Plur noun|one-Plur-Acc adv|together .
+%gra:	1|3|NSUBJ 2|3|COP 3|8|ROOT 4|5|PUNCT 5|3|PARATAXIS 6|7|DET 7|5|OBJ 8|5|ADVMOD 9|3|PUNCT
+*MOT:	good girl . 
+%mor:	adj|good-S1 noun|girl .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	shall we add the red paint ? 
+%mor:	aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|add-Inf-S det|the-Def-Art adj|red-S1 noun|paint-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+*MOT:	and draw a picture on the bottle . 
+%mor:	cconj|and verb|draw-Fin-Imp-S det|a-Ind-Art noun|picture-Acc adp|on det|the-Def-Art noun|bottle .
+%gra:	1|2|CC 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+*MOT:	&=gasps &~wh what about this one ? 
+%mor:	pron|what-Int-S1 adp|about det|this-Def-Dem-Sing noun|one ?
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+*MOT:	shall we cover Ellen's foot in the paint ? 
+%mor:	aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|cover-Inf-S propn|Ellen~part|s noun|foot-Acc adp|in det|the-Def-Art noun|paint ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|6|NMOD-POSS 5|4|CASE 6|3|OBJ 7|9|CASE 8|9|DET 9|3|OBL 10|3|PUNCT
+*MOT:	a:h look . 
+%mor:	intj|ah verb|look-Fin-Imp-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*MOT:	does that feel nice ? 
+%mor:	aux|do-Fin-Ind-Pres-S3 pron|that-Dem verb|feel-Inf-S adj|nice-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+*MOT:	does that feel nice ? 
+%mor:	aux|do-Fin-Ind-Pres-S3 pron|that-Dem verb|feel-Inf-S adj|nice-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+*MOT:	what do you think ? 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*MOT:	shall we give Daddy the paint brushes ? 
+%mor:	aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|give-Inf-S propn|Daddy det|the-Def-Art noun|paint noun|brush-Plur-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|IOBJ 5|7|DET 6|7|COMPOUND 7|3|OBJ 8|3|PUNCT
+*FAT:	I think she just wants a nice hot bath . 
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|she-Prs-Nom-S3 adv|just verb|want-Fin-Ind-Pres-S3 det|a-Ind-Art adj|nice-S1 adj|hot-S1 noun|bath-Acc .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|5|NSUBJ 4|5|ADVMOD 5|2|CCOMP 6|9|DET 7|9|AMOD 8|9|AMOD 9|5|OBJ 10|2|PUNCT
+*MOT:	I think so &=laughs . 
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 adv|so .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*MOT:	right what about this one ? 
+%mor:	adv|right pron|what-Int-S1 adp|about det|this-Def-Dem-Sing noun|one ?
+%gra:	1|2|ADVMOD 2|5|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+*MOT:	are we gonna [: going to ] put it +//. 
+%mor:	aux|be-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|go-Part-Pres-S part|to verb|put-Inf-S pron|it-Prs-Acc-S3 +//.
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*MOT:	where's Ellen's nose ? 
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 propn|Ellen~part|s noun|nose ?
+%gra:	1|5|ROOT 2|1|COP 3|5|NMOD-POSS 4|3|CASE 5|1|NSUBJ 6|1|PUNCT
+*MOT:	where's Ellen's nose ? 
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 propn|Ellen~part|s noun|nose ?
+%gra:	1|5|ROOT 2|1|COP 3|5|NMOD-POSS 4|3|CASE 5|1|NSUBJ 6|1|PUNCT
+*MOT:	&=gasps there it is ! 
+%mor:	pron|there-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 !
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	there it is ! 
+%mor:	pron|there-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 !
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	does that taste nice ? 
+%mor:	aux|do-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|taste adj|nice-S1 ?
+%gra:	1|4|AUX 2|3|DET 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*MOT:	mm not sure . 
+%mor:	intj|mm part|not adj|sure-S1 .
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*FAT:	is that warm ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem adj|warm-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	yeah I think I'm gonna add some warm water . 
+%mor:	intj|yeah pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|add-Inf-S det|some-Def-Ind adj|warm-S1 noun|water-Acc .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|10|ROOT 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|3|CCOMP 8|10|DET 9|10|AMOD 10|7|OBJ 11|3|PUNCT
+*MOT:	are you gonna [: going to ] mix it up ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|go-Part-Pres-S part|to verb|mix-Inf-S pron|it-Prs-Acc-S3 adp|up ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|5|COMPOUND-PRT 8|3|PUNCT
+%com:	sound of water .
+*MOT:	then mix it in with all our paint . 
+%mor:	adv|then verb|mix-Fin-Imp-S pron|it-Prs-Acc-S3 adp|in adp|with det|all-Def-Tot pron|our-Prs-Gen-P1 noun|paint .
+%gra:	1|2|ADVMOD 2|8|ROOT 3|2|OBJ 4|2|COMPOUND-PRT 5|8|CASE 6|8|DET-PREDET 7|8|NMOD-POSS 8|2|OBL 9|2|PUNCT
+*MOT:	and then look ! 
+%mor:	cconj|and adv|then verb|look-Fin-Imp-S !
+%gra:	1|3|CC 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*MOT:	we can write a bi:g e@l on the side of the bath . 
+%mor:	pron|we-Prs-Nom-P1 aux|can-Fin-S verb|write-Inf-S det|a-Ind-Art adj|big-S1 noun|e-Acc adp|on det|the-Def-Art noun|side adp|of det|the-Def-Art noun|bath .
+%gra:	1|3|NSUBJ 2|3|AUX 3|12|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|9|CASE 8|9|DET 9|3|OBL 10|12|CASE 11|12|DET 12|9|NMOD 13|3|PUNCT
+*MOT:	&~is . 
+*MOT:	&~e for Ellen . 
+%mor:	adp|for propn|Ellen .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MOT:	&~e for Ellen . 
+%mor:	adp|for propn|Ellen .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MOT:	are we gonna [: going to ] use this one ? 
+%mor:	aux|be-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|go-Part-Pres-S part|to verb|use-Inf-S det|this-Def-Dem-Sing noun|one-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*MOT:	and then we could do a d@l for Daddy . 
+%mor:	cconj|and adv|then pron|we-Prs-Nom-P1 aux|could-Fin-S verb|do-Inf-S det|a-Ind-Art noun|would-Acc adp|for propn|Daddy .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|9|ROOT 6|7|DET 7|5|OBJ 8|9|CASE 9|7|NMOD 10|5|PUNCT
+*MOT:	&~d . 
+*MOT:	can you say &~d &~d &~d ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|say-Inf-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	&~da &~da &~da . 
+*MOT:	yeah well done what does that feel like ? 
+%mor:	intj|yeah adv|well verb|do-Part-Past-S-irr pron|what-Int-S1 aux|do-Fin-Ind-Pres-S3 pron|that-Dem verb|feel-Inf-S adp|like ?
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|8|ROOT 4|7|OBJ 5|7|AUX 6|7|NSUBJ 7|3|CCOMP 8|4|CASE 9|3|PUNCT
+*MOT:	is that all messy ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem det|all-Def-Tot adj|messy-S1 ?
+%gra:	1|4|COP 2|4|NSUBJ 3|4|DET 4|4|ROOT 5|4|PUNCT
+*MOT:	&=gasps good girl . 
+%mor:	adj|good-S1 noun|girl .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	are you hitting it on your teeth ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|hit-Part-Pres-S pron|it-Prs-Acc-S3 adp|on pron|your-Prs-Gen-S2 noun|tooth ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|3|PUNCT
+*MOT:	want to touch the rest of them ? 
+%mor:	verb|want-Fin-Ind-Pres-S part|to verb|touch-Inf-S det|the-Def-Art noun|rest-Acc adp|of pron|they-Prs-Acc-P3 ?
+%gra:	1|7|ROOT 2|3|MARK 3|1|XCOMP 4|5|DET 5|3|OBJ 6|7|CASE 7|5|NMOD 8|1|PUNCT
+*MOT:	that's the red one . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|red-S1 noun|one .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+*MOT:	that's the yellow one . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|yellow-S1 noun|one .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+*MOT:	that's the blue one . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|blue-S1 noun|one .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+*MOT:	ah and you've got green paint a:ll over you . 
+%mor:	intj|ah cconj|and pron|you-Prs-Nom-S2~aux|have-Fin-Ind-Pres-S2 verb|get-Part-Past-S-irr adj|green-S1 noun|paint-Acc adv|all adp|over pron|you-Prs-Acc-S2 .
+%gra:	1|5|DISCOURSE 2|5|CC 3|5|NSUBJ 4|5|AUX 5|10|ROOT 6|7|AMOD 7|5|OBJ 8|10|ADVMOD 9|10|CASE 10|5|OBL 11|5|PUNCT
+*MOT:	I'm gonna [: going to ] put that on E:llen's belly button . 
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|put-Inf-S pron|that-Dem adp|on propn|Ellen~part|s noun|belly noun|button .
+%gra:	1|3|NSUBJ 2|3|AUX 3|11|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|11|CASE 8|11|NMOD-POSS 9|8|CASE 10|11|COMPOUND 11|5|OBL 12|3|PUNCT
+*MOT:	&=laughs does that not taste very good ? 
+%mor:	aux|do-Fin-Ind-Pres-S3 pron|that-Dem part|not verb|taste-Inf-S adv|very adj|good-S1 ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|6|ROOT 5|6|ADVMOD 6|4|XCOMP 7|4|PUNCT
+*MOT:	shall we do +... 
+%mor:	aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|do-Inf-S +...
+%gra:	1|3|AUX 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	shall we do another e@l on the bath ? 
+%mor:	aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|do-Inf-S det|another-Def-Ind noun|e-Acc adp|on det|the-Def-Art noun|bath ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+*MOT:	look . 
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	e@l . 
+%mor:	propn|e .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	look . 
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	&~e for Ellen . 
+%mor:	adp|for propn|Ellen .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MOT:	&~e for Ellen . 
+%mor:	adp|for propn|Ellen .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MOT:	Mummy's gonna [: going to ] write Ellen's name all over the bath . 
+%mor:	propn|Mummy~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S part|to verb|write-Inf-S propn|Ellen~part|s noun|name-Acc adv|all adp|over det|the-Def-Art noun|bath .
+%gra:	1|3|NSUBJ 2|3|AUX 3|12|ROOT 4|5|MARK 5|3|XCOMP 6|8|NMOD-POSS 7|6|CASE 8|5|OBJ 9|12|ADVMOD 10|12|CASE 11|12|DET 12|5|OBL 13|3|PUNCT
+*MOT:	&=gasps and then l@l . 
+%mor:	cconj|and adv|then propn|l .
+%gra:	1|2|CC 2|3|ROOT 3|2|PUNCT 4|2|PUNCT
+*FAT:	is it slippy ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 adj|slippy-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%com:	baby cries .
+*MOT:	oh dear . 
+%mor:	intj|oh adj|dear-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*MOT:	shall we add water ? 
+%mor:	aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|add-Inf-S noun|water-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	&=gasps let's add water o:h . 
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|add-Inf-S noun|water-Acc intj|oh .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|1|DISCOURSE 6|1|PUNCT
+*MOT:	shall we fill up the jug again ? 
+%mor:	aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|fill-Inf-S adp|up det|the-Def-Art noun|jug-Acc adv|again ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|COMPOUND-PRT 5|6|DET 6|3|OBJ 7|3|ADVMOD 8|3|PUNCT
+*MOT:	shall we fill it up from the tap ? 
+%mor:	aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|fill-Inf-S pron|it-Prs-Acc-S3 adp|up adp|from det|the-Def-Art noun|tap ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+*MOT:	ready ? 
+%mor:	adj|ready-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	&=gasps . 
+*MOT:	ready ? 
+%mor:	adj|ready-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	sound of water .
+*MOT:	here we go . 
+%mor:	adv|here pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Pres-P1 .
+%gra:	1|3|ROOT 2|3|NSUBJ 3|1|ADVCL-RELCL 4|1|PUNCT
+*MOT:	are we gonna [: going to ] pour it on Ellen's feet ? 
+%mor:	aux|be-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|go-Part-Pres-S part|to verb|pour-Inf-S pron|it-Prs-Acc-S3 adp|on propn|Ellen~part|s noun|foot-Plur ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|10|CASE 8|10|NMOD-POSS 9|8|CASE 10|5|OBL 11|3|PUNCT
+*MOT:	&=gasps . 
+*CHI:	&~ha: . 
+*MOT:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what you gonna [: going to ] use now ? 
+%mor:	pron|what-Int-S1 pron|you-Prs-Nom-S2 verb|go-Part-Pres-S part|to verb|use-Inf-S adv|now ?
+%gra:	1|6|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|5|MARK 5|3|XCOMP 6|5|ADVMOD 7|1|PUNCT
+*MOT:	look ! 
+%mor:	verb|look-Fin-Imp-S !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&~dab . 
+*MOT:	can you touch it ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|touch-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	clever girl . 
+%mor:	adj|clever-S1 noun|girl .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	&=laughs shall we put it on the bath like this ? 
+%mor:	aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|put-Inf-S pron|it-Prs-Acc-S3 adp|on det|the-Def-Art noun|bath adp|like pron|this-Dem-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|9|CASE 9|7|NMOD 10|3|PUNCT
+*MOT:	make a bi:g circle . 
+%mor:	verb|make-Fin-Imp-S det|a-Ind-Art adj|big-S1 noun|circle-Acc .
+%gra:	1|4|ROOT 2|4|DET 3|4|AMOD 4|1|OBJ 5|1|PUNCT
+*MOT:	she just wants to eat it all . [+ NAC] 
+%mor:	pron|she-Prs-Nom-S3 adv|just verb|want-Fin-Ind-Pres-S3 part|to verb|eat-Inf-S pron|it-Prs-Acc-S3 det|all-Def-Tot .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|7|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|5|ADVMOD 8|3|PUNCT
+*MOT:	what about the red ? 
+%mor:	pron|what-Int-S1 adp|about det|the-Def-Art adj|red-S1 ?
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+*MOT:	are we gonna [: going to ] put the red ? 
+%mor:	aux|be-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|go-Part-Pres-S part|to verb|put-Inf-S det|the-Def-Art adj|red-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*MOT:	o:h . 
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	look what Mummy's doing . 
+%mor:	verb|look-Fin-Imp-S pron|what-Int-S1 propn|Mummy~part|s verb|do-Part-Pres-S .
+%gra:	1|5|ROOT 2|1|OBJ 3|5|NMOD-POSS 4|3|CASE 5|2|ACL-RELCL 6|1|PUNCT
+*MOT:	Mummy's mixing all the paints together . 
+%mor:	noun|mummy~aux|be-Fin-Ind-Pres-S3 verb|mix-Part-Pres-S det|all-Def-Tot det|the-Def-Art noun|paint-Plur-Acc adv|together .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|6|DET-PREDET 5|6|DET 6|3|OBJ 7|3|ADVMOD 8|3|PUNCT
+*MOT:	and that red one . 
+%mor:	cconj|and det|that-Def-Dem-Sing adj|red-S1 noun|one .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*MOT:	and the yellow one . 
+%mor:	cconj|and det|the-Def-Art adj|yellow-S1 noun|one .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*MOT:	we can mix with your paint brushes . 
+%mor:	pron|we-Prs-Nom-P1 aux|can-Fin-S verb|mix-Inf-S adp|with pron|your-Prs-Gen-S2 noun|paint noun|brush-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|7|CASE 5|7|NMOD-POSS 6|7|COMPOUND 7|3|OBL 8|3|PUNCT
+*MOT:	see ? 
+%mor:	verb|see-Fin-Imp-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what color is that gonna [: going to ] make ? 
+%mor:	det|what-Def-Int noun|color-Acc aux|be-Fin-Ind-Pres-S3 pron|that-Dem verb|go-Part-Pres-S part|to verb|make-Inf-S ?
+%gra:	1|2|DET 2|5|OBJ 3|5|AUX 4|5|NSUBJ 5|7|ROOT 6|7|MARK 7|5|XCOMP 8|5|PUNCT
+*FAT:	come out for wee_wee time . 
+%mor:	verb|come-Fin-Imp-S adp|out adp|for propn|weewee noun|time .
+%gra:	1|5|ROOT 2|1|COMPOUND-PRT 3|5|CASE 4|5|COMPOUND 5|1|OBL 6|1|PUNCT
+*FAT:	wee_wee and paint . 
+%mor:	noun|weewee cconj|and noun|paint .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+*MOT:	whee@o wash that away . 
+%mor:	o|whee verb|wash-Fin-Imp-S pron|that-Dem adv|away .
+%gra:	1|2|FLAT 2|4|ROOT 3|4|NSUBJ 4|2|ADVMOD 5|2|PUNCT
+%com:	sound of water .
+*MOT:	shall we fill up the jug again ? 
+%mor:	aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|fill-Inf-S adp|up det|the-Def-Art noun|jug-Acc adv|again ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|COMPOUND-PRT 5|6|DET 6|3|OBJ 7|3|ADVMOD 8|3|PUNCT
+%com:	sound of water .
+*MOT:	a:nd pour it over you . 
+%mor:	cconj|and verb|pour-Fin-Imp-S pron|it-Prs-Acc-S3 adp|over pron|you-Prs-Acc-S2 .
+%gra:	1|2|CC 2|5|ROOT 3|2|OBJ 4|2|COMPOUND-PRT 5|2|OBL-UNMARKED 6|2|PUNCT
+*MOT:	shall we do it again ? 
+%mor:	aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|do-Inf-S pron|it-Prs-Acc-S3 adv|again ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*MOT:	use that on the water out the tap ? 
+%mor:	verb|use-Fin-Imp-S pron|that-Dem adp|on det|the-Def-Art noun|water adp|out det|the-Def-Art noun|tap ?
+%gra:	1|8|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|1|OBL 6|1|COMPOUND-PRT 7|8|DET 8|1|OBL 9|1|PUNCT
+%com:	sound of water .
+*MOT:	ready ? 
+%mor:	adj|ready-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	and shall we pour it over your feet ? 
+%mor:	cconj|and aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|pour-Inf-S pron|it-Prs-Acc-S3 adp|over pron|your-Prs-Gen-S2 noun|foot-Plur ?
+%gra:	1|4|CC 2|4|AUX 3|4|NSUBJ 4|8|ROOT 5|4|OBJ 6|8|CASE 7|8|NMOD-POSS 8|4|OBL 9|4|PUNCT
+*MOT:	ready ? 
+%mor:	adj|ready-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	&=gasps . 
+*MOT:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what do you think ? 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*FAT:	is it cold ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 adj|cold-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	no , it's warm . 
+%mor:	intj|no cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|warm-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+*MOT:	warm water shall we make it colder this time ? 
+%mor:	adj|warm-S1 noun|water-Acc aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|make-Inf-S pron|it-Prs-Acc-S3 adj|cold-Cmp-S1 det|this-Def-Dem-Sing noun|time ?
+%gra:	1|2|AMOD 2|5|OBJ 3|5|AUX 4|5|NSUBJ 5|9|ROOT 6|5|OBJ 7|5|XCOMP 8|9|DET 9|7|OBL-UNMARKED 10|5|PUNCT
+*MOT:	what would you think if Mummy poured cold water over you ? 
+%mor:	pron|what-Int-S1 aux|would-Fin-S pron|you-Prs-Nom-S2 verb|think-Inf-S sconj|if propn|Mummy verb|pour-Fin-Ind-Past-S3 adj|cold-S1 noun|water-Acc adp|over pron|you-Prs-Acc-S2 ?
+%gra:	1|7|OBJ 2|4|AUX 3|4|NSUBJ 4|11|ROOT 5|7|MARK 6|7|NSUBJ 7|4|CCOMP 8|9|AMOD 9|7|OBJ 10|11|CASE 11|7|OBL 12|4|PUNCT
+*MOT:	ready ? 
+%mor:	adj|ready-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	&=gasps there you go . 
+%mor:	pron|there-Dem-S1 pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	what do you think ? 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|think-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*MOT:	shall we add some more paint ? 
+%mor:	aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|add-Inf-S det|some-Def-Ind adj|more-Cmp-S1 noun|paint-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+*MOT:	look I've got yellow paint blue paint green paint and red paint . 
+%mor:	verb|look-Fin-Imp-S pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 verb|get-Part-Past-S-irr adj|yellow-S1 noun|paint adj|blue-S1 noun|paint adj|green-S1 noun|paint-Acc cconj|and adj|red-S1 noun|paint .
+%gra:	1|13|ROOT 2|4|NSUBJ 3|4|AUX 4|1|CCOMP 5|6|AMOD 6|8|COMPOUND 7|8|AMOD 8|10|COMPOUND 9|10|AMOD 10|4|OBJ 11|13|CC 12|13|AMOD 13|10|CONJ 14|1|PUNCT
+*MOT:	what're you gonna [: going to ] do with it ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|go-Part-Pres-S part|to verb|do-Inf-S adp|with pron|it-Prs-Acc-S3 ?
+%gra:	1|6|OBJ 2|4|AUX 3|4|NSUBJ 4|8|ROOT 5|6|MARK 6|4|XCOMP 7|8|CASE 8|6|OBL 9|4|PUNCT
+*MOT:	that's it clever girl . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 adj|clever-S1 noun|girl .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|NSUBJ 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+*MOT:	mix it all together . 
+%mor:	verb|mix-Fin-Imp-S pron|it-Prs-Acc-S3 det|all-Def-Tot adv|together .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|DET 4|1|ADVMOD 5|1|PUNCT
+*MOT:	are you gonna [: going to ] mix it all together ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|go-Part-Pres-S part|to verb|mix-Inf-S pron|it-Prs-Acc-S3 det|all-Def-Tot adv|together ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|8|DET 8|5|ADVMOD 9|3|PUNCT
+*MOT:	we can add some water . 
+%mor:	pron|we-Prs-Nom-P1 aux|can-Fin-S verb|add-Inf-S det|some-Def-Ind noun|water-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%com:	sound of water .
+*MOT:	and then we can wash it all away . 
+%mor:	cconj|and adv|then pron|we-Prs-Nom-P1 aux|can-Fin-S verb|wash-Inf-S pron|it-Prs-Acc-S3 det|all-Def-Tot adv|away .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|5|OBJ 7|8|DET 8|5|ADVMOD 9|5|PUNCT
+*MOT:	ready ? 
+%mor:	adj|ready-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	see ? 
+%mor:	verb|see-Fin-Imp-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	e:rh . 
+%mor:	propn|erh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	all goes away . 
+%mor:	det|all-Def-Tot verb|go-Fin-Ind-Pres-S3 adv|away .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*MOT:	shall we do more pink ? 
+%mor:	aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|do-Inf-S adj|more-Cmp-S1 adj|pink-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|AMOD 5|3|OBJ 6|3|PUNCT
+*MOT:	green one . 
+%mor:	adj|green-S1 noun|one .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	red one . 
+%mor:	adj|red-S1 noun|one .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	yellow one . 
+%mor:	adj|yellow-S1 num|one .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	blue one . 
+%mor:	adj|blue-S1 noun|one .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	that's it , clever girl . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 cm|cm adj|clever-S1 noun|girl .
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|6|PUNCT 5|6|AMOD 6|3|PARATAXIS 7|3|PUNCT
+*MOT:	mix it all together . 
+%mor:	verb|mix-Fin-Imp-S pron|it-Prs-Acc-S3 det|all-Def-Tot adv|together .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|DET 4|1|ADVMOD 5|1|PUNCT
+*MOT:	mix it all together . 
+%mor:	verb|mix-Fin-Imp-S pron|it-Prs-Acc-S3 det|all-Def-Tot adv|together .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|DET 4|1|ADVMOD 5|1|PUNCT
+*MOT:	that's it , good girl . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 cm|cm adj|good-S1 noun|girl .
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|6|PUNCT 5|6|AMOD 6|3|PARATAXIS 7|3|PUNCT
+*MOT:	we gonna [: going to ] put it on the side of the bath ? 
+%mor:	pron|we-Prs-Nom-P1 verb|go-Part-Pres-S part|to verb|put-Inf-S pron|it-Prs-Acc-S3 adp|on det|the-Def-Art noun|side adp|of det|the-Def-Art noun|bath ?
+%gra:	1|2|NSUBJ 2|11|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBL 9|11|CASE 10|11|DET 11|8|NMOD 12|2|PUNCT
+*MOT:	&=gasps . 
+*MOT:	&=laughs <what's &~u> [//] what one will you try now ? 
+%mor:	det|what-Def-Int noun|one-Acc aux|will-Fin-S pron|you-Prs-Nom-S2 verb|try-Inf-S adv|now ?
+%gra:	1|2|DET 2|5|OBJ 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+*MOT:	does Ellen want to choose a paint ? 
+%mor:	aux|do-Fin-Ind-Pres-S3 propn|Ellen verb|want-Inf-S part|to verb|choose-Inf-S det|a-Ind-Art noun|paint-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*MOT:	which color ? 
+%mor:	det|which-Def-Int noun|color ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	the red one ? 
+%mor:	det|the-Def-Art adj|red-S1 noun|one ?
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*MOT:	are you gonna [: going to ] use your paint brushes to mix it in ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|go-Part-Pres-S part|to verb|use-Inf-S pron|your-Prs-Gen-S2 noun|paint noun|brush-Plur-Acc part|to verb|mix-Inf-S pron|it-Prs-Acc-S3 adp|in ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|12|ROOT 4|5|MARK 5|3|XCOMP 6|8|NMOD-POSS 7|8|COMPOUND 8|5|OBJ 9|10|MARK 10|5|ADVCL 11|10|OBJ 12|10|COMPOUND-PRT 13|3|PUNCT
+*MOT:	could paint a picture ? 
+%mor:	aux|could-Fin-S verb|paint-Inf-S det|a-Ind-Art noun|picture-Acc ?
+%gra:	1|2|AUX 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	&=gasps look ! 
+%mor:	verb|look-Fin-Imp-S !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	there we go . 
+%mor:	pron|there-Int-S1 pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Pres-P1 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	can you see ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|see-Inf-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	shall we add more water ? 
+%mor:	aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|add-Inf-S adj|more-Cmp-S1 noun|water-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|AMOD 5|3|OBJ 6|3|PUNCT
+%com:	sound of water .
+*MOT:	ready ? 
+%mor:	adj|ready-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	fill up the jug . 
+%mor:	verb|fill-Fin-Imp-S adp|up det|the-Def-Art noun|jug-Acc .
+%gra:	1|4|ROOT 2|1|COMPOUND-PRT 3|4|DET 4|1|OBJ 5|1|PUNCT
+*MOT:	does Ellen want to tip it over ? 
+%mor:	aux|do-Fin-Ind-Pres-S3 propn|Ellen verb|want-Inf-S part|to verb|tip-Inf-S pron|it-Prs-Acc-S3 adp|over ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|5|COMPOUND-PRT 8|3|PUNCT
+*MOT:	is Ellen gonna [: going to ] tip it over ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 propn|Ellen verb|go-Part-Pres-S part|to verb|tip-Inf-S pron|it-Prs-Acc-S3 adp|over ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|5|COMPOUND-PRT 8|3|PUNCT
+*MOT:	or are you just gonna [: going to ] eat it ? 
+%mor:	cconj|or aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adv|just verb|go-Part-Pres-S part|to verb|eat-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|5|CC 2|5|AUX 3|5|NSUBJ 4|5|ADVMOD 5|8|ROOT 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|5|PUNCT
+*MOT:	op it's all slippy , look ! 
+%mor:	intj|op pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|all adj|slippy-S1 cm|cm verb|look-Fin-Imp-S !
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|7|ROOT 6|7|PUNCT 7|5|PARATAXIS 8|5|PUNCT
+*MOT:	is it all slippy on your feet ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 det|all-Def-Tot adj|slippy-S1 adp|on pron|your-Prs-Gen-S2 noun|foot-Plur ?
+%gra:	1|4|COP 2|4|NSUBJ 3|4|ADVMOD 4|7|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|4|PUNCT
+*MOT:	that's it , good girl . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 cm|cm adj|good-S1 noun|girl .
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|6|PUNCT 5|6|AMOD 6|3|PARATAXIS 7|3|PUNCT
+*MOT:	I'm gonna [: going to ] tip the jug over . 
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|tip-Inf-S det|the-Def-Art noun|jug-Acc adp|over .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|5|COMPOUND-PRT 9|3|PUNCT
+*MOT:	we'll just wash your hands . 
+%mor:	pron|we-Prs-Nom-P1~aux|will-Fin-S adv|just verb|wash-Inf-S pron|your-Prs-Gen-S2 noun|hand-Plur-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|PUNCT
+*FAT:	&=laughs . 
+*MOT:	+< &=laughs are you gonna [: going to ] drink the water out the jug ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|go-Part-Pres-S part|to verb|drink-Inf-S det|the-Def-Art noun|water-Acc adp|out det|the-Def-Art noun|jug-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|5|COMPOUND-PRT 9|10|DET 10|5|OBJ 11|3|PUNCT
+*MOT:	good girl .
+%mor:	adj|good-S1 noun|girl .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	why don't you pour the water into the muffin tray ? 
+%mor:	adv|why aux|do-Fin-Ind-Pres-S2~part|not pron|you-Prs-Nom-S2 verb|pour-Inf-S det|the-Def-Art noun|water-Acc adp|into det|the-Def-Art noun|muffin noun|tray ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|5|ADVMOD 4|5|NSUBJ 5|11|ROOT 6|7|DET 7|5|OBJ 8|11|CASE 9|11|DET 10|11|COMPOUND 11|5|OBL 12|5|PUNCT
+*MOT:	ah what's Mummy got ? 
+%mor:	intj|ah pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 propn|Mummy verb|get-Part-Past-S-irr ?
+%gra:	1|2|DISCOURSE 2|5|OBJ 3|5|AUX 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*MOT:	what does it feel like does it feel funny ? 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 verb|feel-Inf-S sconj|like aux|do-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 verb|feel-Inf-S adj|funny-S1 ?
+%gra:	1|8|OBJ 2|4|AUX 3|4|NSUBJ 4|9|ROOT 5|8|MARK 6|8|AUX 7|8|NSUBJ 8|4|ADVCL 9|8|XCOMP 10|4|PUNCT
+*MOT:	not sure ? 
+%mor:	part|not adj|sure-S1 ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	shall we use this one ? 
+%mor:	aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|use-Inf-S det|this-Def-Dem-Sing noun|one-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%com:	child makes slight crying noise .
+*MOT:	ready ? 
+%mor:	adj|ready-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	&=gasps o:h . 
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	shall we pour it over your belly ? 
+%mor:	aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|pour-Inf-S pron|it-Prs-Acc-S3 adp|over pron|your-Prs-Gen-S2 noun|belly ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|3|PUNCT
+*MOT:	shall we pour it over Ellen's belly ? 
+%mor:	aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|pour-Inf-S pron|it-Prs-Acc-S3 adp|over propn|Ellen~part|s noun|belly ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|8|CASE 6|8|NMOD-POSS 7|6|CASE 8|3|OBL 9|3|PUNCT
+*MOT:	o:h . 
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what does that feel like ? 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S3 pron|that-Dem verb|feel-Inf-S adp|like ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|1|CASE 6|4|PUNCT
+*MOT:	and what about your legs ? 
+%mor:	cconj|and pron|what-Int-S1 adp|about pron|your-Prs-Gen-S2 noun|leg-Plur ?
+%gra:	1|2|CC 2|5|ROOT 3|5|CASE 4|5|NMOD-POSS 5|2|NMOD 6|2|PUNCT
+*MOT:	ready ? 
+%mor:	adj|ready-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	now we've got some blue paint . 
+%mor:	adv|now pron|we-Prs-Nom-P1~aux|have-Fin-Ind-Pres-P1 verb|get-Part-Past-S-irr det|some-Def-Ind adj|blue-S1 noun|paint-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|4|PUNCT
+*MOT:	some yellow paint . 
+%mor:	det|some-Def-Ind adj|yellow-S1 noun|paint .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*MOT:	are we gonna [: going to ] tip it down the plug hole ? 
+%mor:	aux|be-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|go-Part-Pres-S part|to verb|tip-Inf-S pron|it-Prs-Acc-S3 adp|down det|the-Def-Art noun|plug noun|hole-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|5|COMPOUND-PRT 8|10|DET 9|10|COMPOUND 10|5|OBJ 11|3|PUNCT
+*MOT:	or are we gonna [: going to ] tip it a:ll over your belly ? 
+%mor:	cconj|or aux|be-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|go-Part-Pres-S part|to verb|tip-Inf-S pron|it-Prs-Acc-S3 det|all-Def-Tot adp|over pron|your-Prs-Gen-S2 noun|belly ?
+%gra:	1|4|CC 2|4|AUX 3|4|NSUBJ 4|11|ROOT 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|11|ADVMOD 9|11|CASE 10|11|NMOD-POSS 11|6|OBL 12|4|PUNCT
+*MOT:	&=chortles or watch it all go down the plug hole ? 
+%mor:	cconj|or verb|watch-Fin-Imp-S pron|it-Prs-Acc-S3 det|all-Def-Tot verb|go-Inf-S adp|down det|the-Def-Art noun|plug noun|hole ?
+%gra:	1|2|CC 2|9|ROOT 3|2|OBJ 4|3|DET 5|2|XCOMP 6|9|CASE 7|9|DET 8|9|COMPOUND 9|5|OBL 10|2|PUNCT
+*MOT:	look . 
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	you ready ? 
+%mor:	pron|you-Prs-Nom-S2 adj|ready-S1 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	watch where all the water goes . 
+%mor:	verb|watch-Fin-Imp-S adv|where det|all-Def-Tot det|the-Def-Art noun|water verb|go-Fin-Ind-Pres-S3 .
+%gra:	1|6|ROOT 2|1|OBJ 3|5|DET-PREDET 4|5|DET 5|6|NSUBJ 6|2|ADVCL-RELCL 7|1|PUNCT
+*MOT:	nice . 
+%mor:	adj|nice-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what's this one ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|this-Def-Dem-Sing noun|one ?
+%gra:	1|4|ROOT 2|4|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*MOT:	can you take the paint out of Mummy's hand ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|take-Inf-S det|the-Def-Art noun|paint-Acc adp|out adp|of propn|Mummy~part|s noun|hand ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|5|DET 5|3|OBJ 6|10|CASE 7|10|CASE 8|10|NMOD-POSS 9|8|CASE 10|3|OBL 11|3|PUNCT
+*MOT:	let's fill the jug up again . 
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|fill-Inf-S det|the-Def-Art noun|jug-Acc adp|up adv|again .
+%gra:	1|7|ROOT 2|1|OBJ 3|1|XCOMP 4|5|DET 5|3|OBJ 6|3|COMPOUND-PRT 7|3|ADVMOD 8|1|PUNCT
+*MOT:	can you flick up the water ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|flick-Inf-S adp|up det|the-Def-Art noun|water-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|COMPOUND-PRT 5|6|DET 6|3|OBJ 7|3|PUNCT
+*MOT:	can you flick it up ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|flick-Inf-S pron|it-Prs-Acc-S3 adp|up ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|PUNCT
+*MOT:	xxx . [+ NAC] 
+*FAT:	xxx . [+ NAC] 
+*MOT:	right let's get the paint out one last time . 
+%mor:	adv|right verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|get-Inf-S det|the-Def-Art noun|paint-Acc adp|out num|one adj|last-S1 noun|time .
+%gra:	1|2|ADVMOD 2|10|ROOT 3|2|OBJ 4|2|XCOMP 5|6|DET 6|4|OBJ 7|4|COMPOUND-PRT 8|10|NUMMOD 9|10|AMOD 10|4|OBL-UNMARKED 11|2|PUNCT
+*MOT:	shall we use up all the last bits and make it into a bi:g pie ? 
+%mor:	aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|use-Inf-S adp|up det|all-Def-Tot det|the-Def-Art adj|last-S1 noun|bit-Plur-Acc cconj|and verb|make-Inf-S pron|it-Prs-Acc-S3 adp|into det|a-Ind-Art adj|big-S1 noun|pie ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|15|ROOT 4|3|COMPOUND-PRT 5|8|DET-PREDET 6|8|DET 7|8|AMOD 8|3|OBJ 9|10|CC 10|3|CONJ 11|10|OBJ 12|15|CASE 13|15|DET 14|15|AMOD 15|10|OBL 16|3|PUNCT
+*MOT:	ready ? 
+%mor:	adj|ready-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	shall Mummy put a little bit on your nose ? 
+%mor:	aux|shall-Fin-S propn|Mummy verb|put-Inf-S det|a-Ind-Art adj|little-S1 noun|bit-Acc adp|on pron|your-Prs-Gen-S2 noun|nose ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|9|CASE 8|9|NMOD-POSS 9|3|OBL 10|3|PUNCT
+*MOT:	ooh . 
+%mor:	intj|ooh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	&=laughs . 
+*MOT:	are you gonna [: going to ] make your paint brush in the water ?
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|go-Part-Pres-S part|to verb|make-Inf-S pron|your-Prs-Gen-S2 noun|paint noun|brush-Acc adp|in det|the-Def-Art noun|water ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|11|ROOT 4|5|MARK 5|3|XCOMP 6|8|NMOD-POSS 7|8|COMPOUND 8|5|OBJ 9|11|CASE 10|11|DET 11|5|OBL 12|3|PUNCT
+*MOT:	like this . 
+%mor:	adp|like pron|this-Dem-S1 .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MOT:	swirl it all around . 
+%mor:	verb|swirl-Fin-Imp-S pron|it-Prs-Acc-S3 det|all-Def-Tot adv|around .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|DET 4|1|ADVMOD 5|1|PUNCT
+*MOT:	uhoh . 
+%mor:	intj|uhoh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	did it all tip over ? 
+%mor:	aux|do-Fin-Ind-Past-S3-irr pron|it-Prs-Acc-S3 det|all-Def-Tot verb|tip-Inf-S adp|over ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|2|DET 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+*MOT:	&~hh watch it all go down the plug hole . 
+%mor:	verb|watch-Fin-Imp-S pron|it-Prs-Acc-S3 det|all-Def-Tot verb|go-Inf-S adp|down det|the-Def-Art noun|plug noun|hole .
+%gra:	1|8|ROOT 2|1|OBJ 3|2|DET 4|1|XCOMP 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|1|PUNCT
+*MOT:	can you see all the colors disappearing ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|see-Inf-S det|all-Def-Tot det|the-Def-Art noun|color-Plur-Acc verb|disappear-Ger-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|6|DET-PREDET 5|6|DET 6|3|OBJ 7|3|XCOMP 8|3|PUNCT
+*MOT:	where are they all going ? 
+%mor:	adv|where aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 adv|all verb|go-Part-Pres-S ?
+%gra:	1|5|ADVMOD 2|5|AUX 3|5|NSUBJ 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+*MOT:	look . 
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	where's all the colors going ? 
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot det|the-Def-Art noun|color-Plur verb|go-Ger-S ?
+%gra:	1|6|ROOT 2|1|COP 3|5|DET-PREDET 4|5|DET 5|1|NSUBJ 6|1|ACL 7|1|PUNCT
+*MOT:	&=gasps where's all the colors going ? 
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot det|the-Def-Art noun|color-Plur verb|go-Ger-S ?
+%gra:	1|6|ROOT 2|1|COP 3|5|DET-PREDET 4|5|DET 5|1|NSUBJ 6|1|ACL 7|1|PUNCT
+*MOT:	you tipped it upside down . 
+%mor:	pron|you-Prs-Nom-S2 verb|tip-Fin-Ind-Past-S2 pron|it-Prs-Acc-S3 adv|upside adp|down .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|COMPOUND-PRT 6|2|PUNCT
+*MOT:	&=gasps , there it is . 
+%mor:	cm|cm pron|there-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|4|PUNCT 2|4|EXPL 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*MOT:	where's it gone ? 
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 adj|gone-S1 ?
+%gra:	1|4|ADVMOD 2|4|COP 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*MOT:	there it is . 
+%mor:	pron|there-Int-S1 pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	good girl . 
+%mor:	adj|good-S1 noun|girl .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	well done . 
+%mor:	adv|well verb|do-Part-Past-S-irr .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	look all the paints have tipped out the tin and into the bath . 
+%mor:	verb|look-Fin-Imp-S det|all-Def-Tot det|the-Def-Art noun|paint-Plur aux|have-Fin-Ind-Pres-P3 verb|tip-Part-Past-S adp|out det|the-Def-Art noun|tin-Acc cconj|and adp|into det|the-Def-Art noun|bath .
+%gra:	1|13|ROOT 2|4|DET-PREDET 3|4|DET 4|6|NSUBJ 5|6|AUX 6|1|CCOMP 7|6|COMPOUND-PRT 8|9|DET 9|6|OBJ 10|13|CC 11|13|CASE 12|13|DET 13|9|CONJ 14|1|PUNCT
+*MOT:	it's like a rainbow . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|like det|a-Ind-Art noun|rainbow .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|DET 5|5|ROOT 6|5|PUNCT
+*MOT:	it's got the blue and the red and the green . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|get-Part-Past-S-irr det|the-Def-Art adj|blue-S1 cconj|and det|the-Def-Art adj|red-S1 cconj|and det|the-Def-Art noun|green .
+%gra:	1|3|NSUBJ 2|3|AUX 3|11|ROOT 4|5|DET 5|3|OBJ 6|8|CC 7|8|DET 8|5|CONJ 9|11|CC 10|11|DET 11|5|CONJ 12|3|PUNCT
+*MOT:	all done ! 
+%mor:	det|all-Def-Tot verb|do-Part-Past-S-irr !
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	shall we get clean now ? 
+%mor:	aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|get-Inf-S adj|clean-S1 adv|now ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|XCOMP 5|3|ADVMOD 6|3|PUNCT
+*MOT:	we'll hafta clean up all this mess . 
+%mor:	pron|we-Prs-Nom-P1~aux|will-Fin-S part|hafta verb|clean-Inf-S adp|up det|all-Def-Tot det|this-Def-Dem-Sing noun|mess-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|4|COMPOUND-PRT 6|8|DET-PREDET 7|8|DET 8|4|OBJ 9|4|PUNCT
+*MOT:	look at your face ! 
+%mor:	verb|look-Fin-Imp-S adp|at pron|your-Prs-Gen-S2 noun|face !
+%gra:	1|4|ROOT 2|4|CASE 3|4|NMOD-POSS 4|1|OBL 5|1|PUNCT
+*MOT:	look at your hands ! 
+%mor:	verb|look-Fin-Imp-S adp|at pron|your-Prs-Gen-S2 noun|hand-Plur !
+%gra:	1|4|ROOT 2|4|CASE 3|4|NMOD-POSS 4|1|OBL 5|1|PUNCT
+*MOT:	&=laughs you're all messy . 
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|all adj|messy-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+@End

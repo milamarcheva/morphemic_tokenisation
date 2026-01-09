@@ -1,0 +1,466 @@
+@UTF8
+@PID:	11312/a-00077784-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother
+@ID:	eng|Rollins|MOT|||||Mother|||
+@Media:	jp06, video
+@Comment:	Batchalign 0.7.2, ASR Engine rev
+@Types:	long, preverbal, TD
+*MOT:	&-uh Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob . 
+%mor:	propn|Jacob .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	at Mama . 
+%mor:	adp|at noun|mama .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MOT:	Jacob [/] Jacob [/] Jacob [/] Jacob look at Mama Yoki Mama . 
+%mor:	propn|Jacob verb|look-Fin-Imp-S adp|at propn|Mama propn|Yoki propn|Mama .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|CASE 4|2|OBL 5|4|FLAT 6|4|FLAT 7|2|PUNCT
+*MOT:	Jacob . 
+%mor:	propn|Jacob .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	look at mama . 
+%mor:	verb|look-Fin-Imp-S adp|at noun|mama .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*MOT:	look . 
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	look at Mama Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob [/] Jacob look at Mama Jacob [/] <Jacob look> [/] Jacob look at mama . 
+%mor:	verb|look-Fin-Imp-S adp|at propn|Mama propn|Jacob verb|look-Fin-Imp-S adp|at propn|Mama propn|Jacob verb|look-Fin-Imp-S adp|at noun|mama .
+%gra:	1|11|ROOT 2|4|CASE 3|4|COMPOUND 4|1|OBL 5|1|XCOMP 6|8|CASE 7|8|COMPOUND 8|5|OBL 9|5|ADVCL 10|11|CASE 11|9|OBL 12|1|PUNCT
+*MOT:	look at Mama Jacob [/] Jacob [/] Jacob where'd a big bird go . 
+%mor:	verb|look-Fin-Imp-S adp|at propn|Mama propn|Jacob adv|where~aux|would-Fin-S det|a-Ind-Art adj|big-S1 noun|bird verb|go-Inf-S .
+%gra:	1|10|ROOT 2|3|CASE 3|1|OBL 4|3|FLAT 5|10|ADVMOD 6|10|AUX 7|10|DET 8|10|AMOD 9|10|COMPOUND 10|1|ADVCL 11|1|PUNCT
+*MOT:	where'd he go . 
+%mor:	adv|where~aux|would-Fin-S pron|he-Prs-Nom-S3 verb|go-Inf-S .
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*MOT:	where'd he go . 
+%mor:	adv|where~aux|would-Fin-S pron|he-Prs-Nom-S3 verb|go-Inf-S .
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*MOT:	where did a big bird go . 
+%mor:	adv|where aux|do-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|big-S1 noun|bird verb|go-Inf-S .
+%gra:	1|6|ADVMOD 2|6|AUX 3|6|DET 4|5|AMOD 5|6|COMPOUND 6|6|ROOT 7|6|PUNCT
+*MOT:	where'd he go . 
+%mor:	adv|where~aux|would-Fin-S pron|he-Prs-Nom-S3 verb|go-Inf-S .
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*MOT:	he's a big bird . 
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|big-S1 noun|bird .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+*MOT:	he's a <big bird> [/] big bird be . 
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|big-S1 noun|bird aux|be-Inf-S .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|6|ROOT 6|5|PUNCT 7|5|PUNCT
+*MOT:	bird be bird . 
+%mor:	noun|bird aux|be-Fin-Imp-S noun|bird .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	<be bird be bird be bird> [/] be bird like a where'd he go . 
+%mor:	aux|be-Fin-Imp-S noun|bird adp|like det|a-Ind-Art adv|where~aux|would-Fin-S pron|he-Prs-Nom-S3 verb|go-Inf-S .
+%gra:	1|2|COP 2|8|ROOT 3|5|CASE 4|5|DET 5|8|ADVMOD 6|8|AUX 7|8|NSUBJ 8|2|PARATAXIS 9|2|PUNCT
+*MOT:	hurt . 
+%mor:	verb|hurt-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	where'd he go [/] go . 
+%mor:	adv|where~aux|would-Fin-S pron|he-Prs-Nom-S3 verb|go-Inf-S .
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*MOT:	where'd he go . 
+%mor:	adv|where~aux|would-Fin-S pron|he-Prs-Nom-S3 verb|go-Inf-S .
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*MOT:	where'd a big . 
+%mor:	adv|where~aux|would-Fin-S det|a-Ind-Art adj|big-S1 .
+%gra:	1|4|ROOT 2|4|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*MOT:	there's the big bird . 
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|big-S1 noun|bird .
+%gra:	1|2|EXPL 2|5|ROOT 3|5|DET 4|5|AMOD 5|2|NSUBJ 6|2|PUNCT
+*MOT:	where'd a big burgo where a big bur up . 
+%mor:	adv|where~aux|would-Fin-S det|a-Ind-Art adj|big-S1 noun|burgo adv|where det|a-Ind-Art adj|big-S1 noun|bur adp|up .
+%gra:	1|10|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|9|ADVMOD 7|9|DET 8|9|AMOD 9|5|ACL-RELCL 10|9|ADVMOD 11|1|PUNCT
+*MOT:	here I'm kiss sees you couldn't give him kisses . 
+%mor:	adv|here pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 noun|kiss verb|see-Fin-Ind-Pres-S3 pron|you-Prs-Nom-S2 aux|could-Fin-S~part|not verb|give-Inf-S pron|he-Prs-Acc-S3 noun|kisse-Plur-Acc .
+%gra:	1|9|ADVMOD 2|5|NSUBJ 3|4|COP 4|5|NSUBJ 5|1|PARATAXIS 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|11|ROOT 10|9|IOBJ 11|9|OBJ 12|9|PUNCT
+*MOT:	that's his eyes . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|eye-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+*MOT:	that's his eyes . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|eye-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+*MOT:	you getting big bird . 
+%mor:	pron|you-Prs-Nom-S2 verb|get-Part-Pres-S adj|big-S1 noun|bird-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|AMOD 4|2|OBJ 5|2|PUNCT
+*MOT:	are you getting big bird . 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|get-Part-Pres-S adj|big-S1 noun|bird-Acc .
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|AMOD 5|3|OBJ 6|3|PUNCT
+*MOT:	you . 
+%mor:	pron|you-Prs-Nom-S2 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what's this . 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 .
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*MOT:	what's I'll kiss you . 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|I-Prs-Nom-S1~aux|will-Fin-S verb|kiss-Inf-S pron|you-Prs-Acc-S2 .
+%gra:	1|5|OBJ 2|5|COP 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+*MOT:	he's gonna kiss you . 
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go verb|kiss-Inf-S pron|you-Prs-Acc-S2 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*MOT:	he's gonna you he's good . 
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|go pron|you-Prs-Acc-S2 pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|7|ROOT 5|7|NSUBJ 6|7|COP 7|4|PARATAXIS 8|4|PUNCT
+*MOT:	Nicky too . 
+%mor:	propn|Nicky adv|too .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*MOT:	Jakers what noise is there . 
+%mor:	noun|paker-Plur det|what-Def-Int noun|noise aux|be-Fin-Ind-Pres-S3 adv|there .
+%gra:	1|5|ROOT 2|3|DET 3|5|NSUBJ 4|5|COP 5|1|ACL-RELCL 6|1|PUNCT
+*MOT:	what noise is there . 
+%mor:	det|what-Def-Int noun|noise aux|be-Fin-Ind-Pres-S3 adv|there .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*MOT:	you are going to get the egg . 
+%mor:	pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 verb|go-Part-Pres-S part|to verb|get-Inf-S det|the-Def-Art noun|egg-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*MOT:	you are going to get the birdie . 
+%mor:	pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 verb|go-Part-Pres-S part|to verb|get-Inf-S det|the-Def-Art noun|birdie-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*MOT:	get the get you . 
+%mor:	verb|get-Fin-Imp-S det|the-Def-Art verb|get-Inf-S pron|you-Prs-Acc-S2 .
+%gra:	1|4|ROOT 2|3|DET 3|1|XCOMP 4|3|OBJ 5|1|PUNCT
+*MOT:	get . 
+%mor:	verb|get-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	is he making noises . 
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 verb|make-Part-Pres-S noun|noise-Plur-Acc .
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	he . 
+%mor:	pron|he-Prs-Nom-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	he did . 
+%mor:	pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	look . 
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	see look see the bear . 
+%mor:	verb|see-Fin-Imp-S noun|look-Acc verb|see-Fin-Imp-S det|the-Def-Art noun|bear-Acc .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|XCOMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*MOT:	who's there . 
+%mor:	pron|who-Int~aux|be-Fin-Ind-Pres-S3 adv|there .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	who's there . 
+%mor:	pron|who-Int~aux|be-Fin-Ind-Pres-S3 adv|there .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	who's there . 
+%mor:	pron|who-Int~aux|be-Fin-Ind-Pres-S3 adv|there .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	can . 
+%mor:	aux|can-Fin-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	you see bunny [/] bunny . 
+%mor:	pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 noun|bunny-Acc .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	who's that . 
+%mor:	pron|who-Int~aux|be-Fin-Ind-Pres-S3 pron|that-Dem .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	you said . 
+%mor:	pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2-irr .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	taki . 
+%mor:	noun|taki .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	you said . 
+%mor:	pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2-irr .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	taki who's that . 
+%mor:	verb|taki-Fin-Imp-S pron|who-Int~aux|be-Fin-Ind-Pres-S3 pron|that-Dem .
+%gra:	1|4|ROOT 2|4|NSUBJ 3|4|COP 4|1|CCOMP 5|1|PUNCT
+*MOT:	look at the baby . 
+%mor:	verb|look-Fin-Imp-S adp|at det|the-Def-Art noun|baby .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+*MOT:	takers . 
+%mor:	noun|taker-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	look at the baby . 
+%mor:	verb|look-Fin-Imp-S adp|at det|the-Def-Art noun|baby .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+*MOT:	the baby . 
+%mor:	det|the-Def-Art noun|baby .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	he said . 
+%mor:	pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	look like Jacob he said . 
+%mor:	verb|look-Fin-Imp-S adp|like propn|Jacob pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr .
+%gra:	1|5|ROOT 2|3|CASE 3|1|OBL 4|5|NSUBJ 5|1|PARATAXIS 6|1|PUNCT
+*MOT:	look like Jacob . 
+%mor:	verb|look-Fin-Imp-S adp|like propn|Jacob .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*MOT:	said . 
+%mor:	verb|say-Fin-Ind-Past-S3-irr .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	look like Jacob . 
+%mor:	verb|look-Fin-Imp-S adp|like propn|Jacob .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*MOT:	let's practice . 
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|practice-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*MOT:	let's practice . 
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|practice-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+*MOT:	where'd it go . 
+%mor:	adv|where~aux|would-Fin-S pron|it-Prs-Nom-S3 verb|go-Inf-S .
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*MOT:	you bitch . 
+%mor:	pron|you-Prs-Nom-S2 verb|bitch-Fin-Ind-Pres-S2 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	stop . 
+%mor:	verb|stop-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	look Jacob [/] Jacob see the orange circle . 
+%mor:	verb|look-Fin-Imp-S propn|Jacob-Acc verb|see-Fin-Imp-S det|the-Def-Art adj|orange-S1 noun|circle-Acc .
+%gra:	1|6|ROOT 2|1|OBJ 3|1|XCOMP 4|6|DET 5|6|AMOD 6|3|OBJ 7|1|PUNCT
+*MOT:	see the orange circle . 
+%mor:	verb|see-Fin-Imp-S det|the-Def-Art adj|orange-S1 noun|circle-Acc .
+%gra:	1|4|ROOT 2|4|DET 3|4|AMOD 4|1|OBJ 5|1|PUNCT
+*MOT:	look at the red circle . 
+%mor:	verb|look-Fin-Imp-S adp|at det|the-Def-Art adj|red-S1 noun|circle .
+%gra:	1|5|ROOT 2|5|CASE 3|5|DET 4|5|AMOD 5|1|OBL 6|1|PUNCT
+*MOT:	look at your red circle . 
+%mor:	verb|look-Fin-Imp-S adp|at pron|your-Prs-Gen-S2 adj|red-S1 noun|circle .
+%gra:	1|5|ROOT 2|5|CASE 3|5|NMOD-POSS 4|5|AMOD 5|1|OBL 6|1|PUNCT
+*MOT:	look . 
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	look . 
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	where's it go . 
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 verb|go-Inf-S .
+%gra:	1|4|ADVMOD 2|4|COP 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*MOT:	where's it go . 
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 verb|go-Inf-S .
+%gra:	1|4|ADVMOD 2|4|COP 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*MOT:	where's it go . 
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 verb|go-Inf-S .
+%gra:	1|4|ADVMOD 2|4|COP 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*MOT:	where's it go . 
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 verb|go-Inf-S .
+%gra:	1|4|ADVMOD 2|4|COP 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*MOT:	put it right there . 
+%mor:	verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 adv|right adv|there .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|ADVMOD 4|1|ADVMOD 5|1|PUNCT
+*MOT:	put . 
+%mor:	verb|put-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	it there . 
+%mor:	pron|it-Prs-Nom-S3 adv|there .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	put it right there . 
+%mor:	verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 adv|right adv|there .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|ADVMOD 4|1|ADVMOD 5|1|PUNCT
+*MOT:	j good . 
+%mor:	x|j adj|good-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*MOT:	put it right there . 
+%mor:	verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 adv|right adv|there .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|ADVMOD 4|1|ADVMOD 5|1|PUNCT
+*MOT:	look checkers . 
+%mor:	verb|look-Fin-Imp-S noun|checker-Plur-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	take her . 
+%mor:	verb|take-Fin-Imp-S pron|her-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	bless you . 
+%mor:	verb|bless-Fin-Imp-S pron|you-Prs-Acc-S2 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	now the rings . 
+%mor:	adv|now det|the-Def-Art noun|ring-Plur .
+%gra:	1|3|ADVMOD 2|3|DET 3|3|ROOT 4|3|PUNCT
+*MOT:	Jacob Peekaboo poo . 
+%mor:	propn|Jacob propn|Peekaboo noun|poo .
+%gra:	1|3|ROOT 2|1|FLAT 3|1|LIST 4|1|PUNCT
+*MOT:	oo pika boo [/] boo ooh boo say boo . 
+%mor:	intj|oo noun|pika intj|boo intj|ooh intj|boo verb|say-Fin-Imp-S noun|boo-Acc .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|DISCOURSE 4|6|DISCOURSE 5|6|DISCOURSE 6|7|ROOT 7|6|OBJ 8|6|PUNCT
+*MOT:	ooh . 
+%mor:	intj|ooh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	pretty you see mean nails . 
+%mor:	adv|pretty pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 adj|mean-S1 noun|nail-Plur-Acc .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|5|ROOT 4|5|AMOD 5|3|OBJ 6|3|PUNCT
+*MOT:	you see mean nails you see mean mas . 
+%mor:	pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 adj|mean-S1 noun|nail-Plur-Acc pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 verb|mean-Inf-S noun|mas-Acc .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|AMOD 4|2|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|8|COMPOUND 8|6|OBJ 9|2|PUNCT
+*MOT:	see anything else . 
+%mor:	verb|see-Fin-Imp-S pron|anything-Ind-S1 adj|else-S1 .
+%gra:	1|3|ROOT 2|1|OBJ 3|2|AMOD 4|1|PUNCT
+*MOT:	see you see the little dolly . 
+%mor:	verb|see-Fin-Imp-S pron|you-Prs-Nom-S2 verb|see-Fin-S det|the-Def-Art adj|little-S1 noun|dolly-Acc .
+%gra:	1|6|ROOT 2|1|OBJ 3|1|XCOMP 4|6|DET 5|6|AMOD 6|3|OBJ 7|1|PUNCT
+*MOT:	you see the dolly . 
+%mor:	pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 det|the-Def-Art noun|dolly-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	oh she going to kiss you . 
+%mor:	intj|oh pron|she-Prs-Nom-S3 verb|go-Part-Pres-S part|to verb|kiss-Inf-S pron|you-Prs-Acc-S2 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*MOT:	she going to kiss you . 
+%mor:	pron|she-Prs-Nom-S3 verb|go-Part-Pres-S part|to verb|kiss-Inf-S pron|you-Prs-Acc-S2 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+*MOT:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	oh Mcdonald had a farm . 
+%mor:	intj|oh propn|McDonald verb|have-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|farm-Acc .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	and on this farm he had a pg . 
+%mor:	cconj|and adp|on det|this-Def-Dem-Sing noun|farm pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|pg-Acc .
+%gra:	1|6|CC 2|4|CASE 3|4|DET 4|6|OBL 5|6|NSUBJ 6|8|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+*MOT:	yeah yellow . 
+%mor:	intj|yeah adj|yellow-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*MOT:	when the and everywhere . 
+%mor:	adv|when det|the-Def-Art cconj|and adv|everywhere .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|CC 4|2|CONJ 5|2|PUNCT
+*MOT:	oh Mcdonald had a farm . 
+%mor:	intj|oh propn|McDonald verb|have-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|farm-Acc .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	oh and all this farm had a cow . 
+%mor:	intj|oh cconj|and det|all-Def-Tot det|this-Def-Dem-Sing noun|farm verb|have-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|cow-Acc .
+%gra:	1|6|DISCOURSE 2|6|CC 3|5|DET-PREDET 4|5|DET 5|6|NSUBJ 6|8|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+*MOT:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	oh with a moo here and a mo he move everywhere . 
+%mor:	intj|oh adp|with det|a-Ind-Art noun|moo adv|here cconj|and det|a-Ind-Art noun|mo pron|he-Prs-Nom-S3 verb|move-Fin-Ind-Pres-S3 adv|everywhere .
+%gra:	1|4|DISCOURSE 2|4|CASE 3|4|DET 4|11|ROOT 5|4|ADVMOD 6|8|CC 7|8|DET 8|10|OBL-UNMARKED 9|10|NSUBJ 10|4|CONJ 11|10|ADVMOD 12|4|PUNCT
+*MOT:	old Mcdonald Hannah farm e [/] e i o and on this farm hat that's cheap <e i> [/] e i o with a bad here and a bad here bad [/] bad everywhere bad [/] bad old Mcdonald Hannah farm . 
+%mor:	adj|old-S1 propn|McDonald propn|Hannah noun|farm noun|e noun|i aux|of-Fin-Ind-Pres-S3 cconj|and adp|on det|this-Def-Dem-Sing noun|farm noun|hat pron|that-Rel~aux|be-Fin-Ind-Pres-S3 adj|cheap-S1 noun|e pron|I-Prs-Nom-S1 aux|of-Fin-Ind-Pres-S1 adp|with det|a-Ind-Art adj|bad-S1 adv|here cconj|and det|a-Ind-Art adj|bad-S1 adv|here adj|bad-S1 adv|everywhere adj|bad-S1 adj|old-S1 propn|McDonald propn|Hannah noun|farm .
+%gra:	1|4|AMOD 2|4|COMPOUND 3|4|COMPOUND 4|33|ROOT 5|4|FLAT 6|7|NSUBJ 7|12|COP 8|12|CC 9|12|CASE 10|12|DET 11|12|COMPOUND 12|4|CONJ 13|16|NSUBJ 14|16|COP 15|12|ACL-RELCL 16|12|ACL-RELCL 17|18|NSUBJ 18|12|ACL-RELCL 19|21|CASE 20|21|DET 21|18|OBL 22|21|ADVMOD 23|25|CC 24|25|DET 25|21|CONJ 26|27|ADVMOD 27|25|CONJ 28|27|ADVMOD 29|33|AMOD 30|33|AMOD 31|33|COMPOUND 32|33|COMPOUND 33|27|PARATAXIS 34|4|PUNCT
+*MOT:	yeah [/] yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	oh and on that farm he had another pg . 
+%mor:	intj|oh cconj|and adp|on det|that-Def-Dem-Sing noun|farm pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3-irr det|another-Def-Ind noun|pg-Acc .
+%gra:	1|7|DISCOURSE 2|5|CC 3|5|CASE 4|5|DET 5|7|OBL 6|7|NSUBJ 7|9|ROOT 8|9|DET 9|7|OBJ 10|7|PUNCT
+*MOT:	yeah [/] yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	oh with an uncle Ki and an uncle there here not there on everywhere . 
+%mor:	intj|oh adp|with det|a-Ind-Art noun|uncle propn|Ki cconj|and det|a-Ind-Art noun|uncle adv|there adv|here part|not adv|there adp|on adv|everywhere .
+%gra:	1|4|DISCOURSE 2|4|CASE 3|4|DET 4|14|ROOT 5|4|APPOS 6|8|CC 7|8|DET 8|5|CONJ 9|8|ADVMOD 10|4|ADVMOD 11|12|ADVMOD 12|10|ADVMOD 13|14|CASE 14|12|OBL 15|4|PUNCT
+*MOT:	and Uncle Mcdonald had a pg . 
+%mor:	cconj|and propn|uncle propn|McDonald verb|have-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|pg-Acc .
+%gra:	1|4|CC 2|4|NSUBJ 3|2|FLAT 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*MOT:	yeah [/] yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	oh okay . 
+%mor:	intj|oh intj|okay .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*MOT:	the pg [/] pg mama pg baby pg it's your mama pg baby pg . 
+%mor:	det|the-Def-Art noun|pg noun|mama noun|pg noun|baby noun|pg pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|mama noun|pg noun|baby noun|pg .
+%gra:	1|6|DET 2|6|COMPOUND 3|6|COMPOUND 4|6|COMPOUND 5|6|COMPOUND 6|13|DISCOURSE 7|13|NSUBJ 8|13|COP 9|13|NMOD-POSS 10|11|COMPOUND 11|12|COMPOUND 12|13|COMPOUND 13|13|ROOT 14|13|PUNCT
+*MOT:	no [/] no [/] no mo [/] mo you [/] you because the mo it's a mama cow out . 
+%mor:	intj|no intj|mo pron|you-Prs-Acc-S2 sconj|because det|the-Def-Art noun|mo pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|mama noun|cow adp|out .
+%gra:	1|11|DISCOURSE 2|11|DISCOURSE 3|11|VOCATIVE 4|11|MARK 5|6|DET 6|11|REPARANDUM 7|11|NSUBJ 8|11|COP 9|11|DET 10|11|COMPOUND 11|12|ROOT 12|11|ADVMOD 13|11|PUNCT
+*MOT:	no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	like you went to puppy dog . 
+%mor:	sconj|like pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Past-S2-irr adp|to noun|puppy noun|dog .
+%gra:	1|3|MARK 2|3|NSUBJ 3|6|ROOT 4|6|CASE 5|6|COMPOUND 6|3|OBL 7|3|PUNCT
+*MOT:	you <went to puppy dog> [/] went to puppy dog . 
+%mor:	pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Past-S2-irr adp|to noun|puppy noun|dog .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|COMPOUND 5|2|OBL 6|2|PUNCT
+*MOT:	he would need the puppy dog take . 
+%mor:	pron|he-Prs-Nom-S3 aux|would-Fin-S verb|need-Inf-S det|the-Def-Art noun|puppy noun|dog noun|take-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|7|DET 5|6|COMPOUND 6|7|COMPOUND 7|3|OBJ 8|3|PUNCT
+*MOT:	up . 
+%mor:	adv|up .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	with the puppy dog the roof . 
+%mor:	adp|with det|the-Def-Art noun|puppy noun|dog det|the-Def-Art noun|roof .
+%gra:	1|4|CASE 2|4|DET 3|4|COMPOUND 4|6|ROOT 5|6|DET 6|4|APPOS 7|4|PUNCT
+*MOT:	woo [/] woo [/] woo . 
+%mor:	intj|woo .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	oh that's a sweet puppy . 
+%mor:	intj|oh pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|sweet-S1 noun|puppy .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|COP 4|6|DET 5|6|AMOD 6|6|ROOT 7|6|PUNCT
+*MOT:	that's a sweet puppy . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|sweet-S1 noun|puppy .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+*MOT:	sweet ugly . 
+%mor:	adj|sweet-S1 adj|ugly-S1 .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	you don't want the puppy . 
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|want-Inf-S det|the-Def-Art noun|puppy-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*MOT:	you don't want the puppy . 
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|want-Inf-S det|the-Def-Art noun|puppy-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*MOT:	what you want . 
+%mor:	pron|what-Int-S1 pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 .
+%gra:	1|3|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|1|PUNCT
+*MOT:	that's what . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|what-Int-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	you . 
+%mor:	pron|you-Prs-Nom-S2 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	can't get ahold of the party . 
+%mor:	aux|can-Fin-S~part|not verb|get-Fin-Imp-S noun|ahold-Acc adp|of det|the-Def-Art noun|party .
+%gra:	1|3|AUX 2|3|ADVMOD 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|3|PUNCT
+*MOT:	you can't get ahold get the party . 
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S~part|not verb|get-Inf-S noun|ahold-Acc verb|get-Inf-S det|the-Def-Art noun|party-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|4|OBJ 6|4|XCOMP 7|8|DET 8|6|OBJ 9|4|PUNCT
+*MOT:	the party hit the party . 
+%mor:	det|the-Def-Art noun|party verb|hit-Fin-Ind-Past-S3-irr det|the-Def-Art noun|party-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	hit the party . 
+%mor:	verb|hit-Fin-Ind-S det|the-Def-Art noun|party-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	what's wrong is your feet going to sleep . 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adj|wrong-S1 aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|foot-Plur verb|go-Ger-S part|to verb|sleep-Inf-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|6|AMOD 4|7|COP 5|6|NMOD-POSS 6|7|NSUBJ 7|9|ROOT 8|9|MARK 9|7|XCOMP 10|7|PUNCT
+*MOT:	you tummy taking off you . 
+%mor:	pron|you-Prs-Gen-S2 noun|tummy verb|take-Ger-S adp|off pron|you-Prs-Acc-S2 .
+%gra:	1|2|DEP 2|3|NSUBJ 3|5|ROOT 4|3|COMPOUND-PRT 5|3|OBJ 6|3|PUNCT
+*MOT:	they just cutting off . 
+%mor:	pron|they-Prs-Nom-P3 adv|just verb|cut-Part-Pres-S adp|off .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+*MOT:	you suck . 
+%mor:	pron|you-Prs-Nom-S2 verb|suck-Fin-Ind-Pres-S2 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	like did it did the off . 
+%mor:	intj|like aux|do-Fin-Ind-Past-S3-irr pron|it-Prs-Nom-S3 verb|do-Part-Past-S-irr det|the-Def-Art adv|off .
+%gra:	1|4|DISCOURSE 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|DET 6|4|ADVMOD 7|4|PUNCT
+*MOT:	what did the win . 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S3-irr det|the-Def-Art noun|win .
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*MOT:	what did you win . 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|win-Inf-S .
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*MOT:	Jacob take . 
+%mor:	propn|Jacob verb|take-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	look you look like a little girl . 
+%mor:	verb|look-Fin-Imp-S pron|you-Prs-Nom-S2 verb|look-Fin-Ind-Pres-S2 adp|like det|a-Ind-Art adj|little-S1 noun|girl .
+%gra:	1|7|ROOT 2|1|OBJ 3|1|XCOMP 4|7|CASE 5|7|DET 6|7|AMOD 7|3|OBL 8|1|PUNCT
+*MOT:	you look like a little girl . 
+%mor:	pron|you-Prs-Nom-S2 verb|look-Fin-Ind-Pres-S2 adp|like det|a-Ind-Art adj|little-S1 noun|girl .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|CASE 4|6|DET 5|6|AMOD 6|2|OBL 7|2|PUNCT
+*MOT:	p pika boo peek . 
+%mor:	noun|p noun|pika noun|boo noun|peek .
+%gra:	1|4|COMPOUND 2|4|COMPOUND 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+@End

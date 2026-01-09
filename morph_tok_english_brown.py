@@ -39,8 +39,9 @@ from __future__ import annotations
 import argparse
 import csv
 import logging
+import re
 from pathlib import Path
-from typing import Dict, List, Tuple
+from typing import Dict, Iterable, Iterator, List, Optional, Tuple
 
 import spacy
 
@@ -72,7 +73,7 @@ ING_EXCEPTIONS = {
     'spring', 'sting', 'swing', 'thing', 'ting', 'wing'
 }
 
-PLURAL_ONLY = {
+S_EXCEPTIONS = {
     'binoculars', 'headphones', 'sunglasses', 'glasses',
     'scissors', 'tweezers', 'jeans', 'pyjamas', 'tights',
     'knickers', 'shorts', 'trousers', 'pants', 'belongings',
@@ -240,6 +241,75 @@ def process_line(
 
     return " ".join(out_tokens), feats
 
+
+def morph_tokens_from_mor(mor_line: str, lowercase: bool = True) -> List[str]:
+    """
+    Split a CHAT %mor line into base + affix tokens.
+    Example: v|do&3S&PAST -> ['do', '+3S', '+PAST']
+    """
+    tokens: List[str] = []
+    if not mor_line:
+        return tokens
+    for word in mor_line.strip().split():
+        word = word.strip()
+        if not word:
+            continue
+        if "|" in word:
+            _, rest = word.split("|", 1)
+        else:
+            rest = word
+        parts = rest.split("&")
+        if not parts:
+            continue
+        base = parts[0]
+        if base:
+            tokens.append(base.lower() if lowercase else base)
+        for aff in parts[1:]:
+            if aff:
+                tokens.append(("+" + aff.lower()) if lowercase else ("+" + aff))
+    return tokens
+
+
+def iter_chat_utterances(
+    chat_path: Path,
+    include_participants: Optional[Iterable[str]] = None,
+    exclude_participants: Optional[Iterable[str]] = ("CHI",),
+) -> Iterator[Tuple[str, str, Optional[str]]]:
+    """
+    Yield (speaker, utt_text, mor_line) for each utterance in a CHAT file.
+    Defaults to child-directed speech (excludes CHI).
+    """
+    include_set = set(include_participants) if include_participants else None
+    exclude_set = set(exclude_participants) if exclude_participants else set()
+
+    current_speaker = None
+    current_utt = None
+    current_mor = None
+
+    with chat_path.open("r", encoding="utf-8", errors="ignore") as f:
+        for line in f:
+            if line.startswith("*"):
+                # flush previous
+                if current_speaker and current_utt is not None:
+                    if (include_set is None or current_speaker in include_set) and current_speaker not in exclude_set:
+                        yield current_speaker, current_utt, current_mor
+                # reset
+                current_mor = None
+                current_speaker = line[1:].split(":", 1)[0].strip()
+                if "\t" in line:
+                    current_utt = line.split("\t", 1)[1].strip()
+                else:
+                    current_utt = line.split(":", 1)[1].strip() if ":" in line else line.strip()
+            elif line.startswith("%mor:"):
+                current_mor = line.split(":", 1)[1].strip()
+            else:
+                continue
+
+    # flush tail
+    if current_speaker and current_utt is not None:
+        if (include_set is None or current_speaker in include_set) and current_speaker not in exclude_set:
+            yield current_speaker, current_utt, current_mor
+
 # --------------------------- #
 # CLI & file I/O              #
 # --------------------------- #
@@ -248,12 +318,26 @@ def parse_args() -> argparse.Namespace:
     p = argparse.ArgumentParser(
         description="Morphemically tokenise a text file and (optionally) export Brown-order features."
     )
-    p.add_argument("-i", "--input", required=True, help="Input .txt (one sentence per line)")
+    p.add_argument("-i", "--input", required=True, help="Input .txt or .cha (or directory of .cha)")
     p.add_argument("-o", "--output", required=True, help="Output .txt (tokenised, one per line)")
     p.add_argument("--brown-features", help="Optional path to write a CSV of Brown features per line")
     p.add_argument("--include-punct", action="store_true", help="Keep punctuation tokens in tokenised text")
     p.add_argument("--case", choices={"lower", "keep"}, default="lower", help="Output casing (default: lower)")
     p.add_argument("--spacy-model", default="en_core_web_lg", help="spaCy model to load")
+    p.add_argument(
+        "--mode",
+        choices={"text", "mor", "mor_spacy"},
+        default="text",
+        help="Tokenisation source: raw text (default), %mor tokens only, or %mor tokens with spaCy features.",
+    )
+    p.add_argument(
+        "--participants",
+        help="Comma-separated participant codes to include (chat mode). Default: all except CHI.",
+    )
+    p.add_argument(
+        "--exclude-participants",
+        help="Comma-separated participant codes to exclude (chat mode). Default: CHI.",
+    )
     return p.parse_args()
 
 def main() -> None:
@@ -268,38 +352,83 @@ def main() -> None:
     if bf_path:
         bf_path.parent.mkdir(parents=True, exist_ok=True)
 
-    nlp = load_spacy(args.spacy_model)
     lowercase = args.case == "lower"
+    participants = (
+        [p.strip() for p in args.participants.split(",")] if args.participants else None
+    )
+    exclude_participants = (
+        [p.strip() for p in args.exclude_participants.split(",")] if args.exclude_participants else ["CHI"]
+    )
+
+    need_spacy = args.mode in {"text", "mor_spacy"}
+    nlp = load_spacy(args.spacy_model) if need_spacy else None
 
     logging.info("Reading: %s", in_path)
-    with in_path.open("r", encoding="utf-8") as fin, \
-         out_path.open("w", encoding="utf-8") as fout:
 
-        # Prepare CSV if requested
-        csv_writer = None
-        if bf_path:
-            csvfile = bf_path.open("w", encoding="utf-8", newline="")
-            fieldnames = ["line_number", "original_sentence", "tokenised_sentence"] + BROWN_FEATURE_KEYS
-            csv_writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-            csv_writer.writeheader()
-        else:
-            csvfile = None
+    # Determine input type
+    chat_files: List[Path] = []
+    if in_path.is_dir():
+        chat_files = sorted(in_path.rglob("*.cha"))
+    elif in_path.suffix.lower() == ".cha":
+        chat_files = [in_path]
 
-        try:
-            for idx, raw in enumerate(fin, start=1):
-                original = raw.rstrip("\n")
-                tokenised, feats = process_line(
-                    original, nlp=nlp, include_punct=args.include_punct, lowercase=lowercase
-                )
-                fout.write(tokenised + "\n")
+    csv_writer = None
+    csvfile = None
+    if bf_path:
+        csvfile = bf_path.open("w", encoding="utf-8", newline="")
+        fieldnames = ["line_number", "original_sentence", "tokenised_sentence"] + BROWN_FEATURE_KEYS
+        csv_writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        csv_writer.writeheader()
 
-                if csv_writer:
-                    row = {"line_number": idx, "original_sentence": original, "tokenised_sentence": tokenised}
-                    row.update(feats)
-                    csv_writer.writerow(row)
-        finally:
-            if bf_path and csvfile:
-                csvfile.close()
+    try:
+        with out_path.open("w", encoding="utf-8") as fout:
+            if chat_files:
+                idx = 0
+                for chat in chat_files:
+                    for _, utt, mor in iter_chat_utterances(
+                        chat, include_participants=participants, exclude_participants=exclude_participants
+                    ):
+                        idx += 1
+                        if args.mode == "mor":
+                            tokens = morph_tokens_from_mor(mor or "", lowercase=lowercase)
+                            tokenised = " ".join(tokens)
+                            feats: FeatureDict = {k: 0 for k in BROWN_FEATURE_KEYS}
+                        elif args.mode == "mor_spacy":
+                            tokens = morph_tokens_from_mor(mor or "", lowercase=lowercase)
+                            spacy_input = " ".join(t for t in tokens if not t.startswith("+")) or utt
+                            _, feats = process_line(
+                                spacy_input, nlp=nlp, include_punct=args.include_punct, lowercase=lowercase
+                            )
+                            tokenised = " ".join(tokens)
+                        else:  # text
+                            tokenised, feats = process_line(
+                                utt, nlp=nlp, include_punct=args.include_punct, lowercase=lowercase
+                            )
+
+                        fout.write(tokenised + "\n")
+                        if csv_writer:
+                            row = {
+                                "line_number": idx,
+                                "original_sentence": utt,
+                                "tokenised_sentence": tokenised,
+                            }
+                            row.update(feats)
+                            csv_writer.writerow(row)
+            else:
+                with in_path.open("r", encoding="utf-8") as fin:
+                    for idx, raw in enumerate(fin, start=1):
+                        original = raw.rstrip("\n")
+                        tokenised, feats = process_line(
+                            original, nlp=nlp, include_punct=args.include_punct, lowercase=lowercase
+                        )
+                        fout.write(tokenised + "\n")
+                        if csv_writer:
+                            row = {"line_number": idx, "original_sentence": original, "tokenised_sentence": tokenised}
+                            row.update(feats)
+                            csv_writer.writerow(row)
+    finally:
+        if bf_path and csvfile:
+            csvfile.close()
 
     logging.info("Wrote tokenised text: %s", out_path)
     if bf_path:

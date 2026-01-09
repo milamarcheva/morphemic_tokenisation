@@ -1,0 +1,313 @@
+@UTF8
+@PID:	11312/a-00077472-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant, PAR1 Participant
+@ID:	eng|HSLLD|PAR0|||||Participant|||
+@ID:	eng|HSLLD|PAR1|||||Participant|||
+@Media:	clter1, audio
+@Comment:	Batchalign 0.7.1-beta.12, ASR Engine rev
+@Types:	long, narrative, TD
+*PAR0:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay  .
+*PAR0:	&-um this is real simple . 
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 adv|real adj|simple-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	um  this  is  real  simple  .
+*PAR0:	everyone loves to . 
+%mor:	pron|everyone-Tot-S1 verb|love-Fin-Ind-Pres-S3 part|to .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|XCOMP 4|2|PUNCT
+%wor:	everyone  loves  to  .
+*PAR0:	I oh okay . 
+%mor:	pron|I-Prs-Nom-S1 intj|oh intj|okay .
+%gra:	1|3|ROOT 2|1|DISCOURSE 3|1|DISCOURSE 4|1|PUNCT
+%wor:	I  oh  okay  .
+*PAR0:	we do is just have &-um take a walk or something that anything bit to remember . 
+%mor:	pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1 aux|be-Fin-Ind-Pres-S3 adv|just aux|have-Inf-S verb|take-Inf-S det|a-Ind-Art noun|walk-Acc cconj|or pron|something-Ind-S1 pron|that-Rel pron|anything-Ind-S1 noun|bit part|to verb|remember-Inf-S .
+%gra:	1|6|NSUBJ 2|6|AUX 3|6|AUX 4|6|ADVMOD 5|6|AUX 6|15|ROOT 7|8|DET 8|6|OBJ 9|10|CC 10|8|CONJ 11|15|OBJ 12|13|COMPOUND 13|10|NMOD-UNMARKED 14|15|MARK 15|13|ACL 16|6|PUNCT
+%wor:	we do is  just  have  um  take  a  walk  or  something  that  anything  bit  to  remember  .
+*PAR0:	just tell us about it . 
+%mor:	adv|just verb|tell-Fin-Imp-S pron|we-Prs-Acc-P1 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|2|IOBJ 4|5|CASE 5|2|OBL 6|2|PUNCT
+%wor:	just tell  us  about  it  .
+*PAR0:	you know it'd be great . 
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|it-Prs-Nom-S3~aux|would-Fin-S aux|be-Inf-S adj|great-S1 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|NSUBJ 4|6|AUX 5|6|COP 6|2|CCOMP 7|2|PUNCT
+%wor:	you know  it'd  be great  .
+*PAR0:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay  .
+*PAR0:	copy one talk . 
+%mor:	verb|copy-Inf-Imp-S num|one noun|talk-Acc .
+%gra:	1|3|ROOT 2|3|NUMMOD 3|1|OBJ 4|1|PUNCT
+%wor:	copy  one  talk  .
+*PAR0:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	remember . 
+%mor:	verb|remember-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	remember  .
+*PAR0:	&-um we went to see Ghostbuster . 
+%mor:	pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Past-P1-irr part|to verb|see-Inf-S propn|Ghostbuster-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|MARK 4|2|ADVCL 5|4|OBJ 6|2|PUNCT
+%wor:	um  we  went  to  see  Ghostbuster  .
+*PAR1:	Bud Go . 
+%mor:	propn|Bud propn|Go .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+%wor:	Bud  Go  .
+*PAR0:	bus . 
+%mor:	noun|bus .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	bus  .
+*PAR1:	remember .
+%mor:	verb|remember-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	did you have bus . 
+%mor:	aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|have-Inf-S noun|bus-Acc .
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	did  you  have  bus  .
+*PAR1:	go bus . 
+%mor:	verb|go-Fin-Imp-S noun|bus-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	go  bus  .
+*PAR0:	remember we went on . 
+%mor:	verb|remember-Fin-Imp-S pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Past-P1-irr adp|on .
+%gra:	1|4|ROOT 2|3|NSUBJ 3|1|CCOMP 4|3|COMPOUND-PRT 5|1|PUNCT
+%wor:	remember we  went  on  .
+*PAR1:	go bus . 
+%mor:	verb|go-Fin-Imp-S noun|bus-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	go  bus  .
+*PAR0:	go went sisters remember we went . 
+%mor:	verb|go-Fin-Imp-S verb|go-Fin-Ind-Past-S1-irr noun|sister-Plur-Acc verb|remember-Fin-Ind-S pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Past-P1-irr .
+%gra:	1|6|ROOT 2|1|XCOMP 3|2|OBJ 4|2|XCOMP 5|6|NSUBJ 6|4|CCOMP 7|1|PUNCT
+%wor:	go went sisters  remember  we  went .
+*PAR1:	to the beach . 
+%mor:	adp|to det|the-Def-Art noun|beach .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	to  the  beach  .
+*PAR0:	the beach girl . 
+%mor:	det|the-Def-Art noun|beach noun|girl .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%wor:	the  beach  girl  .
+*PAR0:	we had a okay . 
+%mor:	pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Past-P1-irr det|a-Ind-Art adj|okay-S1 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	we  had  a  okay  .
+*PAR1:	what do you remember what we did . 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|remember-Inf-S pron|what-Rel-S1 pron|we-Prs-Nom-P1 verb|do-Fin-Ind-Past-P1-irr .
+%gra:	1|7|OBJ 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|4|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|4|PUNCT
+%wor:	what  do  you  remember  what  we  did .
+*PAR0:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	remember the . 
+%mor:	verb|remember-Fin-Imp-S det|the-Def-Art .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	remember  the  .
+*PAR1:	movie one go buster . 
+%mor:	noun|movie num|one verb|go-Fin-Imp-S noun|buster-Acc .
+%gra:	1|4|ROOT 2|1|DEP 3|1|PARATAXIS 4|3|OBJ 5|1|PUNCT
+%wor:	movie  one  go  buster  .
+*PAR1:	you had fun . 
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Past-S2-irr noun|fun-Acc .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	you  had  fun  .
+*PAR1:	&-um fun . 
+%mor:	noun|fun .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	um  fun  .
+*PAR1:	did you like the movie . 
+%mor:	aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|like-Inf-S det|the-Def-Art noun|movie-Acc .
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	did  you  like  the  movie  .
+*PAR1:	go . 
+%mor:	verb|go-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	go  .
+*PAR1:	do you like the movie . 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|like-Inf-S det|the-Def-Art noun|movie-Acc .
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	do you  like  the  movie  .
+*PAR1:	Tyler yeah . 
+%mor:	propn|Tyler intj|yeah .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%wor:	Tyler yeah  .
+*PAR1:	yeah you did . 
+%mor:	intj|yeah pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Past-S2-irr .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	yeah  you  did  .
+*PAR1:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah  .
+*PAR1:	what do you remember . 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|remember-Inf-S .
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	what  do  you  remember  .
+*PAR1:	go . 
+%mor:	verb|go-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	go  .
+*PAR0:	oh my goodness . 
+%mor:	intj|oh pron|my-Prs-Gen-S1 noun|goodness .
+%gra:	1|3|DISCOURSE 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+%wor:	oh my  goodness  .
+*PAR1:	you remember going shopping . 
+%mor:	pron|you-Prs-Nom-S2 verb|remember-Fin-Ind-Pres-S2 verb|go-Ger-S noun|shopping-Acc-Ger .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|XCOMP 4|3|OBJ 5|2|PUNCT
+%wor:	you  remember going  shopping  .
+*PAR0:	you loved that movie . 
+%mor:	pron|you-Prs-Nom-S2 verb|love-Fin-Ind-Past-S2 det|that-Def-Dem-Sing noun|movie-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	you loved that  movie  .
+*PAR0:	mhm . 
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm  .
+*PAR0:	I loved it . 
+%mor:	pron|I-Prs-Nom-S1 verb|love-Fin-Ind-Past-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	I  loved  it  .
+*PAR1:	you like <Bobby Brown> [/] Bobby Brown right . 
+%mor:	pron|you-Prs-Nom-S2 verb|like-Fin-Ind-Pres-S2 propn|Bobby-Acc propn|Brown adv|right .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|3|FLAT 5|2|ADVMOD 6|2|PUNCT
+%wor:	you  like  Bobby  Brown  Bobby  Brown  right  .
+*PAR1:	you like Bobby Brown Baby Brown right . 
+%mor:	pron|you-Prs-Nom-S2 verb|like-Fin-Ind-Pres-S2 propn|Bobby-Acc propn|Brown propn|baby propn|Brown adv|right .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|OBJ 4|3|FLAT 5|3|FLAT 6|3|FLAT 7|2|ADVMOD 8|2|PUNCT
+%wor:	you  like  Bobby  Brown  Baby  Brown  right  .
+*PAR0:	what .
+%mor:	pron|what-Int-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	kind of songs do you like . 
+%mor:	noun|kind adp|of noun|song-Plur-Acc aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|like-Inf-S .
+%gra:	1|3|CASE 2|1|FIXED 3|6|OBJ 4|6|AUX 5|6|NSUBJ 6|6|ROOT 7|6|PUNCT
+%wor:	kind of  songs  do  you  like  .
+*PAR1:	hmm . 
+%mor:	intj|hmm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	hmm  .
+*PAR1:	what kind of songs do . 
+%mor:	det|what-Def-Int noun|kind adp|of noun|song-Plur aux|do-Fin-Ind-Pres-P3 .
+%gra:	1|2|DET 2|5|ROOT 3|4|CASE 4|2|NMOD 5|2|ACL-RELCL 6|2|PUNCT
+%wor:	what kind  of  songs  do  .
+*PAR0:	you like . 
+%mor:	pron|you-Prs-Nom-S2 verb|like-Fin-Ind-Pres-S2 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%wor:	you like  .
+*PAR1:	go but go . 
+%mor:	verb|go-Fin-Imp-S cconj|but verb|go-Fin-Imp-S .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+%wor:	go  but  go  .
+*PAR0:	Butta all cars like Whitney This . 
+%mor:	propn|Butta det|all-Def-Tot noun|car-Plur adp|like propn|Whitney propn|this .
+%gra:	1|6|ROOT 2|3|DET 3|1|APPOS 4|5|CASE 5|3|NMOD 6|5|FLAT 7|1|PUNCT
+%wor:	Butta  all  cars  like  Whitney  This  .
+*PAR1:	have the huh . 
+%mor:	verb|have-Fin-Imp-S det|the-Def-Art intj|huh .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	have  the  huh  .
+*PAR1:	a baby the . 
+%mor:	det|a-Ind-Art noun|baby det|the-Def-Art .
+%gra:	1|2|DET 2|3|ROOT 3|2|PUNCT 4|2|PUNCT
+%wor:	a baby  the  .
+*PAR0:	baby . 
+%mor:	noun|baby .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	baby  .
+*PAR1:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	it's a baby . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|baby .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	it's  a  baby  .
+*PAR0:	the baby .
+%mor:	det|the-Def-Art noun|baby .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*PAR1:	baby the baby . 
+%mor:	verb|baby-Inf-S det|the-Def-Art noun|baby-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	baby  the  baby  .
+*PAR0:	do you like go . 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|like-Inf-S verb|go-Inf-S .
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	do you  like  go  .
+*PAR1:	to the park . 
+%mor:	adp|to det|the-Def-Art noun|park .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	to  the  park  .
+*PAR1:	toys .
+%mor:	noun|toy-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	toys .
+%mor:	noun|toy-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	do like going to the park . 
+%mor:	aux|do-Fin-Imp-S sconj|like verb|go-Part-Pres-S adp|to det|the-Def-Art noun|park .
+%gra:	1|3|AUX 2|3|MARK 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	do  like  going  to  the  park  .
+*PAR1:	remember you went to the park the other day . 
+%mor:	verb|remember-Fin-Imp-S pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Past-S2-irr adp|to det|the-Def-Art noun|park det|the-Def-Art adj|other-S1 noun|day .
+%gra:	1|9|ROOT 2|3|NSUBJ 3|1|CCOMP 4|6|CASE 5|6|DET 6|3|OBL 7|9|DET 8|9|AMOD 9|3|OBL-UNMARKED 10|1|PUNCT
+%wor:	remember  you  went  to  the  park  the  other  day  .
+*PAR1:	go bus park . 
+%mor:	verb|go-Fin-Imp-S noun|bus noun|park-Acc .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+%wor:	go  bus  park  .
+*PAR1:	go you go to the pot . 
+%mor:	verb|go-Fin-Imp-S pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 adp|to det|the-Def-Art noun|pot .
+%gra:	1|6|ROOT 2|3|NSUBJ 3|1|CCOMP 4|6|CASE 5|6|DET 6|3|OBL 7|1|PUNCT
+%wor:	go  you go  to  the  pot  .
+*PAR1:	go buses . 
+%mor:	verb|go-Fin-Imp-S noun|bus-Plur-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	go  buses  .
+*PAR0:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah  .
+*PAR1:	go bus . 
+%mor:	verb|go-Fin-Imp-S noun|bus-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	go  bus  .
+*PAR1:	go buses . 
+%mor:	verb|go-Fin-Imp-S noun|bus-Plur-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	go  buses .
+*PAR0:	I think we've done all listed . 
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|we-Prs-Nom-P1~aux|have-Fin-Ind-Pres-P1 verb|do-Part-Past-S-irr det|all-Def-Tot verb|list-Part-Past-S .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|5|NSUBJ 4|5|AUX 5|2|CCOMP 6|5|OBJ 7|5|XCOMP 8|2|PUNCT
+%wor:	I  think  we've  done  all  listed  .
+*PAR0:	and we've bus meal time .
+%mor:	cconj|and pron|we-Prs-Nom-P1~aux|have-Fin-Ind-Pres-P1 noun|bus noun|meal noun|time .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|AUX 4|6|COMPOUND 5|6|COMPOUND 6|6|ROOT 7|6|PUNCT
+*PAR0:	&-um you can get him to &-um about fifteen seconds . 
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|get-Inf-S pron|he-Prs-Acc-S3 adp|to adv|about num|fifteen noun|second-Plur .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|3|OBJ 5|8|CASE 6|7|ADVMOD 7|8|NUMMOD 8|3|OBL 9|3|PUNCT
+%wor:	um you  can  get  him  to  um  about  fifteen  seconds  .
+*PAR0:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay  .
+*PAR0:	but if during the mealtime tape you can get him to talk about you know a little bit more about something done together . 
+%mor:	cconj|but sconj|if adp|during det|the-Def-Art noun|mealtime noun|tape pron|you-Prs-Nom-S2 aux|can-Fin-S verb|get-Inf-S pron|he-Prs-Acc-S3 part|to verb|talk-Inf-S adp|about pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 det|a-Ind-Art adj|little-S1 noun|bit adj|more-Cmp-S1 adp|about pron|something-Ind-S1 verb|do-Part-Past-S-irr adv|together .
+%gra:	1|9|CC 2|6|MARK 3|6|CASE 4|6|DET 5|6|COMPOUND 6|9|OBL 7|9|NSUBJ 8|9|AUX 9|15|ADVCL 10|9|OBJ 11|12|MARK 12|9|XCOMP 13|12|OBL 14|15|NSUBJ 15|23|ROOT 16|18|DET 17|18|AMOD 18|19|OBL-UNMARKED 19|15|OBJ 20|21|CASE 21|19|OBL 22|21|ACL 23|22|ADVMOD 24|15|PUNCT
+%wor:	but  if  during  the  mealtime  tape  you  can  get  him  to  talk  about  you  know  a  little  bit  more  about  something  done  together  .
+*PAR0:	&-um when we're not here . 
+%mor:	adv|when pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 part|not adv|here .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%wor:	um  when  we're  not  here  .
+*PAR0:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	we can on the . 
+%mor:	pron|we-Prs-Nom-P1 aux|can-Fin-S adp|on det|the-Def-Art .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+%wor:	we  can  on  the  .
+@End

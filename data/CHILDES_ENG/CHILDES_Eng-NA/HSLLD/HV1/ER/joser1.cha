@@ -1,0 +1,258 @@
+@UTF8
+@PID:	11312/a-00077473-1
+@Begin
+@Languages:	eng
+@Participants:	PAR0 Participant, PAR1 Participant, PAR2 Participant
+@ID:	eng|HSLLD|PAR0|||||Participant|||
+@ID:	eng|HSLLD|PAR1|||||Participant|||
+@ID:	eng|HSLLD|PAR2|||||Participant|||
+@Media:	joser1, audio
+@Comment:	Batchalign 0.7.1-beta.12, ASR Engine rev
+@Types:	long, narrative, TD
+*PAR0:	can tell . 
+%mor:	aux|can-Fin-S verb|tell-Inf-S .
+%gra:	1|2|AUX 2|2|ROOT 3|2|PUNCT
+%wor:	can tell  .
+*PAR0:	can ask to &-uh you . 
+%mor:	aux|can-Fin-S verb|ask-Inf-S adp|to pron|you-Prs-Acc-S2 .
+%gra:	1|2|AUX 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+%wor:	can ask  to  uh  you  .
+*PAR1:	tell some of we have . 
+%mor:	verb|tell-Fin-Imp-S det|some-Def-Ind adp|of pron|we-Prs-Nom-P1 verb|have-Fin-Ind-Pres-P1 .
+%gra:	1|5|ROOT 2|1|OBJ 3|4|CASE 4|2|NMOD 5|1|CCOMP 6|1|PUNCT
+%wor:	tell  some  of we  have  .
+*PAR2:	street . 
+%mor:	noun|street .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	street  .
+*PAR1:	in the street . 
+%mor:	adp|in det|the-Def-Art noun|street .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	in the  street  .
+*PAR1:	and you were running with Kyle and what glass . 
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Past-S2-irr verb|run-Part-Pres-S adp|with propn|Kyle cconj|and det|what-Def-Int noun|glass .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|6|CASE 6|4|OBL 7|9|CC 8|9|DET 9|6|CONJ 10|4|PUNCT
+%wor:	and  you  were  running  with  Kyle  and  what  glass  .
+*PAR1:	huh .
+%mor:	intj|huh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR2:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	so what happened when we went to the park . 
+%mor:	adv|so pron|what-Int-S1 verb|happen-Fin-Ind-Past-S3 adv|when pron|we-Prs-Nom-P1 verb|go-Fin-Ind-Past-P1-irr adp|to det|the-Def-Art noun|park .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|9|ROOT 4|6|ADVMOD 5|6|NSUBJ 6|3|ADVCL 7|9|CASE 8|9|DET 9|6|OBL 10|3|PUNCT
+%wor:	so  what  happened  when  we  went  to  the  park  .
+*PAR1:	what did you do . 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|do-Inf-S .
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	what  did  you  do  .
+*PAR1:	tell me . 
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|ROOT 2|1|IOBJ 3|1|PUNCT
+%wor:	tell  me  .
+*PAR1:	I forget . 
+%mor:	pron|I-Prs-Nom-S1 verb|forget-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%wor:	I  forget  .
+*PAR1:	well that was on the way to the pack . 
+%mor:	intj|well pron|that-Dem aux|be-Fin-Ind-Past-S3-irr adp|on det|the-Def-Art noun|way adp|to det|the-Def-Art noun|pack .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|COP 4|6|CASE 5|6|DET 6|9|ROOT 7|9|CASE 8|9|DET 9|6|NMOD 10|6|PUNCT
+%wor:	well  that  was  on  the  way  to  the  pack  .
+*PAR1:	what did you do when you got to the pack . 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|do-Inf-S adv|when pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2-irr adp|to det|the-Def-Art noun|pack .
+%gra:	1|7|OBJ 2|4|AUX 3|4|NSUBJ 4|10|ROOT 5|7|ADVMOD 6|7|NSUBJ 7|4|ADVCL 8|10|CASE 9|10|DET 10|7|OBL 11|4|PUNCT
+%wor:	what  did  you  do  when  you  got  to  the  pack  .
+*PAR1:	didn't you play with Ryan . 
+%mor:	aux|do-Fin-Ind-Past-S2-irr~part|not pron|you-Prs-Nom-S2 verb|play-Inf-S adp|with propn|Ryan .
+%gra:	1|4|AUX 2|4|ADVMOD 3|4|NSUBJ 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%wor:	didn't  you  play  with  Ryan  .
+*PAR2:	mhm . 
+%mor:	intj|mhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mhm  .
+*PAR1:	and go on the swings and stuff . 
+%mor:	cconj|and verb|go-Fin-Imp-S adp|on det|the-Def-Art noun|swing-Plur cconj|and noun|stuff .
+%gra:	1|2|CC 2|7|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|7|CC 7|5|CONJ 8|2|PUNCT
+%wor:	and  go  on  the  swings  and  stuff  .
+*PAR2:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR0:	slide . 
+%mor:	verb|slide-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	slide  .
+*PAR1:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	you went on the big slide . 
+%mor:	pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Past-S2-irr adp|on det|the-Def-Art adj|big-S1 noun|slide .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|CASE 4|6|DET 5|6|AMOD 6|2|OBL 7|2|PUNCT
+%wor:	you  went  on  the  big  slide  .
+*PAR1:	did you play with Ryan and the T trees and stuff . 
+%mor:	aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|play-Inf-S adp|with propn|Ryan cconj|and det|the-Def-Art propn|T noun|tree-Plur cconj|and noun|stuff .
+%gra:	1|3|AUX 2|3|NSUBJ 3|11|ROOT 4|5|CASE 5|3|OBL 6|9|CC 7|9|DET 8|9|COMPOUND 9|5|CONJ 10|11|CC 11|5|CONJ 12|3|PUNCT
+%wor:	did  you  play  with  Ryan  and  the  T  trees  and  stuff  .
+*PAR2:	I .
+%mor:	pron|I-Prs-Nom-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	you hit the play <on the slide> [/] on the slide . 
+%mor:	pron|you-Prs-Nom-S2 verb|hit-Fin-Ind-Past-S2-irr det|the-Def-Art noun|play-Acc adp|on det|the-Def-Art noun|slide .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+%wor:	you  hit the  play  on  the  slide  on  the  slide  .
+*PAR2:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah  .
+*PAR2:	hit .
+%mor:	verb|hit-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR2:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	with a gun . 
+%mor:	adp|with det|a-Ind-Art noun|gun .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	with a gun  .
+*PAR1:	huh . 
+%mor:	intj|huh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	huh  .
+*PAR1:	what else do you do . 
+%mor:	pron|what-Int-S1 adv|else aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Inf-S .
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%wor:	what  else  do  you  do  .
+*PAR1:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	didn't daddy give you a great big push on the swing . 
+%mor:	aux|do-Fin-Ind-Past-S3-irr~part|not noun|daddy verb|give-Fin-Imp-S pron|you-Prs-Acc-S2 det|a-Ind-Art adj|great-S1 adj|big-S1 noun|push-Acc adp|on det|the-Def-Art noun|swing-Ger .
+%gra:	1|4|AUX 2|4|ADVMOD 3|4|NSUBJ 4|12|ROOT 5|4|IOBJ 6|9|DET 7|9|AMOD 8|9|AMOD 9|4|OBJ 10|12|CASE 11|12|DET 12|9|NMOD 13|4|PUNCT
+%wor:	didn't  daddy  give  you  a  great  big  push  on  the  swing  .
+*PAR1:	you were laughing . 
+%mor:	pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Past-S2-irr verb|laugh-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+%wor:	you  were  laughing  .
+*PAR1:	Ryan too . 
+%mor:	propn|Ryan adv|too .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	Ryan  too  .
+*PAR1:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah  .
+*PAR1:	what else . 
+%mor:	pron|what-Int-S1 adv|else .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	what  else  .
+*PAR1:	tell me . 
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|ROOT 2|1|IOBJ 3|1|PUNCT
+%wor:	tell  me  .
+*PAR1:	didn't you run all around and try and cook play Frisbee again . 
+%mor:	aux|do-Fin-Ind-Past-S2-irr~part|not pron|you-Prs-Nom-S2 verb|run-Inf-S det|all-Def-Tot adv|around cconj|and verb|try-Inf-S cconj|and verb|cook-Inf-S verb|play-Inf-S propn|frisbee-Acc adv|again .
+%gra:	1|4|AUX 2|4|ADVMOD 3|4|NSUBJ 4|13|ROOT 5|6|ADVMOD 6|4|ADVMOD 7|8|CC 8|4|CONJ 9|10|CC 10|8|CONJ 11|8|CONJ 12|11|OBJ 13|11|ADVMOD 14|4|PUNCT
+%wor:	didn't  you  run  all  around  and  try  and  cook  play  Frisbee  again  .
+*PAR1:	did daddy cow . 
+%mor:	verb|do-Fin-Ind-Past-S1-irr noun|daddy noun|cow-Acc .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+%wor:	did  daddy  cow  .
+*PAR1:	Steve . 
+%mor:	propn|Steve .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	Steve  .
+*PAR2:	walking daddy down . 
+%mor:	noun|walking-Ger noun|daddy adv|down .
+%gra:	1|2|COMPOUND 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	walking daddy  down  .
+*PAR1:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	what about you . 
+%mor:	pron|what-Int-S1 adp|about pron|you-Prs-Acc-S2 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+%wor:	what  about  you  .
+*PAR1:	Ryan what did you and Ryan do . 
+%mor:	propn|Ryan pron|what-Int-S1 aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 cconj|and propn|Ryan verb|do-Inf-S .
+%gra:	1|7|NSUBJ 2|7|OBJ 3|7|AUX 4|7|NSUBJ 5|6|CC 6|4|CONJ 7|7|ROOT 8|7|PUNCT
+%wor:	Ryan  what  did  you  and  Ryan  do  .
+*PAR2:	what huh . 
+%mor:	pron|what-Int-S1 intj|huh .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+%wor:	what  huh  .
+*PAR2:	and Joey . 
+%mor:	cconj|and propn|Joey .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	and Joey  .
+*PAR1:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah  .
+*PAR1:	Ryan and Joey . 
+%mor:	propn|Ryan cconj|and propn|Joey .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+%wor:	Ryan  and  Joey  .
+*PAR2:	Ryan did tell Ryan . 
+%mor:	propn|Ryan aux|do-Fin-Ind-Past-S3-irr verb|tell-Inf-S propn|Ryan .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|IOBJ 5|3|PUNCT
+%wor:	Ryan  did  tell  Ryan  .
+*PAR1:	oh yeah .
+%mor:	intj|oh intj|yeah .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*PAR1:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	he did called the cops . 
+%mor:	pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Past-S3-irr verb|call-Part-Past-S det|the-Def-Art noun|cop-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	he  did  called  the  cops  .
+*PAR1:	huh .
+%mor:	intj|huh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	he wasn't watching where he was going . 
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr~part|not verb|watch-Part-Pres-S adv|where pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|go-Part-Pres-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|8|ADVMOD 6|8|NSUBJ 7|8|AUX 8|4|ADVCL 9|4|PUNCT
+%wor:	he  wasn't  watching  where  he  was  going  .
+*PAR0:	what .
+%mor:	pron|what-Int-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	I don't know . 
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	I  don't  know  .
+*PAR1:	that's why you fell too . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|why pron|you-Prs-Nom-S2 verb|fall-Fin-Ind-Past-S2-irr adv|too .
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|5|NSUBJ 5|3|ADVCL-RELCL 6|5|ADVMOD 7|3|PUNCT
+%wor:	that's  why  you  fell  too  .
+*PAR1:	because you weren't watching where you were going . 
+%mor:	sconj|because pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Past-S2-irr~part|not verb|watch-Part-Pres-S adv|where pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Past-S2-irr verb|go-Part-Pres-S .
+%gra:	1|5|MARK 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|9|ROOT 6|9|ADVMOD 7|9|NSUBJ 8|9|AUX 9|5|CCOMP 10|5|PUNCT
+%wor:	because  you  weren't  watching  where  you  were  going  .
+*PAR1:	right .
+%mor:	adj|right-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*PAR1:	you didn't tell me more . 
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Past-S2-irr~part|not verb|tell-Inf-S pron|I-Prs-Acc-S1 adj|more-Cmp-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|4|IOBJ 6|4|OBJ 7|4|PUNCT
+%wor:	you  didn't  tell  me  more  .
+*PAR1:	tell me more . 
+%mor:	verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 adj|more-Cmp-S1 .
+%gra:	1|3|ROOT 2|1|IOBJ 3|1|OBJ 4|1|PUNCT
+%wor:	tell  me  more  .
+*PAR1:	you tell me your story . 
+%mor:	pron|you-Prs-Nom-S2 verb|tell-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 pron|your-Prs-Gen-S2 noun|story-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|IOBJ 4|5|NMOD-POSS 5|2|OBJ 6|2|PUNCT
+%wor:	you  tell  me  your  story  .
+*PAR1:	I heard you a story . 
+%mor:	pron|I-Prs-Nom-S1 verb|hear-Fin-Ind-Past-S1-irr pron|you-Prs-Acc-S2 det|a-Ind-Art noun|story-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|IOBJ 4|5|DET 5|2|OBJ 6|2|PUNCT
+%wor:	I  heard  you  a  story  .
+*PAR1:	now you tell me a story . 
+%mor:	adv|now pron|you-Prs-Nom-S2 verb|tell-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 det|a-Ind-Art noun|story-Acc .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|6|ROOT 4|3|IOBJ 5|6|DET 6|3|OBJ 7|3|PUNCT
+%wor:	now  you  tell  me  a  story  .
+*PAR1:	come tell me . 
+%mor:	verb|come-Fin-Imp-S verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 .
+%gra:	1|3|ROOT 2|1|XCOMP 3|2|IOBJ 4|1|PUNCT
+%wor:	come  tell  me  .
+@End

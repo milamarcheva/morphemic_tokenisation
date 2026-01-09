@@ -1,0 +1,75 @@
+@UTF8
+@PID:	11312/a-00077900-1
+@Begin
+@Languages:	eng
+@Participants:	MA1 Adult, CHI Target_Child
+@Options:	bullets
+@ID:	eng|StoopsMontag|MA1|||||Adult|||
+@ID:	eng|StoopsMontag|CHI|||||Target_Child|||
+@Media:	07_Trucks, audio
+@Types:	cross, book, TD
+*MA1:	Trucks_Go . 
+%mor:	propn|TrucksGo .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	the garbage truck goes . 
+%mor:	det|the-Def-Art noun|garbage noun|truck verb|go-Fin-Ind-Pres-S3 .
+%gra:	1|3|DET 2|3|COMPOUND 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	berbaba berbaba berbaba screetch beep beep beep crunch crunch crunch . 
+%mor:	propn|berbaba propn|berbaba propn|berbaba propn|screetch noun|beep noun|beep noun|beep noun|crunch noun|crunch noun|crunch .
+%gra:	1|10|ROOT 2|1|FLAT 3|1|LIST 4|10|COMPOUND 5|10|COMPOUND 6|10|COMPOUND 7|10|COMPOUND 8|10|COMPOUND 9|10|COMPOUND 10|1|LIST 11|1|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	the box truck goes chuggada chuggada clankity clank . 
+%mor:	det|the-Def-Art noun|box noun|truck verb|go-Fin-Ind-Pres-S3 noun|chuggada propn|chuggada noun|clankity noun|clank-Acc .
+%gra:	1|3|DET 2|3|COMPOUND 3|4|NSUBJ 4|8|ROOT 5|8|COMPOUND 6|8|COMPOUND 7|8|COMPOUND 8|4|OBJ 9|4|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	the auto carrier goes roar roar bumpada bumpada honk honk . 
+%mor:	det|the-Def-Art noun|auto noun|carrier verb|go-Fin-Ind-Pres-S3 noun|roar noun|roar noun|bumpada noun|bumpada noun|honk noun|honk-Acc .
+%gra:	1|3|DET 2|3|COMPOUND 3|4|NSUBJ 4|10|ROOT 5|6|COMPOUND 6|10|COMPOUND 7|10|COMPOUND 8|10|COMPOUND 9|10|COMPOUND 10|4|OBJ 11|4|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	the tanker truck goes . 
+%mor:	det|the-Def-Art noun|tanker noun|truck verb|go-Fin-Ind-Pres-S3 .
+%gra:	1|3|DET 2|3|COMPOUND 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	vrrrimmmm ! 
+%mor:	propn|vrrrimmmm !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	they're going down to the big hill . 
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|go-Part-Pres-S adv|down adp|to det|the-Def-Art adj|big-S1 noun|hill .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|3|ADVMOD 5|8|CASE 6|8|DET 7|8|AMOD 8|3|OBL 9|3|PUNCT
+%cod:	$xds:A
+*MA1:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*MA1:	the fire trucks goes . 
+%mor:	det|the-Def-Art noun|fire noun|truck-Plur verb|go-Fin-Ind-Pres-S3 .
+%gra:	1|3|DET 2|3|COMPOUND 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	wheeooo wheeooo wheeooo . 
+%mor:	propn|wheeooo propn|wheeooo x|wheeooo .
+%gra:	1|3|ROOT 2|1|FLAT 3|1|FLAT 4|1|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	they go , it's going down the hill . 
+%mor:	pron|they-Prs-Nom-P3 verb|go-Fin-Ind-Pres-P3 cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|go-Part-Pres-S adp|down det|the-Def-Art noun|hill .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|6|PUNCT 4|6|NSUBJ 5|6|AUX 6|2|PARATAXIS 7|9|CASE 8|9|DET 9|6|OBL 10|2|PUNCT
+%cod:	$xds:A
+*MA1:	the tow truck goes rumble rumble wallump wallump clang clang thud thud . 
+%mor:	det|the-Def-Art noun|tow noun|truck verb|go-Fin-Ind-Pres-S3 noun|rumble noun|rumble noun|wallump noun|wallump noun|clang noun|clang noun|thud noun|thud-Acc .
+%gra:	1|3|DET 2|3|COMPOUND 3|4|NSUBJ 4|12|ROOT 5|7|COMPOUND 6|7|COMPOUND 7|12|COMPOUND 8|12|COMPOUND 9|12|COMPOUND 10|12|COMPOUND 11|12|COMPOUND 12|4|OBJ 13|4|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	the cement truck goes whirrr whirrr chicka chicka whirr whirr whirr . 
+%mor:	det|the-Def-Art noun|cement noun|truck verb|go-Fin-Ind-Pres-S3 noun|whirrr-Acc noun|whirrr noun|chicka noun|chicka noun|whirr-Acc noun|whirr noun|whirr .
+%gra:	1|3|DET 2|3|COMPOUND 3|4|NSUBJ 4|11|ROOT 5|4|OBJ 6|9|COMPOUND 7|9|COMPOUND 8|9|COMPOUND 9|4|OBJ 10|11|COMPOUND 11|4|PARATAXIS 12|4|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	the horse trailer goes . 
+%mor:	det|the-Def-Art noun|horse noun|trailer verb|go-Fin-Ind-Pres-S3 .
+%gra:	1|3|DET 2|3|COMPOUND 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	shimmy shimmy creak creak neigh ! 
+%mor:	noun|shimmy noun|shimmy noun|creak noun|creak noun|neigh !
+%gra:	1|5|COMPOUND 2|5|COMPOUND 3|5|COMPOUND 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:B; $xds:T
+@End

@@ -1,0 +1,309 @@
+@UTF8
+@PID:	11312/a-00096745-0
+@Begin
+@Languages:	eng, spa
+@Participants:	MOT Mother, FAT Father, NTC Child, CHI Target_Child, GMA Grandmother, ADF Adult, ADM Adult
+@ID:	eng|FMB_home|MOT||female|||Mother|||
+@ID:	eng|FMB_home|FAT||male|||Father|||
+@ID:	eng|FMB_home|NTC|||||Child|||
+@ID:	eng|FMB_home|CHI|2;00.|male|||Target_Child||20157|
+@ID:	eng|FMB_home|GMA||female|||Grandmother|||
+@ID:	eng|FMB_home|ADF||female|||Adult|||
+@ID:	eng|FMB_home|ADM||male|||Adult|||
+@Comment:	NTC is siblings and other children.
+@Comment:	20157_context37_8129
+@G:	ohs
+@Types:	long, everyday, TD
+*MOT:	xxx you guys put your dog away before xxx .
+%mor:	pron|you-Prs-Nom-S2 noun|guy-Plur verb|put-Fin-Ind-Pres-P3 pron|your-Prs-Gen-S2 noun|dog-Acc adv|away adv|before .
+%gra:	1|2|DEP 2|3|NSUBJ 3|7|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|ADVMOD 7|3|ADVMOD 8|3|PUNCT
+*FAT:	yeah , George_Strait , the cowboy rides away and &+Mar .
+%mor:	intj|yeah cm|cm propn|GeorgeStrait cm|cm det|the-Def-Art noun|cowboy verb|ride-Fin-Ind-Pres-S3 adv|away cconj|and .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|VOCATIVE 4|3|PUNCT 5|6|DET 6|7|NSUBJ 7|9|ROOT 8|7|ADVMOD 9|7|CC 10|7|PUNCT
+*FAT:	Martina_McBride , I think is her name .
+%mor:	propn|MartinaMcBride cm|cm pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 aux|be-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|name .
+%gra:	1|4|VOCATIVE 2|1|PUNCT 3|4|NSUBJ 4|7|ROOT 5|7|COP 6|7|NMOD-POSS 7|4|CCOMP 8|4|PUNCT
+*FAT:	she's opening .
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|open-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+*MOT:	I went to Martina_(McBride) , how funny .
+%mor:	pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Past-S1-irr adp|to propn|MartinaMcBride cm|cm adv|how adj|funny-S1 .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|CASE 4|2|OBL 5|7|PUNCT 6|7|ADVMOD 7|2|PARATAXIS 8|2|PUNCT
+*NTC:	here .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	I went to Martina_McBride when I was sibling_name age .
+%mor:	pron|I-Prs-Nom-S1 verb|go-Fin-Ind-Past-S1-irr adp|to propn|MartinaMcBride adv|when pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr adj|siblingname-S1 noun|age .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|CASE 4|2|OBL 5|9|ADVMOD 6|9|NSUBJ 7|9|COP 8|9|AMOD 9|2|ADVCL 10|2|PUNCT
+*MOT:	funny , huh ?
+%mor:	adj|funny-S1 cm|cm intj|huh ?
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|PARATAXIS 4|1|PUNCT
+*NTC:	hey , Mommy .
+%mor:	intj|hey cm|cm propn|Mommy .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+*MOT:	xxx in the car .
+%mor:	adp|in det|the-Def-Art noun|car .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*NTC:	<I made it> [/] <I made it> [/] I made it in Bubba's seat .
+%mor:	pron|I-Prs-Nom-S1 verb|make-Fin-Ind-Past-S1-irr pron|it-Prs-Acc-S3 adp|in noun|bubba noun|seat .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|6|CASE 5|6|COMPOUND 6|2|OBL 7|2|PUNCT
+*NTC:	I threw the dog in Bubba's seat .
+%mor:	pron|I-Prs-Nom-S1 verb|throw-Fin-Ind-Past-S1-irr det|the-Def-Art noun|dog-Acc adp|in noun|bubba noun|seat .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|COMPOUND 7|2|OBL 8|2|PUNCT
+*NTC:	Mommy .
+%mor:	propn|Mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*NTC:	I wanna bring it in .
+%mor:	pron|I-Prs-Nom-S1 aux|wanna-Fin-S verb|bring-Inf-S pron|it-Prs-Acc-S3 adp|in .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|PUNCT
+*MOT:	you can't .
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S~part|not .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*FAT:	sibling_name , you better watch those little ball things .
+%mor:	noun|siblingname cm|cm pron|you-Prs-Nom-S2 adv|well verb|watch-Inf-S det|that-Def-Dem-Plur adj|little-S1 noun|ball noun|thing-Plur-Acc .
+%gra:	1|5|VOCATIVE 2|1|PUNCT 3|5|NSUBJ 4|5|ADVMOD 5|9|ROOT 6|9|DET 7|9|AMOD 8|9|COMPOUND 9|5|OBJ 10|5|PUNCT
+*FAT:	you're gonna trip .
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 part|go verb|trip-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*NTC:	my [/] my dog .
+%mor:	pron|my-Prs-Gen-S1 noun|dog .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*NTC:	my dog .
+%mor:	pron|my-Prs-Gen-S1 noun|dog .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*NTC:	my dog .
+%mor:	pron|my-Prs-Gen-S1 noun|dog .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	Daddy , big truck .
+%mor:	propn|Daddy cm|cm adj|big-S1 noun|truck .
+%gra:	1|4|ROOT 2|4|PUNCT 3|4|AMOD 4|1|LIST 5|1|PUNCT
+@G:	ad_shopping
+*FAT:	big truck ?
+%mor:	adj|big-S1 noun|truck ?
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	big truck .
+%mor:	adj|big-S1 noun|truck .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*FAT:	Daddy needs to get a truck , huh bubba@g ?
+%mor:	propn|Daddy verb|need-Fin-Ind-Pres-S3 part|to verb|get-Inf-S det|a-Ind-Art noun|truck-Acc cm|cm intj|huh noun|bubba ?
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|MARK 4|2|XCOMP 5|6|DET 6|4|OBJ 7|9|PUNCT 8|9|COMPOUND 9|6|APPOS 10|2|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*NTC:	xxx . [+ ohs]
+*CHI:	xxx Daddy .
+%mor:	propn|Daddy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	get an old beater .
+%mor:	verb|get-Fin-Imp-S det|a-Ind-Art adj|old-S1 noun|beater-Acc .
+%gra:	1|4|ROOT 2|4|DET 3|4|AMOD 4|1|OBJ 5|1|PUNCT
+*FAT:	&=laughs .
+*CHI:	truck .
+%mor:	noun|truck .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	truck .
+%mor:	noun|truck .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*FAT:	xxx .
+*CHI:	xxx Daddy truck .
+%mor:	propn|Daddy noun|truck .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*NTC:	it's not cold in here . [+ ohs]
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adj|cold-S1 adp|in adv|here .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*FAT:	what's Nana doing ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 propn|Nana verb|do-Part-Pres-S ?
+%gra:	1|4|ROOT 2|4|AUX 3|4|COMPOUND 4|1|ACL-RELCL 5|1|PUNCT
+*GMA:	xxx .
+*FAT:	hey .
+%mor:	intj|hey .
+%gra:	1|1|ROOT 2|1|PUNCT
+*GMA:	hello xxx .
+%mor:	noun|hello-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	xxx wait for Nana .
+%mor:	verb|wait-Fin-Imp-S adp|for propn|Nana .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*NTC:	xxx . [+ ohs]
+*MOT:	xxx . [+ ohs]
+*GMA:	there's my grandson .
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|grandson .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|NMOD-POSS 4|2|NSUBJ 5|2|PUNCT
+@G:	ohs
+*MOT:	xxx .
+*NTC:	Daddy the doggy .
+%mor:	propn|Daddy det|the-Def-Art noun|doggy .
+%gra:	1|3|ROOT 2|3|DET 3|1|APPOS 4|1|PUNCT
+*FAT:	nope .
+%mor:	intj|nope .
+%gra:	1|1|ROOT 2|1|PUNCT
+*NTC:	can I push it ?
+%mor:	aux|can-Fin-S pron|I-Prs-Nom-S1 verb|push-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*NTC:	please [/] please [/] please [/] please .
+%mor:	intj|please .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	xxx no we think xxx .
+%mor:	intj|no pron|we-Prs-Nom-P1 verb|think-Fin-Ind-Pres-P1 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*FAT:	not right now , baby .
+%mor:	part|not adv|right adv|now cm|cm noun|baby .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|5|ROOT 4|5|PUNCT 5|3|PARATAXIS 6|3|PUNCT
+*NTC:	please .
+%mor:	intj|please .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	hmm .
+%mor:	intj|hmm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	buh_bye [: bye_bye] .
+%mor:	propn|byebye .
+%gra:	1|1|ROOT 2|1|PUNCT
+*NTC:	Nina [: Nana] .
+%mor:	propn|Nana .
+%gra:	1|1|ROOT 2|1|PUNCT
+*NTC:	Nina [: Nana] would you buy it for me ?
+%mor:	propn|Nana aux|would-Fin-S pron|you-Prs-Nom-S2 verb|buy-Inf-S pron|it-Prs-Acc-S3 adp|for pron|I-Prs-Acc-S1 ?
+%gra:	1|4|VOCATIVE 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|4|OBJ 6|7|CASE 7|4|OBL 8|4|PUNCT
+*MOT:	hi !
+%mor:	intj|hi !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	hmm .
+%mor:	intj|hmm .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	ad_shopping
+*FAT:	you wanna ride in there , bubba@g ?
+%mor:	pron|you-Prs-Nom-S2 aux|wanna-Fin-S verb|ride-Fin-Ind-Pres-S2 adp|in adv|there cm|cm noun|bubba ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|5|CASE 5|3|OBL 6|7|PUNCT 7|3|PARATAXIS 8|3|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	xxx . [+ ohs]
+*NTC:	xxx . [+ ohs]
+%com:	overlapping speech
+*FAT:	here .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	&=grunts .
+@G:	ohs
+*NTC:	sibling_name .
+%mor:	propn|siblingname .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	xxx sibling_name put it back .
+%mor:	noun|siblingname verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 adv|back .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+*NTC:	sibling_name you can help me push this .
+%mor:	noun|siblingname pron|you-Prs-Nom-S2 aux|can-Fin-S verb|help-Inf-S pron|I-Prs-Acc-S1 verb|push-Inf-S pron|this-Dem-S1 .
+%gra:	1|4|VOCATIVE 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|4|OBJ 6|4|XCOMP 7|6|OBJ 8|4|PUNCT
+*FAT:	&=laughs .
+*FAT:	all crazy lookin(g) , huh ?
+%mor:	det|all-Def-Tot adj|crazy-S1 noun|look-Ger cm|cm intj|huh ?
+%gra:	1|3|DET 2|3|AMOD 3|5|ROOT 4|5|PUNCT 5|3|APPOS 6|3|PUNCT
+*MOT:	hmm .
+%mor:	intj|hmm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	the Britney_Spears perfume .
+%mor:	det|the-Def-Art propn|BritneySpear noun|perfume .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*MOT:	are you serious ?
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adj|serious-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*NTC:	sibling_name , you wanna help me push it ?
+%mor:	noun|siblingname cm|cm pron|you-Prs-Nom-S2 aux|wanna-Fin-Ind-S verb|help-Inf-S pron|I-Prs-Acc-S1 verb|push-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|5|VOCATIVE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|5|OBJ 7|5|XCOMP 8|7|OBJ 9|5|PUNCT
+*NTC:	help me ?
+%mor:	verb|help-Fin-Imp-S pron|I-Prs-Acc-S1 ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*NTC:	xxx !
+@G:	ad_shopping
+*FAT:	morning man .
+%mor:	noun|morning-Ger noun|man .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+@G:	ohs
+*ADF:	thirty percent off , yeah .
+%mor:	num|thirty noun|percent adp|off cm|cm intj|yeah .
+%gra:	1|2|NUMMOD 2|3|OBL-UNMARKED 3|5|ROOT 4|5|PUNCT 5|3|DISCOURSE 6|3|PUNCT
+*ADM:	how you doin(g) ?
+%mor:	adv|how pron|you-Prs-Nom-S2 verb|do-Part-Pres-S ?
+%gra:	1|3|ROOT 2|3|NSUBJ 3|1|ADVCL-RELCL 4|1|PUNCT
+*ADF:	shoppin(g) .
+%mor:	noun|shopping-Ger .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	yeah I know right .
+%mor:	intj|yeah pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 adj|right-S1 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*ADF:	there's a white one .
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|white-S1 noun|one .
+%gra:	1|2|EXPL 2|5|ROOT 3|5|DET 4|5|AMOD 5|2|NSUBJ 6|2|PUNCT
+*ADF:	holidays .
+%mor:	noun|holiday-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*NTC:	other_name look .
+%mor:	noun|othername noun|look .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*NTC:	other_name .
+%mor:	noun|othername .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	voices in the background, but can't make out what's being said .
+*ADF:	hello .
+%mor:	noun|hello-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	hi .
+%mor:	intj|hi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	me@s escuchas@s ?
+%mor:	L2|xxx L2|xxx ?
+%gra:	1|2|FLAT 2|2|FLAT 3|2|PUNCT
+*ADF:	no@s yo@s llegué@s por@s .
+%mor:	L2|xxx L2|xxx L2|xxx L2|xxx .
+%gra:	1|4|FLAT 2|1|FLAT 3|4|FLAT 4|1|FLAT 5|1|PUNCT
+*FAT:	you guys &+uh carry men's xxx ?
+%mor:	pron|you-Prs-Nom-S2 noun|guy-Plur verb|carry-Fin-Ind-Pres-P3 noun|man-Plur-Acc~part|s ?
+%gra:	1|2|DEP 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|4|CASE 6|3|PUNCT
+*ADF:	yeah , over xxx table xxx .
+%mor:	intj|yeah cm|cm adp|over noun|table .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|CASE 4|4|ROOT 5|4|PUNCT
+*FAT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	&=coughs .
+*CHI:	Dada .
+%mor:	propn|Dada .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	ad_shopping
+*FAT:	hold_on .
+%mor:	noun|holdon .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Daddy .
+%mor:	propn|Daddy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	hmm ?
+%mor:	intj|hmm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*FAT:	you want out ?
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 adp|out ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	go find Mama .
+%mor:	verb|go-Fin-Imp-S verb|find-Fin-Imp-S noun|mama-Acc .
+%gra:	1|3|ROOT 2|1|XCOMP 3|2|OBJ 4|1|PUNCT
+@G:	ohs
+@End

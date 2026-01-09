@@ -1,0 +1,307 @@
+@UTF8
+@PID:	11312/a-00096774-0
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, NTC Brother
+@ID:	eng|FMB_home|CHI|1;11.|male|||Target_Child||20177|
+@ID:	eng|FMB_home|MOT||female|||Mother|||
+@ID:	eng|FMB_home|NTC||male|||Brother|||
+@Comment:	20177_context4_25137
+@G:	ohs
+@Types:	long, everyday, TD
+*CHI:	Mom .
+%mor:	noun|mom .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	uhoh .
+%mor:	intj|uhoh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I want .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	Mom .
+%mor:	noun|mom .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*CHI:	Mom .
+%mor:	noun|mom .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hi .
+%mor:	intj|hi .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	ad_NTC
+*MOT:	hi .
+%mor:	intj|hi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*CHI:	poopie .
+%mor:	noun|poopie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	yeah , I'm changing the baby's diaper (be)cause he went poopie .
+%mor:	intj|yeah cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|change-Part-Pres-S det|the-Def-Art noun|baby~part|s noun|diaper-Acc sconj|because pron|he-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3-irr noun|poopie-Acc .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|13|ROOT 6|7|DET 7|9|NMOD-POSS 8|7|CASE 9|5|OBJ 10|12|MARK 11|12|NSUBJ 12|5|ADVCL 13|12|OBJ 14|5|PUNCT
+*CHI:	xxx go potty .
+%mor:	verb|go-Fin-Imp-S noun|potty-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	yup .
+%mor:	intj|yup .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx go potty .
+%mor:	verb|go-Fin-Imp-S noun|potty-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	yup , he went potty .
+%mor:	intj|yup cm|cm pron|he-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3-irr noun|potty-Acc .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	xxx .
+*CHI:	<drink the milk> [/] drink the milk .
+%mor:	verb|drink-Fin-Imp-S det|the-Def-Art noun|milk-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	no , he can't drink the same milk as you .
+%mor:	intj|no cm|cm pron|he-Prs-Nom-S3 aux|can-Fin-S~part|not verb|drink-Inf-S det|the-Def-Art adj|same-S1 noun|milk-Acc sconj|as pron|you-Prs-Acc-S2 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|11|ROOT 7|9|DET 8|9|AMOD 9|6|OBJ 10|11|MARK 11|6|ADVCL 12|6|PUNCT
+*MOT:	no , that'll make him very sick .
+%mor:	intj|no cm|cm pron|that-Dem~aux|will-Fin-S verb|make-Inf-S pron|he-Prs-Acc-S3 adv|very adj|sick-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|5|OBJ 7|8|ADVMOD 8|5|XCOMP 9|5|PUNCT
+*CHI:	no_way !
+%mor:	intj|noway !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx ?
+*MOT:	yeah , that milk will make him sick and make his tummy hurt .
+%mor:	intj|yeah cm|cm sconj|that noun|milk aux|will-Fin-S verb|make-Inf-S pron|he-Prs-Acc-S3 adj|sick-S1 cconj|and verb|make-Inf-S pron|his-Prs-Gen-S3 noun|tummy-Acc verb|hurt-Inf-S .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|MARK 4|6|NSUBJ 5|6|AUX 6|13|ROOT 7|6|OBJ 8|6|XCOMP 9|10|CC 10|6|CONJ 11|12|NMOD-POSS 12|10|OBJ 13|10|XCOMP 14|6|PUNCT
+*MOT:	hey , don't make his tummy ouchie , bud(dy) .
+%mor:	intj|hey cm|cm aux|do-Fin-Imp-S~part|not verb|make-Fin-Imp-S pron|his-Prs-Gen-S3 noun|tummy noun|ouchie-Acc cm|cm noun|buddy .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|AUX 4|5|ADVMOD 5|10|ROOT 6|8|NMOD-POSS 7|8|COMPOUND 8|5|OBJ 9|10|PUNCT 10|8|APPOS 11|5|PUNCT
+*MOT:	targetchild_name , do you wanna go to time_out ?
+%mor:	noun|targetchildname cm|cm aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 part|wana verb|go-Inf-S adp|to noun|timeout ?
+%gra:	1|6|VOCATIVE 2|1|PUNCT 3|6|AUX 4|6|NSUBJ 5|6|ADVMOD 6|8|ROOT 7|8|CASE 8|6|OBL 9|6|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	then don't share your bottle with him .
+%mor:	adv|then aux|do-Fin-Imp-S~part|not verb|share-Fin-Imp-S pron|your-Prs-Gen-S2 noun|bottle-Acc adp|with pron|he-Prs-Acc-S3 .
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|8|CASE 8|4|OBL 9|4|PUNCT
+*NTC:	&=vocalizes .
+*CHI:	ow [/] ow .
+%mor:	intj|ow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	see , he says that hurt .
+%mor:	verb|see-Fin-Imp-S cm|cm pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Pres-S3 pron|that-Dem verb|hurt-Fin-Past-S-irr .
+%gra:	1|4|CCOMP 2|4|PUNCT 3|4|NSUBJ 4|6|ROOT 5|6|NSUBJ 6|4|CCOMP 7|4|PUNCT
+*MOT:	he said ow .
+%mor:	pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr adv|ow .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+*CHI:	&=laughs .
+*MOT:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*NTC:	&=vocalizes .
+*MOT:	see .
+%mor:	verb|see-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	hey !
+%mor:	intj|hey !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*CHI:	drink the milk .
+%mor:	verb|drink-Fin-Imp-S det|the-Def-Art noun|milk-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	no , he doesn't drink milk .
+%mor:	intj|no cm|cm pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|drink-Inf-S noun|milk-Acc .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|7|ROOT 7|6|OBJ 8|6|PUNCT
+*CHI:	no , xxx drink a buhba@g .
+%mor:	intj|no cm|cm verb|drink-Fin-Imp-S det|a-Ind-Art noun|buhba-Acc .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	targetchild_name , he's too little for a buhba@g .
+%mor:	noun|targetchildname cm|cm pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|too adj|little-S1 adp|for det|a-Ind-Art noun|buhba .
+%gra:	1|6|VOCATIVE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|9|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+*CHI:	xxx .
+*CHI:	&=laughs .
+*CHI:	&=vocalizes .
+*CHI:	xxx ?
+*MOT:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=vocalizes .
+*CHI:	xxx .
+*NTC:	&=vocalizes .
+*CHI:	xxx .
+*CHI:	drink your milk , Mommy .
+%mor:	verb|drink-Fin-Imp-S pron|your-Prs-Gen-S2 noun|milk-Acc cm|cm propn|Mommy .
+%gra:	1|5|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|5|PUNCT 5|1|VOCATIVE 6|1|PUNCT
+*NTC:	&=vocalizes .
+*CHI:	xxx .
+*NTC:	&=vocalizes .
+*CHI:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	drink your milk .
+%mor:	verb|drink-Fin-Imp-S pron|your-Prs-Gen-S2 noun|milk-Acc .
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+*NTC:	&=vocalizes .
+*CHI:	hey &=laughs .
+%mor:	intj|hey .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	baby making sounds
+*MOT:	yeah , see he doesn't want it .
+%mor:	intj|yeah cm|cm verb|see-Fin-Imp-S pron|he-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|want-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|8|ROOT 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|3|CCOMP 8|7|OBJ 9|3|PUNCT
+*MOT:	he's pushin(g) it away .
+%mor:	pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|push-Part-Pres-S pron|it-Prs-Acc-S3 adv|away .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*NTC:	&=cries .
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=screams .
+*MOT:	you're makin(g) him cry .
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|make-Part-Pres-S pron|he-Prs-Acc-S3 verb|cry-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|3|OBJ 5|3|XCOMP 6|3|PUNCT
+*MOT:	<don't do that> [/] don't do that .
+%mor:	aux|do-Fin-Imp-S~part|not verb|do-Fin-Imp-S pron|that-Dem .
+%gra:	1|3|AUX 2|3|ADVMOD 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	you're making him cry .
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|make-Part-Pres-S pron|he-Prs-Acc-S3 verb|cry-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|3|OBJ 5|3|XCOMP 6|3|PUNCT
+*CHI:	xxx .
+*CHI:	want drink your milk ?
+%mor:	verb|want-Fin-Imp-S verb|drink-Fin-Imp-S pron|your-Prs-Gen-S2 noun|milk-Acc ?
+%gra:	1|4|ROOT 2|1|XCOMP 3|4|NMOD-POSS 4|2|OBJ 5|1|PUNCT
+*CHI:	xxx .
+*NTC:	&=vocalizes .
+*CHI:	hey .
+%mor:	intj|hey .
+%gra:	1|1|ROOT 2|1|PUNCT
+*NTC:	&=vocalizes .
+*CHI:	xxx .
+*MOT:	no , not in his mouth .
+%mor:	intj|no cm|cm part|not adp|in pron|his-Prs-Gen-S3 noun|mouth .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|ADVMOD 4|6|CASE 5|6|NMOD-POSS 6|6|ROOT 7|6|PUNCT
+*MOT:	that does not go in his mouth .
+%mor:	pron|that-Dem aux|do-Fin-Ind-Pres-S3 part|not verb|go-Inf-S adp|in pron|his-Prs-Gen-S3 noun|mouth .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|4|PUNCT
+*MOT:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	you wanna go to time_out , targetchild_name ?
+%mor:	pron|you-Prs-Nom-S2 aux|wanna-Fin-Ind-Pres-S2 verb|go-Inf-S adp|to noun|timeout cm|cm propn|targetchildname ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|5|CASE 5|3|OBL 6|7|PUNCT 7|5|APPOS 8|3|PUNCT
+*MOT:	stop .
+%mor:	verb|stop-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	drink your milk .
+%mor:	verb|drink-Fin-Imp-S pron|your-Prs-Gen-S2 noun|milk-Acc .
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+*MOT:	you want your milk ?
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|your-Prs-Gen-S2 noun|milk-Acc ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+@G:	ohs
+*CHI:	xxx milk .
+%mor:	noun|milk .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=screams &=laughs .
+*CHI:	xxx .
+@G:	ch_conversation
+*MOT:	you gonna let me cut your nails ?
+%mor:	pron|you-Prs-Nom-S2 adv|gonna verb|let-Fin-Imp-S pron|I-Prs-Acc-S1 verb|cut-Inf-S pron|your-Prs-Gen-S2 noun|nail-Plur-Acc ?
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|7|ROOT 4|3|OBJ 5|3|XCOMP 6|7|NMOD-POSS 7|5|OBJ 8|3|PUNCT
+*MOT:	&+ca can I cut your fingernails ?
+%mor:	aux|can-Fin-S pron|I-Prs-Nom-S1 verb|cut-Inf-S pron|your-Prs-Gen-S2 noun|fingernail-Plur-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT
+*CHI:	oh_no .
+%mor:	propn|ohno .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	oh_no .
+%mor:	propn|ohno .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*CHI:	oh_no .
+%mor:	propn|ohno .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=whines .
+*MOT:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=vocalizes .
+*MOT:	why are you gettin(g) into everything tonight ?
+%mor:	adv|why aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|get-Part-Pres-S adp|into pron|everything-Tot-S1 noun|tonight ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|6|CASE 6|4|OBL 7|4|OBL-UNMARKED 8|4|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	you wanna go get some of your toys ?
+%mor:	pron|you-Prs-Nom-S2 aux|wanna-Fin-Ind-S2 verb|go-Inf-S verb|get-Inf-S det|some-Def-Ind adp|of pron|your-Prs-Gen-S2 noun|toy-Plur ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|3|XCOMP 5|4|OBJ 6|8|CASE 7|8|NMOD-POSS 8|5|NMOD 9|3|PUNCT
+*MOT:	you wanna get some blocks ?
+%mor:	pron|you-Prs-Nom-S2 aux|wanna-Fin-Ind-Pres-S2 verb|get-Inf-S det|some-Def-Ind noun|block-Plur-Acc ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	my blocks .
+%mor:	pron|my-Prs-Gen-S1 noun|block-Plur .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*MOT:	gonna get some blocks and build Mommy a tower ?
+%mor:	adv|gonna verb|get-Fin-S det|some-Def-Ind noun|block-Plur-Acc cconj|and verb|build-Fin-Imp-S propn|Mommy det|a-Ind-Art noun|tower-Acc ?
+%gra:	1|2|ADVMOD 2|9|ROOT 3|4|DET 4|2|OBJ 5|6|CC 6|2|CONJ 7|6|IOBJ 8|9|DET 9|6|OBJ 10|2|PUNCT
+*CHI:	a block .
+%mor:	det|a-Ind-Art noun|block .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	a block .
+%mor:	det|a-Ind-Art noun|block .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	my block .
+%mor:	pron|my-Prs-Gen-S1 noun|block .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx block .
+%mor:	noun|block .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	come_on .
+%mor:	noun|comeon .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	let's go find some toys .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|go-Inf-S verb|find-Inf-S det|some-Def-Ind noun|toy-Plur-Acc .
+%gra:	1|6|ROOT 2|1|OBJ 3|1|XCOMP 4|3|XCOMP 5|6|DET 6|4|OBJ 7|1|PUNCT
+*CHI:	xxx .
+*CHI:	&=laughs .
+*CHI:	hold_on [/] hold_on .
+%mor:	noun|holdon .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=laughs .
+*CHI:	ow [/] ow [/] ow [/] ow [/] ow [/] ow .
+%mor:	intj|ow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	are you okay ?
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adj|okay-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	(o)kay doggy .
+%mor:	intj|okay adj|doggy-S1 .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*MOT:	yeah , you fell off the doggy ?
+%mor:	intj|yeah cm|cm pron|you-Prs-Nom-S2 verb|fall-Fin-Ind-Past-S2-irr adp|off det|the-Def-Art noun|doggy ?
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	maybe you shouldn't have tried to ride her like a horse .
+%mor:	adv|maybe pron|you-Prs-Nom-S2 aux|should-Fin-S~part|not aux|have-Inf-S verb|try-Part-Past-S part|to verb|ride-Inf-S pron|her-Prs-Acc-S3 adp|like det|a-Ind-Art noun|horse .
+%gra:	1|6|ADVMOD 2|6|NSUBJ 3|6|AUX 4|6|ADVMOD 5|6|AUX 6|12|ROOT 7|8|MARK 8|6|XCOMP 9|8|OBJ 10|12|CASE 11|12|DET 12|8|OBL 13|6|PUNCT
+*CHI:	horse ?
+%mor:	noun|horse ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	ohs
+*CHI:	a horsie [/] horsie .
+%mor:	det|a-Ind-Art noun|horsie .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+@End

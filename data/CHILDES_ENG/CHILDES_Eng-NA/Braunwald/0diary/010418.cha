@@ -1,0 +1,79 @@
+@UTF8
+@PID:	11312/c-00010556-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, SIS Sister
+@ID:	eng|Braunwald|CHI|01;04.18|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@Date:	08-JUL-1972
+@Types:	long, toyplay, TD
+*CHI:	bow(wow) bar(k) bar(k) .
+%mor:	noun|bowwow noun|bark noun|bark .
+%gra:	1|3|COMPOUND 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%sit:	810
+*CHI:	toe .
+%mor:	noun|toe .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	811
+*CHI:	Mommy , Sue , Sue .
+%mor:	propn|Mommy cm|cm propn|Sue cm|cm propn|Sue .
+%gra:	1|5|ROOT 2|3|PUNCT 3|1|LIST 4|5|PUNCT 5|1|LIST 6|1|PUNCT
+%sit:	812
+*CHI:	ba@b tatu [: thank_you] .
+%mor:	b|ba intj|thankyou .
+%gra:	1|2|FLAT 2|1|FLAT 3|1|PUNCT
+%sit:	813
+*CHI:	baby cry cry baby poddy [: potty] .
+%mor:	noun|baby noun|cry noun|cry noun|baby noun|potty .
+%gra:	1|2|COMPOUND 2|5|COMPOUND 3|5|COMPOUND 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%sit:	814
+*CHI:	caca [= poo] .
+%mor:	noun|caca .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	815
+*MOT:	who made caca [= poo] ?
+%mor:	pron|who-Int verb|make-Fin-Ind-Past-S3-irr noun|caca-Acc ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	815
+*CHI:	Do [: Joanna] .
+%mor:	propn|Joanna .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	815
+*CHI:	Deedee [: Joanna] cy [: cry] .
+%mor:	propn|Joanna verb|cry-Fin-Ind-S .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+%sit:	816
+*CHI:	baby baby .
+%mor:	noun|baby noun|baby .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%sit:	817
+*MOT:	where did Jo [: Joanna] go ?
+%mor:	adv|where aux|do-Fin-Ind-Past-S3-irr propn|Joanna verb|go-Inf-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%sit:	818
+*CHI:	go go .
+%mor:	verb|go-Fin-Imp-S verb|go-Inf-S .
+%gra:	1|2|ROOT 2|1|XCOMP 3|1|PUNCT
+%sit:	818
+*SIS:	where's Sue ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 propn|Sue ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+%sit:	j2_58_175
+*CHI:	Sue , Sue , hi , Sue .
+%mor:	propn|Sue cm|cm propn|Sue cm|cm intj|hi cm|cm propn|Sue .
+%gra:	1|7|ROOT 2|3|PUNCT 3|1|FLAT 4|5|PUNCT 5|1|DISCOURSE 6|7|PUNCT 7|1|LIST 8|1|PUNCT
+%sit:	j2_58_175
+*CHI:	towel .
+%mor:	noun|towel .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	819
+*SIS:	come on , Laura , let's go .
+%mor:	verb|come-Fin-Imp-S adp|on cm|cm propn|Laura cm|cm verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|go-Inf-S .
+%gra:	1|8|ROOT 2|1|COMPOUND-PRT 3|4|PUNCT 4|1|VOCATIVE 5|4|PUNCT 6|1|PARATAXIS 7|6|OBJ 8|6|XCOMP 9|1|PUNCT
+%sit:	820
+*CHI:	go .
+%mor:	verb|go-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	820
+@End

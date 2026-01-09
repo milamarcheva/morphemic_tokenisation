@@ -1,0 +1,106 @@
+@UTF8
+@PID:	11312/a-00077957-1
+@Begin
+@Languages:	eng
+@Participants:	FA1 Adult, CHI Target_Child
+@Options:	bullets
+@ID:	eng|StoopsMontag|FA1|||||Adult|||
+@ID:	eng|StoopsMontag|CHI|||||Target_Child|||
+@Media:	01_Max, audio
+@Types:	cross, book, TD
+*FA1:	skiing . 
+%mor:	noun|ski-Ger .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:C
+*CHI:	we do a xxx with us . 
+%mor:	pron|we-Prs-Nom-P1 verb|do-Fin-Ind-Pres-P1 det|a-Ind-Art adp|with pron|we-Prs-Acc-P1 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|2|PUNCT
+%cod:	$xds:A
+*FA1:	they're riding to funny hill , a gental ski slope . 
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|ride-Part-Pres-S adp|to adj|funny-S1 noun|hill cm|cm det|a-Ind-Art adj|gental-S1 noun|ski noun|slope .
+%gra:	1|3|NSUBJ 2|3|AUX 3|11|ROOT 4|6|CASE 5|6|AMOD 6|3|OBL 7|11|PUNCT 8|11|DET 9|11|AMOD 10|11|COMPOUND 11|6|APPOS 12|3|PUNCT
+%cod:	$txt:B; $xds:C
+*CHI:	they won't , they won't follow with us . 
+%mor:	pron|they-Prs-Nom-P3 aux|will-Fin-S~part|not cm|cm pron|they-Prs-Nom-P3 aux|will-Fin-S~part|not verb|follow-Inf-S adp|with pron|we-Prs-Acc-P1 .
+%gra:	1|2|NSUBJ 2|8|REPARANDUM 3|2|ADVMOD 4|2|PUNCT 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|10|ROOT 9|10|CASE 10|8|OBL 11|8|PUNCT
+%cod:	$xds:A
+*FA1:	oh yeah , look at those little ones , they say , nice view , hold tight . 
+%mor:	intj|oh intj|yeah cm|cm verb|look-Fin-Imp-S adp|at det|that-Def-Dem-Plur adj|little-S1 noun|one-Plur cm|cm pron|they-Prs-Nom-P3 verb|say-Fin-Ind-Pres-P3 cm|cm adj|nice-S1 noun|view-Acc cm|cm verb|hold-Fin-Imp-S adj|tight-S1 .
+%gra:	1|4|DISCOURSE 2|4|DISCOURSE 3|2|PUNCT 4|17|ROOT 5|8|CASE 6|8|DET 7|8|AMOD 8|4|OBL 9|11|PUNCT 10|11|NSUBJ 11|4|PARATAXIS 12|14|PUNCT 13|14|AMOD 14|11|OBJ 15|16|PUNCT 16|4|PARATAXIS 17|16|XCOMP 18|4|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	+" just slow down , point your skis in like a pizza slice . 
+%mor:	adv|just verb|slow-Fin-Imp-S adp|down cm|cm verb|point-Fin-Imp-S pron|your-Prs-Gen-S2 noun|ski-Acc adp|in adp|like det|a-Ind-Art noun|pizza noun|slice .
+%gra:	1|2|ADVMOD 2|12|ROOT 3|2|COMPOUND-PRT 4|5|PUNCT 5|2|PARATAXIS 6|7|NMOD-POSS 7|5|OBJ 8|12|CASE 9|12|CASE 10|12|DET 11|12|COMPOUND 12|5|OBL 13|2|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	says Katie's daddy . 
+%mor:	verb|say-Fin-Ind-Pres-S3 propn|Katie~part|s noun|daddy-Acc .
+%gra:	1|4|ROOT 2|4|NMOD-POSS 3|2|CASE 4|1|OBJ 5|1|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	+" if your skis are straight like spaghetti stick- sticks , you'll go real fast . 
+%mor:	sconj|if pron|your-Prs-Gen-S2 noun|ski-Plur aux|be-Fin-Ind-Pres-P3 adj|straight-S1 adp|like noun|spaghetti noun|stick noun|stick-Plur cm|cm pron|you-Prs-Nom-S2~aux|will-Fin-S verb|go-Inf-S adv|real adv|fast .
+%gra:	1|5|MARK 2|3|NMOD-POSS 3|5|NSUBJ 4|5|COP 5|13|ADVCL 6|9|CASE 7|9|COMPOUND 8|9|COMPOUND 9|5|OBL 10|5|PUNCT 11|13|NSUBJ 12|13|AUX 13|15|ROOT 14|15|ADVMOD 15|13|ADVMOD 16|13|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	skiing is fun . 
+%mor:	noun|ski-Ger aux|be-Fin-Ind-Pres-S3 adj|fun-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	Kate makes a good pizza slice . 
+%mor:	propn|Kate verb|make-Fin-Ind-Pres-S3 det|a-Ind-Art adj|good-S1 noun|pizza noun|slice-Acc .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|DET 4|6|AMOD 5|6|COMPOUND 6|2|OBJ 7|2|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	she glides slowly through the hoops with her mommy's help . 
+%mor:	pron|she-Prs-Nom-S3 verb|glide-Fin-Ind-Pres-S3 adv|slowly adp|through det|the-Def-Art noun|hoop-Plur adp|with pron|her-Prs-Gen-S3 noun|mommy~part|s noun|help .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|2|ADVMOD 4|6|CASE 5|6|DET 6|2|OBL 7|11|CASE 8|9|NMOD-POSS 9|11|NMOD-POSS 10|9|CASE 11|6|NMOD 12|2|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	when it is Max's turn , he wants to do it all by himself . 
+%mor:	adv|when pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 propn|Max~part|s noun|turn cm|cm pron|he-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 part|to verb|do-Inf-S pron|it-Prs-Acc-S3 det|all-Def-Tot adp|by pron|himself-Prs-Acc-reflx-S3 .
+%gra:	1|6|ADVMOD 2|6|NSUBJ 3|6|COP 4|6|NMOD-POSS 5|4|CASE 6|9|ADVCL 7|6|PUNCT 8|9|NSUBJ 9|15|ROOT 10|11|MARK 11|9|XCOMP 12|11|OBJ 13|11|ADVMOD 14|15|CASE 15|11|OBL 16|9|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	he zooms through the hoops way too fast . 
+%mor:	pron|he-Prs-Nom-S3 verb|zoom-Fin-Ind-Pres-S3 adp|through det|the-Def-Art noun|hoop-Plur adv|way adv|too adj|fast-S1 .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|8|ADVMOD 7|8|ADVMOD 8|2|ADVMOD 9|2|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	+" pizza slice !
+%mor:	noun|pizza noun|slice !
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	Max , pizza slice !
+%mor:	propn|Max cm|cm noun|pizza noun|slice !
+%gra:	1|4|ROOT 2|4|PUNCT 3|4|COMPOUND 4|1|LIST 5|1|PUNCT
+*FA1:	shouts Kate . 
+%mor:	verb|shout-Fin-Ind-Pres-S3 propn|Kate-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	Max lands in his snow drift with a huge grin and a hungry tummy . 
+%mor:	propn|Max verb|land-Fin-Ind-Pres-S3 adp|in pron|his-Prs-Gen-S3 noun|snow verb|drift-Fin-Ind-Pres-S3 adp|with det|a-Ind-Art adj|huge-S1 noun|grin cconj|and det|a-Ind-Art adj|hungry-S1 noun|tummy .
+%gra:	1|2|NSUBJ 2|14|ROOT 3|5|CASE 4|5|NMOD-POSS 5|2|OBL 6|2|XCOMP 7|10|CASE 8|10|DET 9|10|AMOD 10|6|OBL 11|14|CC 12|14|DET 13|14|AMOD 14|10|CONJ 15|2|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	+" now I'm ready for a pizza slice . 
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|ready-S1 adp|for det|a-Ind-Art noun|pizza noun|slice .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|COP 4|8|ROOT 5|8|CASE 6|8|DET 7|8|COMPOUND 8|4|OBL 9|4|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	he laughs . 
+%mor:	pron|he-Prs-Nom-S3 verb|laugh-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	+" here is your pizza !
+%mor:	adv|here aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|pizza !
+%gra:	1|4|ROOT 2|1|COP 3|4|NMOD-POSS 4|1|NSUBJ 5|1|PUNCT
+%cod:	$txt:B; $xds:C
+*CHI:	where the pizza ? 
+%mor:	adv|where det|the-Def-Art noun|pizza ?
+%gra:	1|3|ROOT 2|3|DET 3|1|NSUBJ 4|1|PUNCT
+%cod:	$xds:A
+*FA1:	they made a big circle . 
+%mor:	pron|they-Prs-Nom-P3 verb|make-Fin-Ind-Past-P3-irr det|a-Ind-Art adj|big-S1 noun|circle-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|2|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	that's silly . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|silly-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	where was it ? 
+%mor:	adv|where aux|be-Fin-Ind-Past-S3-irr pron|it-Prs-Nom-S3 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+%cod:	$xds:A
+@End

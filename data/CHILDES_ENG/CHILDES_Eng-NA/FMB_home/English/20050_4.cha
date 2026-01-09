@@ -1,0 +1,578 @@
+@UTF8
+@PID:	11312/a-00096660-0
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|FMB_home|CHI|2;00.|female|||Target_Child||20050|
+@ID:	eng|FMB_home|MOT||female|||Mother|||
+@Comment:	20050_context4_5620
+@G:	ohs
+@Types:	long, everyday, TD
+*CHI:	xxx .
+*CHI:	I wanna go potty .
+%mor:	pron|I-Prs-Nom-S1 aux|wanna-Fin-S verb|go-Inf-S noun|potty-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	xxx .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+@G:	ch_books
+*MOT:	again ?
+%mor:	adv|again ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay , sit down .
+%mor:	intj|okay cm|cm verb|sit-Fin-Imp-S adp|down .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+*MOT:	you keep making me &+r .
+%mor:	pron|you-Prs-Nom-S2 verb|keep-Fin-Ind-Pres-S2 verb|make-Ger-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|XCOMP 4|3|OBJ 5|2|PUNCT
+*MOT:	sit down .
+%mor:	verb|sit-Fin-Imp-S adp|down .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+*MOT:	you want me to read this book .
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|I-Prs-Acc-S1 part|to verb|read-Inf-S det|this-Def-Dem-Sing noun|book-Acc .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|OBJ 4|5|MARK 5|2|XCOMP 6|7|DET 7|5|OBJ 8|2|PUNCT
+*MOT:	Fox_in_Socks by . [+ cloze]
+%mor:	propn|FoxinSocks adp|by .
+%gra:	1|2|ROOT 2|1|CASE 3|1|PUNCT
+*MOT:	who wrote it ? [+ cloze]
+%mor:	pron|who-Rel verb|write-Fin-Ind-Past-S3-irr pron|it-Prs-Acc-S3 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	who wrote this ? [+ cloze]
+%mor:	pron|who-Rel verb|write-Fin-Ind-Past-S3-irr pron|this-Dem-S1 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	it's by . [+ cloze]
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adp|by .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|CASE 4|2|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	&+Dr ? [+ cloze]
+*CHI:	&+Seuss . [+ cloze]
+*MOT:	that's right .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|right-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	(Mr)_Fox in socks . [+ recit]
+%mor:	propn|MrFox adp|in noun|sock-Plur .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*MOT:	(Mr)_Fox . [+ recit]
+%mor:	propn|MrFox .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*MOT:	socks . [+ recit]
+%mor:	noun|sock-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*MOT:	box . [+ recit]
+%mor:	noun|box .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	in socks .
+%mor:	adp|in noun|sock-Plur .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MOT:	(Mr)_Knox . [+ recit]
+%mor:	propn|MrKnox .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	(Mr)_Knox in box . [+ recit]
+%mor:	propn|MrKnox adp|in noun|box .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*MOT:	(Mr)_Fox in ? [+ recit] [+ cloze]
+%mor:	propn|MrFox adp|in ?
+%gra:	1|2|ROOT 2|1|CASE 3|1|PUNCT
+*CHI:	socks . [+ recit] [+ cloze]
+%mor:	noun|sock-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	(Mr)_Knox on (Mr)_Fox in socks in box . [+ recit]
+%mor:	propn|MrKnox adp|on propn|MrFox adp|in noun|sock-Plur adp|in noun|box .
+%gra:	1|7|ROOT 2|5|CASE 3|1|NMOD 4|5|CASE 5|1|NMOD 6|7|CASE 7|5|NMOD 8|1|PUNCT
+*CHI:	in socks . [+ recit]
+%mor:	adp|in noun|sock-Plur .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MOT:	socks on (Mr)_Knox and (Mr)_Knox in box . [+ recit]
+%mor:	noun|sock-Plur adp|on propn|MrKnox cconj|and propn|MrKnox adp|in noun|box .
+%gra:	1|7|ROOT 2|3|CASE 3|1|NMOD 4|5|CC 5|3|CONJ 6|7|CASE 7|3|NMOD 8|1|PUNCT
+*CHI:	in box . [+ recit]
+%mor:	adp|in noun|box .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MOT:	(Mr)_Fox in socks on box on (Mr)_Knox . [+ recit]
+%mor:	propn|MrFox adp|in noun|sock-Plur adp|on noun|box adp|on propn|MrKnox .
+%gra:	1|7|ROOT 2|3|CASE 3|1|NMOD 4|5|CASE 5|1|NMOD 6|7|CASE 7|5|NMOD 8|1|PUNCT
+*CHI:	xxx .
+*MOT:	chicks with bricks come chicks with ? [+ recit] [+ cloze]
+%mor:	noun|chick-Plur adp|with noun|brick-Plur verb|come-Fin-Ind-Pres-P3 noun|chick-Plur-Acc adp|with ?
+%gra:	1|4|NSUBJ 2|3|CASE 3|1|NMOD 4|6|ROOT 5|4|OBJ 6|4|PUNCT 7|4|PUNCT
+*CHI:	blocks come . [+ recit] [+ cloze]
+%mor:	noun|block-Plur verb|come-Fin-Ind-Pres-P3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	chicks with bricks and blocks and ? [+ recit] [+ cloze]
+%mor:	noun|chick-Plur adp|with noun|brick-Plur cconj|and noun|block-Plur cconj|and ?
+%gra:	1|6|ROOT 2|3|CASE 3|1|NMOD 4|5|CC 5|3|CONJ 6|1|CONJ 7|1|PUNCT
+*CHI:	clocks come . [+ recit] [+ cloze]
+%mor:	noun|clock-Plur verb|come-Fin-Ind-Pres-P3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	look sir , look sir , Mr_Knox sir . [+ recit]
+%mor:	verb|look-Fin-Imp-S noun|sir-Acc cm|cm verb|look-Fin-Imp-S noun|sir-Acc cm|cm propn|MrKnox noun|sir .
+%gra:	1|8|ROOT 2|1|OBJ 3|4|PUNCT 4|1|PARATAXIS 5|4|OBJ 6|7|PUNCT 7|4|VOCATIVE 8|7|FLAT 9|1|PUNCT
+*MOT:	let's do tricks with bricks and blocks sir . [+ recit]
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|do-Inf-S noun|trick-Plur-Acc adp|with noun|brick-Plur cconj|and noun|block-Plur noun|sir .
+%gra:	1|9|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|6|CASE 6|3|OBL 7|8|CC 8|6|CONJ 9|6|APPOS 10|1|PUNCT
+*MOT:	let's do tricks with chicks and clocks sir . [+ recit]
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|do-Inf-S noun|trick-Plur-Acc adp|with noun|chick-Plur cconj|and noun|clock-Plur noun|sir .
+%gra:	1|9|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|6|CASE 6|3|OBL 7|8|CC 8|6|CONJ 9|6|APPOS 10|1|PUNCT
+*MOT:	first I'll make a quick trick brick stack . [+ recit]
+%mor:	adv|first pron|I-Prs-Nom-S1~aux|will-Fin-S verb|make-Inf-S det|a-Ind-Art adj|quick-S1 noun|trick noun|brick noun|stack-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|9|DET 6|9|AMOD 7|9|COMPOUND 8|9|COMPOUND 9|4|OBJ 10|4|PUNCT
+*MOT:	then I'll make it quick trick block stack . [+ recit]
+%mor:	adv|then pron|I-Prs-Nom-S1~aux|will-Fin-S verb|make-Inf-S pron|it-Prs-Acc-S3 adj|quick-S1 noun|trick noun|block noun|stack .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|4|OBJ 6|9|AMOD 7|8|COMPOUND 8|9|COMPOUND 9|4|XCOMP 10|4|PUNCT
+*MOT:	you can make a quick trick chick stack . [+ recit]
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|make-Inf-S det|a-Ind-Art adj|quick-S1 noun|trick noun|chick noun|stack-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|8|DET 5|8|AMOD 6|8|COMPOUND 7|8|COMPOUND 8|3|OBJ 9|3|PUNCT
+*MOT:	you can make a quick trick &+ch clock stack . [+ recit]
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|make-Inf-S det|a-Ind-Art adj|quick-S1 noun|trick noun|clock noun|stack-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|8|DET 5|8|AMOD 6|8|COMPOUND 7|8|COMPOUND 8|3|OBJ 9|3|PUNCT
+*MOT:	and here's a new trick Mr_Knox . [+ recit]
+%mor:	cconj|and adv|here~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|new-S1 noun|trick propn|MrKnox .
+%gra:	1|2|CC 2|7|ROOT 3|2|COP 4|7|DET 5|6|AMOD 6|2|NSUBJ 7|2|NSUBJ 8|2|PUNCT
+*MOT:	socks on chicks and chicks on (Mr)_Fox . [+ recit]
+%mor:	noun|sock-Plur adp|on noun|chick-Plur cconj|and noun|chick-Plur adp|on propn|MrFox .
+%gra:	1|7|ROOT 2|3|CASE 3|1|NMOD 4|5|CC 5|3|CONJ 6|7|CASE 7|1|NMOD 8|1|PUNCT
+*MOT:	(Mr)_Fox on clocks on bricks and blocks . [+ recit]
+%mor:	propn|MrFox adp|on noun|clock-Plur adp|on noun|brick-Plur cconj|and noun|block-Plur .
+%gra:	1|7|ROOT 2|3|CASE 3|1|NMOD 4|5|CASE 5|3|NMOD 6|7|CC 7|5|CONJ 8|1|PUNCT
+*MOT:	bricks and blocks on (Mr)_Knox on box . [+ recit]
+%mor:	noun|brick-Plur cconj|and noun|block-Plur adp|on propn|MrKnox adp|on noun|box .
+%gra:	1|7|ROOT 2|3|CC 3|1|CONJ 4|7|CASE 5|1|NMOD 6|7|CASE 7|1|NMOD 8|1|PUNCT
+*MOT:	now we come to ticks@o [: tick@o] and tocks@o [: tock@o] sir . [+ recit]
+%mor:	adv|now pron|we-Prs-Nom-P1 verb|come-Fin-Ind-Pres-P1 adp|to o|tick cconj|and o|tock noun|sir .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|8|ROOT 4|5|CASE 5|3|FLAT 6|7|CC 7|5|FLAT 8|3|OBL 9|3|PUNCT
+*MOT:	try to say this Mr_Knox sir . [+ recit]
+%mor:	verb|try-Fin-Imp-S part|to verb|say-Inf-S det|this-Def-Dem-Sing propn|MrKnox noun|sir-Acc .
+%gra:	1|6|ROOT 2|3|MARK 3|1|XCOMP 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|1|PUNCT
+*MOT:	clocks on (Mr)_Fox tick@o , clocks on (Mr)_Knox tock@o . [+ recit]
+%mor:	noun|clock-Plur adp|on propn|MrFox o|tick cm|cm noun|clock-Plur adp|on propn|MrKnox o|tock .
+%gra:	1|9|ROOT 2|4|CASE 3|4|COMPOUND 4|1|FLAT 5|6|PUNCT 6|4|CONJ 7|9|CASE 8|9|COMPOUND 9|6|FLAT 10|1|PUNCT
+*MOT:	six sick bricks tick@o . [+ recit]
+%mor:	num|six adj|sick-S1 noun|brick-Plur o|tick .
+%gra:	1|4|NUMMOD 2|4|AMOD 3|4|COMPOUND 4|4|FLAT 5|4|PUNCT
+*MOT:	six sick chicks tock@o . [+ recit]
+%mor:	num|six adj|sick-S1 noun|chick-Plur o|tock .
+%gra:	1|4|NUMMOD 2|3|AMOD 3|4|COMPOUND 4|4|FLAT 5|4|PUNCT
+*MOT:	please sir I don't like this tricks sir . [+ recit]
+%mor:	intj|please verb|sir-Fin-Imp-S pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S det|this-Def-Dem-Sing noun|trick-Plur-Acc noun|sir .
+%gra:	1|2|DISCOURSE 2|9|ROOT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|2|CCOMP 7|8|DET 8|6|OBJ 9|6|OBL-UNMARKED 10|2|PUNCT
+*MOT:	my tongue isn't quick or slick sir . [+ recit]
+%mor:	pron|my-Prs-Gen-S1 noun|tongue aux|be-Fin-Ind-Pres-S3~part|not adj|quick-S1 cconj|or adj|slick-S1 noun|sir .
+%gra:	1|2|NMOD-POSS 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|8|ROOT 6|8|CC 7|8|AMOD 8|5|CONJ 9|5|PUNCT
+*MOT:	I get all those ticks@o [: tick@o] and clocks sir mixed up with the chicks and tocks@o [: tock@o] sir . [+ recit]
+%mor:	pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 det|all-Def-Tot det|that-Def-Dem-Plur o|tick cconj|and noun|clock-Plur noun|sir-Acc verb|mix-Part-Past-S adp|up adp|with det|the-Def-Art noun|chick-Plur cconj|and o|tock noun|sir .
+%gra:	1|2|NSUBJ 2|16|ROOT 3|5|DET-PREDET 4|5|DET 5|2|FLAT 6|7|CC 7|5|CONJ 8|2|OBJ 9|8|ACL 10|9|COMPOUND-PRT 11|13|CASE 12|13|DET 13|9|OBL 14|16|CC 15|16|FLAT 16|13|CONJ 17|2|PUNCT
+*MOT:	I can't do it Mr_Fox sir . [+ recit]
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|do-Inf-S pron|it-Prs-Acc-S3 propn|MrFox noun|sir .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|4|OBJ 6|4|VOCATIVE 7|4|OBL-UNMARKED 8|4|PUNCT
+%com:	whining voice .
+*MOT:	I'm so sorry Mr_Knox sir . [+ recit]
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|so adj|sorry-S1 propn|MrKnox noun|sir .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|6|ROOT 5|4|VOCATIVE 6|4|OBL-UNMARKED 7|4|PUNCT
+*MOT:	here's an easy game to play . [+ recit]
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|easy-S1 noun|game part|to verb|play-Inf-S .
+%gra:	1|7|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|7|MARK 7|5|ACL 8|1|PUNCT
+*MOT:	here's an easy thing to say . [+ recit]
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|easy-S1 noun|thing-Ger part|to verb|say-Inf-S .
+%gra:	1|7|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|7|MARK 7|5|ACL 8|1|PUNCT
+*MOT:	new socks , two socks . [+ recit]
+%mor:	adj|new-S1 noun|sock-Plur cm|cm num|two noun|sock-Plur .
+%gra:	1|2|AMOD 2|5|ROOT 3|5|PUNCT 4|5|NUMMOD 5|2|CONJ 6|2|PUNCT
+*MOT:	whose socks ? [+ recit]
+%mor:	pron|whose-Rel-S1 noun|sock-Plur ?
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*MOT:	Sue's socks . [+ recit]
+%mor:	propn|Sue~part|s noun|sock-Plur .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|3|ROOT 4|3|PUNCT
+*MOT:	who sews whose socks ? [+ recit]
+%mor:	pron|who-Int verb|sew-Fin-Ind-Pres-S3 pron|whose-Rel-S1 noun|sock-Plur-Acc ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*MOT:	Sue sews Sue's socks . [+ recit]
+%mor:	propn|Sue verb|sew-Fin-Ind-Pres-S3 propn|Sue~part|s noun|sock-Plur-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|NMOD-POSS 4|3|CASE 5|2|OBJ 6|2|PUNCT
+*MOT:	who sees who sews whose new socks sir ? [+ recit]
+%mor:	pron|who-Int verb|see-Fin-Ind-Pres-S3 pron|who-Int verb|sew-Fin-Ind-Pres-S3 pron|whose-Rel-S1 adj|new-S1 noun|sock-Plur-Acc noun|sir-Acc ?
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|NSUBJ 4|2|CCOMP 5|7|NMOD-POSS 6|7|AMOD 7|4|OBJ 8|4|OBJ 9|2|PUNCT
+*MOT:	you see Sue sew Sue's new socks sir . [+ recit]
+%mor:	pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 propn|Sue propn|sew propn|Sue~part|s adj|new-S1 noun|sock-Plur-Acc noun|sir .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|8|NMOD-POSS 4|3|FLAT 5|3|FLAT 6|3|CASE 7|8|AMOD 8|2|OBJ 9|2|OBL-UNMARKED 10|2|PUNCT
+*MOT:	that's not easy Mr_Fox sir ! [+ recit]
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 part|not adj|easy-S1 propn|MrFox noun|sir !
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|6|ROOT 5|4|VOCATIVE 6|4|OBL-UNMARKED 7|4|PUNCT
+*MOT:	who comes ? [+ recit]
+%mor:	pron|who-Rel verb|come-Fin-Ind-Pres-S3 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	(Slow_Joe)_Crow comes . [+ recit]
+%mor:	propn|SlowJoeCrow verb|come-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	(Slow)_Joe_Crow comes . [+ recit]
+%mor:	propn|SlowJoeCrow verb|come-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	who sews (Slow_Joe)_Crow's clothes ? [+ recit]
+%mor:	pron|who-Rel verb|sew-Fin-Ind-Pres-S3 propn|SlowJoeCrow~part|s noun|clothes-Ptan-Acc ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|NMOD-POSS 4|3|CASE 5|2|OBJ 6|2|PUNCT
+*MOT:	Sue sews (Slow_Joe)_Crow's clothes . [+ recit]
+%mor:	propn|Sue verb|sew-Fin-Ind-Pres-S3 propn|SlowJoeCrow~part|s noun|clothes-Ptan-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|NMOD-POSS 4|3|CASE 5|2|OBJ 6|2|PUNCT
+*MOT:	Slow_Joe_Crow sews whose clothes ? [+ recit]
+%mor:	propn|SlowJoeCrow verb|sew-Fin-Ind-Pres-S3 pron|whose-Rel-S1 noun|clothes-Ptan-Acc ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*MOT:	Sue's clothes . [+ recit]
+%mor:	propn|Sue~part|s noun|clothes-Ptan .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|3|ROOT 4|3|PUNCT
+*MOT:	see , they're selling each other's clothes ?
+%mor:	verb|see-Fin-Imp-S cm|cm pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|sell-Part-Pres-S det|each-Def-Rcp adj|other-S1~part|s noun|clothes-Ptan-Acc ?
+%gra:	1|9|ROOT 2|5|PUNCT 3|5|NSUBJ 4|5|AUX 5|1|PARATAXIS 6|9|NMOD-POSS 7|6|FIXED 8|6|CASE 9|5|OBJ 10|1|PUNCT
+*MOT:	Sue sews socks of (Mr)_Fox in socks now . [+ recit]
+%mor:	propn|Sue verb|sew-Fin-Ind-Pres-S3 noun|sock-Plur-Acc adp|of propn|MrFox adp|in noun|sock-Plur adv|now .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|2|OBJ 4|5|CASE 5|3|NMOD 6|7|CASE 7|2|OBL 8|2|ADVMOD 9|2|PUNCT
+*MOT:	Slow_Joe_Crow sews (Mr)_Knox in box now . [+ recit]
+%mor:	propn|SlowJoeCrow verb|sew-Fin-Ind-Pres-S3 propn|MrKnox-Acc adp|in noun|box adv|now .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|2|ADVMOD 7|2|PUNCT
+*MOT:	Sue sews rose on Slow_Joe_Crow's clothes . [+ recit]
+%mor:	propn|Sue noun|sew-Plur verb|rise-Fin-Ind-Past-S3-irr adp|on propn|SlowJoeCrow~part|s noun|clothes-Ptan .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|7|ROOT 4|7|CASE 5|7|NMOD-POSS 6|5|CASE 7|3|OBL 8|3|PUNCT
+*MOT:	(Mr)_Fox sews hose on Slow_Joe_Crow's nose . [+ recit]
+%mor:	propn|MrFox verb|sew-Fin-Ind-Pres-S3 noun|hose-Acc adp|on propn|SlowJoeCrow~part|s noun|nose .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|OBJ 4|7|CASE 5|7|NMOD-POSS 6|5|CASE 7|2|OBL 8|2|PUNCT
+*MOT:	hose goes , (Slow_Joe)_Crow's , rose grows . [+ rmix]
+%mor:	noun|hose verb|go-Fin-Ind-Pres-S3 cm|cm propn|SlowJoeCrow~part|s cm|cm noun|rose verb|grow-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|8|PUNCT 4|7|NMOD-POSS 5|4|CASE 6|8|PUNCT 7|8|NSUBJ 8|2|PARATAXIS 9|2|PUNCT
+*MOT:	nose hose goes some , (Slow_Joe)_Crow's rose grows some . [+ recit]
+%mor:	noun|nose noun|hose verb|go-Fin-Ind-Pres-S3 det|some-Def-Ind cm|cm propn|SlowJoeCrow~part|s noun|rose verb|grow-Fin-Ind-Pres-S3 det|some-Def-Ind .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|10|ROOT 4|3|OBJ 5|9|PUNCT 6|8|NMOD-POSS 7|6|CASE 8|9|NSUBJ 9|3|PARATAXIS 10|9|OBJ 11|3|PUNCT
+*CHI:	&=laughs .
+*MOT:	this book is silly .
+%mor:	det|this-Def-Dem-Sing noun|book aux|be-Fin-Ind-Pres-S3 adj|silly-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*MOT:	Mr_Fox , I hate this game sir . [+ recit]
+%mor:	propn|MrFox cm|cm pron|I-Prs-Nom-S1 verb|hate-Fin-Ind-Pres-S1 det|this-Def-Dem-Sing noun|game-Acc noun|sir .
+%gra:	1|4|VOCATIVE 2|1|PUNCT 3|4|NSUBJ 4|7|ROOT 5|6|DET 6|4|OBJ 7|4|OBL-UNMARKED 8|4|PUNCT
+*MOT:	this game makes my tongue quite lame sir . [+ recit]
+%mor:	det|this-Def-Dem-Sing noun|game verb|make-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|tongue-Acc adv|quite adj|lame-S1 noun|sir .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|7|ADVMOD 7|3|XCOMP 8|3|OBL-UNMARKED 9|3|PUNCT
+*MOT:	Mr_Knox sir , what a shame sir . [+ recit]
+%mor:	propn|MrKnox noun|sir cm|cm det|what-Def-Int det|a-Ind-Art noun|shame noun|sir .
+%gra:	1|7|ROOT 2|1|FLAT 3|6|PUNCT 4|6|DET-PREDET 5|6|DET 6|1|LIST 7|6|NMOD-UNMARKED 8|1|PUNCT
+*MOT:	we'll find something new to do now . [+ recit]
+%mor:	pron|we-Prs-Nom-P1~aux|will-Fin-S verb|find-Inf-S pron|something-Ind-S1 adj|new-S1 part|to verb|do-Inf-S adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|3|OBJ 5|4|AMOD 6|7|MARK 7|4|ACL 8|7|ADVMOD 9|3|PUNCT
+*MOT:	here's a_lot of new blue goo now ! [+ recit]
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 noun|alot adp|of adj|new-S1 adj|blue-S1 noun|goo adv|now !
+%gra:	1|8|ROOT 2|1|COP 3|1|NSUBJ 4|7|CASE 5|7|AMOD 6|7|AMOD 7|3|NMOD 8|1|ADVMOD 9|1|PUNCT
+*MOT:	new goo , blue goo , gooey , gooey . [+ recit]
+%mor:	adj|new-S1 noun|goo cm|cm adj|blue-S1 noun|goo cm|cm adj|gooey-S1 cm|cm adj|gooey-S1 .
+%gra:	1|2|AMOD 2|9|ROOT 3|5|PUNCT 4|5|AMOD 5|2|CONJ 6|7|PUNCT 7|2|CONJ 8|9|PUNCT 9|2|CONJ 10|2|PUNCT
+*MOT:	blue goo , new goo , gluey , gluey . [+ recit]
+%mor:	adj|blue-S1 noun|goo cm|cm adj|new-S1 noun|goo cm|cm intj|gluey cm|cm intj|gluey .
+%gra:	1|2|AMOD 2|9|ROOT 3|5|PUNCT 4|5|AMOD 5|2|CONJ 6|7|PUNCT 7|2|CONJ 8|9|PUNCT 9|2|DISCOURSE 10|2|PUNCT
+*MOT:	gooey goo for chewy chewing . [+ recit]
+%mor:	adj|gooey-S1 noun|goo adp|for adj|chewy-S1 noun|chew-Ger .
+%gra:	1|2|AMOD 2|5|ROOT 3|5|CASE 4|5|AMOD 5|2|NMOD 6|2|PUNCT
+*MOT:	that's what Goo_Goose is doing . [+ recit]
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 propn|GooGoose aux|be-Fin-Ind-Pres-S3 verb|do-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|3|PUNCT
+*MOT:	do you choose to chew goo too sir ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|choose-Inf-S part|to verb|chew-Inf-S noun|goo-Acc adv|too noun|sir ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|8|ADVMOD 8|5|OBL-UNMARKED 9|3|PUNCT
+*MOT:	if sir you sir choose to chew sir with the Goo_Goose chew sir , do sir ! [+ recit]
+%mor:	sconj|if noun|sir pron|you-Prs-Nom-S2 noun|sir verb|choose-Fin-S2 part|to verb|chew-Inf-S noun|sir-Acc adp|with det|the-Def-Art propn|GooGoose noun|chew noun|sir cm|cm verb|do-Fin-Imp-S noun|sir-Acc !
+%gra:	1|5|MARK 2|5|NSUBJ 3|4|COMPOUND 4|5|NSUBJ 5|15|ADVCL 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|12|CASE 10|12|DET 11|12|COMPOUND 12|7|OBL 13|7|OBL 14|5|PUNCT 15|16|ROOT 16|15|OBJ 17|15|PUNCT
+*MOT:	Mr_Fox sir , I won't do it . [+ recit]
+%mor:	propn|MrFox noun|sir cm|cm pron|I-Prs-Nom-S1 aux|will-Fin-S~part|not verb|do-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|7|VOCATIVE 2|1|FLAT 3|1|PUNCT 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|8|ROOT 8|7|OBJ 9|7|PUNCT
+*MOT:	I can't say it and I won't chew it . [+ recit]
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|say-Inf-S pron|it-Prs-Acc-S3 cconj|and pron|I-Prs-Nom-S1 aux|will-Fin-S~part|not verb|chew-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|11|ROOT 5|4|OBJ 6|10|CC 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|4|CONJ 11|10|OBJ 12|4|PUNCT
+*MOT:	very well sir , step this way . [+ recit]
+%mor:	adv|very adv|well noun|sir cm|cm verb|step-Fin-Imp-S det|this-Def-Dem-Sing noun|way-Acc .
+%gra:	1|2|ADVMOD 2|3|ADVMOD 3|5|DISCOURSE 4|5|PUNCT 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*MOT:	we'll find another game to play . [+ recit]
+%mor:	pron|we-Prs-Nom-P1~aux|will-Fin-S verb|find-Inf-S det|another-Def-Ind noun|game-Acc part|to verb|play-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|5|DET 5|3|OBJ 6|7|MARK 7|3|ADVCL 8|3|PUNCT
+*MOT:	Bim comes , Ben comes . [+ recit]
+%mor:	propn|Bim verb|come-Fin-Ind-Pres-S3 cm|cm propn|Ben verb|come-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|PUNCT 4|5|NSUBJ 5|2|PARATAXIS 6|2|PUNCT
+*MOT:	Bim brings Ben's broom . [+ recit]
+%mor:	propn|Bim verb|bring-Fin-Ind-Pres-S3 propn|Ben~part|s noun|broom-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|NMOD-POSS 4|3|CASE 5|2|OBJ 6|2|PUNCT
+*MOT:	Ben brings Bim's broom . [+ recit]
+%mor:	propn|Ben verb|bring-Fin-Ind-Pres-S3 propn|Bim~part|s noun|broom-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|NMOD-POSS 4|3|CASE 5|2|OBJ 6|2|PUNCT
+*MOT:	Ben bends Bim's broom . [+ recit]
+%mor:	propn|Ben verb|bend-Fin-Ind-Pres-S3 propn|Bim~part|s noun|broom-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|NMOD-POSS 4|3|CASE 5|2|OBJ 6|2|PUNCT
+*MOT:	Bim bends Ben's broom . [+ recit]
+%mor:	propn|Bim verb|bend-Fin-Ind-Pres-S3 propn|Ben~part|s noun|broom-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|NMOD-POSS 4|3|CASE 5|2|OBJ 6|2|PUNCT
+*MOT:	Bim's bends , Ben's bends . [+ recit]
+%mor:	propn|Bim~part|s noun|bend-Plur cm|cm propn|Ben~part|s noun|bend-Plur .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|7|ROOT 4|7|PUNCT 5|7|NMOD-POSS 6|5|CASE 7|3|APPOS 8|3|PUNCT
+*MOT:	Ben's bent broom breaks . [+ recit]
+%mor:	propn|Ben~part|s adj|bent-S1 noun|broom noun|break-Plur .
+%gra:	1|5|NMOD-POSS 2|1|CASE 3|5|AMOD 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%com:	chuckling .
+*MOT:	Bim's bent broom breaks . [+ recit]
+%mor:	propn|Bim~part|s adj|bent-S1 noun|broom noun|break-Plur .
+%gra:	1|5|NMOD-POSS 2|1|CASE 3|5|AMOD 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+*MOT:	Ben's band , Bim's band . [+ recit]
+%mor:	propn|Ben~part|s noun|band cm|cm propn|Bim~part|s noun|band .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|7|ROOT 4|7|PUNCT 5|7|NMOD-POSS 6|5|CASE 7|3|APPOS 8|3|PUNCT
+*MOT:	&+pi , big bands , pink bands . [+ recit]
+%mor:	cm|cm adj|big-S1 noun|band-Plur cm|cm adj|pink-S1 noun|band-Plur .
+%gra:	1|3|PUNCT 2|3|AMOD 3|6|ROOT 4|6|PUNCT 5|6|AMOD 6|3|CONJ 7|3|PUNCT
+*MOT:	Bim and Ben lead bands with brooms . [+ recit]
+%mor:	propn|Bim cconj|and propn|Ben verb|lead-Fin-Ind-Pres-P3 noun|band-Plur-Acc adp|with noun|broom-Plur .
+%gra:	1|4|NSUBJ 2|3|CC 3|1|CONJ 4|7|ROOT 5|4|OBJ 6|7|CASE 7|4|OBL 8|4|PUNCT
+*MOT:	Ben's band bangs and Bim's band booms ! [+ recit]
+%mor:	propn|Ben~part|s noun|band verb|bang-Fin-Ind-Pres-S3 cconj|and propn|Bim~part|s noun|band noun|boom-Plur !
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|4|NSUBJ 4|9|ROOT 5|9|CC 6|9|NMOD-POSS 7|6|CASE 8|9|COMPOUND 9|4|CONJ 10|4|PUNCT
+*MOT:	brooms .
+%mor:	noun|broom-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	booms .
+%mor:	noun|boom-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	pig band , boom band , big band , broom band . [+ recit]
+%mor:	noun|pig noun|band cm|cm noun|boom noun|band cm|cm adj|big-S1 noun|band cm|cm noun|broom noun|band .
+%gra:	1|2|COMPOUND 2|11|ROOT 3|5|PUNCT 4|5|COMPOUND 5|2|LIST 6|8|PUNCT 7|8|AMOD 8|2|LIST 9|11|PUNCT 10|11|COMPOUND 11|2|LIST 12|2|PUNCT
+*MOT:	my poor mouth can't say that no sir . [+ recit]
+%mor:	pron|my-Prs-Gen-S1 adj|poor-S1 noun|mouth aux|can-Fin-S~part|not verb|say-Inf-S sconj|that det|no-Def-Neg noun|sir .
+%gra:	1|3|NMOD-POSS 2|3|AMOD 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|9|ROOT 7|9|MARK 8|9|DET 9|6|CCOMP 10|6|PUNCT
+*MOT:	my poor mouth is much too slow sir . [+ recit]
+%mor:	pron|my-Prs-Gen-S1 adj|poor-S1 noun|mouth aux|be-Fin-Ind-Pres-S3 adv|much adv|too adj|slow-S1 noun|sir .
+%gra:	1|3|NMOD-POSS 2|3|AMOD 3|7|NSUBJ 4|7|COP 5|6|ADVMOD 6|7|ADVMOD 7|8|ROOT 8|7|OBL-UNMARKED 9|7|PUNCT
+*MOT:	well then bring your mouth this way . [+ recit]
+%mor:	intj|well adv|then verb|bring-Fin-Imp-S pron|your-Prs-Gen-S2 noun|mouth-Acc det|this-Def-Dem-Sing noun|way .
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|7|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|7|DET 7|3|OBL-UNMARKED 8|3|PUNCT
+*MOT:	I'll find it something you can say . [+ recit]
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|find-Inf-S pron|it-Prs-Acc-S3 pron|something-Ind-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|say-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|3|OBJ 5|3|OBJ 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|3|PUNCT
+*MOT:	Luke_Luck likes lakes . [+ recit]
+%mor:	propn|LukeLuck verb|like-Fin-Ind-Pres-S3 noun|lake-Plur-Acc .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	Luke_(Luck)'s duck likes lakes . [+ recit]
+%mor:	propn|LukeLuck~part|s noun|duck verb|like-Fin-Ind-Pres-S3 noun|lake-Plur-Acc .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*MOT:	Luke_Luck licks lakes . [+ recit]
+%mor:	propn|LukeLuck verb|lick-Fin-Ind-Pres-S3 noun|lake-Plur-Acc .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	Luke_(Luck)'s ducks licks lakes . [+ recit]
+%mor:	propn|LukeLuck~part|s noun|duck-Plur verb|lick-Fin-Ind-Pres-S3 noun|lake-Plur-Acc .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*MOT:	duck takes licks in lakes Luke_Luck likes . [+ recit]
+%mor:	noun|duck verb|take-Fin-Ind-Pres-S3 noun|lick-Plur-Acc adp|in noun|lake-Plur propn|LukeLuck verb|like-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|7|NSUBJ 7|5|ACL-RELCL 8|2|PUNCT
+*MOT:	Luke_Luck takes licks in lakes duck likes . [+ recit]
+%mor:	propn|LukeLuck verb|take-Fin-Ind-Pres-S3 noun|lick-Plur-Acc adp|in noun|lake-Plur noun|duck noun|like-Plur .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|OBJ 4|7|CASE 5|7|COMPOUND 6|7|COMPOUND 7|2|OBL 8|2|PUNCT
+*MOT:	yeah , are they licking on the lake ?
+%mor:	intj|yeah cm|cm aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|lick-Part-Pres-S adp|on det|the-Def-Art noun|lake ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|AUX 4|5|NSUBJ 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*CHI:	xxx .
+*MOT:	not a good xxx .
+%mor:	part|not det|a-Ind-Art adj|good-S1 .
+%gra:	1|3|ADVMOD 2|3|DET 3|3|ROOT 4|3|PUNCT
+*MOT:	we don't wanna drink lake water .
+%mor:	pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1~part|not verb|wanna-Inf-S verb|drink-Inf-S noun|lake noun|water-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|7|AMOD 6|7|COMPOUND 7|4|OBJ 8|4|PUNCT
+*MOT:	I can't blab such blibber_blubber@g . [+ recit]
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|blab-Inf-S adj|such-S1 noun|blibberblubber-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|AMOD 6|4|OBJ 7|4|PUNCT
+*MOT:	my tongue isn't made of rubber . [+ recit]
+%mor:	pron|my-Prs-Gen-S1 noun|tongue aux|be-Fin-Ind-Pres-S3~part|not verb|make-Part-Past-S-irr adp|of noun|rubber .
+%gra:	1|2|NMOD-POSS 2|5|NSUBJ-PASS 3|5|AUX-PASS 4|5|ADVMOD 5|7|ROOT 6|7|CASE 7|5|OBL 8|5|PUNCT
+*MOT:	Mr_Knox now come now , come now . [+ recit]
+%mor:	propn|MrKnox adv|now verb|come-Fin-Ind-Pres-S3 adv|now cm|cm verb|come-Fin-Ind-Pres-S3 adv|now .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|7|ROOT 4|3|ADVMOD 5|6|PUNCT 6|3|PARATAXIS 7|6|ADVMOD 8|3|PUNCT
+*MOT:	you don't have to be so dumb now . [+ recit]
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|have-Inf-S part|to aux|be-Inf-S adv|so adj|dumb-S1 adv|now .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|8|MARK 6|8|COP 7|8|ADVMOD 8|4|XCOMP 9|8|ADVMOD 10|4|PUNCT
+*MOT:	try to say this Mr_Knox please . [+ recit]
+%mor:	verb|try-Fin-Imp-S part|to verb|say-Inf-S det|this-Def-Dem-Sing propn|MrKnox-Acc intj|please .
+%gra:	1|6|ROOT 2|3|MARK 3|1|XCOMP 4|5|DET 5|3|OBJ 6|1|DISCOURSE 7|1|PUNCT
+*MOT:	through three cheese trees , three free fleas flew . [+ recit]
+%mor:	adp|through num|three noun|cheese noun|tree-Plur cm|cm num|three adj|free-S1 noun|flea-Plur verb|fly-Fin-Ind-Past-P3-irr .
+%gra:	1|4|CASE 2|4|NUMMOD 3|4|COMPOUND 4|9|OBL 5|4|PUNCT 6|8|NUMMOD 7|8|AMOD 8|9|NSUBJ 9|9|ROOT 10|9|PUNCT
+*MOT:	while these fleas flew , freezy breeze blew . [+ recit]
+%mor:	sconj|while det|this-Def-Dem-Plur noun|flea-Plur verb|fly-Fin-Ind-Past-P3-irr cm|cm adj|freezy-S1 noun|breeze verb|blow-Fin-Ind-Past-S3-irr .
+%gra:	1|4|MARK 2|3|DET 3|4|NSUBJ 4|8|ADVCL 5|4|PUNCT 6|7|AMOD 7|8|NSUBJ 8|8|ROOT 9|8|PUNCT
+*MOT:	freezy breeze made these three trees freeze . [+ recit]
+%mor:	adj|freezy-S1 noun|breeze verb|make-Fin-Ind-Past-S3-irr det|this-Def-Dem-Plur num|three noun|tree-Plur-Acc verb|freeze-Inf-S .
+%gra:	1|2|AMOD 2|3|NSUBJ 3|7|ROOT 4|6|DET 5|6|NUMMOD 6|3|OBJ 7|3|XCOMP 8|3|PUNCT
+*MOT:	freezy trees made these cheese freeze . [+ rmix]
+%mor:	adj|freezy-S1 noun|tree-Plur verb|make-Fin-Ind-Past-P3-irr det|this-Def-Dem-Plur noun|cheese noun|freeze-Acc .
+%gra:	1|2|AMOD 2|3|NSUBJ 3|6|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|3|PUNCT
+*MOT:	that's what made these three free fleas sneeze ! [+ recit]
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|what-Int-S1 verb|make-Fin-Ind-Past-S3-irr det|this-Def-Dem-Plur num|three adj|free-S1 noun|flea-Plur-Acc verb|sneeze-Inf-S !
+%gra:	1|3|NSUBJ 2|3|COP 3|9|ROOT 4|3|ACL-RELCL 5|8|DET 6|8|NUMMOD 7|8|AMOD 8|4|OBJ 9|4|XCOMP 10|3|PUNCT
+*MOT:	&+ah [/] &+ah &=gasps .
+*MOT:	&+choo !
+*MOT:	what do you say when someone sneezes ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|say-Inf-S adv|when pron|someone-Ind-S1 verb|sneeze-Fin-Ind-Pres-S3 ?
+%gra:	1|7|OBJ 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|7|ADVMOD 6|7|NSUBJ 7|4|ADVCL 8|4|PUNCT
+*MOT:	do you say , remember what you say ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|say-Inf-S cm|cm verb|remember-Fin-Imp-S pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Pres-S2 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|5|PUNCT 5|3|PARATAXIS 6|5|OBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|3|PUNCT
+*MOT:	you say bless_you .
+%mor:	pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Pres-S2 noun|blessyou-Acc .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	bless_you .
+%mor:	propn|blessyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	<stop it> [/] stop it . [+ recit]
+%mor:	verb|stop-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	that's enough sir . [+ recit]
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|enough-S1 noun|sir .
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|PUNCT 5|3|PUNCT
+*MOT:	I can't say such silly stuff sir . [+ recit]
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|say-Inf-S adj|such-S1 adj|silly-S1 noun|stuff-Acc noun|sir .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|7|AMOD 6|7|AMOD 7|4|OBJ 8|4|OBL-UNMARKED 9|4|PUNCT
+*MOT:	very well then Mr_Knox sir , let's have a little talk about tweetle_beetles@g . [+ recit]
+%mor:	adv|very adv|well adv|then propn|MrKnox noun|sir cm|cm verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|have-Inf-S det|a-Ind-Art adj|little-S1 noun|talk-Acc adp|about noun|tweetlebetetle-Plur .
+%gra:	1|2|ADVMOD 2|7|ADVMOD 3|7|ADVMOD 4|7|NSUBJ 5|4|FLAT 6|7|PUNCT 7|14|ROOT 8|7|OBJ 9|7|XCOMP 10|12|DET 11|12|AMOD 12|9|OBJ 13|14|CASE 14|12|NMOD 15|7|PUNCT
+*MOT:	what do you know about tweetle_beetles@g ? [+ recit]
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|know-Inf-S adp|about noun|tweetlebetetle-Plur ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*MOT:	well , when tweetle_beetles@g fight , it's called a tweetle_beetle@g battle . [+ recit]
+%mor:	intj|well cm|cm adv|when noun|tweetlebetetle-Plur verb|fight-Fin-Ind-Pres-P3 cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|call-Part-Past-S det|a-Ind-Art noun|tweetlebeetle noun|battle .
+%gra:	1|9|DISCOURSE 2|1|PUNCT 3|5|ADVMOD 4|5|NSUBJ 5|9|ADVCL 6|5|PUNCT 7|9|NSUBJ-PASS 8|9|AUX-PASS 9|12|ROOT 10|12|DET 11|12|COMPOUND 12|9|XCOMP 13|9|PUNCT
+*MOT:	and when they battle in a puddle , it's a tweetle_beetle puddle battle . [+ recit]
+%mor:	cconj|and adv|when pron|they-Prs-Nom-P3 verb|battle-Fin-Ind-Pres-P3 adp|in det|a-Ind-Art noun|puddle cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|tweetlebeetle-S1 noun|puddle noun|battle .
+%gra:	1|14|CC 2|4|ADVMOD 3|4|NSUBJ 4|14|ADVCL 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT 9|14|NSUBJ 10|14|COP 11|14|DET 12|14|AMOD 13|14|COMPOUND 14|14|ROOT 15|14|PUNCT
+*MOT:	and when tweetle_beetles@g battle with paddles in a puddle . [+ recit]
+%mor:	cconj|and adv|when noun|tweetlebetetle-Plur verb|battle-Fin-Ind-Pres-P3 adp|with noun|paddle-Plur adp|in det|a-Ind-Art noun|puddle .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|9|ROOT 5|6|CASE 6|4|OBL 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+*MOT:	they call it a tweetle_beetle@g puddle paddle battle . [+ recit]
+%mor:	pron|they-Prs-Nom-P3 verb|call-Fin-Ind-Pres-P3 pron|it-Prs-Acc-S3 det|a-Ind-Art noun|tweetlebeetle noun|puddle noun|paddle noun|battle .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|2|OBJ 4|8|DET 5|8|COMPOUND 6|8|COMPOUND 7|8|COMPOUND 8|2|XCOMP 9|2|PUNCT
+*CHI:	xxx .
+*MOT:	and . [+ recit]
+%mor:	cconj|and .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	when beetles battle beetles in a puddle paddle battle and the beetle battle puddle is in , is a puddle in a bottle . [+ rmix]
+%mor:	adv|when noun|beetle-Plur verb|battle-Fin-Ind-Pres-P3 noun|beetle-Plur-Acc adp|in det|a-Ind-Art noun|puddle noun|paddle noun|battle cconj|and det|the-Def-Art noun|beetle noun|battle noun|puddle aux|be-Fin-Ind-Pres-S3 adv|in cm|cm aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|puddle adp|in det|a-Ind-Art noun|bottle .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|20|ADVCL 4|3|OBJ 5|9|CASE 6|9|DET 7|9|COMPOUND 8|9|COMPOUND 9|3|OBL 10|16|CC 11|14|DET 12|14|COMPOUND 13|14|COMPOUND 14|16|NSUBJ 15|16|COP 16|3|CONJ 17|3|PUNCT 18|20|COP 19|20|DET 20|23|ROOT 21|23|CASE 22|23|DET 23|20|NMOD 24|20|PUNCT
+*MOT:	they call this a tweetle_beetle@g bottle puddle paddle battle muddle . [+ recit]
+%mor:	pron|they-Prs-Nom-P3 verb|call-Fin-Ind-Pres-P3 pron|this-Dem-S1 det|a-Ind-Art adj|tweetlebeetle-S1 noun|bottle noun|puddle noun|paddle noun|battle noun|muddle .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|2|OBJ 4|10|DET 5|6|AMOD 6|10|COMPOUND 7|10|COMPOUND 8|10|COMPOUND 9|10|COMPOUND 10|2|XCOMP 11|2|PUNCT
+*MOT:	and . [+ recit]
+%mor:	cconj|and .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	when beetles fight these battles in a bottle with their paddles and the bottle's on a poodle and the poodle's eating noodles . [+ recit]
+%mor:	adv|when noun|beetle-Plur verb|fight-Fin-Ind-Pres-P3 det|this-Def-Dem-Plur noun|battle-Plur-Acc adp|in det|a-Ind-Art noun|bottle adp|with pron|their-Prs-Gen-P3 noun|paddle-Plur cconj|and det|the-Def-Art noun|bottle~aux|be-Fin-Ind-Pres-S3 adp|on det|a-Ind-Art noun|poodle cconj|and det|the-Def-Art noun|poodle~part|s noun|eating-Ger noun|noodle-Plur .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|18|ADVCL 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|3|OBL 9|11|CASE 10|11|NMOD-POSS 11|8|NMOD 12|18|CC 13|14|DET 14|18|NSUBJ 15|18|COP 16|18|CASE 17|18|DET 18|24|ROOT 19|24|CC 20|21|DET 21|24|NMOD-POSS 22|21|CASE 23|24|COMPOUND 24|18|CONJ 25|18|PUNCT
+*MOT:	they call this a muddle puddle tweetle poodle beetle noodle bottle paddle battle . [+ recit]
+%mor:	pron|they-Prs-Nom-P3 verb|call-Fin-Ind-Pres-P3 pron|this-Dem-S1 det|a-Ind-Art noun|muddle noun|puddle noun|tweetle noun|poodle noun|beetle noun|noodle noun|bottle noun|paddle noun|battle .
+%gra:	1|2|NSUBJ 2|13|ROOT 3|2|OBJ 4|13|DET 5|6|COMPOUND 6|13|COMPOUND 7|8|COMPOUND 8|13|COMPOUND 9|13|COMPOUND 10|11|COMPOUND 11|13|COMPOUND 12|13|COMPOUND 13|2|XCOMP 14|2|PUNCT
+*MOT:	and . [+ recit]
+%mor:	cconj|and .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	now wait a minute Mr_Socks_Fox [: Mr_Fox] ! [+ recit]
+%mor:	adv|now verb|wait-Fin-Imp-S det|a-Ind-Art noun|minute propn|MrFox-Acc !
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|DET 4|2|OBL-UNMARKED 5|2|OBJ 6|2|PUNCT
+*MOT:	when a fox is in a bottle where the tweetle_beetles@g battle with their paddles in a puddle on a noodle eating poodle . [+ recit]
+%mor:	adv|when det|a-Ind-Art noun|fox aux|be-Fin-Ind-Pres-S3 adp|in det|a-Ind-Art noun|bottle adv|where det|the-Def-Art noun|tweetlebetetle noun|battle adp|with pron|their-Prs-Gen-P3 noun|paddle-Plur adp|in det|a-Ind-Art noun|puddle adp|on det|a-Ind-Art noun|noodle noun|eating-Ger noun|poodle .
+%gra:	1|7|ADVMOD 2|3|DET 3|7|NSUBJ 4|7|COP 5|7|CASE 6|7|DET 7|22|ROOT 8|11|ADVMOD 9|11|DET 10|11|COMPOUND 11|7|NSUBJ 12|14|CASE 13|14|NMOD-POSS 14|11|NMOD 15|17|CASE 16|17|DET 17|14|NMOD 18|22|CASE 19|22|DET 20|22|COMPOUND 21|22|COMPOUND 22|17|NMOD 23|7|PUNCT
+*MOT:	this is what they call a tweetle_beetle@g noodle poodle bottled paddled muddled duddled fuddled wuddled fox in socks sir . [+ recit]
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|they-Prs-Nom-P3 verb|call-Fin-Ind-Pres-P3 det|a-Ind-Art noun|tweetlebeetle noun|noodle noun|poodle verb|bottled-Part-Past-S verb|paddle-Part-Past-S verb|muddle-Part-Past-S verb|duddle-Part-Past-S verb|fuddle-Part-Past-S verb|wuddle-Part-Past-S noun|fox-Acc adp|in noun|sock-Plur noun|sir .
+%gra:	1|3|NSUBJ 2|3|COP 3|19|ROOT 4|5|NSUBJ 5|3|ACL-RELCL 6|16|DET 7|16|COMPOUND 8|9|COMPOUND 9|10|COMPOUND 10|16|AMOD 11|16|AMOD 12|16|AMOD 13|16|AMOD 14|16|AMOD 15|16|AMOD 16|5|OBJ 17|18|CASE 18|16|NMOD 19|18|NMOD-UNMARKED 20|3|PUNCT
+*MOT:	(Mr)_Fox in socks our game is done sir . [+ recit]
+%mor:	propn|MrFox adp|in noun|sock-Plur pron|our-Prs-Gen-P1 noun|game aux|be-Fin-Ind-Pres-S3 verb|do-Part-Past-S-irr noun|sir .
+%gra:	1|7|NSUBJ-PASS 2|3|CASE 3|1|NMOD 4|5|NMOD-POSS 5|7|NSUBJ-PASS 6|7|AUX-PASS 7|8|ROOT 8|7|OBL-UNMARKED 9|7|PUNCT
+*MOT:	thank_you for a_lot of fun sir . [+ recit]
+%mor:	intj|thankyou adp|for noun|alot adp|of noun|fun noun|sir .
+%gra:	1|6|ROOT 2|3|CASE 3|1|OBL 4|5|CASE 5|3|NMOD 6|3|NMOD 7|1|PUNCT
+*MOT:	the_end . [+ recit]
+%mor:	intj|theend .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	ohs
+*CHI:	xxx .
+@G:	ch_grooming
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	so , we're gonna take a shower .
+%mor:	adv|so cm|cm pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 part|go verb|take-Inf-S det|a-Ind-Art noun|shower-Acc .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|8|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+*CHI:	no take in the shower .
+%mor:	det|no-Def-Neg noun|take adp|in det|the-Def-Art noun|shower .
+%gra:	1|2|DET 2|5|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+*MOT:	yeah , and then after the shower you have to put it back on though .
+%mor:	intj|yeah cm|cm cconj|and adv|then adp|after det|the-Def-Art noun|shower pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 part|to verb|put-Inf-S pron|it-Prs-Acc-S3 adv|back adp|on adv|though .
+%gra:	1|9|DISCOURSE 2|1|PUNCT 3|9|CC 4|9|ADVMOD 5|7|CASE 6|7|DET 7|9|OBL 8|9|NSUBJ 9|15|ROOT 10|11|MARK 11|9|XCOMP 12|11|OBJ 13|11|ADVMOD 14|11|ADVMOD 15|11|ADVMOD 16|9|PUNCT
+*MOT:	okay ?
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	xxx .
+*CHI:	it is ?
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx .
+*CHI:	the mouth .
+%mor:	det|the-Def-Art noun|mouth .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx !
+*CHI:	&=vocalizes .
+*CHI:	that's mine too .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-S1 adv|too .
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	xxx dog sit up .
+%mor:	noun|dog verb|sit-Fin-Imp-S adp|up .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT
+*CHI:	one for dog .
+%mor:	num|one adp|for noun|dog .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+*CHI:	&=coughs .
+*MOT:	ah , nice xxx dog .
+%mor:	intj|ah cm|cm adj|nice-S1 noun|dog .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	xxx dog ?
+%mor:	noun|dog ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	this xxx .
+%mor:	pron|this-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	that's all wet .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot adj|wet-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	xxx .
+*MOT:	oh !
+%mor:	intj|oh !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*MOT:	that was a big trip .
+%mor:	pron|that-Dem aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|big-S1 noun|trip .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+*MOT:	are you okay scarecrow ?
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adj|okay-S1 noun|scarecrow ?
+%gra:	1|4|COP 2|4|NSUBJ 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%com:	water running .
+*MOT:	just a second , I've gotta help you .
+%mor:	adv|just det|a-Ind-Art adj|second-S1 cm|cm pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 part|getta verb|help-Inf-S pron|you-Prs-Acc-S2 .
+%gra:	1|3|ADVMOD 2|3|DET 3|8|ADVMOD 4|3|PUNCT 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|9|ROOT 9|8|OBJ 10|8|PUNCT
+*CHI:	I break this .
+%mor:	pron|I-Prs-Nom-S1 verb|break-Fin-Ind-Pres-S1 pron|this-Dem-S1 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	okay , are you ready ?
+%mor:	intj|okay cm|cm aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adj|ready-S1 ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|COP 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*CHI:	&=laughs .
+*MOT:	one , two .
+%mor:	num|one cm|cm num|two .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|CONJ 4|1|PUNCT
+*MOT:	xxx .
+*MOT:	okay , get your hair wet .
+%mor:	intj|okay cm|cm verb|get-Fin-Imp-S pron|your-Prs-Gen-S2 noun|hair-Acc adj|wet-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|6|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|XCOMP 7|3|PUNCT
+*CHI:	xxx .
+@End

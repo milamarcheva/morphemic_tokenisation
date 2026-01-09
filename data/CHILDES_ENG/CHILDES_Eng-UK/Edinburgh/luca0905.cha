@@ -1,0 +1,221 @@
+@UTF8
+@PID:	11312/a-00047640-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|Edinburgh|CHI|0;09.17|male|||Target_Child|||
+@ID:	eng|Edinburgh|MOT||female|||Mother|||
+@Media:	luca0905, audio
+@Date:	05-JAN-2014
+@Types:	long, toyplay, TD
+*CHI:	&=unhappy:noise . 
+*MOT:	+< oh Luca , what's wrong ?
+%mor:	intj|oh propn|Luca cm|cm pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adj|wrong-S1 ?
+%gra:	1|2|DISCOURSE 2|6|ROOT 3|2|PUNCT 4|6|NSUBJ 5|6|COP 6|2|PARATAXIS 7|2|PUNCT
+*MOT:	look , do you wanna look at your book ? 
+%mor:	verb|look-Fin-Imp-S cm|cm aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 intj|wanna verb|look-Inf-S adp|at pron|your-Prs-Gen-S2 noun|book ?
+%gra:	1|9|ROOT 2|6|PUNCT 3|6|AUX 4|6|NSUBJ 5|6|DISCOURSE 6|1|PARATAXIS 7|9|CASE 8|9|NMOD-POSS 9|6|OBL 10|1|PUNCT
+*MOT:	look it's your book . 
+%mor:	verb|look-Fin-Imp-S pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|book .
+%gra:	1|5|ROOT 2|5|NSUBJ 3|5|COP 4|5|NMOD-POSS 5|1|CCOMP 6|1|PUNCT
+*MOT:	it's your duck book . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|duck noun|book .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|NMOD-POSS 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+*MOT:	can you say book ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|say-Inf-S noun|book-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	book . 
+%mor:	noun|book .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	look , what's on the book ? 
+%mor:	verb|look-Fin-Imp-S cm|cm pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|book ?
+%gra:	1|7|ROOT 2|7|PUNCT 3|1|OBJ 4|7|COP 5|7|CASE 6|7|DET 7|3|OBL 8|1|PUNCT
+*MOT:	it's a duck . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|duck .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*MOT:	quack_quack@o . 
+%mor:	o|quackquack .
+%gra:	1|1|FLAT 2|1|PUNCT
+*MOT:	what does a duck do ? 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S3 det|a-Ind-Art noun|duck verb|do-Inf-S ?
+%gra:	1|5|OBJ 2|5|AUX 3|4|DET 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*MOT:	quack_quack@o [/] quack_quack@o . 
+%mor:	o|quackquack .
+%gra:	1|1|FLAT 2|1|PUNCT
+*MOT:	can you say book ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|say-Inf-S noun|book-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	book . 
+%mor:	noun|book .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what's on the back ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adp|on det|the-Def-Art noun|back ?
+%gra:	1|5|ROOT 2|5|COP 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+*MOT:	it's a frog . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|frog .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*MOT:	frog [/] frog ! 
+%mor:	noun|frog !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=unhappy:noise . 
+*MOT:	aw Luca are you tired ? 
+%mor:	intj|aw propn|Luca aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adj|tired-S1 ?
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*MOT:	aw don't scratch it you'll make it worse . 
+%mor:	adv|aw aux|do-Fin-Imp-S~part|not verb|scratch-Fin-Imp-S pron|it-Prs-Acc-S3 pron|you-Prs-Nom-S2~aux|will-Fin-S verb|make-Inf-S pron|it-Prs-Acc-S3 adj|bad-Cmp-S1 .
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|ADVMOD 4|10|ROOT 5|4|OBJ 6|8|NSUBJ 7|8|AUX 8|4|PARATAXIS 9|8|OBJ 10|8|XCOMP 11|4|PUNCT
+*CHI:	&=unhappy:noise . 
+*MOT:	+< it's okay look [/] look we're gonna get milk in a second .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|okay-S1 verb|look-Inf-Imp-S pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 part|go verb|get-Inf-S noun|milk-Acc adp|in det|a-Ind-Art noun|second .
+%gra:	1|3|EXPL 2|3|COP 3|12|ROOT 4|3|PARATAXIS 5|8|NSUBJ 6|8|AUX 7|8|ADVMOD 8|4|CCOMP 9|8|OBJ 10|12|CASE 11|12|DET 12|8|OBL 13|3|PUNCT
+*MOT:	but you can play with your book in the meantime . 
+%mor:	cconj|but pron|you-Prs-Nom-S2 aux|can-Fin-S verb|play-Inf-S adp|with pron|your-Prs-Gen-S2 noun|book adp|in det|the-Def-Art noun|meantime .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|10|CASE 9|10|DET 10|4|OBL 11|4|PUNCT
+*MOT:	book . 
+%mor:	noun|book .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	you know how to say book . 
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 adv|how part|to verb|say-Inf-S noun|book-Acc .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|5|MARK 5|3|ACL 6|5|OBJ 7|2|PUNCT
+*CHI:	&=unhappy:noise . 
+*MOT:	aw you're a little bit unhappy . 
+%mor:	intj|aw pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 det|a-Ind-Art adj|little-S1 noun|bit adj|unhappy-S1 .
+%gra:	1|7|DISCOURSE 2|7|NSUBJ 3|7|COP 4|6|DET 5|6|AMOD 6|7|OBL-UNMARKED 7|7|ROOT 8|7|PUNCT
+*MOT:	okay well what shall we play with ? 
+%mor:	intj|okay intj|well pron|what-Int-S1 aux|shall-Fin-S pron|we-Prs-Nom-P1 verb|play-Inf-S adp|with ?
+%gra:	1|6|DISCOURSE 2|6|DISCOURSE 3|6|OBJ 4|6|AUX 5|6|NSUBJ 6|7|ROOT 7|3|CASE 8|6|PUNCT
+*MOT:	oh it's Santa_Claus . 
+%mor:	intj|oh pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 propn|SantaClaus .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*MOT:	yay . 
+%mor:	intj|yay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	Santa_Claus makes me happy too . 
+%mor:	propn|SantaClaus verb|make-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 adj|happy-S1 adv|too .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|2|XCOMP 5|2|ADVMOD 6|2|PUNCT
+*MOT:	<jingle bells> [/] jingle bells jingle all the way [=! singing] . [+ SNG] 
+%mor:	noun|jingle noun|bell-Plur verb|jingle-Fin-Ind-Pres-P3 det|all-Def-Tot det|the-Def-Art noun|way-Acc .
+%gra:	1|2|COMPOUND 2|3|NSUBJ 3|6|ROOT 4|6|DET-PREDET 5|6|DET 6|3|OBJ 7|3|PUNCT
+%com:	a toy is playing the jingle bells tune .
+*CHI:	&=unhappy:noise . 
+*MOT:	aw , it's over now . 
+%mor:	intj|aw cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|over adv|now .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+*MOT:	look [/] look it's a stick . 
+%mor:	verb|look-Fin-Imp-S pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|stick .
+%gra:	1|5|ROOT 2|5|NSUBJ 3|5|COP 4|5|DET 5|1|CCOMP 6|1|PUNCT
+*MOT:	it's a digger inside . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|digger adv|inside .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*MOT:	do you see that ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S pron|that-Dem ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	it's a digger . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|digger .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*MOT:	&=clears:throat digging up his balls . 
+%mor:	verb|digg-Part-Pres-S adp|up pron|his-Prs-Gen-S3 noun|ball-Plur-Acc .
+%gra:	1|4|ROOT 2|1|COMPOUND-PRT 3|4|NMOD-POSS 4|1|OBJ 5|1|PUNCT
+*MOT:	look . 
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	aw tired boy . 
+%mor:	intj|aw adj|tired-S1 noun|boy .
+%gra:	1|3|DISCOURSE 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	+< &=unhappy:noise .
+*MOT:	&=car:noise . 
+*MOT:	look , it's a car . 
+%mor:	verb|look-Fin-Imp-S cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|car .
+%gra:	1|6|ROOT 2|6|PUNCT 3|6|NSUBJ 4|6|COP 5|6|DET 6|1|PARATAXIS 7|1|PUNCT
+*MOT:	you wanna play with your car ? 
+%mor:	pron|you-Prs-Nom-S2 aux|wanna-Fin-S verb|play-Inf-S adp|with pron|your-Prs-Gen-S2 noun|car ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|NMOD-POSS 6|3|OBL 7|3|PUNCT
+*MOT:	oh that's making you happy . 
+%mor:	intj|oh pron|that-Dem~aux|be-Fin-Ind-Pres-S3 verb|make-Part-Pres-S pron|you-Prs-Acc-S2 adj|happy-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|4|OBJ 6|4|XCOMP 7|4|PUNCT
+*MOT:	that's good . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	&=gasps beep_beep@o [/] beep_beep@o . 
+%mor:	o|beepbeep .
+%gra:	1|1|FLAT 2|1|PUNCT
+*MOT:	&=sniff &=clears:throat . 
+*MOT:	and there's a bigger car . 
+%mor:	cconj|and pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|big-Cmp-S1 noun|car .
+%gra:	1|3|CC 2|3|EXPL 3|6|ROOT 4|6|DET 5|6|AMOD 6|3|NSUBJ 7|3|PUNCT
+*MOT:	that's Mummy car . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 propn|Mummy noun|car .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*MOT:	and that's baby car . 
+%mor:	cconj|and pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|baby-S1 noun|car .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+*MOT:	actually I think that's Daddy car . 
+%mor:	adv|actually pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 propn|Daddy noun|car .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|7|ROOT 4|7|NSUBJ 5|7|COP 6|7|COMPOUND 7|3|CCOMP 8|3|PUNCT
+*MOT:	&=car:noise beep_beep@o [/] beep_beep@o . 
+%mor:	o|beepbeep .
+%gra:	1|1|FLAT 2|1|PUNCT
+*MOT:	<excuse me> [/] excuse me . 
+%mor:	verb|excuse-Fin-Imp-S pron|I-Prs-Acc-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	&=car:noise . 
+*MOT:	&=gasps that's a nice car you can chew that one . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|nice-S1 noun|car pron|you-Prs-Nom-S2 aux|can-Fin-S verb|chew-Inf-S det|that-Def-Dem-Sing noun|one-Acc .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|10|ROOT 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|10|DET 10|8|OBJ 11|5|PUNCT
+*MOT:	those wheels look so tasty . 
+%mor:	det|that-Def-Dem-Plur noun|wheel-Plur verb|look-Fin-Ind-Pres-P3 adv|so adj|tasty-S1 .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|ADVMOD 5|3|XCOMP 6|3|PUNCT
+*MOT:	yay , is that good for your teeth ? 
+%mor:	intj|yay cm|cm aux|be-Fin-Ind-Pres-S3 pron|that-Dem adj|good-S1 adp|for pron|your-Prs-Gen-S2 noun|tooth-Plur ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|COP 4|5|NSUBJ 5|8|ROOT 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|5|PUNCT
+*MOT:	is it a red car ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 det|a-Ind-Art adj|red-S1 noun|car ?
+%gra:	1|5|COP 2|5|NSUBJ 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+*MOT:	it matches your trousers . 
+%mor:	pron|it-Prs-Nom-S3 verb|match-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|trousers-Plur-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*MOT:	that's better . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|good-Cmp-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	a bit happier . 
+%mor:	det|a-Ind-Art noun|bit adj|happy-Cmp-S1 .
+%gra:	1|2|DET 2|3|OBL-UNMARKED 3|3|ROOT 4|3|PUNCT
+*MOT:	&=sniff &=clears:throat . 
+*MOT:	&=gasps it's your milk . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|milk .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+*MOT:	do you wanna get milk and I'll read you a story ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 part|wana verb|get-Inf-S noun|milk-Acc cconj|and pron|I-Prs-Nom-S1~aux|will-Fin-S verb|read-Inf-S pron|you-Prs-Acc-S2 det|a-Ind-Art noun|story-Acc ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|12|ROOT 5|4|OBJ 6|9|CC 7|9|NSUBJ 8|9|AUX 9|4|CONJ 10|9|IOBJ 11|12|DET 12|9|OBJ 13|4|PUNCT
+*MOT:	look . 
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	yummy milk . 
+%mor:	adj|yummy-S1 noun|milk .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	can you lift it up yourself ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|lift-Inf-S pron|it-Prs-Acc-S3 adp|up pron|yourself-Prs-Acc-reflx-S2 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|OBL-UNMARKED 7|3|PUNCT
+*MOT:	yay , that's it oh <good boy> [/] good boy . 
+%mor:	intj|yay cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 intj|oh adj|good-S1 noun|boy .
+%gra:	1|8|DISCOURSE 2|1|PUNCT 3|8|NSUBJ 4|8|COP 5|8|NSUBJ 6|8|DISCOURSE 7|8|AMOD 8|8|ROOT 9|8|PUNCT
+*MOT:	I think you need to lie back . 
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|you-Prs-Nom-S2 verb|need-Fin-Ind-Pres-S2 part|to verb|lie-Inf-S adv|back .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|NSUBJ 4|2|CCOMP 5|6|MARK 6|4|XCOMP 7|6|ADVMOD 8|2|PUNCT
+*MOT:	you wanna lie back so you can get your milk better ? 
+%mor:	pron|you-Prs-Nom-S2 aux|wanna-Fin-Ind-Pres-S2 verb|lie-Fin-Ind-Pres-S adv|back sconj|so pron|you-Prs-Nom-S2 aux|can-Fin-S verb|get-Inf-S pron|your-Prs-Gen-S2 noun|milk-Acc adj|good-Cmp-S1 ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|11|ROOT 4|3|ADVMOD 5|8|MARK 6|8|NSUBJ 7|8|AUX 8|3|ADVCL 9|10|NMOD-POSS 10|8|OBJ 11|8|XCOMP 12|3|PUNCT
+*MOT:	mmm . 
+%mor:	intj|mmm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	pause while we drink milk . 
+%mor:	verb|pause-Fin-Imp-S sconj|while pron|we-Prs-Nom-P1 verb|drink-Fin-Ind-Pres-P1 noun|milk-Acc .
+%gra:	1|5|ROOT 2|4|MARK 3|4|NSUBJ 4|1|ADVCL 5|4|OBJ 6|1|PUNCT
+*MOT:	ah no . 
+%mor:	intj|ah intj|no .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+*MOT:	dunno how to pause it , ah pause . 
+%mor:	intj|dunno adv|how part|to verb|pause-Inf-S pron|it-Prs-Acc-S3 cm|cm intj|ah verb|pause-Fin-Imp-S .
+%gra:	1|4|DISCOURSE 2|8|ROOT 3|4|MARK 4|2|ACL 5|4|OBJ 6|8|PUNCT 7|8|DISCOURSE 8|4|PARATAXIS 9|2|PUNCT
+*MOT:	&=clears:throat . 
+@End

@@ -1,0 +1,442 @@
+@UTF8
+@PID:	11312/a-00077898-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, FA1 Adult
+@Options:	bullets
+@ID:	eng|StoopsMontag|CHI|||||Target_Child|||
+@ID:	eng|StoopsMontag|FA1|||||Adult|||
+@Media:	05_Tinyville, audio
+@Types:	cross, book, TD
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	alright . 
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	Tinyville_town_time_for_School . 
+%mor:	propn|TinyvilletowntimeforSchool .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	oops there's a paper in there okay . 
+%mor:	intj|oop pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|paper adp|in adv|there intj|okay .
+%gra:	1|3|DISCOURSE 2|3|EXPL 3|8|ROOT 4|5|DET 5|3|NSUBJ 6|7|CASE 7|3|OBL 8|3|DISCOURSE 9|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	Tinyville_Town_Time_For_School by Brian Biggs . 
+%mor:	propn|TinyvilleTownTimeForSchool adp|by propn|Brian propn|Biggs .
+%gra:	1|4|ROOT 2|3|CASE 3|1|NMOD 4|3|FLAT 5|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	good morning , it's time to wake up . 
+%mor:	adj|good-S1 noun|morning-Ger cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|time part|to verb|wake-Inf-S adp|up .
+%gra:	1|2|AMOD 2|9|ROOT 3|6|PUNCT 4|6|NSUBJ 5|6|COP 6|2|PARATAXIS 7|8|MARK 8|6|ACL 9|8|COMPOUND-PRT 10|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	what do you see ? 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	big , xxx . 
+%mor:	adj|big-S1 cm|cm .
+%gra:	1|2|ROOT 2|1|PUNCT 3|1|PUNCT
+%cod:	$xds:A
+*FA1:	hm-mm . 
+%mor:	intj|hmm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	today is a big day in Tinyville Town . 
+%mor:	noun|today aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|big-S1 noun|day adp|in propn|Tinyville propn|Town .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|8|ROOT 6|8|CASE 7|8|COMPOUND 8|5|NMOD 9|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	mister Meyer picks out his nicest sweater . 
+%mor:	propn|mister propn|Meyer verb|pick-Fin-Ind-Pres-S3 adp|out pron|his-Prs-Gen-S3 adj|nice-Sup-S1 noun|sweater-Acc .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|7|ROOT 4|3|COMPOUND-PRT 5|7|NMOD-POSS 6|7|AMOD 7|3|OBJ 8|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Dylan ties his favorite shoes . 
+%mor:	propn|Dylan verb|tie-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 adj|favorite-S1 noun|shoe-Plur-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|NMOD-POSS 4|5|AMOD 5|2|OBJ 6|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Jenny picks her brand new book bag . 
+%mor:	propn|Jenny verb|pick-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|brand adj|new-S1 noun|book noun|bag-Acc .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|7|NMOD-POSS 4|7|COMPOUND 5|7|AMOD 6|7|COMPOUND 7|2|OBJ 8|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	misses Martinez was up before anyone . 
+%mor:	verb|misse-Fin-Ind-Pres-S3 propn|Martinez aux|be-Fin-Ind-Past-S3-irr adp|up adp|before pron|anyone-Ind-S1 .
+%gra:	1|6|ROOT 2|4|NSUBJ 3|4|COP 4|1|CCOMP 5|6|CASE 6|4|OBL 7|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	she has been waiting for this day all summer long . 
+%mor:	pron|she-Prs-Nom-S3 aux|have-Fin-Ind-Pres-S3 aux|be-Part-Past-S-irr verb|wait-Part-Pres-S adp|for det|this-Def-Dem-Sing noun|day det|all-Def-Tot noun|summer adv|long .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|AUX 4|10|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|9|DET 9|10|OBL-UNMARKED 10|4|ADVMOD 11|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	what she carrying ? 
+%mor:	pron|what-Int-S1 pron|she-Prs-Nom-S3 verb|carry-Part-Pres-S ?
+%gra:	1|3|ROOT 2|3|NSUBJ 3|1|ACL-RELCL 4|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	a stop cha [: stop_sign] . 
+%mor:	det|a-Ind-Art noun|stop noun|stopsign .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%cod:	$xds:A
+*FA1:	a stop sign you're right . 
+%mor:	det|a-Ind-Art noun|stop noun|sign pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|right-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|6|ROOT 4|6|NSUBJ 5|6|COP 6|3|ACL-RELCL 7|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	it's the first day of school at Tinyville Town Elementary ! 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|first-S1 noun|day adp|of noun|school adp|at propn|Tinyville propn|Town propn|Elementary !
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|11|ROOT 6|7|CASE 7|5|NMOD 8|11|CASE 9|11|COMPOUND 10|11|COMPOUND 11|5|NMOD 12|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	oh we do we know who goes to elemantary school ? 
+%mor:	intj|oh pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 verb|know-Inf-S pron|who-Int verb|go-Fin-Ind-Pres-S3 adp|to adj|elemantary-S1 noun|school ?
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|NSUBJ 5|10|ROOT 6|7|NSUBJ 7|5|CCOMP 8|10|CASE 9|10|AMOD 10|7|OBL 11|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	I don't know . 
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$xds:A
+*FA1:	who's your sister ? 
+%mor:	pron|who-Int~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|sister ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	Ellie . 
+%mor:	propn|Ellie .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	yeah she goes to kindergarden right ? 
+%mor:	intj|yeah pron|she-Prs-Nom-S3 verb|go-Fin-Ind-Pres-S3 adp|to noun|kindergarden adv|right ?
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|6|ROOT 4|5|CASE 5|3|OBL 6|3|ADVMOD 7|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	she goes to elemantary school . 
+%mor:	pron|she-Prs-Nom-S3 verb|go-Fin-Ind-Pres-S3 adp|to adj|elemantary-S1 noun|school .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|AMOD 5|2|OBL 6|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*FA1:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	Ellie Emberley is new to Tinyville Town- . 
+%mor:	propn|Ellie propn|Emberley aux|be-Fin-Ind-Pres-S3 adj|new-S1 adp|to propn|Tinyville propn|Town .
+%gra:	1|4|NSUBJ 2|1|FLAT 3|4|COP 4|7|ROOT 5|7|CASE 6|7|COMPOUND 7|4|OBL 8|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	oh her name is Ellie too ! 
+%mor:	intj|oh pron|her-Prs-Gen-S3 noun|name aux|be-Fin-Ind-Pres-S3 propn|Ellie adv|too !
+%gra:	1|5|DISCOURSE 2|3|NMOD-POSS 3|5|NSUBJ 4|5|COP 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	her family just moved here and she doesn't know where to go . 
+%mor:	pron|her-Prs-Gen-S3 noun|family adv|just verb|move-Fin-Ind-Past-S3 adv|here cconj|and pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|know-Inf-S adv|where part|to verb|go-Inf-S .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|ADVMOD 4|13|ROOT 5|4|ADVMOD 6|10|CC 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|4|CONJ 11|13|ADVMOD 12|13|MARK 13|10|CCOMP 14|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	miss Parker is the principal it's her job . 
+%mor:	verb|miss-Fin-Imp-S propn|Parker aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|principal pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|job .
+%gra:	1|9|ROOT 2|5|NSUBJ 3|5|COP 4|5|DET 5|1|CCOMP 6|9|NSUBJ 7|9|COP 8|9|NMOD-POSS 9|5|ACL-RELCL 10|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	to make sure things run smoothly . 
+%mor:	part|to verb|make-Inf-S adj|sure-S1 noun|thing-Plur verb|run-Fin-Ind-Pres-P3 adv|smoothly .
+%gra:	1|2|MARK 2|6|ROOT 3|2|XCOMP 4|5|NSUBJ 5|3|CCOMP 6|5|ADVMOD 7|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	at Tinyville Town Elemantary . 
+%mor:	adp|at propn|Tinyville propn|Town propn|Elemantary .
+%gra:	1|4|CASE 2|3|COMPOUND 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Bubba where are your shoes ? 
+%mor:	propn|Bubba adv|where aux|be-Fin-Ind-Pres-P3 pron|your-Prs-Gen-S2 noun|shoe-Plur ?
+%gra:	1|5|ROOT 2|1|ADVMOD 3|1|COP 4|5|NMOD-POSS 5|1|APPOS 6|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	here Anna you can bring- you can borrow my pencil . 
+%mor:	adv|here propn|Anna pron|you-Prs-Nom-S2 aux|can-Fin-S verb|bring-Inf-S pron|you-Prs-Nom-S2 aux|can-Fin-S verb|borrow-Inf-S pron|my-Prs-Gen-S1 noun|pencil-Acc .
+%gra:	1|5|ADVMOD 2|5|VOCATIVE 3|5|NSUBJ 4|5|AUX 5|10|ROOT 6|8|NSUBJ 7|8|AUX 8|5|CCOMP 9|10|NMOD-POSS 10|8|OBJ 11|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	bring yours tomorrow . 
+%mor:	verb|bring-Fin-Imp-S pron|your-Prs-S2 noun|tomorrow .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|OBL-UNMARKED 4|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Owen return that library book you borrowed last year . 
+%mor:	propn|Owen verb|return-Fin-Ind-S det|that-Def-Dem-Sing noun|library noun|book-Acc pron|you-Prs-Nom-S2 verb|borrow-Fin-Ind-Past-S2 adj|last-S1 noun|year .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|5|DET 4|5|COMPOUND 5|2|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|9|AMOD 9|7|OBL-UNMARKED 10|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	good morning Ellie misses Parker says . 
+%mor:	adj|good-S1 noun|morning-Ger propn|Ellie verb|misse-Fin-Ind-Pres-S3 propn|Parker-Acc verb|say-Fin-Ind-Pres-S3 .
+%gra:	1|2|AMOD 2|6|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|4|OBJ 6|2|PARATAXIS 7|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	she finds Ellie's name on her clipboard . 
+%mor:	pron|she-Prs-Nom-S3 verb|find-Fin-Ind-Pres-S3 propn|Ellie~part|s noun|name-Acc adp|on pron|her-Prs-Gen-S3 noun|clipboard .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|5|NMOD-POSS 4|3|CASE 5|2|OBJ 6|8|CASE 7|8|NMOD-POSS 8|2|OBL 9|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	your teacher is mister Meyer . 
+%mor:	pron|your-Prs-Gen-S2 noun|teacher aux|be-Fin-Ind-Pres-S3 propn|mister propn|Meyer .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|COP 4|5|ROOT 5|4|FLAT 6|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	room twenty eight . 
+%mor:	noun|room num|twenty num|eight .
+%gra:	1|3|ROOT 2|3|NUMMOD 3|1|NMOD-UNMARKED 4|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	don't be late . 
+%mor:	aux|do-Fin-Imp-S~part|not aux|be-Fin-Imp-S adj|late-S1 .
+%gra:	1|4|AUX 2|4|ADVMOD 3|4|COP 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	thank you . 
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	down a hallway up the stairs and through the door . 
+%mor:	adp|down det|a-Ind-Art noun|hallway adp|up det|the-Def-Art noun|stair-Plur cconj|and adp|through det|the-Def-Art noun|door .
+%gra:	1|3|CASE 2|3|DET 3|10|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|10|CC 8|10|CASE 9|10|DET 10|6|CONJ 11|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	there's the bell . 
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|bell .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	bring , it's time for class ! 
+%mor:	verb|bring-Fin-Imp-S cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|time adp|for noun|class !
+%gra:	1|7|ROOT 2|5|PUNCT 3|5|NSUBJ 4|5|COP 5|1|PARATAXIS 6|7|CASE 7|5|NMOD 8|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	mister Meyer greets Ellie . 
+%mor:	propn|mister propn|Meyer verb|greet-Fin-Ind-Pres-S3 propn|Ellie-Acc .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	welcome to room twenty eight he says . 
+%mor:	intj|welcome adp|to noun|room num|twenty num|eight pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Pres-S3 .
+%gra:	1|7|CCOMP 2|3|CASE 3|1|OBL 4|5|COMPOUND 5|1|OBL-UNMARKED 6|7|NSUBJ 7|7|ROOT 8|7|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	we've been expecting you . 
+%mor:	pron|we-Prs-Nom-P1~aux|have-Fin-Ind-Pres-P1 aux|be-Part-Past-S-irr verb|expect-Part-Pres-S pron|you-Prs-Acc-S2 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|AUX 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	take a seat across from Chloe and let's get started . 
+%mor:	verb|take-Fin-Imp-S det|a-Ind-Art noun|seat-Acc adp|across adp|from propn|Chloe cconj|and verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 aux|get-Inf-S verb|start-Part-Past-S .
+%gra:	1|11|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|CASE 6|1|OBL 7|8|CC 8|1|CONJ 9|8|OBJ 10|11|AUX-PASS 11|8|XCOMP 12|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	hi ! 
+%mor:	intj|hi !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	each classroom begins the day differently . 
+%mor:	det|each-Def-Tot noun|classroom verb|begin-Fin-Ind-Pres-S3 det|the-Def-Art noun|day-Acc adv|differently .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	it's story time for the little kids . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|story noun|time adp|for det|the-Def-Art adj|little-S1 noun|kid-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|COMPOUND 4|8|ROOT 5|8|CASE 6|8|DET 7|8|AMOD 8|4|NMOD 9|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	the big kids work on math . 
+%mor:	det|the-Def-Art adj|big-S1 noun|kid-Plur verb|work-Fin-Ind-Pres-P3 adp|on noun|math .
+%gra:	1|3|DET 2|3|AMOD 3|4|NSUBJ 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	do you know math is ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|know-Inf-S noun|math-Acc aux|be-Fin-Ind-Pres-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|CCOMP 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	the numbers . 
+%mor:	det|the-Def-Art noun|number-Plur .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	Ellie's class begins or does a word lesson . 
+%mor:	propn|Ellie~part|s noun|class verb|begin-Fin-Ind-Pres-S3 cconj|or verb|do-Fin-Ind-Pres-S3 det|a-Ind-Art noun|word noun|lesson-Acc .
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|4|NSUBJ 4|9|ROOT 5|6|CC 6|4|CONJ 7|9|DET 8|9|COMPOUND 9|6|OBJ 10|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	what begins with a , raise your hands . 
+%mor:	pron|what-Int-S1 verb|begin-Fin-Ind-Pres-S3 adp|with det|a-Ind-Art cm|cm verb|raise-Fin-Imp-S pron|your-Prs-Gen-S2 noun|hand-Plur-Acc .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|CASE 4|6|REPARANDUM 5|6|PUNCT 6|2|PARATAXIS 7|8|NMOD-POSS 8|6|OBJ 9|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	a is for , hmm . 
+%mor:	det|a-Ind-Art aux|be-Fin-Ind-Pres-S3 adp|for cm|cm intj|hmm .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|CASE 4|5|PUNCT 5|2|DISCOURSE 6|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	mister Meyer calls on Ellie . 
+%mor:	propn|mister propn|Meyer verb|call-Fin-Ind-Pres-S3 adp|on propn|Ellie .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	aardvark , Ellie says . 
+%mor:	noun|aardvark cm|cm propn|Ellie verb|say-Fin-Ind-Pres-S3 .
+%gra:	1|4|ROOT 2|1|PUNCT 3|4|NSUBJ 4|1|PARATAXIS 5|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	very good . 
+%mor:	adv|very adj|good-S1 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Ellie likes mister Meyer already . 
+%mor:	propn|Ellie verb|like-Fin-Ind-Pres-S3 noun|mister-Acc propn|Meyer adv|already .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|3|FLAT 5|2|ADVMOD 6|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	time for lunch . 
+%mor:	noun|time adp|for noun|lunch .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	the cafeteria crew has made a delicious meal . 
+%mor:	det|the-Def-Art noun|cafeteria noun|crew aux|have-Fin-Ind-Pres-S3 verb|make-Part-Past-S-irr det|a-Ind-Art adj|delicious-S1 noun|meal-Acc .
+%gra:	1|3|DET 2|3|COMPOUND 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|8|DET 7|8|AMOD 8|5|OBJ 9|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	for the students of Tinyville Town Elementary . 
+%mor:	adp|for det|the-Def-Art noun|student-Plur adp|of propn|Tinyville propn|Town propn|Elementary .
+%gra:	1|3|CASE 2|3|DET 3|7|ROOT 4|7|CASE 5|7|COMPOUND 6|7|COMPOUND 7|3|NMOD 8|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	yum please . 
+%mor:	intj|yum intj|please .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	I love cauliflower . 
+%mor:	pron|I-Prs-Nom-S1 verb|love-Fin-Ind-Pres-S1 noun|cauliflower-Acc .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Ellie brought her lunch but the lunch lady gives her a chocolate milk anyway . 
+%mor:	propn|Ellie verb|bring-Fin-Ind-Past-S3-irr pron|her-Prs-Gen-S3 noun|lunch-Acc cconj|but det|the-Def-Art noun|lunch noun|lady verb|give-Fin-Ind-Pres-S3 pron|her-Prs-Acc-S3 det|a-Ind-Art noun|chocolate noun|milk-Acc adv|anyway .
+%gra:	1|2|NSUBJ 2|14|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|9|CC 6|8|DET 7|8|COMPOUND 8|9|NSUBJ 9|2|CONJ 10|9|IOBJ 11|13|DET 12|13|COMPOUND 13|9|OBJ 14|9|ADVMOD 15|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	welcome to Tinyville Town she says . 
+%mor:	intj|welcome adp|to propn|Tinyville propn|Town pron|she-Prs-Nom-S3 verb|say-Fin-Ind-Pres-S3 .
+%gra:	1|6|CCOMP 2|4|CASE 3|4|COMPOUND 4|1|OBL 5|6|NSUBJ 6|6|ROOT 7|6|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	thank you . 
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Ellie sits with Chloe from her class . 
+%mor:	propn|Ellie verb|sit-Fin-Ind-Pres-S3 adp|with propn|Chloe adp|from pron|her-Prs-Gen-S3 noun|class .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|CASE 4|2|OBL 5|7|CASE 6|7|NMOD-POSS 7|2|OBL 8|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Ellie shares her milk . 
+%mor:	propn|Ellie verb|share-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|milk-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Chloe shares her raisins . 
+%mor:	propn|Chloe verb|share-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|raisin-Plur-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	do you like raisins ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|like-Inf-S noun|raisin-Plur-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	recess ! 
+%mor:	noun|recess !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Ellie and Chloe run to play kickball . 
+%mor:	propn|Ellie cconj|and propn|Chloe verb|run-Fin-Ind-Pres-P3 part|to verb|play-Inf-S noun|kickball-Acc .
+%gra:	1|4|NSUBJ 2|3|CC 3|1|CONJ 4|7|ROOT 5|6|MARK 6|4|ADVCL 7|6|OBJ 8|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	but the playround monitor blows his whistle . 
+%mor:	cconj|but det|the-Def-Art noun|playround noun|monitor verb|blow-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|whistle-Acc .
+%gra:	1|5|CC 2|4|DET 3|4|COMPOUND 4|5|NSUBJ 5|7|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	it's his job to keep everyone safe . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|his-Prs-Gen-S3 noun|job part|to verb|keep-Inf-S pron|everyone-Tot-S1 adj|safe-S1 .
+%gra:	1|4|EXPL 2|4|COP 3|4|NMOD-POSS 4|8|ROOT 5|6|MARK 6|4|ACL 7|6|OBJ 8|6|XCOMP 9|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	it's a close game . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|close-S1 noun|game .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Ellie gets on base once and catches two outs . 
+%mor:	propn|Ellie verb|get-Fin-Ind-Pres-S3 adp|on noun|base adv|once cconj|and verb|catch-Fin-Ind-Pres-S3 num|two noun|out-Plur-Acc .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|CASE 4|2|OBL 5|2|ADVMOD 6|7|CC 7|2|CONJ 8|9|NUMMOD 9|7|OBJ 10|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	do you see the game they're playing with big bouncy ball ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S det|the-Def-Art noun|game-Acc pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|play-Part-Pres-S adp|with adj|big-S1 adj|bouncy-S1 noun|ball ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|12|ROOT 4|5|DET 5|3|OBJ 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|12|CASE 10|12|AMOD 11|12|AMOD 12|8|OBL 13|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	school's out !
+%mor:	noun|school~part|s adv|out !
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	everyone is heading home . 
+%mor:	pron|everyone-Tot-S1 aux|be-Fin-Ind-Pres-S3 verb|head-Part-Pres-S adv|home .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*FA1:	Ellie takes the bus , Chloe saved her a seat . 
+%mor:	propn|Ellie verb|take-Fin-Ind-Pres-S3 det|the-Def-Art noun|bus-Acc cm|cm propn|Chloe verb|save-Fin-Ind-Past-S3 pron|her-Prs-Acc-S3 det|a-Ind-Art noun|seat-Acc .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|4|DET 4|2|OBJ 5|7|PUNCT 6|7|NSUBJ 7|2|PARATAXIS 8|7|IOBJ 9|10|DET 10|7|OBJ 11|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	hop on and let's get going says the driver . 
+%mor:	verb|hop-Fin-Imp-S adp|on cconj|and verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|get-Inf-S verb|go-Ger-S verb|say-Fin-Ind-Pres-S3 det|the-Def-Art noun|driver-Acc .
+%gra:	1|10|ROOT 2|1|COMPOUND-PRT 3|4|CC 4|1|CONJ 5|4|OBJ 6|4|XCOMP 7|6|XCOMP 8|6|XCOMP 9|10|DET 10|8|OBJ 11|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	it's her job to get the riders home on time . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|her-Prs-Gen-S3 noun|job part|to verb|get-Inf-S det|the-Def-Art noun|rider-Plur-Acc adv|home adp|on noun|time .
+%gra:	1|4|EXPL 2|4|COP 3|4|NMOD-POSS 4|11|ROOT 5|6|MARK 6|4|CSUBJ 7|8|DET 8|6|OBJ 9|6|ADVMOD 10|11|CASE 11|6|OBL 12|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	does Ellie ride a bus or walk to school ? 
+%mor:	aux|do-Fin-Ind-Pres-S3 propn|Ellie verb|ride-Inf-S det|a-Ind-Art noun|bus-Acc cconj|or noun|walk adp|to noun|school ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|9|ROOT 4|5|DET 5|3|OBJ 6|7|CC 7|5|CONJ 8|9|CASE 9|3|OBL 10|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	walk to school . 
+%mor:	verb|walk-Fin-Imp-S adp|to noun|school .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+%cod:	$xds:A
+*FA1:	yeah your sister Ellie walks to school but this Ellie takes the bus . 
+%mor:	intj|yeah pron|your-Prs-Gen-S2 noun|sister propn|Ellie verb|walk-Fin-Ind-Pres-S3 adp|to noun|school cconj|but det|this-Def-Dem-Sing propn|Ellie verb|take-Fin-Ind-Pres-S3 det|the-Def-Art noun|bus-Acc .
+%gra:	1|5|DISCOURSE 2|3|NMOD-POSS 3|5|NSUBJ 4|3|APPOS 5|13|ROOT 6|7|CASE 7|5|OBL 8|11|CC 9|10|DET 10|11|NSUBJ 11|5|CONJ 12|13|DET 13|11|OBJ 14|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	here's my stop says Chloe . 
+%mor:	adv|here~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|stop verb|say-Fin-Ind-Pres-S3 propn|Chloe .
+%gra:	1|5|CCOMP 2|1|COP 3|4|NMOD-POSS 4|5|NSUBJ 5|6|ROOT 6|5|NSUBJ 7|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	it's my stop too says Ellie . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|stop adv|too verb|say-Fin-Ind-Pres-S3 propn|Ellie .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|6|CCOMP 5|6|ADVMOD 6|7|ROOT 7|6|NSUBJ 8|6|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	the bus driver waves as Ellie gets off the bus with her new friend Chloe . 
+%mor:	det|the-Def-Art noun|bus noun|driver verb|wave-Fin-Ind-Pres-S3 sconj|as propn|Ellie verb|get-Fin-Ind-Pres-S3 adp|off det|the-Def-Art noun|bus adp|with pron|her-Prs-Gen-S3 adj|new-S1 noun|friend propn|Chloe .
+%gra:	1|3|DET 2|3|COMPOUND 3|4|NSUBJ 4|15|ROOT 5|7|MARK 6|7|NSUBJ 7|4|ADVCL 8|10|CASE 9|10|DET 10|7|OBL 11|14|CASE 12|14|NMOD-POSS 13|14|AMOD 14|7|OBL 15|14|APPOS 16|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	see you tomorrow she says . 
+%mor:	verb|see-Fin-Imp-S pron|you-Prs-Acc-S2 noun|tomorrow pron|she-Prs-Nom-S3 verb|say-Fin-Ind-Pres-S3 .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|OBL-UNMARKED 4|5|NSUBJ 5|1|PARATAXIS 6|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	and welcome to Tinyville Town . 
+%mor:	cconj|and intj|welcome adp|to propn|Tinyville propn|Town .
+%gra:	1|2|CC 2|5|ROOT 3|5|CASE 4|5|COMPOUND 5|2|OBL 6|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	thank you . 
+%mor:	verb|thank-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	who's that ? 
+%mor:	pron|who-Int~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	I don't know . 
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$xds:A
+*FA1:	you know who that is right ? 
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|who-Int pron|that-Dem aux|be-Fin-Ind-Pres-S3 adj|right-S1 ?
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|6|NSUBJ 5|6|COP 6|3|ACL-RELCL 7|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	the police of [: officer] . 
+%mor:	det|the-Def-Art noun|police noun|officer .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%cod:	$xds:A
+*FA1:	the police officer you're right . 
+%mor:	det|the-Def-Art noun|police noun|officer pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|right-S1 .
+%gra:	1|3|DET 2|3|COMPOUND 3|6|NSUBJ 4|6|NSUBJ 5|6|COP 6|6|ROOT 7|6|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	the end , what a nice book . 
+%mor:	det|the-Def-Art noun|end cm|cm det|what-Def-Int det|a-Ind-Art adj|nice-S1 noun|book .
+%gra:	1|2|DET 2|7|ROOT 3|7|PUNCT 4|7|DET-PREDET 5|7|DET 6|7|AMOD 7|2|APPOS 8|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*FA1:	&=laughs . 
+%cod:	$txt:C; $xds:T
+*CHI:	and I want . 
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 .
+%gra:	1|3|CC 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$xds:A
+@End

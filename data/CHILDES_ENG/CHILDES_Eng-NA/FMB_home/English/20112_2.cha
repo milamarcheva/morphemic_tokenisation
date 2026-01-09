@@ -1,0 +1,691 @@
+@UTF8
+@PID:	11312/a-00096688-0
+@Begin
+@Languages:	eng
+@Participants:	FAT Father, CHI Target_Child
+@ID:	eng|FMB_home|FAT||male|||Father|||
+@ID:	eng|FMB_home|CHI|2;02.|female|||Target_Child||20112|
+@Comment:	20112_context2_17103
+@G:	ch_conversation
+@Types:	long, everyday, TD
+*FAT:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I wanna see xxx Dad .
+%mor:	pron|I-Prs-Nom-S1 aux|wanna-Fin-S verb|see-Inf-S noun|dad-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*FAT:	&=yawns your baby in your room ?
+%mor:	pron|your-Prs-Gen-S2 noun|baby adp|in pron|your-Prs-Gen-S2 noun|room ?
+%gra:	1|2|NMOD-POSS 2|5|ROOT 3|5|CASE 4|5|NMOD-POSS 5|2|NMOD 6|2|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	oh Daddy's tired .
+%mor:	intj|oh propn|Daddy~part|s adj|tired-S1 .
+%gra:	1|4|DISCOURSE 2|4|NMOD-POSS 3|2|CASE 4|4|ROOT 5|4|PUNCT
+*FAT:	Daddy needs a nap .
+%mor:	propn|Daddy verb|need-Fin-Ind-Pres-S3 det|a-Ind-Art noun|nap-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	um , Daddy .
+%mor:	intj|um cm|cm propn|Daddy .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+*FAT:	yup , I'm tired .
+%mor:	intj|yup cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|tired-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+*CHI:	Daddy ?
+%mor:	propn|Daddy ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	baby xxx .
+%mor:	noun|baby .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	the baby does what ?
+%mor:	det|the-Def-Art noun|baby aux|do-Fin-Ind-Pres-S3 pron|what-Int-S1 ?
+%gra:	1|2|DET 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	baby su(ck) her (t)humb .
+%mor:	noun|baby verb|suck-Fin-Imp-S pron|her-Prs-Gen-S3 noun|thumb-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*FAT:	that baby's sucking her thumb ?
+%mor:	det|that-Def-Dem-Sing noun|baby~aux|be-Fin-Ind-Pres-S3 verb|suck-Part-Pres-S pron|her-Prs-Gen-S3 noun|thumb-Acc ?
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	do you suck your thumb ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|suck-Inf-S pron|your-Prs-Gen-S2 noun|thumb-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	you do ?
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*FAT:	when do you suck your thumb ?
+%mor:	adv|when aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|suck-Inf-S pron|your-Prs-Gen-S2 noun|thumb-Acc ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|PUNCT
+*CHI:	baby xxx .
+%mor:	noun|baby .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	no , the baby doesn't pick your nose .
+%mor:	intj|no cm|cm det|the-Def-Art noun|baby aux|do-Fin-Ind-Pres-S3~part|not verb|pick-Inf-S pron|your-Prs-Gen-S2 noun|nose-Acc .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|4|DET 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|9|ROOT 8|9|NMOD-POSS 9|7|OBJ 10|7|PUNCT
+*FAT:	no , don't do that , that's icky .
+%mor:	intj|no cm|cm aux|do-Fin-Imp-S~part|not verb|do-Fin-Imp-S pron|that-Dem cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|icky-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|AUX 4|5|ADVMOD 5|10|ROOT 6|5|OBJ 7|10|PUNCT 8|10|NSUBJ 9|10|COP 10|5|PARATAXIS 11|5|PUNCT
+*FAT:	&=yawns .
+*FAT:	what are you looking at ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|look-Part-Pres-S adp|at ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|1|CASE 6|4|PUNCT
+*FAT:	Sissy ?
+%mor:	noun|sissy ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	what are you doing ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*FAT:	are you looking at something ?
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|look-Part-Pres-S adp|at pron|something-Ind-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	what is it ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+*CHI:	xxx .
+*FAT:	at what ?
+%mor:	adp|at pron|what-Int-S1 ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx .
+*FAT:	well , tell me , what is that ?
+%mor:	intj|well cm|cm verb|tell-Fin-Imp-S pron|I-Prs-Acc-S1 cm|cm pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|8|ROOT 4|3|IOBJ 5|6|PUNCT 6|3|OBJ 7|8|COP 8|6|NSUBJ 9|3|PUNCT
+*CHI:	a thing .
+%mor:	det|a-Ind-Art noun|thing-Ger .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	it's a what ?
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art pron|what-Int-S1 ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	a thing .
+%mor:	det|a-Ind-Art noun|thing-Ger .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	a thing ?
+%mor:	det|a-Ind-Art noun|thing-Ger ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	what kinda thing is that ?
+%mor:	det|what-Def-Int adv|kinda noun|thing-Ger aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|DET 2|3|ADVMOD 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+*CHI:	xxx .
+*FAT:	it's what ?
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|what-Int-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	xxx .
+*FAT:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*FAT:	no that's not yours , it's mine &=yawns .
+%mor:	intj|no pron|that-Dem~aux|be-Fin-Ind-Pres-S3 part|not pron|your-Prs-S2 cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-S1 .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|9|ROOT 6|9|PUNCT 7|9|NSUBJ 8|9|COP 9|5|PARATAXIS 10|5|PUNCT
+*CHI:	xxx .
+*FAT:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx hair dyed ?
+%mor:	noun|hair verb|dyed-Part-Past-S ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*FAT:	yeah , Daddy doesn't have any hair .
+%mor:	intj|yeah cm|cm propn|Daddy aux|do-Fin-Ind-Pres-S3~part|not verb|have-Inf-S det|any-Def-Ind noun|hair-Acc .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|8|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+*FAT:	Daddy bald .
+%mor:	propn|Daddy adj|bald-S1 .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	yes xxx .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx her ?
+%mor:	pron|her-Prs-Acc-S3 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	no other_name is not bald .
+%mor:	det|no-Def-Neg noun|othername aux|be-Fin-Ind-Pres-S3 part|not adj|bald-S1 .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+*CHI:	that's my baby .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|baby .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+*FAT:	I thought I was holding your baby .
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|hold-Part-Pres-S pron|your-Prs-Gen-S2 noun|baby-Acc .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|5|NSUBJ 4|5|AUX 5|2|CCOMP 6|7|NMOD-POSS 7|5|OBJ 8|2|PUNCT
+*CHI:	that's my baby .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|baby .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+*FAT:	I can't hold your baby ?
+%mor:	pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|hold-Inf-S pron|your-Prs-Gen-S2 noun|baby-Acc ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	oh , okay .
+%mor:	intj|oh cm|cm intj|okay .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+*FAT:	you're mean .
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|mean-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*FAT:	you took away the baby from me .
+%mor:	pron|you-Prs-Nom-S2 verb|take-Fin-Ind-Past-S2-irr adp|away det|the-Def-Art noun|baby-Acc adp|from pron|I-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|COMPOUND-PRT 4|5|DET 5|2|OBJ 6|7|CASE 7|2|OBL 8|2|PUNCT
+*FAT:	now I'm sad .
+%mor:	adv|now pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sad-S1 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*FAT:	I don't get to play with the baby .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|get-Inf-S part|to verb|play-Inf-S adp|with det|the-Def-Art noun|baby .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|4|PUNCT
+*FAT:	I don't get to play with the baby ?
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|get-Inf-S part|to verb|play-Inf-S adp|with det|the-Def-Art noun|baby ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|6|MARK 6|4|XCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|4|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	why not ?
+%mor:	adv|why part|not ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*FAT:	is it your baby ?
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 pron|your-Prs-Gen-S2 noun|baby ?
+%gra:	1|4|COP 2|4|NSUBJ 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	that's why I can't play with it ?
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|why pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|play-Inf-S adp|with pron|it-Prs-Acc-S3 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|9|ROOT 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|3|ADVCL-RELCL 8|9|CASE 9|7|OBL 10|3|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	is there a baby I can play with ?
+%mor:	verb|be-Fin-Ind-Pres-S3 pron|there-Int-S1 det|a-Ind-Art noun|baby pron|I-Prs-Nom-S1 aux|can-Fin-S verb|play-Inf-S adp|with ?
+%gra:	1|8|ROOT 2|1|EXPL 3|4|DET 4|1|NSUBJ 5|7|NSUBJ 6|7|AUX 7|4|ACL-RELCL 8|7|OBL 9|1|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	which one ?
+%mor:	det|which-Def-Int noun|one ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	this one .
+%mor:	det|this-Def-Dem-Sing noun|one .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	which one ?
+%mor:	det|which-Def-Int noun|one ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	oh this one .
+%mor:	intj|oh det|this-Def-Dem-Sing noun|one .
+%gra:	1|3|DISCOURSE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*FAT:	that one ?
+%mor:	det|that-Def-Dem-Sing num|one ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	oh thank_you .
+%mor:	intj|oh intj|thankyou .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*FAT:	I like this baby better .
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 det|this-Def-Dem-Sing noun|baby-Acc adj|good-Cmp-S1 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|DET 4|2|OBJ 5|2|XCOMP 6|2|PUNCT
+*CHI:	xxx baby better ?
+%mor:	noun|baby adj|good-Cmp-S1 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*FAT:	yeah , I like this one better .
+%mor:	intj|yeah cm|cm pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 det|this-Def-Dem-Sing noun|one-Acc adj|good-Cmp-S1 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|7|ROOT 5|6|DET 6|4|OBJ 7|4|XCOMP 8|4|PUNCT
+*FAT:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Daddy .
+%mor:	propn|Daddy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Daddy .
+%mor:	propn|Daddy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Daddy .
+%mor:	propn|Daddy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	Daddy .
+%mor:	propn|Daddy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx baby xxx .
+%mor:	noun|baby .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	that baby does what ?
+%mor:	det|that-Def-Dem-Sing noun|baby aux|do-Fin-Ind-Pres-S3 pron|what-Int-S1 ?
+%gra:	1|2|DET 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	what's that ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+*FAT:	oh , did you get your baby dirty ?
+%mor:	intj|oh cm|cm aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|get-Inf-S pron|your-Prs-Gen-S2 noun|baby-Acc adj|dirty-S1 ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|AUX 4|5|NSUBJ 5|8|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|5|XCOMP 9|5|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	yeah , well you shouldn't take your baby outside .
+%mor:	intj|yeah cm|cm intj|well pron|you-Prs-Nom-S2 aux|should-Fin-S~part|not verb|take-Inf-S pron|your-Prs-Gen-S2 noun|baby-Acc adv|outside .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|DISCOURSE 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|10|ROOT 8|9|NMOD-POSS 9|7|OBJ 10|7|ADVMOD 11|7|PUNCT
+*CHI:	just dirty .
+%mor:	adv|just adj|dirty-S1 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*FAT:	yeah , the baby get dirty .
+%mor:	intj|yeah cm|cm det|the-Def-Art noun|baby verb|get-Fin-Ind-Pres-S3 adj|dirty-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|4|DET 4|5|NSUBJ 5|6|ROOT 6|5|XCOMP 7|5|PUNCT
+*CHI:	my baby crawling .
+%mor:	pron|my-Prs-Gen-S1 noun|baby noun|crawl-Ger .
+%gra:	1|3|NMOD-POSS 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+*FAT:	your baby what ?
+%mor:	pron|your-Prs-Gen-S2 noun|baby pron|what-Int-S1 ?
+%gra:	1|2|NMOD-POSS 2|3|ROOT 3|2|APPOS 4|2|PUNCT
+*CHI:	xxx flying .
+%mor:	verb|fly-Part-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	your baby was flying ?
+%mor:	pron|your-Prs-Gen-S2 noun|baby aux|be-Fin-Ind-Past-S3-irr verb|fly-Part-Pres-S ?
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	are you making the baby fly ?
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|make-Part-Pres-S det|the-Def-Art noun|baby noun|fly-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|DET 5|6|COMPOUND 6|3|OBJ 7|3|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	wow .
+%mor:	intj|wow .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=whispers baby [/] baby &=laughs .
+%mor:	noun|baby .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	do the babies run into each other ?
+%mor:	aux|do-Fin-Ind-Pres-P3 det|the-Def-Art noun|baby-Plur verb|run-Inf-S adp|into det|each-Def-Rcp adj|other-S1 ?
+%gra:	1|4|AUX 2|3|DET 3|4|NSUBJ 4|7|ROOT 5|6|CASE 6|4|OBL 7|6|FIXED 8|4|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=laughs .
+*FAT:	&=yawns .
+*CHI:	it's just crybaby .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just noun|crybaby .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*FAT:	ow , don't hit me in the head with it .
+%mor:	intj|ow cm|cm aux|do-Fin-Imp-S~part|not verb|hit-Fin-Imp-S pron|I-Prs-Acc-S1 adp|in det|the-Def-Art noun|head adp|with pron|it-Prs-Acc-S3 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|AUX 4|5|ADVMOD 5|11|ROOT 6|5|OBJ 7|9|CASE 8|9|DET 9|5|OBL 10|11|CASE 11|5|OBL 12|5|PUNCT
+*FAT:	no that hurts .
+%mor:	intj|no pron|that-Dem verb|hurt-Fin-Ind-Pres-S3 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*FAT:	you don't do that .
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|do-Inf-S pron|that-Dem .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	hey yours baby .
+%mor:	intj|hey pron|your-Prs-Gen-S2 noun|baby .
+%gra:	1|3|DISCOURSE 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+*FAT:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yours baby .
+%mor:	pron|your-Prs-S2 noun|baby .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*FAT:	that baby ?
+%mor:	det|that-Def-Dem-Sing noun|baby ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no , my baby .
+%mor:	intj|no cm|cm pron|my-Prs-Gen-S1 noun|baby .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+*FAT:	I thought it was my baby .
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Past-S1-irr pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr pron|my-Prs-Gen-S1 noun|baby .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|NSUBJ 4|6|COP 5|6|NMOD-POSS 6|2|CCOMP 7|2|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	oh , I have to take this baby ?
+%mor:	intj|oh cm|cm pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 part|to verb|take-Inf-S det|this-Def-Dem-Sing noun|baby-Acc ?
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|8|ROOT 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|4|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	ow [/] ow !
+%mor:	intj|ow !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	what'd you do ?
+%mor:	pron|what-Int-S1~aux|would-Fin-S pron|you-Prs-Nom-S2 verb|do-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	I , &+n no [/] no .
+%mor:	pron|I-Prs-Nom-S1 cm|cm intj|no .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*FAT:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*FAT:	get your foot out of my face .
+%mor:	verb|get-Fin-Imp-S pron|your-Prs-Gen-S2 noun|foot-Acc adp|out adp|of pron|my-Prs-Gen-S1 noun|face .
+%gra:	1|7|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|7|CASE 5|4|FIXED 6|7|NMOD-POSS 7|1|OBL 8|1|PUNCT
+*CHI:	xxx .
+*FAT:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	look Daddy .
+%mor:	verb|look-Fin-Imp-S propn|Daddy-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*FAT:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	look .
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	yeah , I see that's your foot .
+%mor:	intj|yeah cm|cm pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|foot .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|8|ROOT 5|8|NSUBJ 6|8|COP 7|8|NMOD-POSS 8|4|CCOMP 9|4|PUNCT
+*FAT:	I don't need your foot in my face .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|need-Inf-S pron|your-Prs-Gen-S2 noun|foot-Acc adp|in pron|my-Prs-Gen-S1 noun|face .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|9|CASE 8|9|NMOD-POSS 9|4|OBL 10|4|PUNCT
+*CHI:	the owie .
+%mor:	det|the-Def-Art noun|owie .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	an owie , where ?
+%mor:	det|a-Ind-Art noun|owie cm|cm adv|where ?
+%gra:	1|2|DET 2|4|ROOT 3|4|PUNCT 4|2|ADVMOD 5|2|PUNCT
+*CHI:	xxx .
+*CHI:	&=cries .
+*FAT:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx owie .
+%mor:	intj|owie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	it'll be fine , just leave it alone .
+%mor:	pron|it-Prs-Nom-S3~aux|will-Fin-S aux|be-Inf-S adj|fine-S1 cm|cm adv|just verb|leave-Fin-Imp-S pron|it-Prs-Acc-S3 adv|alone .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|COP 4|9|ROOT 5|7|PUNCT 6|7|ADVMOD 7|4|PARATAXIS 8|7|OBJ 9|7|ADVMOD 10|4|PUNCT
+*CHI:	the owie .
+%mor:	det|the-Def-Art noun|owie .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	yeah , leave it alone .
+%mor:	intj|yeah cm|cm verb|leave-Fin-Imp-S pron|it-Prs-Acc-S3 adv|alone .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*CHI:	the owie ?
+%mor:	det|the-Def-Art noun|owie ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	&=yawns uhhuh .
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	her owie ?
+%mor:	pron|her-Prs-Gen-S3 noun|owie ?
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*FAT:	leave the owie alone .
+%mor:	verb|leave-Fin-Imp-S det|the-Def-Art noun|owie-Acc adv|alone .
+%gra:	1|4|ROOT 2|3|DET 3|1|OBJ 4|1|ADVMOD 5|1|PUNCT
+*CHI:	the owie ?
+%mor:	det|the-Def-Art noun|owie ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	the owie ?
+%mor:	det|the-Def-Art noun|owie ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	Daddy xxx Daddy the owie .
+%mor:	propn|Daddy propn|Daddy det|the-Def-Art noun|owie .
+%gra:	1|4|ROOT 2|1|FLAT 3|4|DET 4|1|APPOS 5|1|PUNCT
+*FAT:	yeah , I don't wanna see your owie .
+%mor:	intj|yeah cm|cm pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not adv|wanna verb|see-Inf-S pron|your-Prs-Gen-S2 noun|owie-Acc .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|NSUBJ 4|7|AUX 5|7|ADVMOD 6|7|ADVMOD 7|9|ROOT 8|9|NMOD-POSS 9|7|OBJ 10|7|PUNCT
+*FAT:	your owie is fine .
+%mor:	pron|your-Prs-Gen-S2 noun|owie aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+*FAT:	don't touch it .
+%mor:	aux|do-Fin-Imp-S~part|not verb|touch-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|3|AUX 2|3|ADVMOD 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	&=cries .
+*FAT:	well , don't touch it .
+%mor:	intj|well cm|cm aux|do-Fin-Imp-S~part|not verb|touch-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|AUX 4|5|ADVMOD 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	&=cries .
+*CHI:	what <xxx owie> [/] xxx owie .
+%mor:	pron|what-Int-S1 adj|owie-S1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+*CHI:	xxx owie .
+%mor:	intj|owie .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	well , I can't see your hand is on it .
+%mor:	intj|well cm|cm pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|see-Inf-S pron|your-Prs-Gen-S2 noun|hand-Acc aux|be-Fin-Ind-Pres-S3 adp|on pron|it-Prs-Acc-S3 .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|11|ROOT 7|8|NMOD-POSS 8|6|OBJ 9|11|COP 10|11|CASE 11|6|CCOMP 12|6|PUNCT
+*FAT:	let go .
+%mor:	verb|let-Fin-Imp-S noun|go-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	no &=cries .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	okay , fine .
+%mor:	intj|okay cm|cm adj|fine-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+*CHI:	my owie xxx .
+%mor:	pron|my-Prs-Gen-S1 noun|owie .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	<my owie> [/] my owie .
+%mor:	pron|my-Prs-Gen-S1 noun|owie .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	&=cries .
+*FAT:	yeah , leave the owie alone .
+%mor:	intj|yeah cm|cm verb|leave-Fin-Imp-S det|the-Def-Art noun|owie-Acc adv|alone .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+*CHI:	xxx my owie .
+%mor:	pron|my-Prs-Gen-S1 noun|owie .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*FAT:	well , stop messing with it .
+%mor:	intj|well cm|cm verb|stop-Fin-Imp-S verb|mess-Ger-S adp|with pron|it-Prs-Acc-S3 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|6|ROOT 4|3|XCOMP 5|6|CASE 6|4|OBL 7|3|PUNCT
+*FAT:	here .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	get the baby .
+%mor:	verb|get-Fin-Imp-S det|the-Def-Art noun|baby-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*FAT:	where's the babies ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|baby-Plur ?
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*FAT:	&=playingnoises .
+*CHI:	that my baby .
+%mor:	sconj|that pron|my-Prs-Gen-S1 noun|baby .
+%gra:	1|3|MARK 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+*FAT:	&=playingnoises .
+*CHI:	that my baby .
+%mor:	sconj|that pron|my-Prs-Gen-S1 noun|baby .
+%gra:	1|3|MARK 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+*FAT:	&=playingnoises .
+*CHI:	&=playingnoises .
+*CHI:	no &=whines .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	is your baby flying ?
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|baby noun|fly-Ger ?
+%gra:	1|4|COP 2|4|NMOD-POSS 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=laughs xxx .
+*FAT:	oh , crybaby .
+%mor:	intj|oh cm|cm intj|crybaby .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+*CHI:	no !
+%mor:	intj|no !
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	yes [/] yes .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	crybaby .
+%mor:	noun|crybaby .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx &=whines .
+*FAT:	it's nothing Sis , leave it alone .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 pron|nothing-Neg-S1 propn|Sis cm|cm verb|leave-Inf-S pron|it-Prs-Acc-S3 adv|alone .
+%gra:	1|3|NSUBJ 2|3|COP 3|8|ROOT 4|3|VOCATIVE 5|6|PUNCT 6|3|PARATAXIS 7|6|OBJ 8|6|ADVMOD 9|3|PUNCT
+*CHI:	Daddy ?
+%mor:	propn|Daddy ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	yeah , leave it alone .
+%mor:	intj|yeah cm|cm verb|leave-Fin-Imp-S pron|it-Prs-Acc-S3 adv|alone .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*CHI:	the owie .
+%mor:	det|the-Def-Art noun|owie .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	it's not that bad .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not pron|that-Dem adj|bad-S1 .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+*CHI:	the owie ?
+%mor:	det|the-Def-Art noun|owie ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*FAT:	it's not bad .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adj|bad-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	xxx the owie .
+%mor:	det|the-Def-Art noun|owie .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	yeah , it's just a little scratch , leave it alone .
+%mor:	intj|yeah cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just det|a-Ind-Art adj|little-S1 noun|scratch cm|cm verb|leave-Fin-Imp-S pron|it-Prs-Acc-S3 adv|alone .
+%gra:	1|8|DISCOURSE 2|1|PUNCT 3|8|NSUBJ 4|8|COP 5|8|ADVMOD 6|8|DET 7|8|AMOD 8|12|ROOT 9|10|PUNCT 10|8|PARATAXIS 11|10|OBJ 12|10|ADVMOD 13|8|PUNCT
+*CHI:	xxx ?
+*FAT:	yeah , leave it alone .
+%mor:	intj|yeah cm|cm verb|leave-Fin-Imp-S pron|it-Prs-Acc-S3 adv|alone .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+*CHI:	xxx a scrat(ch) ?
+%mor:	det|a-Ind-Art noun|scratch ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	yes , it's a scratch .
+%mor:	intj|yes cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|scratch .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|DET 6|6|ROOT 7|6|PUNCT
+*CHI:	it's nasty dad ?
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|nasty-S1 noun|dad ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*FAT:	it's not nasty .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adj|nasty-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*FAT:	it's just a scratch and no other_name didn't do it .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just det|a-Ind-Art noun|scratch cconj|and det|no-Def-Neg noun|othername aux|do-Fin-Ind-Past-S3-irr~part|not verb|do-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|ADVMOD 4|5|DET 5|12|ROOT 6|11|CC 7|8|DET 8|11|NSUBJ 9|11|AUX 10|11|ADVMOD 11|5|CONJ 12|11|OBJ 13|5|PUNCT
+*CHI:	a scrat(ch) ?
+%mor:	det|a-Ind-Art noun|scratch ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	a scratch .
+%mor:	det|a-Ind-Art noun|scratch .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	a scrat(ch) ?
+%mor:	det|a-Ind-Art noun|scratch ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	scratch .
+%mor:	noun|scratch .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a scrat(ch) ?
+%mor:	det|a-Ind-Art noun|scratch ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	yes .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	the owie ?
+%mor:	det|the-Def-Art noun|owie ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	yes , it's an owie .
+%mor:	intj|yes cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|owie .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|DET 6|6|ROOT 7|6|PUNCT
+*FAT:	but it's just a scratch .
+%mor:	cconj|but pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|just det|a-Ind-Art noun|scratch .
+%gra:	1|6|CC 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|6|DET 6|6|ROOT 7|6|PUNCT
+*CHI:	the scrat(ch) ?
+%mor:	det|the-Def-Art noun|scratch ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	it's not bad .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not adj|bad-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	a scrat(ch) ?
+%mor:	det|a-Ind-Art noun|scratch ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	a owie ?
+%mor:	det|a-Ind-Art noun|owie ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	yes .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	it's not a bad owie .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not det|a-Ind-Art adj|bad-S1 noun|owie .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|ADVMOD 4|6|DET 5|6|AMOD 6|6|ROOT 7|6|PUNCT
+*CHI:	Daddy xxx .
+%mor:	propn|Daddy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	this baby .
+%mor:	det|this-Def-Dem-Sing noun|baby .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*FAT:	oh , I get that baby ?
+%mor:	intj|oh cm|cm pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 det|that-Def-Dem-Sing noun|baby-Acc ?
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	oh , thank_you .
+%mor:	intj|oh cm|cm intj|thankyou .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+*FAT:	me and baby are gonna take a nap .
+%mor:	pron|I-Prs-Acc-S1 cconj|and noun|baby aux|be-Fin-Ind-Pres-P3 part|go verb|take-Inf-S det|a-Ind-Art noun|nap-Acc .
+%gra:	1|6|NSUBJ 2|3|CC 3|1|CONJ 4|6|AUX 5|6|ADVMOD 6|8|ROOT 7|8|DET 8|6|OBJ 9|6|PUNCT
+*FAT:	see baby's tired .
+%mor:	verb|see-Fin-Imp-S noun|baby~part|s adj|tired-S1 .
+%gra:	1|4|ROOT 2|4|NMOD-POSS 3|2|CASE 4|1|OBJ 5|1|PUNCT
+*FAT:	eyes are closed , going night_night .
+%mor:	noun|eye-Plur aux|be-Fin-Ind-Pres-P3 verb|close-Part-Past-S cm|cm verb|go-Part-Pres-S adv|nightnight .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|6|ROOT 4|5|PUNCT 5|3|ADVCL 6|5|ADVMOD 7|3|PUNCT
+*CHI:	xxx .
+*CHI:	nigh(t)_nigh(t) .
+%mor:	adv|nightnight .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	nigh(t)_night baby .
+%mor:	adj|nightnight-S1 noun|baby .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+@G:	ohs
+*CHI:	nigh(t)_nigh(t) baby .
+%mor:	adj|nightnight-S1 noun|baby .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	&=laughs .
+@G:	ch_play
+*FAT:	&=laughs .
+@End

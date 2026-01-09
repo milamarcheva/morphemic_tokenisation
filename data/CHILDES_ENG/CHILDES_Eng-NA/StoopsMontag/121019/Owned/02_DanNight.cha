@@ -1,0 +1,332 @@
+@UTF8
+@PID:	11312/a-00077895-1
+@Begin
+@Languages:	eng
+@Participants:	FA1 Adult, CHI Target_Child
+@Options:	bullets
+@ID:	eng|StoopsMontag|FA1|||||Adult|||
+@ID:	eng|StoopsMontag|CHI|||||Target_Child|||
+@Media:	02_DanNight, audio
+@Types:	cross, book, TD
+*FA1:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	Daniel_Tiger's_Neighborhood . 
+%mor:	propn|DanielTigersNeighborhood .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	What's_special_at_night ? 
+%mor:	propn|Whatsspecialatnight ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	hi neighbor .
+%mor:	intj|hi noun|neighbor .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	it is me , Daniel Tiger . 
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 cm|cm propn|Daniel propn|Tiger .
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|5|PUNCT 5|3|VOCATIVE 6|5|FLAT 7|3|PUNCT
+*FA1:	my family and I are going for a walk at night . 
+%mor:	pron|my-Prs-Gen-S1 noun|family cconj|and pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-P3 verb|go-Part-Pres-S adp|for det|a-Ind-Art noun|walk adp|at noun|night .
+%gra:	1|2|NMOD-POSS 2|6|NSUBJ 3|4|CC 4|2|CONJ 5|6|AUX 6|11|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|11|CASE 11|9|NMOD 12|6|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	you can walk with us ! 
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|walk-Inf-S adp|with pron|we-Prs-Acc-P1 !
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	my dad hands me a flashlight . 
+%mor:	pron|my-Prs-Gen-S1 noun|dad verb|hand-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 det|a-Ind-Art noun|flashlight-Acc .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|6|ROOT 4|3|IOBJ 5|6|DET 6|3|OBJ 7|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	click . 
+%mor:	verb|click-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	click . 
+%mor:	verb|click-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	I turn my flashlight on and off and shine it all around ! 
+%mor:	pron|I-Prs-Nom-S1 verb|turn-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|flashlight-Acc adp|on cconj|and adv|off cconj|and verb|shine-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 det|all-Def-Tot adv|around !
+%gra:	1|2|NSUBJ 2|12|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|ADVMOD 6|7|CC 7|5|CONJ 8|9|CC 9|2|CONJ 10|9|OBJ 11|12|DET 12|9|ADVMOD 13|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	everything looks so different at night ! 
+%mor:	pron|everything-Tot-S1 verb|look-Fin-Ind-Pres-S3 adv|so adj|different-S1 adp|at noun|night !
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|ADVMOD 4|2|XCOMP 5|6|CASE 6|4|OBL 7|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	what is making that sound ? 
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 verb|make-Part-Pres-S det|that-Def-Dem-Sing noun|sound-Acc ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	it sounds like . 
+%mor:	pron|it-Prs-Nom-S3 verb|sound-Fin-Ind-Pres-S3 adp|like .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	ribbit ribbit . 
+%mor:	noun|ribbit noun|ribbit .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	let's find out what's special at night . 
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|find-Inf-S adp|out pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adj|special-S1 adp|at noun|night .
+%gra:	1|9|ROOT 2|1|OBJ 3|1|XCOMP 4|3|COMPOUND-PRT 5|7|NSUBJ 6|7|COP 7|3|CCOMP 8|9|CASE 9|7|OBL 10|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	what is it ? 
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	it a fwog [: frog] ! 
+%mor:	pron|it-Prs-Nom-S3 det|a-Ind-Art noun|frog !
+%gra:	1|3|NSUBJ 2|3|DET 3|3|ROOT 4|3|PUNCT
+%cod:	$xds:A
+*FA1:	it's a frog ! 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|frog !
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	what other sounds do you hear ?
+%mor:	det|what-Def-Int adj|other-S1 noun|sound-Plur-Acc aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|hear-Inf-S ?
+%gra:	1|3|DET 2|3|AMOD 3|6|OBJ 4|6|AUX 5|6|NSUBJ 6|6|ROOT 7|6|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	my mom asks . 
+%mor:	pron|my-Prs-Gen-S1 noun|mom verb|ask-Fin-Ind-Pres-S3 .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*FA1:	I hear a tweet tweet tweet . 
+%mor:	pron|I-Prs-Nom-S1 verb|hear-Fin-Ind-Pres-S1 det|a-Ind-Art noun|tweet noun|tweet noun|tweet-Acc .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|DET 4|6|COMPOUND 5|6|COMPOUND 6|2|OBJ 7|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	do you see what's making the noise ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 verb|make-Part-Pres-S det|the-Def-Art noun|noise-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|6|AUX 6|4|ACL-RELCL 7|8|DET 8|6|OBJ 9|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	look a little closer with me . 
+%mor:	verb|look-Fin-Imp-S det|a-Ind-Art adj|little-S1 adj|close-Cmp-S1 adp|with pron|I-Prs-Acc-S1 .
+%gra:	1|6|ROOT 2|3|DET 3|4|OBL-UNMARKED 4|1|XCOMP 5|6|CASE 6|4|OBL 7|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	what is it ? 
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	a niningale [: nightingale] . 
+%mor:	det|a-Ind-Art noun|nightingale .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	it's a nightingale . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|nightingale .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	oh look . 
+%mor:	intj|oh verb|look-Fin-Imp-S .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Main Street . 
+%mor:	adj|Main-S1 propn|Street .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	it's so dark . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|so adj|dark-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	the lights are out at all the shops , but there's still one light on at the bakery . 
+%mor:	det|the-Def-Art noun|light-Plur aux|be-Fin-Ind-Pres-P3 adv|out adp|at det|all-Def-Tot det|the-Def-Art noun|shop-Plur cm|cm cconj|but pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 adv|still num|one noun|light adp|on adp|at det|the-Def-Art noun|bakery .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|19|ROOT 5|8|CASE 6|8|DET-PREDET 7|8|DET 8|4|OBL 9|12|PUNCT 10|12|CC 11|12|EXPL 12|4|CONJ 13|12|ADVMOD 14|15|NUMMOD 15|12|NSUBJ 16|12|ADVMOD 17|19|CASE 18|19|DET 19|12|OBL 20|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	let's find out what's special at night . 
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|find-Inf-S adp|out pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adj|special-S1 adp|at noun|night .
+%gra:	1|9|ROOT 2|1|OBJ 3|1|XCOMP 4|3|COMPOUND-PRT 5|7|NSUBJ 6|7|COP 7|3|CCOMP 8|9|CASE 9|7|OBL 10|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Baker Aker is baking bread at night ! 
+%mor:	propn|Baker propn|Aker aux|be-Fin-Ind-Pres-S3 verb|bake-Part-Pres-S noun|bread-Acc adp|at noun|night !
+%gra:	1|4|NSUBJ 2|1|FLAT 3|4|AUX 4|7|ROOT 5|4|OBJ 6|7|CASE 7|4|OBL 8|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	I didn't know he did that . 
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Past-S1-irr~part|not verb|know-Inf-S pron|he-Prs-Nom-S3 verb|do-Fin-Ind-Past-S3-irr pron|that-Dem .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|7|ROOT 5|6|NSUBJ 6|4|CCOMP 7|6|OBJ 8|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	he bakes tonight so that he has fresh bread in the morning my dad explains . 
+%mor:	pron|he-Prs-Nom-S3 verb|bake-Fin-Ind-Pres-S3 noun|tonight sconj|so sconj|that pron|he-Prs-Nom-S3 verb|have-Fin-Ind-Pres-S3 adj|fresh-S1 noun|bread-Acc adp|in det|the-Def-Art noun|morning-Ger pron|my-Prs-Gen-S1 noun|dad verb|explain-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|15|ROOT 3|2|OBL-UNMARKED 4|7|MARK 5|4|FIXED 6|7|NSUBJ 7|2|ADVCL 8|9|AMOD 9|7|OBJ 10|12|CASE 11|12|DET 12|7|OBL 13|14|NMOD-POSS 14|15|NSUBJ 15|7|PARATAXIS 16|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Baker Aker waves to us . 
+%mor:	propn|Baker propn|Aker verb|wave-Fin-Ind-Pres-S3 adp|to pron|we-Prs-Acc-P1 .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	good night Baker Aker ! 
+%mor:	adj|good-S1 noun|night propn|Baker propn|Aker !
+%gra:	1|2|AMOD 2|4|ROOT 3|2|APPOS 4|3|FLAT 5|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	over this way I see . 
+%mor:	adp|over det|this-Def-Dem-Sing noun|way pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 .
+%gra:	1|3|CASE 2|3|DET 3|5|OBL 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	the red ! 
+%mor:	det|the-Def-Art adj|red-S1 !
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	Trolley ! 
+%mor:	noun|trolley !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	what's Trolley doing ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 propn|Trolley verb|do-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Trolley rests at night too my mom whispers as we walk by . 
+%mor:	propn|Trolley verb|rest-Fin-Ind-Pres-S3 adp|at noun|night adv|too pron|my-Prs-Gen-S1 noun|mom verb|whisper-Fin-Ind-Pres-S3 sconj|as pron|we-Prs-Nom-P1 verb|walk-Fin-Ind-Pres-P1 adp|by .
+%gra:	1|2|NSUBJ 2|12|ROOT 3|4|CASE 4|2|OBL 5|8|ADVMOD 6|7|NMOD-POSS 7|8|NSUBJ 8|2|PARATAXIS 9|11|MARK 10|11|NSUBJ 11|8|ADVCL 12|11|OBL 13|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	look at those tiny lights over there . 
+%mor:	verb|look-Fin-Imp-S adp|at det|that-Def-Dem-Plur adj|tiny-S1 noun|light-Plur adp|over adv|there .
+%gra:	1|7|ROOT 2|5|CASE 3|5|DET 4|5|AMOD 5|1|OBL 6|7|CASE 7|1|OBL 8|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	I wonder what they could be ? 
+%mor:	pron|I-Prs-Nom-S1 verb|wonder-Fin-Ind-Pres-S1 pron|what-Rel-S1 pron|they-Prs-Nom-P3 aux|could-Fin-S aux|be-Inf-S ?
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|6|NSUBJ 5|3|AUX 6|3|ACL-RELCL 7|2|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	let's find out what's special at night . 
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|find-Inf-S adp|out pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adj|special-S1 adp|at noun|night .
+%gra:	1|9|ROOT 2|1|OBJ 3|1|XCOMP 4|3|COMPOUND-PRT 5|7|NSUBJ 6|7|COP 7|3|CCOMP 8|9|CASE 9|7|OBL 10|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	it's a bunch of- . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|bunch adp|of .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|5|ROOT 5|4|PUNCT 6|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	fireflies ! 
+%mor:	noun|firefly-Plur !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	firefly . 
+%mor:	noun|firefly .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	that's silly . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adj|silly-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$xds:A
+*FA1:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	I use my flashlight to make believe that I'm a firefly too ! 
+%mor:	pron|I-Prs-Nom-S1 verb|use-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|flashlight-Acc part|to verb|make-Inf-S verb|believe-Inf-S sconj|that pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 det|a-Ind-Art noun|firefly adv|too !
+%gra:	1|2|NSUBJ 2|13|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|6|MARK 6|2|ADVCL 7|6|XCOMP 8|12|MARK 9|12|NSUBJ 10|12|COP 11|12|DET 12|7|CCOMP 13|12|ADVMOD 14|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	my dad laughs . 
+%mor:	pron|my-Prs-Gen-S1 noun|dad verb|laugh-Fin-Ind-Pres-S3 .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	I bet they've never seen a firefly like you before . 
+%mor:	pron|I-Prs-Nom-S1 verb|bet-Fin-Ind-Pres-S1 pron|they-Prs-Nom-P3~aux|have-Fin-Ind-Pres-P3 adv|never verb|see-Part-Past-S-irr det|a-Ind-Art noun|firefly-Acc adp|like pron|you-Prs-Acc-S2 adv|before .
+%gra:	1|2|NSUBJ 2|11|ROOT 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|2|CCOMP 7|8|DET 8|6|OBJ 9|10|CASE 10|8|NMOD 11|6|ADVMOD 12|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	oh wow look at all the twinkly stars in the sky . 
+%mor:	intj|oh intj|wow verb|look-Fin-Imp-S adp|at det|all-Def-Tot det|the-Def-Art adj|twinkly-S1 noun|star-Plur adp|in det|the-Def-Art noun|sky .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|11|ROOT 4|8|CASE 5|8|DET-PREDET 6|8|DET 7|8|AMOD 8|3|OBL 9|11|CASE 10|11|DET 11|8|NMOD 12|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	there are so many ! 
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adv|so adj|many-S1 !
+%gra:	1|2|EXPL 2|4|ROOT 3|4|ADVMOD 4|2|NSUBJ 5|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	when I look at the stars I see pictures my dad says . 
+%mor:	adv|when pron|I-Prs-Nom-S1 verb|look-Fin-Ind-Pres-S1 adp|at det|the-Def-Art noun|star-Plur pron|I-Prs-Nom-S1 verb|see-Fin-Ind-Pres-S1 noun|picture-Plur-Acc pron|my-Prs-Gen-S1 noun|dad verb|say-Fin-Ind-Pres-S3 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|8|ADVCL 4|6|CASE 5|6|DET 6|3|OBL 7|8|NSUBJ 8|12|ROOT 9|8|OBJ 10|11|NMOD-POSS 11|12|NSUBJ 12|9|ACL-RELCL 13|8|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	like those stars over there . 
+%mor:	adp|like det|that-Def-Dem-Plur noun|star-Plur adp|over adv|there .
+%gra:	1|3|CASE 2|3|DET 3|5|ROOT 4|5|CASE 5|3|NMOD 6|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	they kind of look like a bear . 
+%mor:	pron|they-Prs-Nom-P3 noun|kind adp|of verb|look-Fin-Ind-Pres-P3 adp|like det|a-Ind-Art noun|bear .
+%gra:	1|4|NSUBJ 2|4|ADVMOD 3|2|FIXED 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	what pictures do you see in the stars ? 
+%mor:	det|what-Def-Int noun|picture-Plur-Acc aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S adp|in det|the-Def-Art noun|star-Plur ?
+%gra:	1|2|DET 2|5|OBJ 3|5|AUX 4|5|NSUBJ 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	I don't know . 
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$xds:A
+*FA1:	let's find out what's special at night . 
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|find-Inf-S adp|out pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adj|special-S1 adp|at noun|night .
+%gra:	1|9|ROOT 2|1|OBJ 3|1|XCOMP 4|3|COMPOUND-PRT 5|7|NSUBJ 6|7|COP 7|3|CCOMP 8|9|CASE 9|7|OBL 10|1|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	spes [: special] is this . 
+%mor:	adj|special-S1 aux|be-Fin-Ind-Pres-S3 pron|this-Dem-S1 .
+%gra:	1|3|AMOD 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$xds:A
+*FA1:	I think these stars look like- . 
+%mor:	pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 det|this-Def-Dem-Plur noun|star-Plur verb|look-Fin-Ind-Pres-P3 adp|like .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|DET 4|5|NSUBJ 5|2|CCOMP 6|5|OBL 7|2|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	a fih [: fish] . 
+%mor:	det|a-Ind-Art noun|fish .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	fish ! 
+%mor:	noun|fish !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	yeah ! 
+%mor:	intj|yeah !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	I like looking at the stars , but wait !
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 verb|look-Ger-S adp|at det|the-Def-Art noun|star-Plur cm|cm cconj|but verb|wait-Fin-Ind-Pres-S1 !
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|XCOMP 4|6|CASE 5|6|DET 6|3|OBL 7|9|PUNCT 8|9|CC 9|2|CONJ 10|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	did you see that ? 
+%mor:	aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|see-Inf-S pron|that-Dem ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*FA1:	it was so bright ! 
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|so adj|bright-S1 !
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	that's a shooting star says mom . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|shooting-Ger noun|star verb|say-Fin-Ind-Pres-S3 noun|mom-Acc .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|COMPOUND 5|6|CCOMP 6|7|ROOT 7|6|OBJ 8|6|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	I'm so glad you saw it ! 
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|so adj|glad-S1 pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Past-S2-irr pron|it-Prs-Acc-S3 !
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|7|ROOT 5|6|NSUBJ 6|4|CCOMP 7|6|OBJ 8|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	shooting stars are very special . 
+%mor:	noun|shooting-Ger noun|star-Plur aux|be-Fin-Ind-Pres-P3 adv|very adj|special-S1 .
+%gra:	1|2|COMPOUND 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	I love seeing the neighborhood at night . 
+%mor:	pron|I-Prs-Nom-S1 verb|love-Fin-Ind-Pres-S1 verb|see-Ger-S det|the-Def-Art noun|neighborhood-Acc adp|at noun|night .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|XCOMP 4|5|DET 5|3|OBJ 6|7|CASE 7|3|OBL 8|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	there are so many special things about the nighttime . 
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 adv|so adj|many-S1 adj|special-S1 noun|thing-Plur adp|about det|the-Def-Art noun|nighttime .
+%gra:	1|2|EXPL 2|9|ROOT 3|4|ADVMOD 4|6|AMOD 5|6|AMOD 6|2|NSUBJ 7|9|CASE 8|9|DET 9|6|NMOD 10|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	like nightingales and fireflies and stars ! 
+%mor:	adp|like noun|nightingale-Plur cconj|and noun|firefly-Plur cconj|and noun|star-Plur !
+%gra:	1|2|DISCOURSE 2|6|ROOT 3|4|CC 4|2|CONJ 5|6|CC 6|2|CONJ 7|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	what's special about nighttime in your neighborhood ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adj|special-S1 adp|about noun|nighttime adp|in pron|your-Prs-Gen-S2 noun|neighborhood ?
+%gra:	1|3|NSUBJ 2|3|COP 3|8|ROOT 4|5|CASE 5|3|OBL 6|8|CASE 7|8|NMOD-POSS 8|3|OBL 9|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	I don't know . 
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$xds:A
+*FA1:	ugga mugga . 
+%mor:	adj|ugga-S1 noun|mugga .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	hey ! 
+%mor:	intj|hey !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	&=laughs . 
+%cod:	$txt:C; $xds:T
+*CHI:	it is I can xxx . 
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 pron|I-Prs-Nom-S1 aux|can-Fin-S .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%cod:	$xds:A
+@End

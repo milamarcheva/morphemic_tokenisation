@@ -1,0 +1,325 @@
+@UTF8
+@PID:	11312/a-00034740-1
+@Begin
+@Languages:	bul
+@Participants:	SIM Target_Child, PLA Mother, DIM Father
+@ID:	bul|LabLing|SIM|1;07.22|female|||Target_Child|||
+@ID:	bul|LabLing|PLA||female|||Mother|||
+@ID:	bul|LabLing|DIM||male|||Father|||
+@Media:	010722, audio
+@Date:	11-AUG-2020
+@Situation:	in the car
+@Types:	long, toyplay, TD
+*SIM:	Море баба мони .
+%mor:	noun|море-Neut noun|баба-Fem noun|мона-Fem .
+%gra:	1|3|ROOT 2|1|NMOD 3|2|NMOD 4|1|PUNCT
+%ort:	more baba Moni .
+%sit:	SIM, PLA i DIM otivat na plazh .
+*PLA:	Баба я оставиxме с калоянчо .
+%mor:	noun|баба-Fem pron|аз-Prs-Acc-S3 verb|оставя–се-Fin-Imp-Ind-Past-S1 adp|с noun|калоянчо-Neut .
+%gra:	1|3|NSUBJ 2|3|OBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%ort:	baba ja ostavixme s Kalojancho .
+*PLA:	Сложиxме колана .
+%mor:	verb|сложа-Fin-Imp-Ind-Pres-S1 noun|колан-Masc-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%ort:	slozhixme kolana .
+*PLA:	Играчките ти тук ли са ?
+%mor:	noun|играчка-Fem-Plur pron|аз-Prs-S2 adv|там part|ли aux|съм-Fin-Imp-Ind-Pres-P3 ?
+%gra:	1|3|NSUBJ 2|1|DET 3|5|ROOT 4|3|DISCOURSE 5|3|COP 6|3|PUNCT
+%ort:	igrachkite ti tuk li sa ?
+*SIM:	Тука са , тука са .
+%mor:	adv|там aux|съм-Fin-Imp-Ind-Pres-P3 cm|cm adv|там aux|съм-Fin-Imp-Ind-Pres-P3 .
+%gra:	1|5|ROOT 2|1|COP 3|4|PUNCT 4|1|CONJ 5|4|COP 6|1|PUNCT
+%ort:	tuka sa, tuka sa .
+*PLA:	Добре , мамо .
+%mor:	adv|добре cm|cm intj|мамо .
+%gra:	1|3|ADVMOD 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	dobre, mamo .
+*SIM:	Тука са , тука са , тука са , тука , тука са .
+%mor:	adv|там aux|съм-Fin-Imp-Ind-Pres-P3 cm|cm adv|там aux|съм-Fin-Imp-Ind-Pres-P3 cm|cm adv|там aux|съм-Fin-Imp-Ind-Pres-P3 cm|cm adv|там cm|cm adv|там aux|съм-Fin-Imp-Ind-Pres-P3 .
+%gra:	1|13|ROOT 2|1|COP 3|4|PUNCT 4|1|CONJ 5|4|COP 6|4|PUNCT 7|12|ADVMOD 8|7|COP 9|10|PUNCT 10|12|ADVMOD 11|10|PUNCT 12|1|CONJ 13|12|COP 14|1|PUNCT
+%ort:	tuka sa, tuka sa, tuka sa, tuka, tuka sa .
+*PLA:	Добре , мамо .
+%mor:	adv|добре cm|cm intj|мамо .
+%gra:	1|3|ADVMOD 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%ort:	dobre, mamo .
+*PLA:	Добре .
+%mor:	adv|добре .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	dobre .
+*PLA:	Какво друго ни трябва за плажа ?
+%mor:	det|какъв-Neut-Def-Int-Sing adj|друг-S1 pron|наш-Prs-Acc-P1 verb|трябва-Fin-Imp-Ind-Pres-S3 adp|за noun|плаж-Masc ?
+%gra:	1|2|DET 2|4|OBJ 3|4|IOBJ 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%ort:	kakvo drugo ni trjabva za plazha ?
+*SIM:	Тука .
+%mor:	adv|там .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	tuka .
+*PLA:	Какво ?
+%mor:	det|какъв-Neut-Def-Int-Sing ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kakvo ?
+*PLA:	Кърпа .
+%mor:	propn|кърпа-Fem .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kyrpa .
+*SIM:	Кърпа , кърпа .
+%mor:	propn|кърпа-Fem cm|cm noun|кърп-Fem .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|CONJ 4|1|PUNCT
+%ort:	kyrpa, kyrpa .
+*PLA:	Ти ще плуваш ли ?
+%mor:	pron|аз-Prs-Nom-S2 aux|ще-Inf-S verb|плувам-Fin-Imp-Ind-Pres-S2 part|ли ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|DISCOURSE 5|3|PUNCT
+%ort:	ti shte pluvash li ?
+*SIM:	Плуваше .
+%mor:	verb|плувам-Fin-Imp-Ind-Imp-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	pluvashe .
+%sit:	SIM podava na PLA butilka s voda .
+*SIM:	Дода [: вода] даряя [: благодаря] .
+%mor:	noun|вода-Fem-Acc verb|благодаря-Fin-Imp-Ind-Pres-S1 .
+%gra:	1|2|OBJ 2|2|ROOT 3|2|PUNCT
+%ort:	doda [: voda] darjaja [: blagodarja] .
+*PLA:	Да отворя ли шишето ?
+%mor:	aux|да-Inf-S verb|отворя-Fin-Perf-Ind-Pres-S1 part|ли noun|шише-Neut-Acc ?
+%gra:	1|2|AUX 2|4|ROOT 3|2|DISCOURSE 4|2|OBJ 5|2|PUNCT
+%ort:	da otvorja li shisheto ?
+*PLA:	Искаш ли да пиеш ?
+%mor:	verb|искам-Fin-Imp-Ind-Pres-S2 part|ли aux|да-Inf-S verb|пия-Fin-Imp-Ind-Pres-S2 ?
+%gra:	1|4|ROOT 2|1|DISCOURSE 3|4|AUX 4|1|CCOMP 5|1|PUNCT
+%ort:	iskash li da piesh ?
+*SIM:	Голяма , голяма .
+%mor:	adj|голям-S1 cm|cm adj|голям-S1 .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|CONJ 4|1|PUNCT
+%ort:	goljama, goljama .
+*PLA:	Да , голяма е .
+%mor:	part|да cm|cm adj|голям-S1 aux|съм-Fin-Imp-Ind-Pres-S3 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|COP 5|3|PUNCT
+%ort:	da, goljama e .
+*SIM:	Гаци [: граци] , гаци [: граци] .
+%mor:	noun|грац-Masc-Plur cm|cm noun|грац-Fem-Plur .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|CONJ 4|1|PUNCT
+%ort:	Gaci [: Graci], Gaci [: Graci] .
+*PLA:	Граци се прибра в къщи .
+%mor:	propn|граци-Masc pron|се-Prs-Acc-reflx-S1 verb|прибера–се-Fin-Perf-Ind-Past-S3 adp|в adv|къщи .
+%gra:	1|3|NSUBJ 2|3|EXPL 3|5|ROOT 4|3|OBL 5|4|ADVMOD 6|3|PUNCT
+%ort:	Graci se pribra v kyshti .
+*SIM:	Къщи .
+%mor:	noun|къща-Fem-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kyshti .
+*PLA:	Да .
+%mor:	part|да .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	da .
+*PLA:	Тя няма да идва на плаж .
+%mor:	pron|аз-Prs-Nom-S3 verb|нямам-Fin-Imp-Ind-Pres-S3 aux|да-Inf-S verb|идвам-Fin-Imp-Ind-Pres-S3 adp|на noun|плаж-Masc .
+%gra:	1|4|NSUBJ 2|6|ROOT 3|4|AUX 4|2|CCOMP 5|6|CASE 6|4|IOBJ 7|2|PUNCT
+%ort:	tja njama da idva na plazh .
+*SIM:	Гаци [: граци] .
+%mor:	noun|грац-Fem-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	Gaci [: Graci] .
+%sit:	SIM iska PLA da ĭ otvori butilkata s voda i pie .
+*SIM:	Тори [: отвори] , тори [: отвори] .
+%mor:	verb|отворя–се-Fin-Perf-Ind-Past-S3 cm|cm verb|отворя–се-Fin-Perf-Ind-Past-S3 .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|CONJ 4|1|PUNCT
+%ort:	tori [: otvori], tori [: otvori] .
+*SIM:	Бати , бати .
+%mor:	intj|бати cm|cm noun|бата-Masc .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|CONJ 4|1|PUNCT
+%ort:	bati, bati .
+*PLA:	Бати е на гости .
+%mor:	propn|бати-Masc aux|съм-Fin-Imp-Ind-Pres-S3 adp|на noun|гост-Masc-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|4|ROOT 5|4|PUNCT
+%ort:	bati e na gosti .
+%sit:	SIM namira ochilata na DIM, probva gi i si gi slaga na glavata .
+*SIM:	Чила [: очила] , тати , тати , да [: на] тати .
+%mor:	noun|очил-Ptan cm|cm noun|тат-Masc cm|cm noun|тат-Masc-Plur cm|cm adp|на noun|тат-Fem-Plur .
+%gra:	1|8|ROOT 2|3|PUNCT 3|1|CONJ 4|5|PUNCT 5|1|CONJ 6|8|PUNCT 7|8|CASE 8|1|CONJ 9|1|PUNCT
+%ort:	chila [: ochila], tati, tati, da [: na] tati .
+*SIM:	Тати чила [: очила] мони главата .
+%mor:	propn|тати-Masc verb|оча-Fin-Perf-Ind-Past-S3 noun|мона-Fem-Acc noun|глава-Fem-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|OBJ 5|2|PUNCT
+%ort:	tati chila [: ochila] Moni glavata .
+*PLA:	На теб са ти големи , мамо .
+%mor:	adp|на pron|аз-Prs-Acc-S2 aux|съм-Fin-Imp-Ind-Pres-P3 pron|аз-Prs-Nom-S2 adj|голям-P1 cm|cm intj|мамо .
+%gra:	1|2|CASE 2|7|ROOT 3|2|COP 4|5|NSUBJ 5|2|AMOD 6|7|PUNCT 7|5|DISCOURSE 8|2|PUNCT
+%ort:	na teb sa ti golemi, mamo .
+*SIM:	Виж тати , тати , тати , тати , тати , тати !
+%mor:	verb|видя–се-Fin-Perf-Imp-S2 noun|тат-Fem-Acc cm|cm noun|тат-Fem cm|cm noun|тат-Fem cm|cm noun|тат-Fem cm|cm noun|тат-Fem cm|cm noun|тат-Fem !
+%gra:	1|12|ROOT 2|1|OBJ 3|4|PUNCT 4|2|CONJ 5|6|PUNCT 6|2|CONJ 7|8|PUNCT 8|2|CONJ 9|10|PUNCT 10|2|CONJ 11|12|PUNCT 12|2|CONJ 13|1|PUNCT
+%ort:	vizh tati, tati, tati, tati, tati, tati !
+*SIM:	Аа !
+%mor:	intj|аа !
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	Aa !
+*DIM:	Тати или бати вика не мога да разбера ?
+%mor:	intj|тати cconj|или noun|бата-Masc verb|викам-Fin-Imp-Ind-Pres-S3 part|не verb|мога-Fin-Imp-Ind-Pres-S1 aux|да-Inf-S verb|разбера–се-Fin-Perf-Ind-Pres-S1 ?
+%gra:	1|4|DISCOURSE 2|3|CC 3|1|CONJ 4|8|ROOT 5|6|ADVMOD 6|4|XCOMP 7|8|AUX 8|6|XCOMP 9|4|PUNCT
+%ort:	tati ili bati vika ne moga da razbera ?
+*PLA:	Тати , тати .
+%mor:	intj|тати cm|cm noun|тат-Masc .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|CONJ 4|1|PUNCT
+%ort:	tati, tati .
+*PLA:	Да я погледнеш .
+%mor:	aux|да-Inf-S pron|аз-Prs-Acc-S3 verb|погледна-Fin-Perf-Ind-Pres-S2 .
+%gra:	1|3|AUX 2|3|OBJ 3|3|ROOT 4|3|PUNCT
+%ort:	da ja poglednesh .
+*DIM:	Тати какво правиш ?
+%mor:	verb|татя-Fin-Imp-Ind-S2 det|какъв-Neut-Def-Int-Sing verb|правя–се-Fin-Imp-Ind-Pres-S2 ?
+%gra:	1|3|ROOT 2|3|OBJ 3|1|CCOMP 4|1|PUNCT
+%ort:	tati kakvo pravish ?
+*DIM:	Очилата ли слагаш , бе писе ?
+%mor:	noun|очила-Fem part|ли verb|слагам–се-Fin-Imp-Ind-Pres-S2 cm|cm aux|съм-Fin-Imp-Ind-Past-S3 verb|пиша-Part-Perf-S ?
+%gra:	1|3|NSUBJ 2|1|DISCOURSE 3|6|CSUBJ-PASS 4|3|PUNCT 5|6|AUX-PASS 6|6|ROOT 7|6|PUNCT
+%ort:	ochilata li slagash, be pise ?
+*PLA:	Слага си твоите очила .
+%mor:	verb|слагам–се-Fin-Imp-Ind-Pres-S3 pron|свой-Prs-Dat-reflx-S1 det|мой-Def-Prs-Plur noun|очил-Ptan .
+%gra:	1|4|ROOT 2|1|EXPL 3|4|DET 4|1|NSUBJ-PASS 5|1|PUNCT
+%ort:	slaga si tvoite ochila .
+*DIM:	Ауу , много си готина !
+%mor:	intj|ауу cm|cm adv|много aux|съм-Fin-Imp-Ind-Pres-S2 adj|готин-S1 !
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|ADVMOD 4|5|COP 5|5|ROOT 6|5|PUNCT
+%ort:	auu, mnogo si gotina !
+@Comment:	Later that day, after a pause
+@Situation:	in the car
+*SIM:	Дуга [: друга] , дугааа [: друга] , дуга [: друга] .
+%mor:	adj|друг-S1 cm|cm adj|друг-S1 cm|cm adj|друг-S1 .
+%gra:	1|5|ROOT 2|3|PUNCT 3|1|CONJ 4|5|PUNCT 5|1|CONJ 6|1|PUNCT
+%ort:	duga [: druga], dugaaa [: druga], duga [: druga] .
+%sit:	SIM, PLA i DIM se vryshtat ot plazh i SIM iska druza roklja, zashtoto tazi e mokra .
+*SIM:	Моко [: мокро] , моко [: мокро] , моко [: мокро] , моко [: мокро] , моко [: мокро] . моко [: мокро] .
+%mor:	adj|мокър-S1 cm|cm adj|мокър-S1 cm|cm noun|мокро-Neut cm|cm noun|мокро-Neut cm|cm noun|мокро-Neut .
+%gra:	1|9|ROOT 2|3|PUNCT 3|1|CONJ 4|5|PUNCT 5|1|CONJ 6|7|PUNCT 7|1|CONJ 8|9|PUNCT 9|1|CONJ 10|1|PUNCT
+%ort:	moko [: mokro], moko [: mokro], moko [: mokro], moko [: mokro], moko [: mokro] .
+*PLA:	Да , мокра е .
+%mor:	part|да cm|cm adj|мокър-S1 aux|съм-Fin-Imp-Ind-Pres-S3 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|COP 5|3|PUNCT
+%ort:	da, mokra e .
+*SIM:	Мока [: мокра] .
+%mor:	noun|мокра-Fem .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	moka [: mokra] .
+*SIM:	Мето [: морето] .
+%mor:	noun|море-Neut .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	meto [: moreto] .
+*PLA:	В морето я намокри .
+%mor:	adp|в noun|море-Neut pron|аз-Prs-Acc-S3 verb|намокря–се-Fin-Perf-Ind-Past-S3 .
+%gra:	1|2|CASE 2|4|OBL 3|4|OBJ 4|4|ROOT 5|4|PUNCT
+%ort:	v moreto ja namokri .
+*SIM:	Моки [: мокри] .
+%mor:	adj|мокър-P1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	moki [: mokri] .
+*PLA:	Да .
+%mor:	part|да .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	da .
+*SIM:	Мока [: мокра] .
+%mor:	noun|мокра-Fem .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	moka [: mokra] .
+*SIM:	Пепе [: бисквита] .
+%mor:	noun|бискви-Fem .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	pepe [: biskvita] .
+*SIM:	Колан .
+%mor:	propn|колан-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	kolan .
+*PLA:	Къде ти е коланът ?
+%mor:	adv|къде pron|аз-Prs-Dat-S2 aux|съм-Fin-Imp-Ind-Pres-S3 noun|колан-Masc ?
+%gra:	1|4|ROOT 2|1|EXPL 3|1|COP 4|1|NSUBJ 5|1|PUNCT
+%ort:	kyde ti e kolanyt ?
+*SIM:	Колан , колан , колан , колан , колан , колан .
+%mor:	noun|колан-Masc cm|cm noun|колан-Masc cm|cm noun|колан-Masc cm|cm noun|колан-Masc cm|cm noun|колан-Masc cm|cm noun|колан-Masc .
+%gra:	1|11|ROOT 2|3|PUNCT 3|1|CONJ 4|5|PUNCT 5|1|CONJ 6|7|PUNCT 7|1|CONJ 8|9|PUNCT 9|1|CONJ 10|11|PUNCT 11|1|CONJ 12|1|PUNCT
+%ort:	kolan, kolan, kolan, kolan, kolan, kolan .
+*SIM:	Къде е , къде е ?
+%mor:	adv|къде aux|съм-Fin-Imp-Ind-Pres-S3 cm|cm adv|къде aux|съм-Fin-Imp-Ind-Pres-S3 ?
+%gra:	1|5|ROOT 2|1|COP 3|4|PUNCT 4|1|CONJ 5|4|COP 6|1|PUNCT
+%ort:	kyde e, kyde e ?
+*PLA:	Ето го .
+%mor:	part|ето pron|аз-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%ort:	eto go .
+*SIM:	Ето го , ето го !
+%mor:	part|ето pron|аз-Prs-Acc-S3 cm|cm part|ето pron|аз-Prs-Acc-S3 !
+%gra:	1|5|ROOT 2|1|OBJ 3|4|PUNCT 4|1|CONJ 5|4|OBJ 6|1|PUNCT
+%ort:	eto go, eto go !
+%sit:	SIM dyrpa muzikalna igrachka i iska da pee .
+*SIM:	Пей !
+%mor:	intj|пей !
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	pej !
+*PLA:	А ти ще пееш ли ?
+%mor:	cconj|а pron|аз-Prs-Nom-S2 aux|ще-Inf-S verb|пея-Fin-Imp-Ind-Pres-S2 part|ли ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|5|ROOT 5|4|DISCOURSE 6|4|PUNCT
+%ort:	a ti shte peesh li ?
+*SIM:	Тати пееш , тати .
+%mor:	intj|тати verb|пея-Fin-Imp-Ind-Pres-S2 cm|cm intj|тати .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|PUNCT 4|2|VOCATIVE 5|2|PUNCT
+%ort:	tati peesh, tati .
+*PLA:	Мами , ти плува ли днес ?
+%mor:	intj|мами cm|cm pron|аз-Prs-Nom-S2 verb|плувам-Fin-Imp-Ind-Pres-S3 part|ли adv|днес ?
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|6|ROOT 5|4|DISCOURSE 6|4|ADVMOD 7|4|PUNCT
+%ort:	mami, ti pluva li dnes ?
+*SIM:	Днес .
+%mor:	adv|днес .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	dnes .
+*PLA:	Плува ли ?
+%mor:	verb|плувам-Fin-Imp-Ind-Pres-S3 part|ли ?
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%ort:	pluva li ?
+*SIM:	Ей там , ееей там , ееййй там !
+%mor:	intj|ей adv|там cm|cm intj|ееей adv|там cm|cm intj|ееййй adv|там !
+%gra:	1|2|DISCOURSE 2|8|ROOT 3|4|PUNCT 4|5|DISCOURSE 5|2|CONJ 6|7|PUNCT 7|2|DISCOURSE 8|7|ADVMOD 9|2|PUNCT
+%ort:	ej tam, eeej tam, eejjj tam !
+*PLA:	Какво има там ?
+%mor:	det|какъв-Neut-Def-Int-Sing verb|има-Fin-Imp-Ind-Pres-S3 adv|там ?
+%gra:	1|2|OBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%ort:	kakvo ima tam ?
+*SIM:	Плува нека [: днеска] .
+%mor:	verb|плувам-Fin-Imp-Ind-Pres-S3 adv|днеска .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%ort:	pluva neka [: dneska] .
+*PLA:	А какво летя горе ?
+%mor:	cconj|а det|какъв-Neut-Def-Int-Sing verb|летя-Fin-Imp-Ind-Pres-S1 adv|горе ?
+%gra:	1|3|CC 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%ort:	a kakvo letja gore ?
+*PLA:	Ще кажем ли на баба , като се приберем , какво летя ?
+%mor:	aux|ще-Inf-S verb|кажа-Fin-Perf-Ind-Pres-P1 part|ли adp|на noun|баба-Fem cm|cm sconj|като pron|се-Prs-Acc-reflx-S1 verb|прибера–се-Fin-Perf-Ind-Pres-P1 cm|cm det|какъв-Neut-Def-Int-Sing verb|летя-Fin-Imp-Ind-Pres-S1 ?
+%gra:	1|2|AUX 2|12|ROOT 3|2|DISCOURSE 4|5|CASE 5|2|IOBJ 6|9|PUNCT 7|9|MARK 8|9|EXPL 9|12|ADVCL 10|9|PUNCT 11|12|OBJ 12|2|CONJ 13|2|PUNCT
+%ort:	shte kazhem li na baba, kato se priberem, kakvo letja ?
+*SIM:	Xвъчило [: xвърчило] , xвъчило [: xвърчило] , xвъчило [: xвърчило] , xвъчило [: xвърчило] . , хвъчило [: хвърчило] .
+%mor:	verb|нвърча-Part-Imp-Past-S cm|cm adj|нвърчил-S1 cm|cm adj|нвърчил-S1 cm|cm verb|нвърча-Part-Imp-Past-S .
+%gra:	1|7|ROOT 2|3|PUNCT 3|1|VOCATIVE 4|5|PUNCT 5|3|CONJ 6|7|PUNCT 7|1|CONJ 8|1|PUNCT
+%ort:	xvychilo [: xvyrchilo], xvychilo [: xvyrchilo], xvychilo [: xvyrchilo], xvychilo [: xvyrchilo] .
+*SIM:	Xвъчило [: xвърчило] , xвъчило [: xвърчило] .
+%mor:	verb|нвърча-Part-Imp-Past-S cm|cm verb|нвърча-Part-Imp-Past-S .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|CONJ 4|1|PUNCT
+%ort:	xvychilo [: xvyrchilo], xvychilo [: xvyrchilo] .
+*PLA:	То на какво приличаше ?
+%mor:	pron|аз-Prs-Nom-S3 adp|на det|какъв-Neut-Def-Int-Sing verb|приличам-Fin-Imp-Ind-Imp-S3 ?
+%gra:	1|4|NSUBJ 2|3|CASE 3|4|IOBJ 4|4|ROOT 5|4|PUNCT
+%ort:	to na kakvo prilichashe ?
+*SIM:	Xвъчило [: xвърчило] ееей там .
+%mor:	verb|нвърча-Part-Perf-Past-S noun|ееей-Masc-Acc adv|там .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|ADVMOD 4|1|PUNCT
+%ort:	xvychilo [: xvyrchilo] eeej tam .
+*PLA:	Даа .
+%mor:	intj|даа .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	daa .
+*PLA:	Приличаше на самолет .
+%mor:	verb|приличам-Fin-Imp-Ind-Imp-S3 adp|на noun|самолет-Masc .
+%gra:	1|3|ROOT 2|3|CASE 3|1|IOBJ 4|1|PUNCT
+%ort:	prilichashe na samolet .
+*SIM:	Молет [: самолет] .
+%mor:	noun|самолет-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+%ort:	molet [: samolet] .
+@End

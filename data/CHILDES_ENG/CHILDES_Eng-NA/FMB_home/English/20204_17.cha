@@ -1,0 +1,384 @@
+@UTF8
+@PID:	11312/a-00096797-0
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, NTC Sibling, FAT Father
+@ID:	eng|FMB_home|CHI|1;11.|female|||Target_Child||20204|
+@ID:	eng|FMB_home|MOT||female|||Mother|||
+@ID:	eng|FMB_home|NTC||male|||Sibling|||
+@ID:	eng|FMB_home|FAT||male|||Father|||
+@Comment:	20204_context17_16783
+@G:	ad_unknown
+@Types:	long, everyday, TD
+*CHI:	huh ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	try your kitchen .
+%mor:	verb|try-Fin-Imp-S pron|your-Prs-Gen-S2 noun|kitchen-Acc .
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+@G:	ohs
+*MOT:	xxx set that xxx .
+%mor:	verb|set-Fin-Imp-S pron|that-Dem .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%com:	other background voices are difficult to hear .
+*NTC:	&=whines .
+@G:	ch_conversation
+*FAT:	you wanna watch a movie ?
+%mor:	pron|you-Prs-Nom-S2 aux|wanna-Fin-Ind-S2 verb|watch-Inf-S det|a-Ind-Art noun|movie-Acc ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	what do you wanna watch ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|wanna-Inf-S verb|watch-Inf-S ?
+%gra:	1|5|OBJ 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|XCOMP 6|4|PUNCT
+*CHI:	no , xxx .
+%mor:	intj|no cm|cm .
+%gra:	1|2|ROOT 2|1|PUNCT 3|1|PUNCT
+*MOT:	let's , you need , you have to give us your bu@g .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 cm|cm pron|you-Prs-Nom-S2 verb|need-Fin-Ind-Pres-S2 cm|cm pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 part|to verb|give-Inf-S pron|we-Prs-Acc-P1 pron|your-Prs-Gen-S2 noun|bu-Acc .
+%gra:	1|13|ROOT 2|1|OBJ 3|5|PUNCT 4|5|NSUBJ 5|1|PARATAXIS 6|5|PUNCT 7|8|NSUBJ 8|1|PARATAXIS 9|10|MARK 10|8|XCOMP 11|10|IOBJ 12|13|NMOD-POSS 13|10|OBJ 14|1|PUNCT
+*MOT:	what do you wanna watch ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|wanna-Inf-S verb|watch-Inf-S ?
+%gra:	1|5|OBJ 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|XCOMP 6|4|PUNCT
+*CHI:	Pirates .
+%mor:	propn|Pirate-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	Pirates ?
+%mor:	propn|Pirate-Plur ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	but if you watch Pirates , then I get your bu@g , okay ?
+%mor:	cconj|but sconj|if pron|you-Prs-Nom-S2 verb|watch-Fin-Ind-Pres-S2 propn|Pirate-Plur-Acc cm|cm adv|then pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 pron|your-Prs-Gen-S2 noun|bu-Acc cm|cm intj|okay ?
+%gra:	1|9|CC 2|4|MARK 3|4|NSUBJ 4|9|ADVCL 5|4|OBJ 6|4|PUNCT 7|9|ADVMOD 8|9|NSUBJ 9|13|ROOT 10|11|NMOD-POSS 11|9|OBJ 12|13|PUNCT 13|9|DISCOURSE 14|9|PUNCT
+*MOT:	you can have it back after .
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|have-Inf-S pron|it-Prs-Acc-S3 adv|back adv|after .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|ADVMOD 7|3|PUNCT
+*FAT:	what are the pirates called ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-P3 det|the-Def-Art noun|pirate-Plur verb|call-Part-Past-S ?
+%gra:	1|5|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|4|ACL 6|1|PUNCT
+*FAT:	say , yo_ho .
+%mor:	verb|say-Fin-Imp-S cm|cm propn|yoho .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|VOCATIVE 4|1|PUNCT
+%com:	child doesn't imitate
+*CHI:	xxx .
+*MOT:	I have this while you're watching a show , okay ?
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 pron|this-Dem-S1 sconj|while pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|watch-Part-Pres-S det|a-Ind-Art noun|show-Acc cm|cm intj|okay ?
+%gra:	1|2|NSUBJ 2|11|ROOT 3|2|OBJ 4|7|MARK 5|7|NSUBJ 6|7|AUX 7|2|ADVCL 8|9|DET 9|7|OBJ 10|11|PUNCT 11|2|DISCOURSE 12|2|PUNCT
+*MOT:	no bu@g while you have a show on .
+%mor:	intj|no noun|bu sconj|while pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 det|a-Ind-Art noun|show-Acc adp|on .
+%gra:	1|2|DISCOURSE 2|8|ROOT 3|5|MARK 4|5|NSUBJ 5|2|ADVCL 6|7|DET 7|5|OBJ 8|5|OBL 9|2|PUNCT
+*FAT:	targetchild_name , can you say , let's go ?
+%mor:	noun|targetchildname cm|cm aux|can-Fin-S pron|you-Prs-Nom-S2 verb|say-Inf-S cm|cm verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|go-Inf-S ?
+%gra:	1|5|VOCATIVE 2|1|PUNCT 3|5|AUX 4|5|NSUBJ 5|9|ROOT 6|7|PUNCT 7|5|PARATAXIS 8|7|OBJ 9|7|XCOMP 10|5|PUNCT
+@G:	ohs
+*MOT:	she's pouting for a minute .
+%mor:	pron|she-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 verb|pout-Part-Pres-S adp|for det|a-Ind-Art noun|minute .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+@G:	ch_conversation
+*MOT:	can you go put this , your pants on your bed for me , please ?
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|go-Inf-S verb|put-Inf-S pron|this-Dem-S1 cm|cm pron|your-Prs-Gen-S2 noun|pants-Ptan adp|on pron|your-Prs-Gen-S2 noun|bed adp|for pron|I-Prs-Acc-S1 cm|cm intj|please ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|15|ROOT 4|3|XCOMP 5|4|OBJ 6|8|PUNCT 7|8|NMOD-POSS 8|5|APPOS 9|11|CASE 10|11|NMOD-POSS 11|8|NMOD 12|13|CASE 13|11|NMOD 14|15|PUNCT 15|3|DISCOURSE 16|3|PUNCT
+*CHI:	uhhuh .
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	thank_you &+for .
+%mor:	intj|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	hurry up , Pirates are coming on .
+%mor:	verb|hurry-Fin-Imp-S adp|up cm|cm propn|Pirate-Plur aux|be-Fin-Ind-Pres-P3 verb|come-Part-Pres-S adp|on .
+%gra:	1|7|ROOT 2|1|COMPOUND-PRT 3|6|PUNCT 4|6|NSUBJ 5|6|AUX 6|1|PARATAXIS 7|6|COMPOUND-PRT 8|1|PUNCT
+*FAT:	go put it on your bed .
+%mor:	verb|go-Fin-Imp-S verb|put-Fin-Imp-S pron|it-Prs-Acc-S3 adp|on pron|your-Prs-Gen-S2 noun|bed .
+%gra:	1|6|ROOT 2|1|XCOMP 3|2|OBJ 4|6|CASE 5|6|NMOD-POSS 6|2|OBL 7|1|PUNCT
+%com:	sounds from a television show begin .
+*FAT:	go hurry !
+%mor:	verb|go-Fin-Imp-S noun|hurry-Acc !
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	&=whines .
+*FAT:	xxx !
+%com:	rustling sounds, soft noises like the child is walking .
+*CHI:	&=cries bu@g .
+%mor:	noun|bu .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	targetchild_name , come here .
+%mor:	noun|targetchildname cm|cm verb|come-Fin-Imp-S adv|here .
+%gra:	1|4|ROOT 2|3|PUNCT 3|1|PARATAXIS 4|3|ADVMOD 5|1|PUNCT
+*CHI:	bu@g &=cries .
+%mor:	noun|bu .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I want bu@g .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 noun|bu-Acc .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	&=cries .
+*FAT:	wanna go turn off Pirates , then ?
+%mor:	intj|wanna verb|go-Fin-Imp-S verb|turn-Inf-S adp|off propn|Pirate-Plur-Acc cm|cm adv|then ?
+%gra:	1|2|DISCOURSE 2|7|ROOT 3|2|XCOMP 4|3|COMPOUND-PRT 5|3|OBJ 6|7|PUNCT 7|2|ADVMOD 8|2|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	well , go watch Pirates , and after that you can have your bu@g back , okay ?
+%mor:	intj|well cm|cm verb|go-Fin-Imp-S verb|watch-Fin-Imp-S propn|Pirate-Plur-Acc cm|cm cconj|and adp|after sconj|that pron|you-Prs-Nom-S2 aux|can-Fin-S verb|have-Inf-S pron|your-Prs-Gen-S2 noun|bu-Acc adv|back cm|cm intj|okay ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|17|ROOT 4|3|XCOMP 5|4|OBJ 6|12|PUNCT 7|12|CC 8|9|CASE 9|12|OBL 10|12|NSUBJ 11|12|AUX 12|3|CONJ 13|14|NMOD-POSS 14|12|OBJ 15|12|ADVMOD 16|17|PUNCT 17|3|DISCOURSE 18|3|PUNCT
+*CHI:	&=coughs .
+*MOT:	come here .
+%mor:	verb|come-Fin-Imp-S adv|here .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*CHI:	&=coughs .
+*CHI:	&=cries .
+*MOT:	what's the matter ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|matter ?
+%gra:	1|4|ROOT 2|4|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*MOT:	what do you want ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	&=cries .
+*MOT:	look at me .
+%mor:	verb|look-Fin-Imp-S adp|at pron|I-Prs-Acc-S1 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*MOT:	use your words .
+%mor:	verb|use-Fin-Imp-S pron|your-Prs-Gen-S2 noun|word-Plur-Acc .
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+*MOT:	what do you want ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	bu@g .
+%mor:	noun|bu .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what ?
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	let's clean up your eyeball .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|clean-Inf-S adp|up pron|your-Prs-Gen-S2 noun|eyeball-Acc .
+%gra:	1|6|ROOT 2|1|OBJ 3|1|XCOMP 4|3|COMPOUND-PRT 5|6|NMOD-POSS 6|3|OBJ 7|1|PUNCT
+*MOT:	look .
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	goopies .
+%mor:	noun|goopy-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	thank_you .
+%mor:	intj|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	do you wanna watch Jake ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 part|wana verb|watch-Inf-S propn|Jake-Acc ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*MOT:	do you wanna watch Jake ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 part|wana verb|watch-Inf-S propn|Jake-Acc ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*MOT:	hmm ?
+%mor:	intj|hmm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	yes ?
+%mor:	intj|yes ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	get your eye goopies off .
+%mor:	verb|get-Fin-Imp-S pron|your-Prs-Gen-S2 noun|eye noun|goopy-Plur-Acc adp|off .
+%gra:	1|5|ROOT 2|4|NMOD-POSS 3|4|COMPOUND 4|1|OBJ 5|1|COMPOUND-PRT 6|1|PUNCT
+*MOT:	ew !
+%mor:	intj|ew !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	lemme see your nose boogies .
+%mor:	intj|lemme verb|see-Fin-Imp-S pron|your-Prs-Gen-S2 noun|nose noun|boogy-Plur-Acc .
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|5|NMOD-POSS 4|5|COMPOUND 5|2|OBJ 6|2|PUNCT
+*MOT:	ew !
+%mor:	intj|ew !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	(o)kay , sit down , I'm gonna go get sibling_name , okay ?
+%mor:	intj|okay cm|cm verb|sit-Fin-Imp-S adp|down cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|go-Inf-S verb|get-Inf-S noun|siblingname-Acc cm|cm intj|okay ?
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|13|ROOT 4|3|COMPOUND-PRT 5|9|PUNCT 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|3|PARATAXIS 10|9|XCOMP 11|10|OBJ 12|13|PUNCT 13|3|DISCOURSE 14|3|PUNCT
+@G:	ohs
+*NTC:	&=cries .
+%com:	tv is on, thumps and rattles in background, sound of a car driving by outside, rustling sounds as child moves .
+*CHI:	&=cries .
+@G:	ch_conversation
+*MOT:	targetchild_name , what's the matter ?
+%mor:	noun|targetchildname cm|cm pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|matter ?
+%gra:	1|6|ROOT 2|6|PUNCT 3|1|PARATAXIS 4|6|COP 5|6|DET 6|1|APPOS 7|1|PUNCT
+%com:	mother's voice sounds far away .
+*CHI:	&=cries .
+*MOT:	come here .
+%mor:	verb|come-Fin-Imp-S adv|here .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+*MOT:	xxx ?
+*MOT:	what's the matter ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|matter ?
+%gra:	1|4|ROOT 2|4|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+%com:	mother is now near the child, speaking to her .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	bu@g .
+%mor:	noun|bu .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	your bu@g ?
+%mor:	pron|your-Prs-Gen-S2 noun|bu ?
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+*CHI:	yeah &=cries .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	look at me .
+%mor:	verb|look-Fin-Imp-S adp|at pron|I-Prs-Acc-S1 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*MOT:	do you wanna watch yo_ho ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 part|wana verb|watch-Inf-S propn|yoho-Acc ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	&=cries bu@g !
+%mor:	noun|bu !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	hey .
+%mor:	intj|hey .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	you don't need your bu@g to watch a show xxx .
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|need-Inf-S pron|your-Prs-Gen-S2 noun|bu-Acc part|to verb|watch-Inf-S det|a-Ind-Art noun|show-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|10|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|8|MARK 8|4|ADVCL 9|10|DET 10|8|OBJ 11|4|PUNCT
+*CHI:	&=coughs .
+*MOT:	you don't need it .
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|need-Inf-S pron|it-Prs-Acc-S3 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	&=cries .
+*MOT:	hey .
+%mor:	intj|hey .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	xxx .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	&+what , what's the matter ?
+%mor:	cm|cm pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|matter ?
+%gra:	1|2|PUNCT 2|5|ROOT 3|5|COP 4|5|DET 5|2|NSUBJ 6|2|PUNCT
+*CHI:	&=cries .
+*MOT:	hey .
+%mor:	intj|hey .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=cries .
+*MOT:	are you so sad ?
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adv|so adj|sad-S1 ?
+%gra:	1|4|COP 2|4|NSUBJ 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	&=cries .
+%com:	child's voice is also muffled, soft patting noises .
+*MOT:	hey , calm down .
+%mor:	intj|hey cm|cm adj|calm-S1 adv|down .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*CHI:	&=cries .
+*MOT:	you want , look at me .
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 cm|cm verb|look-Fin-Imp-S adp|at pron|I-Prs-Acc-S1 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|PUNCT 4|2|PARATAXIS 5|6|CASE 6|4|OBL 7|2|PUNCT
+*MOT:	you want your bu@g ?
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 pron|your-Prs-Gen-S2 noun|bu-Acc ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*CHI:	&=cries yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay , stop crying .
+%mor:	intj|okay cm|cm verb|stop-Fin-Imp-S verb|cry-Ger-S .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+%com:	child is vocalizing breathily, trying to calm down .
+*MOT:	say , Mama ?
+%mor:	verb|say-Fin-Imp-S cm|cm noun|mama ?
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|VOCATIVE 4|1|PUNCT
+*CHI:	Mama ? [+ eimit]
+%mor:	noun|mama ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	please .
+%mor:	intj|please .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	please . [+ eimit]
+%mor:	intj|please .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	can .
+%mor:	aux|can-Fin-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx . [+ eimit]
+*MOT:	I .
+%mor:	pron|I-Prs-Nom-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I . [+ eimit]
+%mor:	pron|I-Prs-Nom-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	have .
+%mor:	verb|have-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	bu@g .
+%mor:	noun|bu .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	have .
+%mor:	verb|have-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx . [+ eimit]
+*MOT:	my .
+%mor:	pron|my-Prs-Gen-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	too .
+%mor:	adv|too .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	my .
+%mor:	pron|my-Prs-Gen-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	my . [+ eimit]
+%mor:	pron|my-Prs-Gen-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	bu@g .
+%mor:	noun|bu .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	bu@g . [+ eimit]
+%mor:	noun|bu .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=cries .
+*CHI:	&=cries bu@g !
+%mor:	noun|bu !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	xxx .
+%com:	mother's voice sounds far away .
+*CHI:	&=cries bu@g &=screams .
+%mor:	noun|bu .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	child stops crying .
+*MOT:	did you tell Daddy thank_you ?
+%mor:	aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|tell-Inf-S propn|Daddy propn|thankyou-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|IOBJ 5|3|OBJ 6|3|PUNCT
+@G:	ohs
+*CHI:	thank_ye [: thank_you] .
+%mor:	intj|thankyou .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	xxx .
+%com:	thumping sounds .
+*MOT:	uh , it had to be recycling , because the garbage still has garbage in it .
+%mor:	intj|uh cm|cm pron|it-Prs-Nom-S3 verb|have-Fin-Ind-Past-S3-irr part|to aux|be-Inf-S noun|recycling-Ger cm|cm sconj|because det|the-Def-Art noun|garbage adv|still verb|have-Fin-Ind-Pres-S3 noun|garbage-Acc adp|in pron|it-Prs-Acc-S3 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|16|ROOT 5|7|MARK 6|7|COP 7|4|XCOMP 8|13|PUNCT 9|13|MARK 10|11|DET 11|13|NSUBJ 12|13|ADVMOD 13|4|ADVCL 14|13|OBJ 15|16|CASE 16|13|OBL 17|4|PUNCT
+%com:	sounds from television continue .
+*MOT:	what were you gonna do with those boxes xxx ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 part|go verb|do-Inf-S adp|with det|that-Def-Dem-Plur noun|box-Plur ?
+%gra:	1|5|OBJ 2|5|AUX 3|5|NSUBJ 4|5|ADVMOD 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*FAT:	throw them away when I get a chance .
+%mor:	verb|throw-Fin-Imp-S pron|they-Prs-Acc-P3 adp|away adv|when pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 det|a-Ind-Art noun|chance-Acc .
+%gra:	1|8|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|6|ADVMOD 5|6|NSUBJ 6|1|ADVCL 7|8|DET 8|6|OBJ 9|1|PUNCT
+%com:	adults are not addressing child at the moment .
+*FAT:	is that okay ?
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|that-Dem intj|okay ?
+%gra:	1|2|COP 2|3|ROOT 3|2|DISCOURSE 4|2|PUNCT
+*FAT:	xxx .
+*FAT:	they're covered in like , grease , so .
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|cover-Part-Past-S adp|in intj|like cm|cm noun|grease cm|cm adv|so .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|9|ROOT 4|7|CASE 5|7|DISCOURSE 6|5|PUNCT 7|3|OBL 8|9|PUNCT 9|3|ADVMOD 10|3|PUNCT
+*MOT:	hmm ?
+%mor:	intj|hmm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	they're covered in grease .
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|cover-Part-Past-S adp|in noun|grease .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*MOT:	mm .
+%mor:	intj|mm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	xxx .
+*MOT:	yes .
+%mor:	intj|yes .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	shuffling sounds, tv is still on
+*NTC:	&=vocalizes .
+@End

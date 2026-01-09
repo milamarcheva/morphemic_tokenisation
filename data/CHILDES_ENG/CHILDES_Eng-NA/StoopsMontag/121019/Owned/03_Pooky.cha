@@ -1,0 +1,100 @@
+@UTF8
+@PID:	11312/a-00077896-1
+@Begin
+@Languages:	eng
+@Participants:	MA1 Adult, CHI Target_Child
+@ID:	eng|StoopsMontag|MA1|||||Adult|||
+@ID:	eng|StoopsMontag|CHI|||||Target_Child|||
+@Media:	03_Pooky, audio
+@Types:	cross, book, TD
+*MA1:	Little_Pookie . 
+%mor:	propn|LittlePookie .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	why who is this piglet ? 
+%mor:	adv|why pron|who-Int aux|be-Fin-Ind-Pres-S3 det|this-Def-Dem-Sing noun|piglet ?
+%gra:	1|5|ROOT 2|5|NSUBJ 3|5|COP 4|5|DET 5|1|ADVCL-RELCL 6|1|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	Little Pookie that's who . 
+%mor:	adj|Little-S1 propn|Pookie pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|who-Int .
+%gra:	1|2|AMOD 2|5|ROOT 3|5|NSUBJ 4|5|COP 5|2|ACL-RELCL 6|2|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	may I tell you ten things that I know about you ? 
+%mor:	aux|may-Fin-S pron|I-Prs-Nom-S1 verb|tell-Inf-S pron|you-Prs-Acc-S2 num|ten noun|thing-Plur-Acc pron|that-Rel pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 adp|about pron|you-Prs-Acc-S2 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|11|ROOT 4|3|IOBJ 5|6|NUMMOD 6|3|OBJ 7|9|OBJ 8|9|NSUBJ 9|6|ACL-RELCL 10|11|CASE 11|9|OBL 12|3|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	you like macaroni . 
+%mor:	pron|you-Prs-Nom-S2 verb|like-Fin-Ind-Pres-S2 noun|macaroni-Acc .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	you're suspicious of peas . 
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|suspicious-S1 adp|of noun|pea-Plur .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	you are happy outdoors with your ears in the breeze . 
+%mor:	pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 adj|happy-S1 adv|outdoors adp|with pron|your-Prs-Gen-S2 noun|ear-Plur adp|in det|the-Def-Art noun|breeze .
+%gra:	1|3|NSUBJ 2|3|COP 3|10|ROOT 4|3|ADVMOD 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|10|CASE 9|10|DET 10|3|OBL 11|3|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	sometimes you like wearing a shirt that's too big . 
+%mor:	adv|sometimes pron|you-Prs-Nom-S2 verb|like-Fin-Ind-Pres-S2 verb|wear-Ger-S det|a-Ind-Art noun|shirt-Acc pron|that-Rel~aux|be-Fin-Ind-Pres-S3 adv|too adj|big-S1 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|10|ROOT 4|3|XCOMP 5|6|DET 6|4|OBJ 7|10|NSUBJ 8|10|COP 9|10|ADVMOD 10|6|ACL-RELCL 11|3|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	wait is that Daddy's shirt ? 
+%mor:	verb|wait-Fin-Imp-S aux|be-Fin-Ind-Pres-S3 sconj|that propn|Daddy~part|s noun|shirt ?
+%gra:	1|6|ROOT 2|1|COP 3|6|MARK 4|6|NMOD-POSS 5|4|CASE 6|1|NSUBJ 7|1|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	you're the silliest pg . 
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 det|the-Def-Art adj|silliest-Sup-S1 noun|pg .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	you adore fuzzy things . 
+%mor:	pron|you-Prs-Nom-S2 verb|adore-Fin-Ind-Pres-S2 adj|fuzzy-S1 noun|thing-Plur-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|AMOD 4|2|OBJ 5|2|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	you dream you can fly . 
+%mor:	pron|you-Prs-Nom-S2 verb|dream-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|fly-Inf-S .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|NSUBJ 4|5|AUX 5|2|CCOMP 6|2|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	you like the piano though the keys are so high . 
+%mor:	pron|you-Prs-Nom-S2 verb|like-Fin-Ind-Pres-S2 det|the-Def-Art noun|piano-Acc sconj|though det|the-Def-Art noun|key-Plur aux|be-Fin-Ind-Pres-P3 adv|so adj|high-S1 .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|4|DET 4|2|OBJ 5|10|MARK 6|7|DET 7|10|NSUBJ 8|10|COP 9|10|ADVMOD 10|2|ADVCL 11|2|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	up , please . 
+%mor:	adv|up cm|cm intj|please .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	you like to get dirty . 
+%mor:	pron|you-Prs-Nom-S2 verb|like-Fin-Ind-Pres-S2 part|to verb|get-Inf-S adj|dirty-S1 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|MARK 4|2|XCOMP 5|4|XCOMP 6|2|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	yes ! 
+%mor:	intj|yes !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	you like to get clean maybe . 
+%mor:	pron|you-Prs-Nom-S2 verb|like-Fin-Ind-Pres-S2 part|to verb|get-Inf-S adj|clean-S1 adv|maybe .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|MARK 4|2|XCOMP 5|4|XCOMP 6|4|ADVMOD 7|2|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	you have the best nose that I've ever seen . 
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 det|the-Def-Art adj|good-Sup-S1 noun|nose-Acc pron|that-Rel pron|I-Prs-Nom-S1~aux|have-Fin-Ind-Pres-S1 adv|ever verb|see-Part-Past-S-irr .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|10|OBJ 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|5|ACL-RELCL 11|2|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	there that makes ten Pookie things , and here's one more for you . 
+%mor:	pron|there-Dem-S1 pron|that-Rel verb|make-Fin-Ind-Pres-S3 num|ten propn|Pookie noun|thing-Plur-Acc cm|cm cconj|and adv|here~aux|be-Fin-Ind-Pres-S3 num|one adj|more-Cmp-S1 adp|for pron|you-Prs-Acc-S2 .
+%gra:	1|3|EXPL 2|3|NSUBJ 3|14|ROOT 4|6|NUMMOD 5|6|COMPOUND 6|3|OBJ 7|9|PUNCT 8|9|CC 9|3|CONJ 10|9|COP 11|12|NUMMOD 12|9|NSUBJ 13|14|CASE 14|12|OBL 15|3|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	eleven . 
+%mor:	num|eleven .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	you like reading books and oh I do too . 
+%mor:	pron|you-Prs-Nom-S2 verb|like-Fin-Ind-Pres-S2 verb|read-Ger-S noun|book-Plur-Acc cconj|and intj|oh pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1 adv|too .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|XCOMP 4|3|OBJ 5|8|CC 6|8|DISCOURSE 7|8|NSUBJ 8|2|CONJ 9|8|ADVMOD 10|2|PUNCT
+%cod:	$txt:B; $xds:T
+*MA1:	the end . 
+%mor:	det|the-Def-Art noun|end .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+@End

@@ -1,0 +1,338 @@
+@UTF8
+@PID:	11312/a-00096723-0
+@Begin
+@Languages:	eng
+@Participants:	FAT Father, CHI Target_Child, ADF Adult
+@ID:	eng|FMB_home|FAT||male|||Father|||
+@ID:	eng|FMB_home|CHI|2;00.|female|||Target_Child||20129|
+@ID:	eng|FMB_home|ADF||female|||Adult|||
+@Comment:	20129_context28_39304
+@G:	ad_NTC
+@Types:	long, everyday, TD
+*FAT:	there's one .
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 num|one .
+%gra:	1|2|EXPL 2|3|ROOT 3|2|NSUBJ 4|2|PUNCT
+*FAT:	there are a few here at least .
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 det|a-Ind-Art adj|few-S1 adv|here adp|at adj|least-Sup-S1 .
+%gra:	1|2|EXPL 2|7|ROOT 3|4|DET 4|2|NSUBJ 5|2|ADVMOD 6|7|CASE 7|5|OBL 8|2|PUNCT
+*FAT:	but first there's sibling_name .
+%mor:	cconj|but adv|first pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 noun|siblingname .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|EXPL 4|5|ROOT 5|4|NSUBJ 6|4|PUNCT
+*FAT:	you see sibling_name .
+%mor:	pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 noun|siblingname-Acc .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	isn't he a funny guy ?
+%mor:	aux|be-Fin-Ind-Pres-S3~part|not pron|he-Prs-Nom-S3 det|a-Ind-Art adj|funny-S1 noun|guy ?
+%gra:	1|6|COP 2|6|ADVMOD 3|6|NSUBJ 4|6|DET 5|6|AMOD 6|6|ROOT 7|6|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	that's sibling_name .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 noun|siblingname .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*CHI:	&+ah .
+*CHI:	&+m .
+*CHI:	&+m .
+*FAT:	there he is again , &=laughs .
+%mor:	adv|there pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Pres-S3 adv|again cm|cm .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|5|ROOT 4|3|ADVMOD 5|1|PUNCT 6|3|PUNCT
+*FAT:	see him , he's so funny .
+%mor:	verb|see-Fin-Imp-S pron|he-Prs-Acc-S3 cm|cm pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|so adj|funny-S1 .
+%gra:	1|7|ROOT 2|1|OBJ 3|7|PUNCT 4|7|NSUBJ 5|7|COP 6|7|ADVMOD 7|1|PARATAXIS 8|1|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	I know , he's so funny .
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 cm|cm pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|so adj|funny-S1 .
+%gra:	1|2|NSUBJ 2|7|PARATAXIS 3|2|PUNCT 4|7|NSUBJ 5|7|COP 6|7|ADVMOD 7|7|ROOT 8|7|PUNCT
+*FAT:	look .
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	look at that .
+%mor:	verb|look-Fin-Imp-S adp|at pron|that-Dem .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+*FAT:	who's that ?
+%mor:	pron|who-Int~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*FAT:	see that ?
+%mor:	verb|see-Fin-Imp-S pron|that-Dem ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*FAT:	who's that goose ?
+%mor:	pron|who-Int~aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|goose ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*FAT:	that's you .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|you-Prs-Nom-S2 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*FAT:	there you are vacuuming .
+%mor:	pron|there-Dem-S1 pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 verb|vacuum-Part-Pres-S .
+%gra:	1|4|EXPL 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+*FAT:	wait , let's zoom in .
+%mor:	verb|wait-Fin-Imp-S cm|cm verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|zoom-Inf-S adp|in .
+%gra:	1|6|ROOT 2|3|PUNCT 3|1|PARATAXIS 4|3|OBJ 5|3|XCOMP 6|5|COMPOUND-PRT 7|1|PUNCT
+*FAT:	oh , nope .
+%mor:	intj|oh cm|cm intj|nope .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+*FAT:	zoom in .
+%mor:	verb|zoom-Fin-Imp-S adp|in .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+*FAT:	I'm gonna zoom in on you , okay ?
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|zoom-Inf-S adp|in adp|on pron|you-Prs-Acc-S2 cm|cm intj|okay ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|4|COMPOUND-PRT 6|7|CASE 7|4|OBL 8|9|PUNCT 9|4|DISCOURSE 10|4|PUNCT
+*FAT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	there's my goose .
+%mor:	pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 pron|my-Prs-Gen-S1 noun|goose .
+%gra:	1|2|EXPL 2|4|ROOT 3|4|NMOD-POSS 4|2|NSUBJ 5|2|PUNCT
+*CHI:	xxx .
+*FAT:	so cute .
+%mor:	adv|so adj|cute-S1 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx .
+*FAT:	hmm ?
+%mor:	intj|hmm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	yeah , I had it in there .
+%mor:	intj|yeah cm|cm pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Past-S1-irr pron|it-Prs-Acc-S3 adp|in adv|there .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|7|ROOT 5|4|OBJ 6|7|CASE 7|4|OBL 8|4|PUNCT
+*FAT:	but then you grabbed it out .
+%mor:	cconj|but adv|then pron|you-Prs-Nom-S2 verb|grab-Fin-Ind-Past-S2 pron|it-Prs-Acc-S3 adp|out .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|6|ROOT 5|4|OBJ 6|4|COMPOUND-PRT 7|4|PUNCT
+*CHI:	&+ya .
+*FAT:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hmm .
+%mor:	intj|hmm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	hmm .
+%mor:	intj|hmm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	mmhm .
+%mor:	intj|mmhm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	sibling_name .
+%mor:	propn|siblingname .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	uhhuh , you see sibling_name out there baby .
+%mor:	intj|uhhuh cm|cm pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 noun|siblingname-Acc adp|out adv|there noun|baby .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|8|ROOT 5|4|OBJ 6|8|CASE 7|8|ADVMOD 8|4|OBL 9|4|PUNCT
+*FAT:	is that big sister ?
+%mor:	aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing adj|big-S1 noun|sister ?
+%gra:	1|4|COP 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*FAT:	say sibling_name .
+%mor:	verb|say-Fin-Imp-S noun|siblingname-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	say sibling_name .
+%mor:	verb|say-Fin-Imp-S noun|siblingname-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*FAT:	sibling_name .
+%mor:	propn|siblingname .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	uh .
+%mor:	intj|uh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	cheerleading chants
+*CHI:	look .
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	uhhuh .
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	cheerleading chants
+*FAT:	is that your sister ?
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that pron|your-Prs-Gen-S2 noun|sister ?
+%gra:	1|4|COP 2|4|MARK 3|4|NMOD-POSS 4|4|ROOT 5|4|PUNCT
+*FAT:	you want on my shoulders ?
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 adp|on pron|my-Prs-Gen-S1 noun|shoulder-Plur ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|NMOD-POSS 5|2|OBL 6|2|PUNCT
+*FAT:	you want on my shoulders ?
+%mor:	pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 adp|on pron|my-Prs-Gen-S1 noun|shoulder-Plur ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|NMOD-POSS 5|2|OBL 6|2|PUNCT
+*FAT:	here .
+%mor:	adv|here .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	does that seem okay ?
+%mor:	aux|do-Fin-Ind-Pres-S3 pron|that-Dem verb|seem-Inf-S adj|okay-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+@G:	ohs
+*ADF:	are you sibling_name dad ?
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adj|siblingname-S1 noun|dad ?
+%gra:	1|4|COP 2|4|NSUBJ 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+*FAT:	yeah , I am .
+%mor:	intj|yeah cm|cm pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*FAT:	hi , I'm xxx .
+%mor:	intj|hi cm|cm pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*ADF:	I'm xxx .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*ADF:	xxx girls have some nits .
+%mor:	noun|girl-Plur verb|have-Fin-Ind-Pres-P3 det|some-Def-Ind noun|nit-Plur-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*ADF:	so maybe tonight when she gets home .
+%mor:	adv|so adv|maybe noun|tonight adv|when pron|she-Prs-Nom-S3 verb|get-Fin-Ind-Pres-S3 adv|home .
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|7|ROOT 4|6|ADVMOD 5|6|NSUBJ 6|3|ACL 7|6|ADVMOD 8|3|PUNCT
+*FAT:	some what ?
+%mor:	det|some-Def-Ind pron|what-Int-S1 ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*ADF:	nits , lice nits .
+%mor:	noun|nit-Plur cm|cm noun|lice noun|nit-Plur .
+%gra:	1|4|ROOT 2|4|PUNCT 3|4|COMPOUND 4|1|PARATAXIS 5|1|PUNCT
+*FAT:	lice , is that what &+sh .
+%mor:	noun|lice cm|cm aux|be-Fin-Ind-Pres-S3 pron|that-Dem pron|what-Int-S1 .
+%gra:	1|5|VOCATIVE 2|1|PUNCT 3|5|COP 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*FAT:	I'm wondering .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|wonder-Part-Pres-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+*FAT:	I was like , what the heck are they doing over there .
+%mor:	pron|I-Prs-Nom-S1 verb|be-Fin-Ind-Past-S1-irr adp|like cm|cm pron|what-Int-S1 det|the-Def-Art noun|heck-Acc aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|do-Part-Pres-S adp|over adv|there .
+%gra:	1|2|NSUBJ 2|12|ROOT 3|2|COMPOUND-PRT 4|5|PUNCT 5|10|OBJ 6|7|DET 7|10|OBJ 8|10|AUX 9|10|NSUBJ 10|2|CCOMP 11|12|CASE 12|10|OBL 13|2|PUNCT
+*ADF:	well , because , um , some of the girls xxx .
+%mor:	intj|well cm|cm sconj|because cm|cm intj|um cm|cm det|some-Def-Ind adp|of det|the-Def-Art noun|girl-Plur .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|MARK 4|3|PUNCT 5|7|DISCOURSE 6|5|PUNCT 7|10|ROOT 8|10|CASE 9|10|DET 10|7|NMOD 11|7|PUNCT
+*FAT:	somebody else had it ?
+%mor:	pron|somebody-Ind-S1 adj|else-S1 verb|have-Fin-Ind-Past-S3-irr pron|it-Prs-Acc-S3 ?
+%gra:	1|3|NSUBJ 2|1|AMOD 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*ADF:	yes , so we checked everybody .
+%mor:	intj|yes cm|cm adv|so pron|we-Prs-Nom-P1 verb|check-Fin-Ind-Past-P1 pron|everybody-Tot-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|ADVMOD 4|5|NSUBJ 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+*FAT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	seven of them now have it .
+%mor:	num|seven adp|of pron|they-Prs-Acc-P3 adv|now verb|have-Fin-Ind-Pres-P3 pron|it-Prs-Acc-S3 .
+%gra:	1|5|NSUBJ 2|3|CASE 3|1|NMOD 4|5|ADVMOD 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+*FAT:	oh , you're kidding me .
+%mor:	intj|oh cm|cm pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|kid-Part-Pres-S pron|I-Prs-Acc-S1 .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+*ADF:	but she doesn't have any .
+%mor:	cconj|but pron|she-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3~part|not verb|have-Inf-S det|any-Def-Ind .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+*ADF:	bugs , just a couple nits .
+%mor:	noun|bug-Plur cm|cm adv|just det|a-Ind-Art noun|couple noun|nit-Plur .
+%gra:	1|6|ROOT 2|6|PUNCT 3|6|ADVMOD 4|6|DET 5|6|COMPOUND 6|1|APPOS 7|1|PUNCT
+*ADF:	so just maybe tonight have your wife go through it .
+%mor:	adv|so adv|just adv|maybe noun|tonight verb|have-Fin-Imp-S pron|your-Prs-Gen-S2 noun|wife-Acc verb|go-Inf-S adp|through pron|it-Prs-Acc-S3 .
+%gra:	1|5|DISCOURSE 2|5|ADVMOD 3|5|ADVMOD 4|5|OBL-UNMARKED 5|10|ROOT 6|7|NMOD-POSS 7|5|OBJ 8|5|XCOMP 9|10|CASE 10|8|OBL 11|5|PUNCT
+*FAT:	yeah , we'll need to do that .
+%mor:	intj|yeah cm|cm pron|we-Prs-Nom-P1~aux|will-Fin-S verb|need-Inf-S part|to verb|do-Inf-S pron|that-Dem .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|8|ROOT 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|5|PUNCT
+*ADF:	it's fine .
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|fine-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*FAT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	I'm just letting you know .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|just verb|let-Part-Pres-S pron|you-Prs-Nom-S2 verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|4|OBJ 6|4|XCOMP 7|4|PUNCT
+*FAT:	yeah , thank_you very much .
+%mor:	intj|yeah cm|cm intj|thankyou adv|very adv|much .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|5|DISCOURSE 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+*ADF:	I'm not pulling any of them today .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|not verb|pull-Part-Pres-S det|any-Def-Ind adp|of pron|they-Prs-Acc-P3 noun|today .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|4|OBJ 6|7|CASE 7|5|NMOD 8|4|OBL-UNMARKED 9|4|PUNCT
+*FAT:	appreciate it .
+%mor:	verb|appreciate-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*FAT:	sorry you had to do that .
+%mor:	intj|sorry pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Past-S2-irr part|to verb|do-Inf-S pron|that-Dem .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+*FAT:	that stinks .
+%mor:	pron|that-Dem verb|stink-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*ADF:	well , you know what ?
+%mor:	intj|well cm|cm pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|what-Int-S1 ?
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*FAT:	going through other people's hair .
+%mor:	verb|go-Part-Pres-S adp|through adj|other-S1 noun|person-Plur~part|s noun|hair .
+%gra:	1|6|ROOT 2|6|CASE 3|4|AMOD 4|6|NMOD-POSS 5|4|CASE 6|1|OBL 7|1|PUNCT
+*ADF:	I know , but xxx .
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 cm|cm cconj|but .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|PUNCT 4|2|CC 5|2|PUNCT
+*FAT:	you know ?
+%mor:	pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*ADF:	um , we do it once a week .
+%mor:	intj|um cm|cm pron|we-Prs-Nom-P1 verb|do-Fin-Ind-Pres-P1 pron|it-Prs-Acc-S3 adv|once det|a-Ind-Art noun|week .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|8|ROOT 5|4|OBJ 6|4|ADVMOD 7|8|DET 8|4|OBL-UNMARKED 9|4|PUNCT
+*FAT:	do you ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 ?
+%gra:	1|2|ROOT 2|1|NSUBJ 3|1|PUNCT
+*ADF:	well , only because they're so .
+%mor:	intj|well cm|cm adv|only sconj|because pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adv|so .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|ADVMOD 4|7|MARK 5|7|NSUBJ 6|7|COP 7|7|ROOT 8|7|PUNCT
+*ADF:	especially when they start stunting .
+%mor:	adv|especially adv|when pron|they-Prs-Nom-P3 verb|start-Fin-Ind-Pres-P3 verb|stunt-Ger-S .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|NSUBJ 4|5|ROOT 5|4|XCOMP 6|4|PUNCT
+*ADF:	they're , like , lifting each other up .
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 cm|cm intj|like cm|cm verb|lift-Part-Pres-S det|each-Def-Rcp adj|other-S1 adp|up .
+%gra:	1|6|NSUBJ 2|6|AUX 3|2|PUNCT 4|6|DISCOURSE 5|4|PUNCT 6|9|ROOT 7|6|OBJ 8|7|FIXED 9|6|COMPOUND-PRT 10|6|PUNCT
+*FAT:	oh , yeah , right .
+%mor:	intj|oh cm|cm intj|yeah cm|cm adj|right-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|5|ROOT 4|5|PUNCT 5|3|DISCOURSE 6|3|PUNCT
+*FAT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*ADF:	just they just need to know not to share hair clips , nothing .
+%mor:	adv|just pron|they-Prs-Nom-P3 adv|just verb|need-Fin-Ind-Pres-P3 part|to verb|know-Inf-S part|not part|to verb|share-Inf-S noun|hair noun|clip-Plur-Acc cm|cm pron|nothing-Neg-S1 .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|ADVMOD 4|13|ROOT 5|6|MARK 6|4|XCOMP 7|9|ADVMOD 8|9|MARK 9|6|XCOMP 10|11|COMPOUND 11|9|OBJ 12|13|PUNCT 13|11|APPOS 14|4|PUNCT
+*FAT:	okay , very good .
+%mor:	intj|okay cm|cm adv|very adj|good-S1 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*FAT:	make sure we all know all that .
+%mor:	verb|make-Fin-Imp-S adj|sure-S1 pron|we-Prs-Nom-P1 det|all-Def-Tot verb|know-Fin-Ind-Pres-P1 det|all-Def-Tot pron|that-Dem .
+%gra:	1|7|ROOT 2|1|XCOMP 3|5|NSUBJ 4|3|DET 5|2|CCOMP 6|7|DET-PREDET 7|5|OBJ 8|1|PUNCT
+*ADF:	they probably didn't used to do it but I'm really weird about it .
+%mor:	pron|they-Prs-Nom-P3 adv|probably aux|do-Fin-Ind-Past-P3-irr~part|not verb|use-Inf-S part|to verb|do-Inf-S pron|it-Prs-Acc-S3 cconj|but pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adv|really adj|weird-S1 adp|about pron|it-Prs-Acc-S3 .
+%gra:	1|5|NSUBJ 2|5|ADVMOD 3|5|AUX 4|5|ADVMOD 5|15|ROOT 6|7|MARK 7|5|XCOMP 8|7|OBJ 9|13|CC 10|13|NSUBJ 11|13|COP 12|13|ADVMOD 13|5|CONJ 14|15|CASE 15|13|OBL 16|5|PUNCT
+*FAT:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*FAT:	no , I understand .
+%mor:	intj|no cm|cm pron|I-Prs-Nom-S1 verb|understand-Fin-Ind-Pres-S1 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*ADF:	but yeah xxx anything just let her know .
+%mor:	cconj|but intj|yeah pron|anything-Ind-S1 adv|just verb|let-Fin-Imp-S pron|her-Prs-Acc-S3 verb|know-Inf-S .
+%gra:	1|5|CC 2|5|DISCOURSE 3|5|NSUBJ 4|5|ADVMOD 5|7|ROOT 6|5|OBJ 7|5|XCOMP 8|5|PUNCT
+*FAT:	what was your name again ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Past-S3-irr pron|your-Prs-Gen-S2 noun|name adv|again ?
+%gra:	1|5|ROOT 2|1|COP 3|4|NMOD-POSS 4|1|NSUBJ 5|1|ADVMOD 6|1|PUNCT
+*ADF:	xxx .
+*FAT:	xxx , thank_you .
+%mor:	cm|cm intj|thankyou .
+%gra:	1|2|PUNCT 2|2|ROOT 3|2|PUNCT
+@G:	ad_NTC
+*FAT:	what are you doing in my ear ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Part-Pres-S adp|in pron|my-Prs-Gen-S1 noun|ear ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|7|CASE 6|7|NMOD-POSS 7|4|OBL 8|4|PUNCT
+*CHI:	xxx .
+*FAT:	yeah ?
+%mor:	intj|yeah ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+%com:	cheerleading chants continues
+@End

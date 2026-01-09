@@ -1,0 +1,618 @@
+@UTF8
+@PID:	11312/a-00096771-0
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|FMB_home|CHI|1;11.|male|||Target_Child||20177|
+@ID:	eng|FMB_home|MOT||female|||Mother|||
+@Comment:	20177_context1_11474
+@G:	ohs
+@Types:	long, everyday, TD
+*CHI:	xxx .
+*CHI:	hey , Mommy .
+%mor:	intj|hey cm|cm propn|Mommy .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+*MOT:	you wanna go read your book ?
+%mor:	pron|you-Prs-Nom-S2 aux|wanna-Fin-Ind-S2 verb|go-Inf-S verb|read-Inf-S pron|your-Prs-Gen-S2 noun|book-Acc ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|3|XCOMP 5|6|NMOD-POSS 6|4|OBJ 7|3|PUNCT
+*CHI:	books ?
+%mor:	noun|book-Plur ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*CHI:	this one book .
+%mor:	det|this-Def-Dem-Sing num|one noun|book .
+%gra:	1|3|DET 2|3|NUMMOD 3|3|ROOT 4|3|PUNCT
+*CHI:	xxx .
+*MOT:	all_done .
+%mor:	noun|alldone .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	I'll be right back .
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S aux|be-Inf-S adj|right-S1 adv|back .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|COP 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+*MOT:	girls , sit down .
+%mor:	noun|girl-Plur cm|cm verb|sit-Fin-Ind-Pres-P3 adp|down .
+%gra:	1|3|NSUBJ 2|1|PUNCT 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+*MOT:	put your shirt back on .
+%mor:	verb|put-Fin-Imp-S pron|your-Prs-Gen-S2 noun|shirt-Acc adv|back adp|on .
+%gra:	1|5|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|ADVMOD 5|1|COMPOUND-PRT 6|1|PUNCT
+*CHI:	xxx .
+*CHI:	mouse .
+%mor:	noun|mouse .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mouse .
+%mor:	noun|mouse .
+%gra:	1|1|ROOT 2|1|PUNCT
+@G:	ch_dressing
+*MOT:	(o)kay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	we'll read about mouse in just a second .
+%mor:	pron|we-Prs-Nom-P1~aux|will-Fin-S verb|read-Inf-S adp|about noun|mouse adp|in adv|just det|a-Ind-Art noun|second .
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|5|CASE 5|3|OBL 6|9|CASE 7|9|ADVMOD 8|9|DET 9|3|OBL 10|3|PUNCT
+*MOT:	you gotta put your shirt on though .
+%mor:	pron|you-Prs-Nom-S2 aux|getta-Fin-S verb|put-Inf-S pron|your-Prs-Gen-S2 noun|shirt-Acc adp|on adv|though .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|COMPOUND-PRT 7|3|ADVMOD 8|3|PUNCT
+*MOT:	here , I need your arms .
+%mor:	adv|here cm|cm pron|I-Prs-Nom-S1 verb|need-Fin-Ind-Pres-S1 pron|your-Prs-Gen-S2 noun|arm-Plur-Acc .
+%gra:	1|4|ADVMOD 2|1|PUNCT 3|4|NSUBJ 4|6|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|PUNCT
+@G:	ohs
+*CHI:	no !
+%mor:	intj|no !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	&=whispers .
+*CHI:	see book .
+%mor:	verb|see-Fin-Imp-S noun|book-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	xxx .
+*CHI:	read [/] read .
+%mor:	verb|read-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	read the book .
+%mor:	verb|read-Fin-Imp-S det|the-Def-Art noun|book-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+@G:	ch_books
+*MOT:	yup , we'll read the book .
+%mor:	intj|yup cm|cm pron|we-Prs-Nom-P1~aux|will-Fin-S verb|read-Inf-S det|the-Def-Art noun|book-Acc .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*MOT:	you wanna sit over here ?
+%mor:	pron|you-Prs-Nom-S2 aux|wanna-Fin-S verb|sit-Fin-Ind-Pres-S2 adp|over adv|here ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	Mickey_Mouse_and_the_Pet_Shop .
+%mor:	propn|MickeyMouseandthePetShop .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*CHI:	Mom Mickey_(Mouse) .
+%mor:	noun|mom propn|MickeyMouse .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+%com:	Mom is reading a book .
+*MOT:	Mickey_Mouse loved animals so when his friend , Mister_Palmer , had to go to an overnight trip , Mickey_(Mouse) was more than happy to watch his pet shop while he was gone . [+ rmix]
+%mor:	propn|MickeyMouse verb|love-Fin-Ind-Past-S3 noun|animal-Plur-Acc adv|so adv|when pron|his-Prs-Gen-S3 noun|friend cm|cm propn|MisterPalmer cm|cm verb|have-Fin-Ind-Past-S3-irr part|to verb|go-Inf-S adp|to det|a-Ind-Art adj|overnight-S1 noun|trip cm|cm propn|MickeyMouse aux|be-Fin-Ind-Past-S3-irr adj|more-Cmp-S1 adp|than adj|happy-S1 part|to verb|watch-Inf-S pron|his-Prs-Gen-S3 noun|pet noun|shop-Acc sconj|while pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|gone-S1 .
+%gra:	1|2|NSUBJ 2|32|ROOT 3|2|OBJ 4|23|ADVMOD 5|11|ADVMOD 6|7|NMOD-POSS 7|11|NSUBJ 8|9|PUNCT 9|7|APPOS 10|7|PUNCT 11|23|ADVCL 12|13|MARK 13|11|XCOMP 14|17|CASE 15|17|DET 16|17|AMOD 17|13|OBL 18|11|PUNCT 19|23|NSUBJ 20|23|COP 21|23|ADVMOD 22|23|CASE 23|2|PARATAXIS 24|25|MARK 25|23|XCOMP 26|28|NMOD-POSS 27|28|COMPOUND 28|25|OBJ 29|32|MARK 30|32|NSUBJ 31|32|COP 32|25|ADVCL 33|2|PUNCT
+*MOT:	I'll be back tomorrow afternoon said Mister_Palmer . [+ recit]
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S aux|be-Inf-S adv|back noun|tomorrow noun|afternoon verb|say-Fin-Ind-Past-S3-irr propn|MisterPalmer .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|COP 4|7|CCOMP 5|6|COMPOUND 6|4|OBL-UNMARKED 7|8|ROOT 8|7|NSUBJ 9|7|PUNCT
+*CHI:	Mom , Mickey_(Mouse) .
+%mor:	noun|mom cm|cm propn|MickeyMouse .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|LIST 4|1|PUNCT
+*MOT:	xxx .
+*MOT:	that's not Mickey_(Mouse) , that's just a mouse .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 part|not propn|MickeyMouse cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|just det|a-Ind-Art noun|mouse .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|10|ROOT 5|10|PUNCT 6|10|NSUBJ 7|10|COP 8|10|ADVMOD 9|10|DET 10|4|PARATAXIS 11|4|PUNCT
+*CHI:	no , xxx Mickey_(Mouse) .
+%mor:	intj|no cm|cm propn|MickeyMouse .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|VOCATIVE 4|1|PUNCT
+*CHI:	Mickey_(Mouse) .
+%mor:	propn|MickeyMouse .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	bunny .
+%mor:	noun|bunny .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	no , it's a mouse .
+%mor:	intj|no cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|mouse .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|DET 6|6|ROOT 7|6|PUNCT
+*CHI:	bunny .
+%mor:	noun|bunny .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	mouse .
+%mor:	noun|mouse .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*MOT:	you shouldn't have any problems . [+ recit]
+%mor:	pron|you-Prs-Nom-S2 aux|should-Fin-S~part|not verb|have-Inf-S det|any-Def-Ind noun|problem-Plur-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*MOT:	have a good time called Mickey_(Mouse) . [+ recit]
+%mor:	verb|have-Fin-Imp-S det|a-Ind-Art adj|good-S1 noun|time-Acc verb|call-Part-Past-S propn|MickeyMouse .
+%gra:	1|6|ROOT 2|4|DET 3|4|AMOD 4|1|OBJ 5|4|ACL 6|5|XCOMP 7|1|PUNCT
+*MOT:	this will be a snap . [+ recit]
+%mor:	pron|this-Dem-S1 aux|will-Fin-S aux|be-Inf-S det|a-Ind-Art noun|snap .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+*MOT:	is that Mickey_(Mouse) ?
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that propn|MickeyMouse ?
+%gra:	1|3|COP 2|3|MARK 3|3|ROOT 4|3|PUNCT
+*CHI:	xxx .
+*MOT:	is that Mister_Palmer ?
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that propn|MisterPalmer ?
+%gra:	1|3|COP 2|3|MARK 3|3|ROOT 4|3|PUNCT
+*MOT:	Mickey_(Mouse) decided to get to know the animals . [+ recit]
+%mor:	propn|MickeyMouse verb|decide-Fin-Ind-Past-S3 part|to verb|get-Inf-S part|to verb|know-Inf-S det|the-Def-Art noun|animal-Plur-Acc .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|4|MARK 4|2|XCOMP 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|2|PUNCT
+*MOT:	they all seemed happy except for one cute little puppy who wouldn't stop whimpering . [+ rmix]
+%mor:	pron|they-Prs-Nom-P3 det|all-Def-Tot verb|seem-Fin-Ind-Past-P3 adj|happy-S1 adp|except adp|for num|one adj|cute-S1 adj|little-S1 noun|puppy pron|who-Rel aux|would-Fin-S~part|not verb|stop-Inf-S verb|whimper-Ger-S .
+%gra:	1|3|NSUBJ 2|1|DET 3|15|ROOT 4|3|XCOMP 5|10|CASE 6|10|CASE 7|10|NUMMOD 8|10|AMOD 9|10|AMOD 10|4|OBL 11|14|NSUBJ 12|14|AUX 13|14|ADVMOD 14|10|ACL-RELCL 15|14|XCOMP 16|3|PUNCT
+*MOT:	poor little fella said Mickey_(Mouse) . [+ recit]
+%mor:	adj|poor-S1 adj|little-S1 noun|fella verb|say-Fin-Ind-Past-S3-irr propn|MickeyMouse .
+%gra:	1|3|AMOD 2|3|AMOD 3|4|NSUBJ 4|5|ROOT 5|4|NSUBJ 6|4|PUNCT
+*MOT:	as he lifted him from his kennel . [+ rmix]
+%mor:	sconj|as pron|he-Prs-Nom-S3 verb|lift-Fin-Ind-Past-S3 pron|he-Prs-Acc-S3 adp|from pron|his-Prs-Gen-S3 noun|kennel .
+%gra:	1|3|MARK 2|3|NSUBJ 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|3|PUNCT
+*MOT:	what you need is some attention . [+ recit]
+%mor:	pron|what-Int-S1 pron|you-Prs-Nom-S2 verb|need-Fin-Ind-Pres-S2 aux|be-Fin-Ind-Pres-S3 det|some-Def-Ind noun|attention .
+%gra:	1|6|NSUBJ 2|3|NSUBJ 3|1|ACL-RELCL 4|6|COP 5|6|DET 6|6|ROOT 7|6|PUNCT
+*CHI:	xxx .
+*MOT:	but no sooner was the puppy out , then he wriggled free from Mickey_(Mouse)'s arms and raced to a fish bowl for a drink of water . [+ rmix]
+%mor:	cconj|but adv|no adv|soon aux|be-Fin-Ind-Past-S3-irr det|the-Def-Art noun|puppy adp|out cm|cm adv|then pron|he-Prs-Nom-S3 verb|wriggle-Fin-Ind-Past-S3 adj|free-S1 adp|from propn|MickeyMouse~part|s noun|arm-Plur cconj|and verb|race-Fin-Ind-Past-S3 adp|to det|a-Ind-Art noun|fish noun|bowl adp|for det|a-Ind-Art noun|drink adp|of noun|water .
+%gra:	1|7|CC 2|3|ADVMOD 3|11|ADVMOD 4|7|COP 5|6|DET 6|7|NSUBJ 7|27|ROOT 8|11|PUNCT 9|11|ADVMOD 10|11|NSUBJ 11|7|PARATAXIS 12|11|XCOMP 13|16|CASE 14|16|NMOD-POSS 15|14|CASE 16|12|OBL 17|18|CC 18|11|CONJ 19|22|CASE 20|22|DET 21|22|COMPOUND 22|18|OBL 23|25|CASE 24|25|DET 25|18|OBL 26|27|CASE 27|25|NMOD 28|7|PUNCT
+*MOT:	watch_out screeched the parrot but it was too late . [+ rmix]
+%mor:	propn|watchout verb|screech-Fin-Ind-Past-S3 det|the-Def-Art noun|parrot-Acc cconj|but pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|too adj|late-S1 .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|DET 4|2|OBJ 5|9|CC 6|9|NSUBJ 7|9|COP 8|9|ADVMOD 9|2|CONJ 10|2|PUNCT
+*MOT:	the puppy knocked over the bowl and the fish went flying across the store . [+ recit]
+%mor:	det|the-Def-Art noun|puppy verb|knock-Fin-Ind-Past-S3 adp|over det|the-Def-Art noun|bowl cconj|and det|the-Def-Art noun|fish verb|go-Fin-Ind-Past-S3-irr verb|fly-Ger-S adp|across det|the-Def-Art noun|store .
+%gra:	1|2|DET 2|3|NSUBJ 3|14|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|10|CC 8|9|DET 9|10|NSUBJ 10|3|CONJ 11|10|XCOMP 12|14|CASE 13|14|DET 14|11|OBL 15|3|PUNCT
+*MOT:	see the puppy ?
+%mor:	verb|see-Fin-Imp-S det|the-Def-Art noun|puppy-Acc ?
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	see the puppy .
+%mor:	verb|see-Fin-Imp-S det|the-Def-Art noun|puppy-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	and do you see Mickey_(Mouse) ?
+%mor:	cconj|and aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S propn|MickeyMouse-Acc ?
+%gra:	1|4|CC 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*MOT:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	do you see the fishie ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S det|the-Def-Art noun|fishie-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	uhhuh .
+%mor:	intj|uhhuh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	where's the fishie ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|fishie ?
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*CHI:	xxx .
+*MOT:	that's the parrot .
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|parrot .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*MOT:	where's the fishie ?
+%mor:	adv|where~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art noun|fishie ?
+%gra:	1|4|ROOT 2|1|COP 3|4|DET 4|1|NSUBJ 5|1|PUNCT
+*CHI:	there .
+%mor:	adv|there .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	yeah , there .
+%mor:	intj|yeah cm|cm adv|there .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+*CHI:	xxx .
+*MOT:	gotcha Mickey_(Mouse) called , as he caught the fish and put it in a new fishbowl . [+ recit]
+%mor:	propn|gotcha propn|MickeyMouse verb|call-Fin-Ind-Past-S3 cm|cm sconj|as pron|he-Prs-Nom-S3 verb|catch-Fin-Ind-Past-S3-irr det|the-Def-Art noun|fish-Acc cconj|and verb|put-Fin-Ind-Past-S3-irr pron|it-Prs-Acc-S3 adp|in det|a-Ind-Art adj|new-S1 noun|fishbowl .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|16|ROOT 4|7|PUNCT 5|7|MARK 6|7|NSUBJ 7|3|ADVCL 8|9|DET 9|7|OBJ 10|11|CC 11|7|CONJ 12|11|OBJ 13|16|CASE 14|16|DET 15|16|AMOD 16|11|OBL 17|3|PUNCT
+*MOT:	then he put the puppy back in the kennel . [+ recit]
+%mor:	adv|then pron|he-Prs-Nom-S3 verb|put-Fin-Ind-Past-S3-irr det|the-Def-Art noun|puppy-Acc adv|back adp|in det|the-Def-Art noun|kennel .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|9|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|9|CASE 8|9|DET 9|3|OBL 10|3|PUNCT
+*MOT:	just then , the door opened . [+ recit]
+%mor:	adv|just adv|then cm|cm det|the-Def-Art noun|door verb|open-Fin-Ind-Past-S3 .
+%gra:	1|2|ADVMOD 2|6|ADVMOD 3|2|PUNCT 4|5|DET 5|6|NSUBJ 6|6|ROOT 7|6|PUNCT
+*MOT:	it was Mickey_(Mouse)'s first customer . [+ recit]
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr propn|MickeyMouse~part|s adj|first-S1 noun|customer .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|NMOD-POSS 4|3|CASE 5|6|AMOD 6|6|ROOT 7|6|PUNCT
+*MOT:	he was so excited that he forgot to lock the kennel door . [+ recit]
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|so adj|excited-S1 sconj|that pron|he-Prs-Nom-S3 verb|forget-Fin-Ind-Past-S3-irr part|to verb|lock-Inf-S det|the-Def-Art noun|kennel noun|door-Acc .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|12|ROOT 5|7|MARK 6|7|NSUBJ 7|4|CCOMP 8|9|MARK 9|7|XCOMP 10|12|DET 11|12|COMPOUND 12|9|OBJ 13|4|PUNCT
+*MOT:	can I help you Mickey_(Mouse) asked . [+ recit]
+%mor:	aux|can-Fin-S pron|I-Prs-Nom-S1 verb|help-Inf-S pron|you-Prs-Acc-S2 propn|MickeyMouse-Acc verb|ask-Part-Past-S .
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|3|OBJ 6|3|XCOMP 7|3|PUNCT
+*MOT:	before the customer could even answer , the puppy jumped out of the kennel and set a cage full of mice free . [+ rmix]
+%mor:	sconj|before det|the-Def-Art noun|customer aux|could-Fin-S adv|even verb|answer-Inf-S cm|cm det|the-Def-Art noun|puppy verb|jump-Fin-Ind-Past-S3 adp|out adp|of det|the-Def-Art noun|kennel cconj|and verb|set-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|cage-Acc adj|full-S1 adp|of noun|mouse-Plur adj|free-S1 .
+%gra:	1|6|MARK 2|3|DET 3|6|NSUBJ 4|6|AUX 5|6|ADVMOD 6|10|ADVCL 7|6|PUNCT 8|9|DET 9|10|NSUBJ 10|22|ROOT 11|14|CASE 12|14|CASE 13|14|DET 14|10|OBL 15|16|CC 16|10|CONJ 17|18|DET 18|16|OBJ 19|18|AMOD 20|22|CASE 21|22|COMPOUND 22|19|OBL 23|10|PUNCT
+*MOT:	instantly , the mice began to scurry around the store .
+%mor:	adv|instantly cm|cm det|the-Def-Art noun|mouse-Plur verb|begin-Fin-Ind-Past-P3-irr part|to verb|scurry-Inf-S adp|around det|the-Def-Art noun|store .
+%gra:	1|5|ADVMOD 2|1|PUNCT 3|4|DET 4|5|NSUBJ 5|10|ROOT 6|7|MARK 7|5|XCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|5|PUNCT
+*MOT:	I'll come back later , much later exclaimed the customer as she raced for the door . [+ rmix]
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|come-Inf-S adv|back adv|late cm|cm adv|much adv|late verb|exclaim-Fin-Ind-Past-S3 det|the-Def-Art noun|customer-Acc sconj|as pron|she-Prs-Nom-S3 verb|race-Fin-Ind-Past-S3 adp|for det|the-Def-Art noun|door .
+%gra:	1|3|NSUBJ 2|3|AUX 3|17|ROOT 4|3|ADVMOD 5|3|ADVMOD 6|9|PUNCT 7|8|ADVMOD 8|9|ADVMOD 9|3|PARATAXIS 10|11|DET 11|9|OBJ 12|14|MARK 13|14|NSUBJ 14|9|ADVCL 15|17|CASE 16|17|DET 17|14|OBL 18|3|PUNCT
+*MOT:	after the customer left , Mickey_(Mouse) hurried to gather up all the mice and put them back where they belonged . [+ rmix]
+%mor:	sconj|after det|the-Def-Art noun|customer verb|leave-Fin-Ind-Past-S3-irr cm|cm propn|MickeyMouse verb|hurry-Fin-Ind-Past-S3 part|to verb|gather-Inf-S adp|up det|all-Def-Tot det|the-Def-Art noun|mouse-Plur-Acc cconj|and verb|put-Inf-S pron|they-Prs-Acc-P3 adv|back adv|where pron|they-Prs-Nom-P3 verb|belong-Fin-Ind-Past-P3 .
+%gra:	1|4|MARK 2|3|DET 3|4|NSUBJ 4|7|ADVCL 5|4|PUNCT 6|7|NSUBJ 7|20|ROOT 8|9|MARK 9|7|XCOMP 10|9|COMPOUND-PRT 11|13|DET-PREDET 12|13|DET 13|9|OBJ 14|15|CC 15|9|CONJ 16|15|OBJ 17|15|ADVMOD 18|20|ADVMOD 19|20|NSUBJ 20|15|ADVCL 21|7|PUNCT
+*MOT:	and this time when Mickey_(Mouse) put away the puppy , he made sure to lock the kennel door . [+ rmix]
+%mor:	cconj|and det|this-Def-Dem-Sing noun|time adv|when propn|MickeyMouse verb|put-Fin-Ind-Past-S3-irr adp|away det|the-Def-Art noun|puppy-Acc cm|cm pron|he-Prs-Nom-S3 verb|make-Fin-Ind-Past-S3-irr adj|sure-S1 part|to verb|lock-Inf-S det|the-Def-Art noun|kennel noun|door-Acc .
+%gra:	1|12|CC 2|3|DET 3|12|OBL-UNMARKED 4|6|ADVMOD 5|6|NSUBJ 6|3|ACL 7|6|COMPOUND-PRT 8|9|DET 9|6|OBJ 10|6|PUNCT 11|12|NSUBJ 12|18|ROOT 13|12|XCOMP 14|15|MARK 15|13|XCOMP 16|18|DET 17|18|COMPOUND 18|15|OBJ 19|12|PUNCT
+*MOT:	don't worry little guy he said to the puppy kindly . [+ rmix]
+%mor:	aux|do-Fin-Imp-S~part|not verb|worry-Fin-Imp-S adj|little-S1 noun|guy-Acc pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr adp|to det|the-Def-Art noun|puppy adv|kindly .
+%gra:	1|3|AUX 2|3|ADVMOD 3|11|ROOT 4|5|AMOD 5|3|OBJ 6|7|NSUBJ 7|5|ACL-RELCL 8|10|CASE 9|10|DET 10|7|OBL 11|7|ADVMOD 12|3|PUNCT
+*MOT:	someone will take you home with them soon you'll see . [+ rmix]
+%mor:	pron|someone-Ind-S1 aux|will-Fin-S verb|take-Inf-S pron|you-Prs-Acc-S2 adv|home adp|with pron|they-Prs-Acc-P3 adv|soon pron|you-Prs-Nom-S2~aux|will-Fin-S verb|see-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|11|ROOT 4|3|OBJ 5|3|ADVMOD 6|7|CASE 7|3|OBL 8|3|ADVMOD 9|11|NSUBJ 10|11|AUX 11|3|PARATAXIS 12|3|PUNCT
+*MOT:	you see Mickey_(Mouse) ?
+%mor:	pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 propn|MickeyMouse-Acc ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	xxx puppy .
+%mor:	noun|puppy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	puppy , yeah .
+%mor:	noun|puppy cm|cm intj|yeah .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*MOT:	and do you see Mickey_(Mouse) ?
+%mor:	cconj|and aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S propn|MickeyMouse-Acc ?
+%gra:	1|4|CC 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	puppy .
+%mor:	noun|puppy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	yeah , and Mickey_(Mouse)'s talkin(g) to the puppy .
+%mor:	intj|yeah cm|cm cconj|and propn|MickeyMouse~aux|be-Fin-Ind-Pres-S3 verb|talk-Part-Pres-S adp|to det|the-Def-Art noun|puppy .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|CC 4|6|NSUBJ 5|6|AUX 6|9|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+*CHI:	ah , puppy .
+%mor:	intj|ah cm|cm noun|puppy .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+*CHI:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	by then it was closing time so Mickey_(Mouse) said good_night to all the animals in the shop .
+%mor:	adp|by adv|then pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr verb|close-Part-Pres-S noun|time-Acc adv|so propn|MickeyMouse verb|say-Fin-Ind-Past-S3-irr noun|goodnight-Acc adp|to det|all-Def-Tot det|the-Def-Art noun|animal-Plur adp|in det|the-Def-Art noun|shop .
+%gra:	1|2|CASE 2|5|OBL 3|5|NSUBJ 4|5|AUX 5|17|ROOT 6|5|OBJ 7|9|ADVMOD 8|9|NSUBJ 9|5|PARATAXIS 10|9|OBJ 11|14|CASE 12|14|DET-PREDET 13|14|DET 14|9|OBL 15|17|CASE 16|17|DET 17|14|NMOD 18|5|PUNCT
+*MOT:	and he turned the lights out and went upstairs to Mister_Palmer's apartment .
+%mor:	cconj|and pron|he-Prs-Nom-S3 verb|turn-Fin-Ind-Past-S3 det|the-Def-Art noun|light-Plur-Acc adp|out cconj|and verb|go-Fin-Ind-Past-S3-irr adv|upstairs adp|to propn|MisterPalmer~part|s noun|apartment .
+%gra:	1|3|CC 2|3|NSUBJ 3|13|ROOT 4|5|DET 5|3|OBJ 6|3|COMPOUND-PRT 7|8|CC 8|3|CONJ 9|8|ADVMOD 10|13|CASE 11|13|NMOD-POSS 12|11|CASE 13|8|OBL 14|3|PUNCT
+*MOT:	Mickey_(Mouse) put on his pajamas .
+%mor:	propn|MickeyMouse verb|put-Fin-Ind-Past-S3-irr adp|on pron|his-Prs-Gen-S3 noun|pajama-Plur .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|COMPOUND-PRT 4|5|NMOD-POSS 5|2|OBL 6|2|PUNCT
+*CHI:	uhoh .
+%mor:	intj|uhoh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	and climbed into bed .
+%mor:	cconj|and verb|climb-Fin-Ind-Past-S1 adp|into noun|bed .
+%gra:	1|2|CC 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*MOT:	before he could fall asleep , a loud howling sound drifted up from the pet shop below . [+ rmix]
+%mor:	sconj|before pron|he-Prs-Nom-S3 aux|could-Fin-S verb|fall-Inf-S adj|asleep-S1 cm|cm det|a-Ind-Art adj|loud-S1 noun|howling-Ger noun|sound verb|drift-Fin-Ind-Past-S3 adp|up adp|from det|the-Def-Art noun|pet noun|shop adv|below .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|11|ADVCL 5|4|XCOMP 6|4|PUNCT 7|10|DET 8|10|AMOD 9|10|COMPOUND 10|11|NSUBJ 11|17|ROOT 12|11|COMPOUND-PRT 13|16|CASE 14|16|DET 15|16|COMPOUND 16|11|OBL 17|11|ADVMOD 18|11|PUNCT
+*MOT:	what was that Mickey_(Mouse) wondered .
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Past-S3-irr pron|that-Rel propn|MickeyMouse verb|wonder-Fin-Ind-Past-S3 .
+%gra:	1|5|ROOT 2|1|COP 3|1|NSUBJ 4|5|NSUBJ 5|3|ACL-RELCL 6|1|PUNCT
+*MOT:	then suddenly he knew .
+%mor:	adv|then adv|suddenly pron|he-Prs-Nom-S3 verb|know-Fin-Ind-Past-S3-irr .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*MOT:	it was the puppy .
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|the-Def-Art noun|puppy .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*MOT:	Mickey_(Mouse) scooted down the bed .
+%mor:	propn|MickeyMouse verb|scoot-Fin-Ind-Past-S3 adp|down det|the-Def-Art noun|bed .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+*CHI:	doggy .
+%mor:	adj|doggy-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	and pulled the covers over his head but he could still hear that puppy howling .
+%mor:	cconj|and verb|pull-Fin-Ind-Past-S1 det|the-Def-Art noun|cover-Plur-Acc adp|over pron|his-Prs-Gen-S3 noun|head cconj|but pron|he-Prs-Nom-S3 aux|could-Fin-S adv|still verb|hear-Inf-S det|that-Def-Dem-Sing noun|puppy noun|howling-Acc-Ger .
+%gra:	1|2|CC 2|15|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|NMOD-POSS 7|2|OBL 8|12|CC 9|12|NSUBJ 10|12|AUX 11|12|ADVMOD 12|2|CONJ 13|15|DET 14|15|COMPOUND 15|12|OBJ 16|2|PUNCT
+*MOT:	he covered his ears with his pillow . [+ rmix]
+%mor:	pron|he-Prs-Nom-S3 verb|cover-Fin-Ind-Past-S3 pron|his-Prs-Gen-S3 noun|ear-Plur-Acc adp|with pron|his-Prs-Gen-S3 noun|pillow .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|7|CASE 6|7|NMOD-POSS 7|2|OBL 8|2|PUNCT
+*CHI:	hello , no &+ho .
+%mor:	intj|hello cm|cm intj|no .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|DISCOURSE 4|1|PUNCT
+*MOT:	but he could still hear the howls from below .
+%mor:	cconj|but pron|he-Prs-Nom-S3 aux|could-Fin-S adv|still verb|hear-Inf-S det|the-Def-Art noun|howl-Plur-Acc adp|from adv|below .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|9|ROOT 6|7|DET 7|5|OBJ 8|9|CASE 9|5|OBL 10|5|PUNCT
+*MOT:	Mickey_(Mouse) gritted his teeth .
+%mor:	propn|MickeyMouse verb|grite-Fin-Ind-Past-S3 pron|his-Prs-Gen-S3 noun|tooth-Plur-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+*MOT:	he couldn't sleep with all that racket .
+%mor:	pron|he-Prs-Nom-S3 aux|could-Fin-S~part|not verb|sleep-Inf-S adp|with det|all-Def-Tot det|that-Def-Dem-Sing noun|racket .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|8|CASE 6|8|DET-PREDET 7|8|DET 8|4|OBL 9|4|PUNCT
+*MOT:	what was he going to do ?
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Past-S3-irr pron|he-Prs-Nom-S3 verb|go-Part-Pres-S part|to verb|do-Inf-S ?
+%gra:	1|6|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+*CHI:	hi .
+%mor:	intj|hi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	hi .
+%mor:	intj|hi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	do you see Mickey_(Mouse) ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S propn|MickeyMouse-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	is he in bed ?
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 adp|in noun|bed ?
+%gra:	1|4|COP 2|4|NSUBJ 3|4|CASE 4|4|ROOT 5|4|PUNCT
+*CHI:	mouse .
+%mor:	noun|mouse .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	yeah , Mickey_Mouse is in bed .
+%mor:	intj|yeah cm|cm propn|MickeyMouse aux|be-Fin-Ind-Pres-S3 adp|in noun|bed .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|6|NSUBJ 4|6|COP 5|6|CASE 6|6|ROOT 7|6|PUNCT
+*MOT:	is that a bed ?
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that det|a-Ind-Art noun|bed ?
+%gra:	1|4|COP 2|4|MARK 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	uhoh .
+%mor:	intj|uhoh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	d(o) you see the moon ?
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S det|the-Def-Art noun|moon-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	is that the moon outside the window ?
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that det|the-Def-Art noun|moon adp|outside det|the-Def-Art noun|window ?
+%gra:	1|4|COP 2|4|MARK 3|4|DET 4|7|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|4|PUNCT
+*CHI:	mouse .
+%mor:	noun|mouse .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	finally , Mickey_(Mouse) got up and gave the puppy what he wanted . [+ rmix]
+%mor:	adv|finally cm|cm propn|MickeyMouse verb|get-Fin-Ind-Past-S3-irr adp|up cconj|and verb|give-Fin-Ind-Past-S3-irr det|the-Def-Art noun|puppy pron|what-Rel-S1 pron|he-Prs-Nom-S3 verb|want-Fin-Ind-Past-S3 .
+%gra:	1|4|ADVMOD 2|1|PUNCT 3|4|NSUBJ 4|12|ROOT 5|4|COMPOUND-PRT 6|7|CC 7|4|CONJ 8|9|DET 9|7|IOBJ 10|7|OBJ 11|12|NSUBJ 12|10|ACL-RELCL 13|4|PUNCT
+*MOT:	a cozy spot under the covers right next to him . [+ rmix]
+%mor:	det|a-Ind-Art adj|cozy-S1 noun|spot adp|under det|the-Def-Art noun|cover-Plur adv|right adv|next adp|to pron|he-Prs-Acc-S3 .
+%gra:	1|3|DET 2|3|AMOD 3|10|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|8|ADVMOD 8|3|ADVMOD 9|10|CASE 10|8|OBL 11|3|PUNCT
+*MOT:	when Mickey_(Mouse) woke the next morning , though , the puppy was gone . [+ recit]
+%mor:	adv|when propn|MickeyMouse verb|wake-Fin-Ind-Past-S3-irr det|the-Def-Art adj|next-S1 noun|morning-Ger cm|cm adv|though cm|cm det|the-Def-Art noun|puppy aux|be-Fin-Ind-Past-S3-irr adj|gone-S1 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|13|ADVCL 4|6|DET 5|6|AMOD 6|3|OBL-UNMARKED 7|3|PUNCT 8|13|ADVMOD 9|8|PUNCT 10|11|DET 11|13|NSUBJ 12|13|COP 13|13|ROOT 14|13|PUNCT
+*MOT:	maybe he's down in the pet shop thought Mickey_(Mouse) . [+ recit]
+%mor:	adv|maybe pron|he-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adv|down adp|in det|the-Def-Art noun|pet noun|shop verb|think-Fin-Ind-Past-S3-irr propn|MickeyMouse .
+%gra:	1|9|ADVMOD 2|9|NSUBJ 3|9|COP 4|9|CCOMP 5|8|CASE 6|8|DET 7|8|COMPOUND 8|9|CCOMP 9|10|ROOT 10|9|NSUBJ 11|9|PUNCT
+*MOT:	so he went downstairs to check . [+ recit]
+%mor:	adv|so pron|he-Prs-Nom-S3 verb|go-Fin-Ind-Past-S3-irr adv|downstairs part|to verb|check-Inf-S .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|6|ROOT 4|3|ADVMOD 5|6|MARK 6|3|ADVCL 7|3|PUNCT
+*MOT:	Mickey_(Mouse) couldn't believe his eyes when he walked into the store . [+ recit]
+%mor:	propn|MickeyMouse aux|could-Fin-S~part|not verb|believe-Inf-S pron|his-Prs-Gen-S3 noun|eye-Plur-Acc adv|when pron|he-Prs-Nom-S3 verb|walk-Fin-Ind-Past-S3 adp|into det|the-Def-Art noun|store .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|12|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|9|ADVMOD 8|9|NSUBJ 9|4|ADVCL 10|12|CASE 11|12|DET 12|9|OBL 13|4|PUNCT
+*MOT:	it was a mess . [+ recit]
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art noun|mess .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*MOT:	books were scattered across the floor . [+ rmix]
+%mor:	noun|book-Plur aux|be-Fin-Ind-Past-P3-irr verb|scatter-Part-Past-S adp|across det|the-Def-Art noun|floor .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+*MOT:	the plants had been knocked over but Mickey_(Mouse) still couldn't find that puppy . [+ rmix]
+%mor:	det|the-Def-Art noun|plant-Plur aux|have-Fin-Ind-Past-P3-irr aux|be-Part-Past-S-irr verb|knock-Part-Past-S adp|over cconj|but propn|MickeyMouse adv|still aux|could-Fin-S~part|not verb|find-Inf-S det|that-Def-Dem-Sing noun|puppy-Acc .
+%gra:	1|2|DET 2|5|NSUBJ-PASS 3|5|AUX 4|5|AUX-PASS 5|14|ROOT 6|5|COMPOUND-PRT 7|12|CC 8|12|NSUBJ 9|12|ADVMOD 10|12|AUX 11|12|ADVMOD 12|5|CONJ 13|14|DET 14|12|OBJ 15|5|PUNCT
+*CHI:	xxx .
+*MOT:	quickly , Mickey_(Mouse) got dressed and began to search for the puppy . [+ rmix]
+%mor:	adv|quickly cm|cm propn|MickeyMouse aux|get-Fin-Ind-Past-S3-irr verb|dress-Part-Past-S cconj|and verb|begin-Fin-Ind-Past-S3-irr part|to verb|search-Inf-S adp|for det|the-Def-Art noun|puppy .
+%gra:	1|5|ADVMOD 2|1|PUNCT 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|12|ROOT 6|7|CC 7|5|CONJ 8|9|MARK 9|7|XCOMP 10|12|CASE 11|12|DET 12|9|OBL 13|5|PUNCT
+*MOT:	he looked in every closet and in every cabinet .
+%mor:	pron|he-Prs-Nom-S3 verb|look-Fin-Ind-Past-S3 adp|in det|every-Def-Tot noun|closet cconj|and adp|in det|every-Def-Tot noun|cabinet .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|9|CC 7|9|CASE 8|9|DET 9|5|CONJ 10|2|PUNCT
+*MOT:	he looked in every cage and behind every curtain and every door .
+%mor:	pron|he-Prs-Nom-S3 verb|look-Fin-Ind-Past-S3 adp|in det|every-Def-Tot noun|cage cconj|and adp|behind det|every-Def-Tot noun|curtain cconj|and det|every-Def-Tot noun|door .
+%gra:	1|2|NSUBJ 2|12|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|9|CC 7|9|CASE 8|9|DET 9|5|CONJ 10|12|CC 11|12|DET 12|9|CONJ 13|2|PUNCT
+*MOT:	where could he be Mickey_(Mouse) wondered .
+%mor:	adv|where aux|could-Fin-S pron|he-Prs-Nom-S3 aux|be-Inf-S propn|MickeyMouse verb|wonder-Fin-Ind-Past-S3 .
+%gra:	1|6|ADVMOD 2|6|AUX 3|6|NSUBJ 4|6|COP 5|6|NSUBJ 6|6|ROOT 7|6|PUNCT
+*MOT:	he was just about to give up his search when he suddenly remembered the basement . [+ rmix]
+%mor:	pron|he-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adv|just adj|about-S1 part|to verb|give-Inf-S adp|up pron|his-Prs-Gen-S3 noun|search-Acc adv|when pron|he-Prs-Nom-S3 adv|suddenly verb|remember-Fin-Ind-Past-S3 det|the-Def-Art noun|basement-Acc .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|15|ROOT 5|6|MARK 6|4|XCOMP 7|6|COMPOUND-PRT 8|9|NMOD-POSS 9|6|OBJ 10|13|ADVMOD 11|13|NSUBJ 12|13|ADVMOD 13|6|ADVCL 14|15|DET 15|13|OBJ 16|4|PUNCT
+*MOT:	Mickey_(Mouse) hurried downstairs to the place where Mister_Palmer stored all of his pet food and supplies and sure enough , that's where he found the puppy . [+ rmix]
+%mor:	propn|MickeyMouse verb|hurry-Fin-Ind-Past-S3 adv|downstairs adp|to det|the-Def-Art noun|place adv|where propn|MisterPalmer verb|store-Fin-Ind-Past-S3 det|all-Def-Tot adp|of pron|his-Prs-Gen-S3 noun|pet noun|food cconj|and noun|supplies-Ptan cconj|and adj|sure-S1 adv|enough cm|cm pron|that-Dem~aux|be-Fin-Ind-Pres-S3 adv|where pron|he-Prs-Nom-S3 verb|find-Fin-Ind-Past-S3-irr det|the-Def-Art noun|puppy-Acc .
+%gra:	1|2|NSUBJ 2|27|ROOT 3|2|ADVMOD 4|6|CASE 5|6|DET 6|2|OBL 7|9|ADVMOD 8|9|NSUBJ 9|6|ACL-RELCL 10|9|OBJ 11|14|CASE 12|14|NMOD-POSS 13|14|COMPOUND 14|10|NMOD 15|16|CC 16|14|CONJ 17|18|CC 18|9|CONJ 19|18|ADVMOD 20|23|PUNCT 21|23|NSUBJ 22|23|COP 23|25|ADVMOD 24|25|NSUBJ 25|18|ADVCL 26|27|DET 27|25|OBJ 28|2|PUNCT
+*MOT:	xxx cause any more trouble , he warned the puppy as he locked the door . [+ rmix]
+%mor:	verb|cause-Fin-Imp-S det|any-Def-Ind adj|more-Cmp-S1 noun|trouble-Acc cm|cm pron|he-Prs-Nom-S3 verb|warn-Fin-Ind-Past-S3 det|the-Def-Art noun|puppy-Acc sconj|as pron|he-Prs-Nom-S3 verb|lock-Fin-Ind-Past-S3 det|the-Def-Art noun|door-Acc .
+%gra:	1|14|ROOT 2|4|DET 3|4|AMOD 4|1|OBJ 5|7|PUNCT 6|7|NSUBJ 7|1|PARATAXIS 8|9|DET 9|7|OBJ 10|12|MARK 11|12|NSUBJ 12|7|ADVCL 13|14|DET 14|12|OBJ 15|1|PUNCT
+*MOT:	now said Mickey_(Mouse) with a sigh I suppose it's time to tidy up this store . [+ rmix]
+%mor:	adv|now verb|say-Fin-Ind-Past-S3-irr propn|MickeyMouse adp|with det|a-Ind-Art noun|sigh pron|I-Prs-Nom-S1 verb|suppose-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|time part|to verb|tidy-Inf-S adp|up det|this-Def-Dem-Sing noun|store-Acc .
+%gra:	1|2|ADVMOD 2|16|ROOT 3|2|IOBJ 4|6|CASE 5|6|DET 6|2|OBL 7|8|NSUBJ 8|2|CCOMP 9|11|EXPL 10|11|COP 11|8|CCOMP 12|13|MARK 13|11|ACL 14|13|COMPOUND-PRT 15|16|DET 16|13|OBJ 17|2|PUNCT
+*MOT:	but as soon as he started sweeping , the puppy began to whimper . [+ rmix]
+%mor:	cconj|but adv|as adv|soon sconj|as pron|he-Prs-Nom-S3 verb|start-Fin-Ind-Past-S3 verb|sweep-Ger-S cm|cm det|the-Def-Art noun|puppy verb|begin-Fin-Ind-Past-S3-irr part|to verb|whimper-Inf-S .
+%gra:	1|11|CC 2|3|ADVMOD 3|11|ADVMOD 4|6|MARK 5|6|NSUBJ 6|3|ADVCL 7|6|XCOMP 8|3|PUNCT 9|10|DET 10|11|NSUBJ 11|13|ROOT 12|13|MARK 13|11|XCOMP 14|11|PUNCT
+*MOT:	poor puppy thought Mickey_(Mouse) .
+%mor:	adj|poor-S1 noun|puppy verb|think-Fin-Ind-Past-S3-irr propn|MickeyMouse .
+%gra:	1|2|AMOD 2|3|NSUBJ 3|4|ROOT 4|3|NSUBJ 5|3|PUNCT
+*MOT:	he sounded so sad .
+%mor:	pron|he-Prs-Nom-S3 verb|sound-Fin-Ind-Past-S3 adv|so adj|sad-S1 .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|ADVMOD 4|2|XCOMP 5|2|PUNCT
+*MOT:	Mickey_(Mouse) felt bad so he opened the kennel door . [+ recit]
+%mor:	propn|MickeyMouse verb|feel-Fin-Ind-Past-S3-irr adj|bad-S1 adv|so pron|he-Prs-Nom-S3 verb|open-Fin-Ind-Past-S3 det|the-Def-Art noun|kennel noun|door-Acc .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|XCOMP 4|6|ADVMOD 5|6|NSUBJ 6|2|PARATAXIS 7|9|DET 8|9|COMPOUND 9|6|OBJ 10|2|PUNCT
+*MOT:	now , you have to be good Mickey_(Mouse) told the puppy xxx .
+%mor:	adv|now cm|cm pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 part|to aux|be-Inf-S adj|good-S1 propn|MickeyMouse verb|tell-Fin-Ind-Past-S3-irr det|the-Def-Art noun|puppy-Acc .
+%gra:	1|4|ADVMOD 2|1|PUNCT 3|4|NSUBJ 4|11|ROOT 5|7|MARK 6|7|COP 7|4|XCOMP 8|9|NSUBJ 9|4|PARATAXIS 10|11|DET 11|9|OBJ 12|4|PUNCT
+*CHI:	xxx .
+*MOT:	yeah , are they sweeping ?
+%mor:	intj|yeah cm|cm aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|sweep-Part-Pres-S ?
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|COP 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*MOT:	is that a broom ?
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that det|a-Ind-Art noun|broom ?
+%gra:	1|4|COP 2|4|MARK 3|4|DET 4|4|ROOT 5|4|PUNCT
+*MOT:	it that just like you help Mommy sweep the floor .
+%mor:	pron|it-Prs-Nom-S3 pron|that-Dem adv|just sconj|like pron|you-Prs-Nom-S2 verb|help-Fin-Ind-Pres-S2 propn|Mommy-Acc verb|sweep-Inf-S det|the-Def-Art noun|floor-Acc .
+%gra:	1|6|NSUBJ-OUTER 2|6|NSUBJ-OUTER 3|6|ADVMOD 4|6|MARK 5|6|NSUBJ 6|10|ROOT 7|6|OBJ 8|6|XCOMP 9|10|DET 10|8|OBJ 11|6|PUNCT
+*MOT:	the puppy helped Mickey_(Mouse) finish sweeping and put away all the books . [+ rmix]
+%mor:	det|the-Def-Art noun|puppy verb|help-Fin-Ind-Past-S3 propn|MickeyMouse-Acc verb|finish-Inf-S verb|sweep-Ger-S cconj|and verb|put-Fin-Past-S-irr adp|away det|all-Def-Tot det|the-Def-Art noun|book-Plur-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|12|ROOT 4|3|OBJ 5|3|XCOMP 6|5|XCOMP 7|8|CC 8|5|CONJ 9|8|COMPOUND-PRT 10|12|DET-PREDET 11|12|DET 12|8|OBJ 13|3|PUNCT
+*MOT:	he even helped dust the counter tops . [+ rmix]
+%mor:	pron|he-Prs-Nom-S3 adv|even verb|help-Fin-Ind-Past-S3 verb|dust-Inf-S det|the-Def-Art noun|counter noun|top-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|7|ROOT 4|3|XCOMP 5|7|DET 6|7|COMPOUND 7|4|OBJ 8|3|PUNCT
+*CHI:	xxx .
+*MOT:	you may be a rascal Mickey_(Mouse) told him firmly but it sure is nice to have you around . [+ rmix]
+%mor:	pron|you-Prs-Nom-S2 aux|may-Fin-S aux|be-Inf-S det|a-Ind-Art propn|rascal propn|MickeyMouse verb|tell-Fin-Ind-Past-S3-irr pron|he-Prs-Acc-S3 adv|firmly cconj|but pron|it-Prs-Nom-S3 adv|sure aux|be-Fin-Ind-Pres-S3 adj|nice-S1 part|to verb|have-Inf-S pron|you-Prs-Acc-S2 adv|around .
+%gra:	1|7|NSUBJ 2|5|AUX 3|5|COP 4|5|DET 5|7|NSUBJ 6|7|NSUBJ 7|18|ROOT 8|7|IOBJ 9|7|ADVMOD 10|14|CC 11|14|EXPL 12|14|ADVMOD 13|14|COP 14|7|CONJ 15|16|MARK 16|14|CSUBJ 17|16|OBJ 18|16|ADVMOD 19|7|PUNCT
+*MOT:	Mickey_(Mouse) and the puppy had just finished cleaning up when Mister_Palmer walked in grinning . [+ rmix]
+%mor:	propn|MickeyMouse cconj|and det|the-Def-Art noun|puppy aux|have-Fin-Ind-Past-S3-irr adv|just verb|finish-Part-Past-S verb|clean-Ger-S adp|up adv|when propn|MisterPalmer verb|walk-Fin-Ind-Past-S3 adp|in noun|grinning-Ger .
+%gra:	1|7|NSUBJ 2|4|CC 3|4|DET 4|1|CONJ 5|7|AUX 6|7|ADVMOD 7|14|ROOT 8|7|XCOMP 9|8|COMPOUND-PRT 10|12|ADVMOD 11|12|NSUBJ 12|8|ADVCL 13|14|CASE 14|12|OBL 15|7|PUNCT
+*CHI:	xxx .
+*MOT:	it looks like everything went smoothly he said to Mickey_(Mouse) . [+ rmix]
+%mor:	pron|it-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 sconj|like pron|everything-Tot-S1 verb|go-Fin-Ind-Past-S3-irr adv|smoothly pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr adp|to propn|MickeyMouse .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|5|MARK 4|5|NSUBJ 5|2|ADVCL 6|5|ADVMOD 7|8|NSUBJ 8|2|PARATAXIS 9|10|CASE 10|8|OBL 11|2|PUNCT
+*MOT:	I hope none of the animals gave you any trouble . [+ recit]
+%mor:	pron|I-Prs-Nom-S1 verb|hope-Fin-Ind-Pres-S1 pron|none-Neg-S1 adp|of det|the-Def-Art noun|animal-Plur verb|give-Fin-Ind-Past-P3-irr pron|you-Prs-Acc-S2 det|any-Def-Ind noun|trouble-Acc .
+%gra:	1|2|NSUBJ 2|10|ROOT 3|7|NSUBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|2|CCOMP 8|7|IOBJ 9|10|DET 10|7|OBJ 11|2|PUNCT
+*MOT:	it was easy as pie Mickey_(Mouse) replied . [+ rmix]
+%mor:	pron|it-Prs-Nom-S3 aux|be-Fin-Ind-Past-S3-irr adj|easy-S1 sconj|as noun|pie propn|MickeyMouse verb|reply-Fin-Ind-Past-S3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|7|ROOT 4|7|MARK 5|7|NSUBJ 6|5|FLAT 7|3|ADVCL 8|3|PUNCT
+*CHI:	xxx .
+*MOT:	then Mister_Palmer handed Mickey_(Mouse) his paycheck . [+ recit]
+%mor:	adv|then propn|MisterPalmer verb|hand-Fin-Ind-Past-S3 propn|MickeyMouse pron|his-Prs-Gen-S3 noun|paycheck-Acc .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|6|ROOT 4|3|IOBJ 5|6|NMOD-POSS 6|3|OBJ 7|3|PUNCT
+*MOT:	thanks for your help he said . [+ rmix]
+%mor:	noun|thanks adp|for pron|your-Prs-Gen-S2 noun|help pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Past-S3-irr .
+%gra:	1|6|CCOMP 2|4|CASE 3|4|NMOD-POSS 4|1|NMOD 5|6|NSUBJ 6|6|ROOT 7|6|PUNCT
+*MOT:	I hope you'll come back soon . [+ recit]
+%mor:	pron|I-Prs-Nom-S1 verb|hope-Fin-Ind-Pres-S1 pron|you-Prs-Nom-S2~aux|will-Fin-S verb|come-Inf-S adv|back adv|soon .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|5|NSUBJ 4|5|AUX 5|2|CCOMP 6|5|ADVMOD 7|5|ADVMOD 8|2|PUNCT
+*MOT:	Mickey_(Mouse) just smiled . [+ recit]
+%mor:	propn|MickeyMouse adv|just verb|smile-Fin-Ind-Past-S3 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+*MOT:	but as soon as he started to leave , that puppy began to howl again . [+ rmix]
+%mor:	cconj|but adv|as adv|soon sconj|as pron|he-Prs-Nom-S3 verb|start-Fin-Ind-Past-S3 part|to verb|leave-Inf-S cm|cm det|that-Def-Dem-Sing noun|puppy verb|begin-Fin-Ind-Past-S3-irr part|to verb|howl-Inf-S adv|again .
+%gra:	1|12|CC 2|3|ADVMOD 3|12|ADVMOD 4|6|MARK 5|6|NSUBJ 6|3|ADVCL 7|8|MARK 8|6|XCOMP 9|3|PUNCT 10|11|DET 11|12|NSUBJ 12|15|ROOT 13|14|MARK 14|12|XCOMP 15|14|ADVMOD 16|12|PUNCT
+*MOT:	I'm going to miss you , too , little fellow Mickey_(Mouse) told the puppy . [+ rmix]
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|go-Part-Pres-S part|to verb|miss-Inf-S pron|you-Prs-Acc-S2 cm|cm adv|too cm|cm adj|little-S1 adj|fellow-S1 propn|MickeyMouse verb|tell-Fin-Ind-Past-S3-irr det|the-Def-Art noun|puppy-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|15|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|8|PUNCT 8|3|ADVMOD 9|8|PUNCT 10|12|AMOD 11|12|AMOD 12|13|NSUBJ 13|3|PARATAXIS 14|15|DET 15|13|OBJ 16|3|PUNCT
+*MOT:	then a thought occurred to him . [+ rmix]
+%mor:	adv|then det|a-Ind-Art noun|thought verb|occur-Fin-Ind-Past-S3 adp|to pron|he-Prs-Acc-S3 .
+%gra:	1|4|ADVMOD 2|3|DET 3|4|NSUBJ 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+*MOT:	what if he took the puppy instead of a paycheck . [+ rmix]
+%mor:	pron|what-Int-S1 sconj|if pron|he-Prs-Nom-S3 verb|take-Fin-Ind-Past-S3-irr det|the-Def-Art noun|puppy-Acc adv|instead adp|of det|a-Ind-Art noun|paycheck .
+%gra:	1|10|ROOT 2|4|MARK 3|4|NSUBJ 4|1|ADVCL 5|6|DET 6|4|OBJ 7|10|CASE 8|7|FIXED 9|10|DET 10|4|OBL 11|1|PUNCT
+*MOT:	the idea was fine with Mister_Palmer but then Mickey_(Mouse) wondered about something else .
+%mor:	det|the-Def-Art noun|idea aux|be-Fin-Ind-Past-S3-irr adj|fine-S1 adp|with propn|MisterPalmer cconj|but adv|then propn|MickeyMouse verb|wonder-Fin-Ind-Past-S3 adp|about pron|something-Ind-S1 adj|else-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|13|ROOT 5|6|CASE 6|4|OBL 7|10|CC 8|10|ADVMOD 9|10|NSUBJ 10|4|CONJ 11|12|CASE 12|10|OBL 13|12|AMOD 14|4|PUNCT
+*MOT:	what should we name the puppy ? [+ rmix]
+%mor:	pron|what-Int-S1 aux|should-Fin-S pron|we-Prs-Nom-P1 verb|name-Inf-S det|the-Def-Art noun|puppy-Acc ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*MOT:	just then , Mickey_(Mouse) saw some pictures of outer space . [+ rmix]
+%mor:	adv|just adv|then cm|cm propn|MickeyMouse verb|see-Fin-Ind-Past-S3-irr det|some-Def-Ind noun|picture-Plur-Acc adp|of adj|outer-S1 noun|space .
+%gra:	1|2|ADVMOD 2|5|ADVMOD 3|2|PUNCT 4|5|NSUBJ 5|10|ROOT 6|7|DET 7|5|OBJ 8|10|CASE 9|10|AMOD 10|7|NMOD 11|5|PUNCT
+*CHI:	Mom , look .
+%mor:	noun|mom cm|cm verb|look-Fin-Imp-S .
+%gra:	1|3|ROOT 2|3|PUNCT 3|1|PARATAXIS 4|1|PUNCT
+*MOT:	on the front of the newspaper . [+ rmix]
+%mor:	adp|on det|the-Def-Art noun|front adp|of det|the-Def-Art noun|newspaper .
+%gra:	1|3|CASE 2|3|DET 3|6|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|PUNCT
+*MOT:	the headline read , new pictures of Pluto . [+ recit]
+%mor:	det|the-Def-Art noun|headline verb|read-Fin-Ind-Past-S3-irr cm|cm adj|new-S1 noun|picture-Plur adp|of propn|Pluto .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|6|PUNCT 5|6|AMOD 6|3|PARATAXIS 7|8|CASE 8|6|NMOD 9|3|PUNCT
+*CHI:	xxx .
+*MOT:	that's it , exclaimed Mickey_(Mouse) . [+ rmix]
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 cm|cm verb|exclaim-Fin-Ind-Past-S3 propn|MickeyMouse .
+%gra:	1|3|NSUBJ 2|3|COP 3|6|ROOT 4|5|PUNCT 5|3|PARATAXIS 6|5|NSUBJ 7|3|PUNCT
+*MOT:	I'll call you Pluto . [+ recit]
+%mor:	pron|I-Prs-Nom-S1~aux|will-Fin-S verb|call-Inf-S pron|you-Prs-Acc-S2 propn|Pluto .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|3|OBJ 5|3|XCOMP 6|3|PUNCT
+*MOT:	the_end . [+ recit]
+%mor:	intj|theend .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no .
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what &+d you wanna read the this one ?
+%mor:	pron|what-Int-S1 pron|you-Prs-Nom-S2 aux|wanna-Fin-S2 verb|read-Fin-Past-S-irr det|the-Def-Art det|this-Def-Dem-Sing noun|one-Acc ?
+%gra:	1|7|ROOT 2|4|NSUBJ 3|4|AUX 4|1|ACL-RELCL 5|7|DET 6|7|DET 7|4|OBJ 8|1|PUNCT
+*MOT:	Polar_Babies ?
+%mor:	noun|polarBaby-Plur ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	book .
+%mor:	noun|book .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*CHI:	<the moon> [/] the moon .
+%mor:	det|the-Def-Art noun|moon .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	yeah , moon .
+%mor:	intj|yeah cm|cm noun|moon .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+*CHI:	xxx .
+*MOT:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	are you reading ?
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|read-Part-Pres-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	what's the next page say ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 det|the-Def-Art adj|next-S1 noun|page verb|say-Inf-S ?
+%gra:	1|6|ROOT 2|1|COP 3|5|DET 4|5|AMOD 5|1|NSUBJ 6|5|ACL 7|1|PUNCT
+*CHI:	xxx .
+*MOT:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	you read .
+%mor:	pron|you-Prs-Nom-S2 verb|read-Fin-Ind-Pres-S2 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	what does it say ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 verb|say-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+*CHI:	xxx .
+*CHI:	hi .
+%mor:	intj|hi .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*CHI:	all_done .
+%mor:	noun|alldone .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	all_done ?
+%mor:	noun|alldone ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	all_done .
+%mor:	noun|alldone .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	let's put this book away before you rip the pages .
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|put-Inf-S det|this-Def-Dem-Sing noun|book-Acc adv|away sconj|before pron|you-Prs-Nom-S2 verb|rip-Fin-Ind-Pres-S2 det|the-Def-Art noun|page-Plur-Acc .
+%gra:	1|11|ROOT 2|1|OBJ 3|1|XCOMP 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|9|MARK 8|9|NSUBJ 9|3|ADVCL 10|11|DET 11|9|OBJ 12|1|PUNCT
+*CHI:	book .
+%mor:	noun|book .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	I'm reading that book .
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|read-Part-Pres-S det|that-Def-Dem-Sing noun|book-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	no , we're all_done with that book .
+%mor:	intj|no cm|cm pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 adj|alldone-S1 adp|with det|that-Def-Dem-Sing noun|book .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|NSUBJ 4|5|COP 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+*MOT:	we're all_done .
+%mor:	pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 adj|alldone-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	you're gonna rip the pages .
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 part|go verb|rip-Inf-S det|the-Def-Art noun|page-Plur-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*MOT:	I'm a baby polar bear . [+ recit]
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 det|a-Ind-Art noun|baby adj|polar-S1 noun|bear .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|DET 4|6|COMPOUND 5|6|AMOD 6|6|ROOT 7|6|PUNCT
+*MOT:	I like to climb on ice . [+ recit]
+%mor:	pron|I-Prs-Nom-S1 verb|like-Fin-Ind-Pres-S1 part|to verb|climb-Inf-S adp|on noun|ice .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|MARK 4|2|XCOMP 5|6|CASE 6|4|OBL 7|2|PUNCT
+*MOT:	some say it's cold up here but I think it's nice . [+ recit]
+%mor:	det|some-Def-Ind verb|say-Fin-Ind-Pres-P3 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|cold-S1 adp|up adv|here cconj|but pron|I-Prs-Nom-S1 verb|think-Fin-Ind-Pres-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|nice-S1 .
+%gra:	1|2|NSUBJ 2|13|ROOT 3|5|NSUBJ 4|5|COP 5|2|CCOMP 6|5|ADVMOD 7|5|ADVMOD 8|10|CC 9|10|NSUBJ 10|2|CONJ 11|13|NSUBJ 12|13|COP 13|10|CCOMP 14|2|PUNCT
+*MOT:	I'm a baby penguin . [+ recit]
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 det|a-Ind-Art noun|baby noun|penguin .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+*MOT:	I swim and play all day . [+ recit]
+%mor:	pron|I-Prs-Nom-S1 verb|swim-Fin-Ind-Pres-S1 cconj|and verb|play-Fin-Ind-Pres-S1 det|all-Def-Tot noun|day .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|CC 4|2|CONJ 5|6|DET 6|4|OBL-UNMARKED 7|2|PUNCT
+*MOT:	I don't like it where it's hot , on the ice is where I'll stay . [+ recit]
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|like-Inf-S pron|it-Prs-Acc-S3 adv|where pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|hot-S1 cm|cm adp|on det|the-Def-Art noun|ice aux|be-Fin-Ind-Pres-S3 adv|where pron|I-Prs-Nom-S1~aux|will-Fin-S verb|stay-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|18|ROOT 5|4|OBJ 6|9|ADVMOD 7|9|NSUBJ 8|9|COP 9|4|ADVCL 10|15|PUNCT 11|13|CASE 12|13|DET 13|15|OBL 14|15|COP 15|4|PARATAXIS 16|18|NSUBJ 17|18|AUX 18|15|ADVCL-RELCL 19|4|PUNCT
+*MOT:	is that a penguin ?
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that det|a-Ind-Art noun|penguin ?
+%gra:	1|4|COP 2|4|MARK 3|4|DET 4|4|ROOT 5|4|PUNCT
+*CHI:	yeah .
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	I'm a baby arctic fox , my colors match the snow . [+ recit]
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 det|a-Ind-Art noun|baby adj|arctic-S1 noun|fox cm|cm pron|my-Prs-Gen-S1 noun|color-Plur verb|match-Fin-Ind-Pres-P3 det|the-Def-Art noun|snow-Acc .
+%gra:	1|6|NSUBJ 2|6|COP 3|6|DET 4|6|COMPOUND 5|6|AMOD 6|12|ROOT 7|10|PUNCT 8|9|NMOD-POSS 9|10|NSUBJ 10|6|PARATAXIS 11|12|DET 12|10|OBJ 13|6|PUNCT
+*MOT:	when I get xxx . [+ recit]
+%mor:	adv|when pron|I-Prs-Nom-S1 verb|get-Fin-Ind-Pres-S1 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*MOT:	I'm a baby seal &+i . [+ recit]
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 det|a-Ind-Art noun|baby noun|seal .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+@End

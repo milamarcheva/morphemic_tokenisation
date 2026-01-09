@@ -1,0 +1,158 @@
+@UTF8
+@PID:	11312/a-00077963-1
+@Begin
+@Languages:	eng
+@Participants:	FA1 Adult, UC1 Unidentified, CHI Target_Child
+@Options:	bullets
+@ID:	eng|StoopsMontag|FA1|||||Adult|||
+@ID:	eng|StoopsMontag|UC1|||||Unidentified|||
+@ID:	eng|StoopsMontag|CHI|||||Target_Child|||
+@Media:	03_Who-2, audio
+@Types:	cross, book, TD
+*FA1:	call my mother Mommy . 
+%mor:	verb|call-Fin-Imp-S pron|my-Prs-Gen-S1 noun|mother-Acc propn|Mommy .
+%gra:	1|4|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|VOCATIVE 5|1|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	I call my daddy . 
+%mor:	pron|I-Prs-Nom-S1 verb|call-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|daddy-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%cod:	$txt:C; $xds:C
+*FA1:	uh , my daddy calls her Sue . 
+%mor:	intj|uh cm|cm pron|my-Prs-Gen-S1 noun|daddy verb|call-Fin-Ind-Pres-S3 pron|her-Prs-Acc-S3 propn|Sue .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|4|NMOD-POSS 4|5|NSUBJ 5|7|ROOT 6|5|OBJ 7|5|XCOMP 8|5|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	I call my father Daddy . 
+%mor:	pron|I-Prs-Nom-S1 verb|call-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|father-Acc propn|Daddy-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|OBJ 6|2|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	my mommy calls him Lu . 
+%mor:	pron|my-Prs-Gen-S1 noun|mommy verb|call-Fin-Ind-Pres-S3 pron|he-Prs-Acc-S3 propn|Lu .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|XCOMP 6|3|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	I call my mom's dad Papa . 
+%mor:	pron|I-Prs-Nom-S1 verb|call-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|mom~part|s noun|dad-Acc propn|Papa-Acc .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|NMOD-POSS 4|6|NMOD-POSS 5|4|CASE 6|2|OBJ 7|2|OBJ 8|2|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	I call my dad's dad Pa . 
+%mor:	pron|I-Prs-Nom-S1 verb|call-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|dad~part|s noun|dad-Acc propn|Pa .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|NMOD-POSS 4|6|NMOD-POSS 5|4|CASE 6|2|OBJ 7|6|APPOS 8|2|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	I call my mom's mom Nanna . 
+%mor:	pron|I-Prs-Nom-S1 verb|call-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|mom~part|s noun|mom-Acc propn|Nanna-Acc .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|NMOD-POSS 4|6|NMOD-POSS 5|4|CASE 6|2|OBJ 7|2|OBJ 8|2|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	I call my dad's mom Ma . 
+%mor:	pron|I-Prs-Nom-S1 verb|call-Fin-Ind-Pres-S1 pron|my-Prs-Gen-S1 noun|dad~part|s noun|mom-Acc propn|ma-Acc .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|NMOD-POSS 4|6|NMOD-POSS 5|4|CASE 6|2|OBJ 7|2|OBJ 8|2|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	my da- , uh , my mommy calls me Sweety . 
+%mor:	pron|my-Prs-Gen-S1 intj|da cm|cm intj|uh cm|cm pron|my-Prs-Gen-S1 noun|mommy verb|call-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 propn|Sweety .
+%gra:	1|2|NMOD-POSS 2|8|DISCOURSE 3|2|PUNCT 4|8|DISCOURSE 5|4|PUNCT 6|7|NMOD-POSS 7|8|NSUBJ 8|10|ROOT 9|8|OBJ 10|8|XCOMP 11|8|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	my daddy calls me Lu . 
+%mor:	pron|my-Prs-Gen-S1 noun|daddy verb|call-Fin-Ind-Pres-S3 pron|I-Prs-Acc-S1 propn|Lu .
+%gra:	1|2|NMOD-POSS 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|XCOMP 6|3|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	what do you call your family ? 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|call-Inf-S pron|your-Prs-Gen-S2 noun|family-Acc ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	and what do they call you ? 
+%mor:	cconj|and pron|what-Int-S1 aux|do-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|call-Inf-S pron|you-Prs-Acc-S2 ?
+%gra:	1|5|CC 2|5|OBJ 3|5|AUX 4|5|NSUBJ 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%cod:	$txt:B; $xds:C
+*FA1:	so many names for people . 
+%mor:	adv|so adj|many-S1 noun|name-Plur adp|for noun|person-Plur .
+%gra:	1|2|ADVMOD 2|3|AMOD 3|5|ROOT 4|5|CASE 5|3|NMOD 6|3|PUNCT
+%cod:	$txt:C; $xds:C
+*UC1:	this is xxx . 
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*UC1:	mom . 
+%mor:	noun|mom .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	hm . 
+%mor:	intj|hm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:C
+*UC1:	we should , we should do . 
+%mor:	pron|we-Prs-Nom-P1 aux|should-Fin-S cm|cm pron|we-Prs-Nom-P1 aux|should-Fin-S verb|do-Inf-S .
+%gra:	1|2|NSUBJ 2|6|REPARANDUM 3|2|PUNCT 4|6|NSUBJ 5|6|AUX 6|6|ROOT 7|6|PUNCT
+%cod:	$xds:A
+*CHI:	xxx that one . 
+%mor:	det|that-Def-Dem-Sing num|one .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$mwu:M; $xds:A
+*CHI:	xxx do that one . 
+%mor:	verb|do-Fin-Imp-S det|that-Def-Dem-Sing noun|one-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$mwu:M; $xds:A
+*UC1:	we should do . 
+%mor:	pron|we-Prs-Nom-P1 aux|should-Fin-S verb|do-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+%cod:	$xds:A
+*FA1:	no , we start to make some dinner now . 
+%mor:	intj|no cm|cm pron|we-Prs-Nom-P1 verb|start-Fin-Ind-Pres-P1 part|to verb|make-Inf-S det|some-Def-Ind noun|dinner-Acc adv|now .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|9|ROOT 5|6|MARK 6|4|XCOMP 7|8|DET 8|6|OBJ 9|6|ADVMOD 10|4|PUNCT
+%cod:	$txt:C; $xds:C
+*UC1:	we should do this one now . 
+%mor:	pron|we-Prs-Nom-P1 aux|should-Fin-S verb|do-Inf-S det|this-Def-Dem-Sing noun|one-Acc adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*UC1:	we should do this one now . 
+%mor:	pron|we-Prs-Nom-P1 aux|should-Fin-S verb|do-Inf-S det|this-Def-Dem-Sing noun|one-Acc adv|now .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	okay , listen , listen . 
+%mor:	intj|okay cm|cm verb|listen-Fin-Imp-S cm|cm verb|listen-Fin-Imp-S .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|5|ROOT 4|5|PUNCT 5|3|PARATAXIS 6|3|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	mommy has to make dinner , it's time to get ready for dinner . 
+%mor:	propn|mommy verb|have-Fin-Ind-Pres-S3 part|to verb|make-Inf-S noun|dinner-Acc cm|cm pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|time part|to verb|get-Inf-S adj|ready-S1 adp|for noun|dinner .
+%gra:	1|2|NSUBJ 2|14|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|9|PUNCT 7|9|EXPL 8|9|COP 9|2|PARATAXIS 10|11|MARK 11|9|ACL 12|11|XCOMP 13|14|CASE 14|12|OBL 15|2|PUNCT
+%cod:	$txt:C; $xds:C
+*CHI:	we do this one . 
+%mor:	pron|we-Prs-Nom-P1 verb|do-Fin-Ind-Pres-P1 det|this-Def-Dem-Sing noun|one-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	do you wanna pick out what you want to read before bed tonight ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 intj|wanna verb|pick-Inf-S adp|out pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 part|to verb|read-Inf-S adp|before noun|bed noun|tonight ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|DISCOURSE 4|13|ROOT 5|4|COMPOUND-PRT 6|4|OBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|10|MARK 10|8|XCOMP 11|12|CASE 12|10|OBL 13|10|OBL-UNMARKED 14|4|PUNCT
+%cod:	$txt:C; $xds:C
+*UC1:	no , I want read this one . 
+%mor:	intj|no cm|cm pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 verb|read-Inf-Past-S-irr det|this-Def-Dem-Sing noun|one-Acc .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|7|ROOT 5|4|XCOMP 6|7|DET 7|5|OBJ 8|4|PUNCT
+%cod:	$xds:A
+*CHI:	I want read thi- , I want read thi- . 
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 verb|read-Part-Past-S-irr intj|thi cm|cm pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 verb|read-Part-Past-S-irr noun|thi-Acc .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|2|XCOMP 4|2|DISCOURSE 5|7|PUNCT 6|7|NSUBJ 7|2|PARATAXIS 8|7|XCOMP 9|8|OBJ 10|2|PUNCT
+%cod:	$mwu:M; $xds:A
+*FA1:	okay , well , you could read it while I wait dinner , okay ? 
+%mor:	intj|okay cm|cm intj|well cm|cm pron|you-Prs-Nom-S2 aux|could-Fin-S verb|read-Inf-S pron|it-Prs-Acc-S3 sconj|while pron|I-Prs-Nom-S1 verb|wait-Fin-Ind-Pres-S1 noun|dinner-Acc cm|cm intj|okay ?
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|DISCOURSE 4|3|PUNCT 5|7|NSUBJ 6|7|AUX 7|14|ROOT 8|7|OBJ 9|11|MARK 10|11|NSUBJ 11|7|ADVCL 12|11|OBJ 13|14|PUNCT 14|7|DISCOURSE 15|7|PUNCT
+%cod:	$txt:C; $xds:C
+*UC1:	but xxx read it with you . 
+%mor:	cconj|but verb|read-Fin-Imp-S pron|it-Prs-Acc-S3 adp|with pron|you-Prs-Acc-S2 .
+%gra:	1|2|CC 2|5|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|2|PUNCT
+%cod:	$xds:A
+*FA1:	I know you wanna read it with me , but Mommy has to make dinner , okay ? 
+%mor:	pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|you-Prs-Nom-S2 aux|wanna-Fin-Ind-S2 verb|read-Inf-S pron|it-Prs-Acc-S3 adp|with pron|I-Prs-Acc-S1 cm|cm cconj|but propn|Mommy verb|have-Fin-Ind-Pres-S3 part|to verb|make-Inf-S noun|dinner-Acc cm|cm intj|okay ?
+%gra:	1|2|NSUBJ 2|17|ROOT 3|5|NSUBJ 4|5|AUX 5|2|CCOMP 6|5|OBJ 7|8|CASE 8|5|OBL 9|12|PUNCT 10|12|CC 11|12|NSUBJ 12|2|CONJ 13|14|MARK 14|12|XCOMP 15|14|OBJ 16|17|PUNCT 17|2|DISCOURSE 18|2|PUNCT
+%cod:	$txt:C; $xds:C
+*UC1:	no , don't . 
+%mor:	intj|no cm|cm aux|do-Fin-Imp-S~part|not .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%cod:	$xds:A
+*FA1:	okay , Zain . 
+%mor:	intj|okay cm|cm propn|Zain .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:C
+@End

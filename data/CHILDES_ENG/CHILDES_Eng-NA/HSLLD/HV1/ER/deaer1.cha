@@ -1,0 +1,385 @@
+@UTF8
+@PID:	11312/c-00034873-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother, CHI Target_Child, INV Investigator
+@Options:	bullets
+@ID:	eng|HSLLD|MOT||female|||Mother|**||
+@ID:	eng|HSLLD|CHI|3;10.30|male|||Target_Child|||
+@ID:	eng|HSLLD|INV|||||Investigator|||
+@Birth of CHI:	04-NOV-1985
+@Media:	deaer1, audio
+@Comment:	SES of Mot is lower
+@Date:	03-OCT-1989
+@Location:	Boston , MA USA
+@Situation:	Home Visit 1
+@Activities:	Elicited report
+@Types:	long, narrative, TD
+*MOT:	where'd [: where did] you go last week in school ? 
+%mor:	adv|where aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|go-Inf-S adj|last-S1 noun|week adp|in noun|school ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|8|ROOT 5|6|AMOD 6|4|OBL-UNMARKED 7|8|CASE 8|4|OBL 9|4|PUNCT
+%wor:	where did  you  go  last  week  in  school  ?
+%cod:	$N:RI:S
+*CHI:	nowhere . 
+%mor:	adv|nowhere .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	nowhere  .
+%cod:	$N:GI:RS
+*MOT:	yes sir and you brought somethin(g) home (.) what was it that you brought home ? 
+%mor:	intj|yes noun|sir cconj|and pron|you-Prs-Nom-S2 verb|bring-Fin-Ind-Past-S2-irr pron|something-Ind-S1 adv|home pron|what-Int-S1 aux|be-Fin-Ind-Past-S3-irr pron|it-Prs-Nom-S3 pron|that-Rel pron|you-Prs-Nom-S2 verb|bring-Fin-Ind-Past-S2-irr adv|home ?
+%gra:	1|5|DISCOURSE 2|1|VOCATIVE 3|5|CC 4|5|NSUBJ 5|14|ROOT 6|5|OBJ 7|5|ADVMOD 8|5|OBJ 9|10|COP 10|8|NSUBJ 11|13|OBJ 12|13|NSUBJ 13|8|ACL-RELCL 14|13|ADVMOD 15|5|PUNCT
+%wor:	yes  sir  and  you  brought  somethin(g)  home  what  was  it  that  you  brought  home  ?
+%cod:	$N:FC $N:GI:S $N:RI:S
+*CHI:	xxx apple pick(ing) . 
+%mor:	noun|apple noun|pick-Ger .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	apple  pick(ing)  .
+%cod:	$N:GI:RS
+*MOT:	you went apple picking , right . 
+%mor:	pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Past-S2-irr noun|apple noun|pick-Acc-Ger cm|cm adj|right-S1 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|COMPOUND 4|2|OBJ 5|6|PUNCT 6|2|DISCOURSE 7|2|PUNCT
+%wor:	you  went  apple  picking  , right  .
+%cod:	$N:FA
+*MOT:	and where did you do apple picking ? 
+%mor:	cconj|and adv|where aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|do-Inf-S noun|apple noun|pick-Acc-Ger ?
+%gra:	1|5|CC 2|5|ADVMOD 3|5|AUX 4|5|NSUBJ 5|7|ROOT 6|7|COMPOUND 7|5|OBJ 8|5|PUNCT
+%wor:	and  where  did  you  do  apple  picking  ?
+%cod:	$N:RI:S
+*MOT:	remember you told me ? 
+%mor:	verb|remember-Fin-Imp-S pron|you-Prs-Nom-S2 verb|tell-Fin-Ind-Past-S2-irr pron|I-Prs-Acc-S1 ?
+%gra:	1|4|ROOT 2|3|NSUBJ 3|1|CCOMP 4|3|IOBJ 5|1|PUNCT
+%wor:	remember  you  told  me  ?
+%cod:	$N:RI:L
+*MOT:	(.) how did you get the apples ? 
+%mor:	adv|how aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|get-Inf-S det|the-Def-Art noun|apple-Plur-Acc ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	how  did  you  get  the  apples  ?
+%cod:	$N:RI:S
+*CHI:	off the tree . 
+%mor:	adp|off det|the-Def-Art noun|tree .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	off the tree  .
+%cod:	$N:GI:RS
+*MOT:	how did you get up in the tree ? 
+%mor:	adv|how aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|get-Inf-S adp|up adp|in det|the-Def-Art noun|tree ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|8|ROOT 5|4|COMPOUND-PRT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	how  did  you  get  up  in  the  tree  ?
+%cod:	$N:RI:S
+*CHI:	I don't know .
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+*CHI:	they were coming down . 
+%mor:	pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr verb|come-Part-Pres-S adp|down .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+%wor:	they  were  coming  down  .
+%cod:	$N:GI:RS:N $N:GI:S
+*MOT:	they were coming down ? 
+%mor:	pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Past-P3-irr verb|come-Part-Pres-S adp|down ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|COMPOUND-PRT 5|3|PUNCT
+%wor:	they  were coming down  ?
+%cod:	$N:FA
+*MOT:	did they fall out or did you take them out ? 
+%mor:	aux|do-Fin-Ind-Past-P3-irr pron|they-Prs-Nom-P3 verb|fall-Inf-S adp|out cconj|or aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|take-Inf-S pron|they-Prs-Acc-P3 adp|out ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|10|ROOT 4|3|COMPOUND-PRT 5|8|CC 6|8|AUX 7|8|NSUBJ 8|3|CONJ 9|8|OBJ 10|8|COMPOUND-PRT 11|3|PUNCT
+%wor:	did they  fall  out  or  did  you  take  them  out  ?
+%cod:	$N:RI:L $N:RI:L
+*MOT:	do you remember ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|remember-Inf-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	do  you  remember  ?
+%cod:	$N:RI:L
+*CHI:	picking (th)em off . 
+%mor:	verb|pick-Part-Pres-S pron|they-Prs-Acc-P3 adp|off .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|COMPOUND-PRT 4|1|PUNCT
+%wor:	picking  (th)em  off  .
+%cod:	$N:GI:RS
+*MOT:	you were picking them off ? 
+%mor:	pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Past-S2-irr verb|pick-Part-Pres-S pron|they-Prs-Acc-P3 adp|off ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|3|PUNCT
+%wor:	you  were  picking  them  off  ?
+%cod:	$N:FA
+*MOT:	yeah (.) what else did you do apple picking ? 
+%mor:	intj|yeah pron|what-Int-S1 adv|else aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|do-Inf-S noun|apple noun|pick-Acc-Ger ?
+%gra:	1|6|DISCOURSE 2|6|OBJ 3|2|ADVMOD 4|6|AUX 5|6|NSUBJ 6|8|ROOT 7|8|COMPOUND 8|6|OBJ 9|6|PUNCT
+%wor:	yeah  what  else  did  you  do  apple  picking  ?
+%cod:	$N:FA $N:RI:S
+*CHI:	go on the tractor .
+%mor:	verb|go-Fin-Imp-S adp|on det|the-Def-Art noun|tractor .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+%cod:	$N:GI:RS
+*MOT:	you went on the tractor . 
+%mor:	pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Past-S2-irr adp|on det|the-Def-Art noun|tractor .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	you  went  on  the  tractor  .
+%cod:	$N:FA
+*MOT:	alright and what else did you do ? 
+%mor:	intj|alright cconj|and pron|what-Int-S1 adv|else aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|do-Inf-S ?
+%gra:	1|7|DISCOURSE 2|3|CC 3|7|OBJ 4|3|ADVMOD 5|7|AUX 6|7|NSUBJ 7|7|ROOT 8|7|PUNCT
+%wor:	alright  and  what  else  did  you do  ?
+%cod:	$N:FA $N:RI:C
+*MOT:	did you do anything else ? 
+%mor:	aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|do-Inf-S pron|anything-Ind-S1 adj|else-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|4|AMOD 6|3|PUNCT
+%wor:	did  you do  anything  else  ?
+%cod:	$N:RI:C:R
+*MOT:	did you have fun ? 
+%mor:	aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|have-Inf-S noun|fun-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	did  you  have  fun  ?
+%cod:	$N:RE
+*MOT:	what else did you do ? 
+%mor:	pron|what-Int-S1 adv|else aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|do-Inf-S ?
+%gra:	1|5|OBJ 2|1|ADVMOD 3|5|AUX 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%wor:	what  else  did  you  do  ?
+%cod:	$N:RI:C:R
+*MOT:	did you eat there ? 
+%mor:	aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|eat-Inf-S adv|there ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	did  you  eat  there  ?
+%cod:	$N:RI:S
+*MOT:	do you remember what you had for lunch ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|remember-Inf-S pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Past-S2-irr adp|for noun|lunch ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|3|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|8|CASE 8|6|OBL 9|3|PUNCT
+%wor:	do  you remember  what  you had  for  lunch  ?
+%cod:	$N:RI:S
+*MOT:	huh ? 
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	huh  ?
+%cod:	$N:RI:S:R
+*CHI:	yyy .
+%par:	grunts
+%cod:	$N:U
+*MOT:	yyy .
+%par:	laughs
+*MOT:	and where did you bring the apples ? 
+%mor:	cconj|and adv|where aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|bring-Inf-S det|the-Def-Art noun|apple-Plur-Acc ?
+%gra:	1|5|CC 2|5|ADVMOD 3|5|AUX 4|5|NSUBJ 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%wor:	and  where  did  you  bring  the  apples  ?
+%cod:	$N:RI:S
+*MOT:	who did you +/. 
+%mor:	pron|who-Int aux|do-Fin-Ind-Past-S3-irr pron|you-Prs-Acc-S2 +/.
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	who  did  you  +/.
+%cod:	$N:RI:S:I
+*CHI:	from the tree . 
+%mor:	adp|from det|the-Def-Art noun|tree .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	from the tree  .
+%cod:	$N:GI:RS
+*MOT:	yeah but [//] I mean no (.) you brought the apples [//] and you got the apples from the tree . 
+%mor:	intj|yeah pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 intj|no pron|you-Prs-Nom-S2 verb|bring-Fin-Ind-Past-S2-irr det|the-Def-Art cconj|and pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2-irr det|the-Def-Art noun|apple-Plur-Acc adp|from det|the-Def-Art noun|tree .
+%gra:	1|6|DISCOURSE 2|3|NSUBJ 3|6|PARATAXIS 4|6|DISCOURSE 5|6|NSUBJ 6|15|ROOT 7|6|OBJ 8|10|CC 9|10|NSUBJ 10|6|CONJ 11|12|DET 12|10|OBJ 13|15|CASE 14|15|DET 15|10|OBL 16|6|PUNCT
+%wor:	yeah  but  I  mean  no  you  brought  the  apples  and  you  got  the  apples  from  the  tree  .
+%cod:	$N:FA $N:FC $N:GI:S $N:GI:S
+*CHI:	I shook (th)em out . 
+%mor:	pron|I-Prs-Nom-S1 verb|shake-Fin-Ind-Past-S1-irr pron|they-Prs-Acc-P3 adp|out .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|COMPOUND-PRT 5|2|PUNCT
+%wor:	I  shook  (th)em  out  .
+%cod:	$N:GI:S
+*MOT:	oh you did↑ how'd [: how did] you get up in the tree ? 
+%mor:	intj|oh pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Past-S2-irr adv|how aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|get-Inf-S adp|up adp|in det|the-Def-Art noun|tree ?
+%gra:	1|7|DISCOURSE 2|3|NSUBJ 3|7|REPARANDUM 4|7|ADVMOD 5|7|AUX 6|7|NSUBJ 7|11|ROOT 8|7|COMPOUND-PRT 9|11|CASE 10|11|DET 11|7|OBL 12|7|PUNCT
+%wor:	oh  you  did  how  did  you  get  up  in  the  tree  ?
+%cod:	$N:FA $N:RI:S
+*CHI:	climbed up .
+%mor:	verb|climb-Fin-Ind-Past-S1 adp|up .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+%cod:	$N:GI:RS
+*MOT:	who was with you ? 
+%mor:	pron|who-Int aux|be-Fin-Ind-Past-S3-irr adp|with pron|you-Prs-Acc-S2 ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|CASE 4|4|ROOT 5|4|PUNCT
+%wor:	who  was  with  you  ?
+%cod:	$N:RI:S
+*CHI:	nobody .
+%mor:	pron|nobody-Neg-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$N:GI:RS
+*MOT:	nobody ?
+%mor:	pron|nobody-Neg-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$N:FC
+*MOT:	oh you did it right (be)cause you're a big boy ? 
+%mor:	intj|oh pron|you-Prs-Nom-S2 verb|do-Fin-Ind-Past-S2-irr pron|it-Prs-Acc-S3 adv|right sconj|because pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 det|a-Ind-Art adj|big-S1 noun|boy ?
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|11|ROOT 4|3|OBJ 5|11|ADVMOD 6|11|MARK 7|11|NSUBJ 8|11|COP 9|11|DET 10|11|AMOD 11|3|ADVCL 12|3|PUNCT
+%wor:	oh  you  did  it  right  (be)cause  you're  a  big  boy  ?
+%cod:	$N:RI:L
+*MOT:	huh ? 
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	huh  ?
+%cod:	$N:RI:L:R
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah  .
+%cod:	$N:GI:RL
+*MOT:	yeah ? 
+%mor:	intj|yeah ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	yeah  ?
+%cod:	$N:FA
+*MOT:	you're gonna hurt yourself .
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|gonna verb|hurt-Inf-S pron|yourself-Prs-Acc-reflx-S2 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%cod:	$O:R
+*MOT:	no you're gonna hurt yourself sir . 
+%mor:	intj|no pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 part|go verb|hurt-Inf-S pron|yourself-Prs-Acc-reflx-S2 noun|sir .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|7|ROOT 6|5|OBJ 7|5|OBL-UNMARKED 8|5|PUNCT
+%wor:	no  you're  gonna  hurt  yourself  sir  .
+%cod:	$O:R
+*MOT:	alright so what else did you do apple picking ? 
+%mor:	intj|alright adv|so pron|what-Int-S1 adv|else aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|do-Inf-S noun|apple noun|pick-Acc-Ger ?
+%gra:	1|7|DISCOURSE 2|7|ADVMOD 3|7|OBJ 4|3|ADVMOD 5|7|AUX 6|7|NSUBJ 7|9|ROOT 8|9|COMPOUND 9|7|OBJ 10|7|PUNCT
+%wor:	alright  so  what  else  did  you do  apple  picking  ?
+%cod:	$N:RI:C
+*MOT:	when you went back to school what did you do ? 
+%mor:	adv|when pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Past-S2-irr adv|back adp|to noun|school pron|what-Int-S1 aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|do-Inf-S ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|10|ADVCL 4|3|ADVMOD 5|6|CASE 6|3|OBL 7|10|OBJ 8|10|AUX 9|10|NSUBJ 10|10|ROOT 11|10|PUNCT
+%wor:	when  you  went  back  to  school  what  did  you  do  ?
+%cod:	$N:RI:S
+*CHI:	caca .
+%mor:	noun|caca .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$N:GI:RS
+*MOT:	Chi .
+%mor:	propn|Chi .
+%gra:	1|1|ROOT 2|1|PUNCT
+%par:	laughing
+%cod:	$O
+*CHI:	yyy [>] .
+*INV:	yyy [<] .
+%par:	laughs
+*MOT:	you're probably right but Chi . 
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|probably adj|right-S1 cconj|but propn|Chi .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|6|ROOT 5|6|CC 6|4|CONJ 7|4|PUNCT
+%wor:	you're  probably  right  but  Chi  .
+%par:	laughing
+%cod:	$O:O
+*MOT:	I mean Chi [/] no when you went back to school besides going to the bathroom all day yyy [= laughing] what else did you do ? 
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 intj|no adv|when pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Past-S2-irr adv|back adp|to noun|school sconj|besides verb|go-Part-Pres-S adp|to det|the-Def-Art noun|bathroom det|all-Def-Tot noun|day pron|what-Int-S1 adv|else aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|do-Inf-S ?
+%gra:	1|2|NSUBJ 2|21|ROOT 3|2|DISCOURSE 4|6|ADVMOD 5|6|NSUBJ 6|21|ADVCL 7|6|ADVMOD 8|9|CASE 9|6|OBL 10|11|MARK 11|6|ADVCL 12|14|CASE 13|14|DET 14|11|OBL 15|16|DET 16|11|OBL-UNMARKED 17|21|OBJ 18|17|ADVMOD 19|21|AUX 20|21|NSUBJ 21|2|PARATAXIS 22|2|PUNCT
+%wor:	I  mean Chi  no when  you  went  back  to  school  besides  going  to  the  bathroom  all  day  what  else  did  you  do  ?
+%par:	aft laughs
+%cod:	$N:FA $N:RI:C
+*MOT:	huh [>] ?
+%mor:	intj|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$N:RI:C:R
+*CHI:	pee_pee .
+%mor:	noun|peepee .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$N:GI:RS
+*MOT:	no come on now let's not get silly . 
+%mor:	intj|no verb|come-Fin-Imp-S adp|on adv|now verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 part|not verb|get-Inf-S adj|silly-S1 .
+%gra:	1|2|DISCOURSE 2|9|ROOT 3|2|COMPOUND-PRT 4|2|ADVMOD 5|2|PARATAXIS 6|5|OBJ 7|8|ADVMOD 8|5|XCOMP 9|8|XCOMP 10|2|PUNCT
+%wor:	no  come  on  now  let's  not  get  silly  .
+%cod:	$O:T
+*MOT:	did you go up on the roof ? 
+%mor:	aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|go-Inf-S adp|up adp|on det|the-Def-Art noun|roof ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	did  you  go  up  on  the  roof  ?
+%cod:	$N:RI:L
+*MOT:	you didn't go up on the roof top ? 
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Past-S2-irr~part|not verb|go-Inf-S adp|up adp|on det|the-Def-Art noun|roof noun|top ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|9|ROOT 5|4|COMPOUND-PRT 6|9|CASE 7|9|DET 8|9|COMPOUND 9|4|OBL 10|4|PUNCT
+%wor:	you  didn't  go  up  on  the  roof  top  ?
+%cod:	$N:RI:L
+*MOT:	yes sir (be)cause I was waiting for you . 
+%mor:	intj|yes noun|sir sconj|because pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr verb|wait-Part-Pres-S adp|for pron|you-Prs-Acc-S2 .
+%gra:	1|2|DISCOURSE 2|8|ROOT 3|6|MARK 4|6|NSUBJ 5|6|AUX 6|1|ADVCL 7|8|CASE 8|6|OBL 9|2|PUNCT
+%wor:	yes  sir (be)cause I was  waiting  for  you  .
+%cod:	$N:FC
+*CHI:	mm .
+%mor:	intj|mm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$N:U
+*MOT:	what'd [: what did] you do up on the roof top ? 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|do-Inf-S adp|up adp|on det|the-Def-Art noun|roof noun|top ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|9|ROOT 5|4|COMPOUND-PRT 6|9|CASE 7|9|DET 8|9|COMPOUND 9|4|OBL 10|4|PUNCT
+%wor:	what  did  you  do  up  on  the  roof  top  ?
+%cod:	$N:RI:S
+*MOT:	do you remember ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|remember-Inf-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	do  you  remember  ?
+%cod:	$N:RI:L:D
+*CHI:	xxx on the heads . 
+%mor:	adp|on det|the-Def-Art noun|head-Plur .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	on  the  heads  .
+%cod:	$N:U
+*MOT:	no you're getting silly now . 
+%mor:	intj|no pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|get-Part-Pres-S adj|silly-S1 adv|now .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|4|XCOMP 6|4|ADVMOD 7|4|PUNCT
+%wor:	no  you're  getting  silly  now  .
+%cod:	$O:O
+*MOT:	where'd [: where did] you bring your apples ? 
+%mor:	adv|where aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|bring-Inf-S pron|your-Prs-Gen-S2 noun|apple-Plur-Acc ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|NMOD-POSS 6|4|OBJ 7|4|PUNCT
+%wor:	where  did  you  bring  your  apples  ?
+%cod:	$N:RI:S
+*CHI:	threw (th)em on the floor . 
+%mor:	verb|throw-Fin-Ind-Past-S1-irr pron|they-Prs-Acc-P3 adp|on det|the-Def-Art noun|floor .
+%gra:	1|5|ROOT 2|1|OBJ 3|5|CASE 4|5|DET 5|1|OBL 6|1|PUNCT
+%wor:	threw  (th)em  on  the  floor  .
+%cod:	$N:GI:RS
+*MOT:	no you didn't . 
+%mor:	intj|no pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Past-S2-irr~part|not .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	no  you  didn't  .
+%cod:	$N:FC
+*MOT:	Chi come on . 
+%mor:	propn|Chi verb|come-Fin-Ind-Pres-S adp|on .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	Chi  come  on  .
+*MOT:	stop it . 
+%mor:	verb|stop-Fin-Imp-S pron|it-Prs-Acc-S3 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	stop  it  .
+*MOT:	you're getting silly . 
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|get-Part-Pres-S adj|silly-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+%wor:	you're  getting  silly  .
+%cod:	$O:T
+*MOT:	no (re)member Mommy gave you the apples ? 
+%mor:	det|no-Def-Neg verb|remember-Fin-Imp-S propn|Mommy verb|give-Fin-Ind-Past-S3-irr pron|you-Prs-Acc-S2 det|the-Def-Art noun|apple-Plur-Acc ?
+%gra:	1|2|DET 2|7|ROOT 3|4|NSUBJ 4|2|CCOMP 5|4|IOBJ 6|7|DET 7|4|OBJ 8|2|PUNCT
+%wor:	no  (re)member  Mommy  gave  you  the  apples  ?
+%cod:	$N:FC $N:RI:L
+*MOT:	and where did I tell you you could bring the apples to show↑ who were you gonna show the apples to ? 
+%mor:	cconj|and adv|where aux|do-Fin-Ind-Past-S1-irr pron|I-Prs-Nom-S1 verb|tell-Inf-S pron|you-Prs-Acc-S2 pron|you-Prs-Nom-S2 aux|could-Fin-S verb|bring-Inf-S det|the-Def-Art noun|apple-Plur-Acc part|to verb|show-Inf-S pron|who-Int aux|be-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 part|go verb|show-Inf-S det|the-Def-Art noun|apple-Plur-Acc adp|to ?
+%gra:	1|5|CC 2|5|ADVMOD 3|5|AUX 4|5|NSUBJ 5|21|ROOT 6|5|IOBJ 7|9|NSUBJ 8|9|AUX 9|5|CCOMP 10|11|DET 11|9|OBJ 12|13|MARK 13|9|ADVCL 14|18|OBJ 15|18|AUX 16|18|NSUBJ 17|18|ADVMOD 18|13|CCOMP 19|20|DET 20|18|OBJ 21|5|PUNCT 22|5|PUNCT
+%wor:	and  where  did  I tell  you  you  could  bring  the  apples  to  show  who  were  you  gonna  show  the  apples  to  ?
+%cod:	$N:RI:S $N:RI:S:R
+*MOT:	remember where'd you bring the apples Friday ? 
+%mor:	verb|remember-Fin-Imp-S adv|where~aux|would-Fin-S pron|you-Prs-Nom-S2 verb|bring-Inf-S det|the-Def-Art noun|apple-Plur-Acc propn|Friday ?
+%gra:	1|8|ROOT 2|5|ADVMOD 3|5|AUX 4|5|NSUBJ 5|1|CCOMP 6|7|DET 7|5|OBJ 8|5|OBL-UNMARKED 9|1|PUNCT
+%wor:	remember  where'd  you  bring  the  apples  Friday  ?
+%cod:	$N:RI:L:R $N:RI:S:R
+*MOT:	remember Mommy come home from work (.) and where'd [: where did] you go ? 
+%mor:	verb|remember-Fin-Imp-S propn|Mommy verb|come-Inf-S adv|home adp|from noun|work cconj|and adv|where aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|go-Inf-S ?
+%gra:	1|11|ROOT 2|3|NSUBJ 3|1|CCOMP 4|3|ADVMOD 5|6|CASE 6|3|OBL 7|11|CC 8|11|ADVMOD 9|11|AUX 10|11|NSUBJ 11|1|CONJ 12|1|PUNCT
+%wor:	remember  Mommy  come  home  from  work  and  where  did  you  go  ?
+%cod:	$N:RI:S:R
+*MOT:	(.) remember↑ (.) where'd [: where did] you go ? 
+%mor:	verb|remember-Fin-Imp-S adv|where aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|go-Inf-S ?
+%gra:	1|5|ROOT 2|5|ADVMOD 3|5|AUX 4|5|NSUBJ 5|1|CCOMP 6|1|PUNCT
+%wor:	remember  where  did  you  go  ?
+%cod:	$N:RI:L:R $N:RI:S:R
+*MOT:	(.) with the big duffel bag↑ (.) and you took your apples from the refrigerator and where'd [: where did] you go ? 
+%mor:	adp|with det|the-Def-Art adj|big-S1 noun|duffel noun|bag cconj|and pron|you-Prs-Nom-S2 verb|take-Fin-Ind-Past-S2-irr pron|your-Prs-Gen-S2 noun|apple-Plur-Acc adp|from det|the-Def-Art noun|refrigerator cconj|and adv|where aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|go-Inf-S ?
+%gra:	1|5|CASE 2|5|DET 3|5|AMOD 4|5|COMPOUND 5|18|ROOT 6|8|CC 7|8|NSUBJ 8|5|CONJ 9|10|NMOD-POSS 10|8|OBJ 11|13|CASE 12|13|DET 13|8|OBL 14|18|CC 15|18|ADVMOD 16|18|AUX 17|18|NSUBJ 18|8|CONJ 19|5|PUNCT
+%wor:	with  the  big  duffel  bag  and  you  took  your  apples  from  the  refrigerator  and  where  did  you  go  ?
+%cod:	$N:RI:S $N:RI:S $N:RI:S:R
+*MOT:	Daddy's house ? 
+%mor:	propn|Daddy~part|s noun|house ?
+%gra:	1|3|NMOD-POSS 2|1|CASE 3|3|ROOT 4|3|PUNCT
+%wor:	Daddy's  house  ?
+%cod:	$N:RI:L
+*MOT:	remember you went over to Daddy's house and spent the weekend ? 
+%mor:	verb|remember-Fin-Imp-S pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Past-S2-irr adv|over adp|to propn|Daddy~part|s noun|house cconj|and verb|spend-Fin-Ind-Past-S1-irr det|the-Def-Art noun|weekend-Acc ?
+%gra:	1|12|ROOT 2|3|NSUBJ 3|1|CCOMP 4|3|ADVMOD 5|8|CASE 6|8|NMOD-POSS 7|6|CASE 8|3|OBL 9|10|CC 10|3|CONJ 11|12|DET 12|10|OBJ 13|1|PUNCT
+%wor:	remember  you  went  over  to  Daddy's  house  and  spent  the  weekend  ?
+%cod:	$N:RI:L $N:RI:L
+@End

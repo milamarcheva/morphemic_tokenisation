@@ -1,0 +1,2538 @@
+@UTF8
+@PID:	11312/a-00077980-1
+@Begin
+@Languages:	eng
+@Participants:	FA1 Adult, CHI Target_Child
+@Options:	bullets
+@ID:	eng|StoopsMontag|FA1|||||Adult|||
+@ID:	eng|StoopsMontag|CHI|||||Target_Child|||
+@Media:	02_Idea_Places, audio
+@Types:	cross, book, TD
+*FA1:	are you ready to read ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adj|ready-S1 part|to verb|read-Inf-S ?
+%gra:	1|3|COP 2|3|NSUBJ 3|5|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	mom you go xxx . 
+%mor:	noun|mom pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 .
+%gra:	1|3|VOCATIVE 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	do you like this book ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|like-Inf-S det|this-Def-Dem-Sing noun|book-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	alright . 
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	do you like it ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|like-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	should we read it ? 
+%mor:	aux|should-Fin-S pron|we-Prs-Nom-P1 verb|read-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	alright . 
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	That_Is_Not_A_Good_Idea . 
+%mor:	propn|ThatIsNotAGoodIdea .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	by Mo Willems . 
+%mor:	adp|by propn|Mo propn|Willems .
+%gra:	1|2|CASE 2|3|ROOT 3|2|FLAT 4|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	you kinda wrote on those . 
+%mor:	pron|you-Prs-Nom-S2 adv|kinda verb|write-Fin-Ind-Past-S2-irr adp|on pron|that-Dem-P1 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	pages xxx go . 
+%mor:	noun|page-Plur verb|go-Fin-Ind-Pres-P3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	alright . 
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	xxx . 
+%cod:	$xds:A
+*CHI:	xxx . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	huh ! 
+%mor:	intj|huh !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	what do you see ? 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	see . 
+%mor:	verb|see-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	fox . 
+%mor:	propn|fox .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	mister fox ? 
+%mor:	noun|mister propn|fox ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	a fox ! 
+%mor:	det|a-Ind-Art noun|fox !
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	who is that ? 
+%mor:	pron|who-Int aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	it's a duck . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|duck .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%cod:	$xds:A
+*FA1:	misses duck ? 
+%mor:	verb|misse-Fin-Ind-Pres-S3 noun|duck-Acc ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	duck . 
+%mor:	noun|duck .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	what does the duck say ? 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S3 det|the-Def-Art noun|duck verb|say-Inf-S ?
+%gra:	1|5|OBJ 2|5|AUX 3|4|DET 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	quack . 
+%mor:	noun|quack .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	quack quack . 
+%mor:	noun|quack noun|quack .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	what does the fox say ? 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S3 det|the-Def-Art noun|fox verb|say-Inf-S ?
+%gra:	1|5|OBJ 2|5|AUX 3|4|DET 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	a fox . 
+%mor:	det|a-Ind-Art noun|fox .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	what does the fox say ? 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S3 det|the-Def-Art noun|fox verb|say-Inf-S ?
+%gra:	1|5|OBJ 2|5|AUX 3|4|DET 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	wababa . 
+%mor:	propn|wababa .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	what luck ! 
+%mor:	det|what-Def-Int noun|luck !
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	dinner ! 
+%mor:	noun|dinner !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	hold on we gotta turn one page at a time okay ? 
+%mor:	verb|hold-Fin-Imp-S adp|on pron|we-Prs-Nom-P1 aux|getta-Fin-S verb|turn-Inf-S num|one noun|page-Acc adp|at det|a-Ind-Art noun|time adj|okay-S1 ?
+%gra:	1|11|ROOT 2|1|COMPOUND-PRT 3|5|NSUBJ 4|5|AUX 5|1|PARATAXIS 6|7|NUMMOD 7|5|OBJ 8|11|CASE 9|10|DET 10|11|OBL-UNMARKED 11|5|OBL 12|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	excuse me misses duck would you care go for a stroll says mister fox . 
+%mor:	verb|excuse-Fin-Imp-S pron|I-Prs-Acc-S1 verb|misse-Fin-Ind-Pres-S3 noun|duck-Acc aux|would-Fin-S pron|you-Prs-Nom-S2 verb|care-Inf-S verb|go-Inf-S adp|for det|a-Ind-Art noun|stroll verb|say-Fin-Ind-Pres-S3 noun|mister noun|fox-Acc .
+%gra:	1|14|ROOT 2|1|OBJ 3|1|CCOMP 4|3|OBJ 5|7|AUX 6|7|NSUBJ 7|1|PARATAXIS 8|7|XCOMP 9|11|CASE 10|11|DET 11|8|OBL 12|1|PARATAXIS 13|14|COMPOUND 14|12|OBJ 15|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	he wants to go walking with her . 
+%mor:	pron|he-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 part|to verb|go-Inf-S verb|walk-Ger-S adp|with pron|her-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|MARK 4|2|XCOMP 5|4|XCOMP 6|7|CASE 7|5|OBL 8|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	should she go walking ? 
+%mor:	aux|should-Fin-S pron|she-Prs-Nom-S3 verb|go-Inf-S verb|walk-Ger-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	she look . 
+%mor:	pron|she-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	are they gonna go walking together ? 
+%mor:	aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 adv|gonna verb|go-Inf-S verb|walk-Ger-S adv|together ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|6|ROOT 5|4|XCOMP 6|5|ADVMOD 7|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	what is that ? 
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	a fox . 
+%mor:	det|a-Ind-Art noun|fox .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	is that window ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|window ?
+%gra:	1|3|COP 2|3|DET 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	yeah ? 
+%mor:	intj|yeah ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	alright turn the page . 
+%mor:	intj|alright verb|turn-Fin-Imp-S det|the-Def-Art noun|page-Acc .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	are you gonna turn the page ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 part|go verb|turn-Inf-S det|the-Def-Art noun|page-Acc ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	mister fox ? 
+%mor:	noun|mister propn|fox ?
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	who is that ? 
+%mor:	pron|who-Int aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*FA1:	misses duck ? 
+%mor:	verb|misse-Fin-Ind-Pres-S3 noun|duck-Acc ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	are they gonna go walk ? 
+%mor:	aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 adv|gonna verb|go-Inf-S verb|walk-Inf-S ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|5|ROOT 5|4|XCOMP 6|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	walk . 
+%mor:	verb|walk-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	let's turn the page . 
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|turn-Inf-S det|the-Def-Art noun|page-Acc .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|XCOMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	hmm sure says misses duck . 
+%mor:	intj|hmm adj|sure-S1 verb|say-Fin-Ind-Pres-S3 verb|misse-Fin-Ind-Pres-S3 noun|duck-Acc .
+%gra:	1|2|DISCOURSE 2|3|CCOMP 3|5|ROOT 4|3|CCOMP 5|4|OBJ 6|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	no I'm done with new xxx . 
+%mor:	intj|no pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|done-S1 adp|with adj|new-S1 .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	do not xxx . 
+%mor:	aux|do-Fin-Imp-S part|not .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	little chicks ! 
+%mor:	adj|little-S1 noun|chick-Plur !
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	they say that is not a good idea . 
+%mor:	pron|they-Prs-Nom-P3 verb|say-Fin-Ind-Pres-P3 pron|that-Dem aux|be-Fin-Ind-Pres-S3 part|not det|a-Ind-Art adj|good-S1 noun|idea .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|8|NSUBJ 4|8|COP 5|8|ADVMOD 6|8|DET 7|8|AMOD 8|2|CCOMP 9|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	let's count the chicks . 
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|count-Inf-S det|the-Def-Art noun|chick-Plur-Acc .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|XCOMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	one . 
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	one . 
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	two . 
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	two chicks . 
+%mor:	num|two noun|chick-Plur .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	would you care to continue our walk into the deep dark woods says mister fox . 
+%mor:	aux|would-Fin-S pron|you-Prs-Nom-S2 verb|care-Inf-S part|to verb|continue-Inf-S pron|our-Prs-Gen-P1 noun|walk-Acc adp|into det|the-Def-Art adj|deep-S1 adj|dark-S1 noun|wood-Plur verb|say-Fin-Ind-Pres-S3 noun|mister noun|fox-Acc .
+%gra:	1|3|AUX 2|3|NSUBJ 3|15|ROOT 4|5|MARK 5|3|XCOMP 6|7|NMOD-POSS 7|5|OBJ 8|12|CASE 9|12|DET 10|12|AMOD 11|12|AMOD 12|7|NMOD 13|3|PARATAXIS 14|15|COMPOUND 15|13|OBJ 16|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	sounds fun says misses duck . 
+%mor:	verb|sound-Fin-Ind-Pres-S3 noun|fun-Acc verb|say-Fin-Ind-Pres-S3 verb|misse-Fin-Ind-Pres-S3 noun|duck-Acc .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|XCOMP 4|3|CCOMP 5|4|OBJ 6|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	that is really not a good idea . 
+%mor:	pron|that-Dem aux|be-Fin-Ind-Pres-S3 adv|really part|not det|a-Ind-Art adj|good-S1 noun|idea .
+%gra:	1|7|NSUBJ 2|7|COP 3|7|ADVMOD 4|7|ADVMOD 5|7|DET 6|7|AMOD 7|7|ROOT 8|7|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	there is it , now one chick . 
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 pron|it-Prs-Acc-S3 cm|cm adv|now num|one noun|chick .
+%gra:	1|2|EXPL 2|7|ROOT 3|2|NSUBJ 4|7|PUNCT 5|7|ADVMOD 6|7|NUMMOD 7|2|PARATAXIS 8|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	one . 
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	one . 
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	two . 
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	two . 
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	three . 
+%mor:	num|three .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	three , three chicks . 
+%mor:	num|three cm|cm num|three noun|chick-Plur .
+%gra:	1|4|ROOT 2|4|PUNCT 3|4|NUMMOD 4|1|APPOS 5|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	can you say three chicks ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|say-Inf-S num|three noun|chick-Plur-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|NUMMOD 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	three chicks three chicks . 
+%mor:	num|three noun|chick-Plur num|three noun|chick-Plur .
+%gra:	1|2|NUMMOD 2|4|ROOT 3|4|NUMMOD 4|2|NMOD-UNMARKED 5|2|PUNCT
+%cod:	$xds:A
+*FA1:	three chicks . 
+%mor:	num|three noun|chick-Plur .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	would you care to visit my nearby kitchen ? 
+%mor:	aux|would-Fin-S pron|you-Prs-Nom-S2 verb|care-Inf-S part|to verb|visit-Inf-S pron|my-Prs-Gen-S1 adj|nearby-S1 noun|kitchen-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|5|MARK 5|3|ADVCL 6|8|NMOD-POSS 7|8|AMOD 8|5|OBJ 9|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	says mister fox . 
+%mor:	verb|say-Fin-Ind-Pres-S3 noun|mister propn|fox-Acc .
+%gra:	1|3|ROOT 2|3|COMPOUND 3|1|OBJ 4|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	are they walking ? 
+%mor:	aux|be-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3 verb|walk-Part-Pres-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	she walk ! 
+%mor:	pron|she-Prs-Nom-S3 verb|walk-Fin-Ind-Pres-S3 !
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	through the trees look the path goes like this . 
+%mor:	adp|through det|the-Def-Art noun|tree-Plur verb|look-Fin-Ind-Pres-P3 det|the-Def-Art noun|path verb|go-Fin-Ind-Pres-S3 adp|like pron|this-Dem-S1 .
+%gra:	1|3|CASE 2|3|DET 3|4|OBL 4|9|ROOT 5|6|DET 6|7|NSUBJ 7|4|CCOMP 8|9|CASE 9|7|OBL 10|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	here bunny . 
+%mor:	adv|here noun|bunny .
+%gra:	1|2|ROOT 2|1|NSUBJ 3|1|PUNCT
+%cod:	$xds:A
+*FA1:	that's a lot of walking they're gonna zigzag through the trees . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|lot adp|of noun|walking-Ger pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adv|gonna verb|zigz-Part-Pres-S adp|through det|the-Def-Art noun|tree-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|13|ROOT 5|6|CASE 6|4|NMOD 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|4|ACL-RELCL 11|13|CASE 12|13|DET 13|10|OBL 14|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*CHI:	xxx . 
+%cod:	$xds:A
+*CHI:	xxx . 
+%cod:	$xds:A
+*CHI:	xxx . 
+%cod:	$xds:A
+*FA1:	look way over here that looks like this . 
+%mor:	verb|look-Fin-Imp-S adv|way adp|over adv|here pron|that-Rel verb|look-Fin-Ind-Pres-S3 adp|like pron|this-Dem-S1 .
+%gra:	1|8|ROOT 2|1|ADVMOD 3|4|CASE 4|1|OBL 5|6|NSUBJ 6|4|ADVCL-RELCL 7|8|CASE 8|6|OBL 9|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	the nearby kitchen . 
+%mor:	det|the-Def-Art adj|nearby-S1 noun|kitchen .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	on the trees ? 
+%mor:	adp|on det|the-Def-Art noun|tree-Plur ?
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	do you like the trees ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|like-Inf-S det|the-Def-Art noun|tree-Plur-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	xxx trees . 
+%mor:	noun|tree-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	what ? 
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	trees . 
+%mor:	noun|tree-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	bunny . 
+%mor:	noun|bunny .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	bunny's in the trees ? 
+%mor:	noun|bunny~aux|be-Fin-Ind-Pres-S3 adp|in det|the-Def-Art noun|tree-Plur ?
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|DET 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*FA1:	you don't know what you are saying . 
+%mor:	pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not verb|know-Inf-S pron|what-Rel-S1 pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 verb|say-Part-Pres-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|4|OBJ 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*FA1:	I would love to she says . 
+%mor:	pron|I-Prs-Nom-S1 aux|would-Fin-S verb|love-Inf-S part|to pron|she-Prs-Nom-S3 verb|say-Fin-Ind-Pres-S3 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|MARK 5|6|NSUBJ 6|3|XCOMP 7|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	she wants to go to the kitchen . 
+%mor:	pron|she-Prs-Nom-S3 verb|want-Fin-Ind-Pres-S3 part|to verb|go-Inf-S adp|to det|the-Def-Art noun|kitchen .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|MARK 4|2|XCOMP 5|7|CASE 6|7|DET 7|4|OBL 8|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	that is really really not a good idea . 
+%mor:	pron|that-Dem aux|be-Fin-Ind-Pres-S3 adv|really adv|really part|not det|a-Ind-Art adj|good-S1 noun|idea .
+%gra:	1|8|NSUBJ 2|8|COP 3|8|ADVMOD 4|8|ADVMOD 5|8|ADVMOD 6|8|DET 7|8|AMOD 8|8|ROOT 9|8|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	one . 
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	one . 
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	two . 
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	two . 
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	three . 
+%mor:	num|three .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	three . 
+%mor:	num|three .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	four . 
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	four . 
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	four chicks . 
+%mor:	num|four noun|chick-Plur .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	would you care to boil some water for some soup says mister- mister fox . 
+%mor:	aux|would-Fin-S pron|you-Prs-Nom-S2 verb|care-Inf-S part|to verb|boil-Inf-S det|some-Def-Ind noun|water-Acc adp|for det|some-Def-Ind noun|soup verb|say-Fin-Ind-Pres-S3 noun|mister noun|mister noun|fox-Acc .
+%gra:	1|3|AUX 2|3|NSUBJ 3|14|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|10|CASE 9|10|DET 10|5|OBL 11|3|PARATAXIS 12|14|COMPOUND 13|14|COMPOUND 14|11|OBJ 15|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	oh are you eating the- are you eating the bread ? 
+%mor:	intj|oh aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|eat-Part-Pres-S det|the-Def-Art aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|eat-Part-Pres-S det|the-Def-Art noun|bread-Acc ?
+%gra:	1|4|DISCOURSE 2|4|AUX 3|4|NSUBJ 4|10|ROOT 5|8|OBJ 6|8|AUX 7|8|NSUBJ 8|4|PARATAXIS 9|10|DET 10|8|OBJ 11|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	is it yummy ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 adj|yummy-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	are you taking a drink ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|take-Part-Pres-S det|a-Ind-Art noun|drink-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	what's that ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+%cod:	$xds:A
+*FA1:	she . 
+%mor:	pron|she-Prs-Nom-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	that's a pitcher . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|pitcher .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	are you gonna pour the pitcher into the cup ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 part|go verb|pour-Inf-S det|the-Def-Art noun|pitcher-Acc adp|into det|the-Def-Art noun|cup ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|9|ROOT 5|6|DET 6|4|OBJ 7|9|CASE 8|9|DET 9|4|OBL 10|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	good pouring . 
+%mor:	adj|good-S1 noun|pour-Ger .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	oh more drinks and eating ? 
+%mor:	intj|oh adj|more-Cmp-S1 noun|drink-Plur cconj|and noun|eating-Ger ?
+%gra:	1|3|DISCOURSE 2|3|AMOD 3|5|ROOT 4|5|CC 5|3|CONJ 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	so good . 
+%mor:	adv|so adj|good-S1 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	is it yummy ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 adj|yummy-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	you're so silly . 
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|so adj|silly-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	alright . 
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	certainly I do love soup says misses duck . 
+%mor:	adv|certainly pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1 verb|love-Inf-S noun|soup-Acc verb|say-Fin-Ind-Pres-S3 verb|misse-Fin-Ind-Pres-S3 noun|duck-Acc .
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|AUX 4|8|ROOT 5|4|OBJ 6|4|PARATAXIS 7|4|PARATAXIS 8|7|OBJ 9|4|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	that is really really really not a good idea say the chicks . 
+%mor:	pron|that-Dem aux|be-Fin-Ind-Pres-S3 adv|really adv|really adv|really part|not det|a-Ind-Art adj|good-S1 noun|idea verb|say-Inf-S det|the-Def-Art noun|chick-Plur-Acc .
+%gra:	1|9|NSUBJ 2|9|COP 3|9|ADVMOD 4|9|ADVMOD 5|9|ADVMOD 6|9|ADVMOD 7|9|DET 8|9|AMOD 9|12|ROOT 10|9|ACL 11|12|DET 12|10|OBJ 13|9|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	is that a chicks ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 sconj|that det|a-Ind-Art noun|chick-Plur ?
+%gra:	1|4|COP 2|4|MARK 3|4|DET 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	let's count the chicks . 
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|count-Inf-S det|the-Def-Art noun|chick-Plur-Acc .
+%gra:	1|5|ROOT 2|1|OBJ 3|1|XCOMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	one . 
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	one . 
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	two . 
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	two . 
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	three . 
+%mor:	num|three .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	three . 
+%mor:	num|three .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	four . 
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	four . 
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	five . 
+%mor:	num|five .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	five . 
+%mor:	num|five .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	five chicks . 
+%mor:	num|five noun|chick-Plur .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	would you care to look at my soup ? 
+%mor:	aux|would-Fin-S pron|you-Prs-Nom-S2 verb|care-Inf-S part|to verb|look-Inf-S adp|at pron|my-Prs-Gen-S1 noun|soup ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|8|ROOT 4|5|MARK 5|3|XCOMP 6|8|CASE 7|8|NMOD-POSS 8|5|OBL 9|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	a key ingredient is missing says mister fox . 
+%mor:	det|a-Ind-Art adj|key-S1 noun|ingredient aux|be-Fin-Ind-Pres-S3 verb|miss-Part-Pres-S verb|say-Fin-Ind-Pres-S3 noun|mister noun|fox-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|6|NSUBJ 4|5|COP 5|6|CCOMP 6|8|ROOT 7|8|COMPOUND 8|6|OBJ 9|6|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	and look she looks in . 
+%mor:	cconj|and verb|look-Fin-Imp-S pron|she-Prs-Nom-S3 verb|look-Fin-Ind-Pres-S3 adv|in .
+%gra:	1|2|CC 2|5|ROOT 3|4|NSUBJ 4|2|CCOMP 5|4|ADVMOD 6|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	that is really really really really not a good idea say the chicks . 
+%mor:	pron|that-Dem aux|be-Fin-Ind-Pres-S3 adv|really adv|really adv|really adv|really part|not det|a-Ind-Art adj|good-S1 noun|idea verb|say-Inf-S det|the-Def-Art noun|chick-Plur-Acc .
+%gra:	1|10|NSUBJ 2|10|COP 3|10|ADVMOD 4|10|ADVMOD 5|10|ADVMOD 6|10|ADVMOD 7|10|ADVMOD 8|10|DET 9|10|AMOD 10|13|ROOT 11|10|ACL 12|13|DET 13|11|OBJ 14|10|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	one . 
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	one . 
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	two . 
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	two . 
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	three . 
+%mor:	num|three .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	three . 
+%mor:	num|three .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	four . 
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	four . 
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	five . 
+%mor:	num|five .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	five . 
+%mor:	num|five .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	six . 
+%mor:	num|six .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	six . 
+%mor:	num|six .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	six chicks . 
+%mor:	num|six noun|chick-Plur .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	oh . 
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	a key ingredient is missing says mama duck . 
+%mor:	det|a-Ind-Art adj|key-S1 noun|ingredient aux|be-Fin-Ind-Pres-S3 verb|miss-Part-Pres-S verb|say-Fin-Ind-Pres-S3 noun|mama noun|duck-Acc .
+%gra:	1|3|DET 2|3|AMOD 3|6|NSUBJ 4|5|COP 5|6|CCOMP 6|8|ROOT 7|8|COMPOUND 8|6|OBJ 9|6|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	ew . 
+%mor:	intj|ew .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	and she pushes him down into that water oh my he says the splash and the whump and the zoom on to the put the lid on . 
+%mor:	cconj|and pron|she-Prs-Nom-S3 verb|push-Fin-Ind-Pres-S3 pron|he-Prs-Acc-S3 adp|down adp|into det|that-Def-Dem-Sing noun|water intj|oh pron|my-Prs-Gen-S1 pron|he-Prs-Nom-S3 verb|say-Fin-Ind-Pres-S3 det|the-Def-Art noun|splash-Acc cconj|and det|the-Def-Art noun|whump cconj|and det|the-Def-Art noun|zoom adp|on adp|to det|the-Def-Art verb|put-Inf-S det|the-Def-Art noun|lid-Acc adp|on .
+%gra:	1|3|CC 2|3|NSUBJ 3|27|ROOT 4|3|OBJ 5|3|COMPOUND-PRT 6|8|CASE 7|8|DET 8|3|OBL 9|12|DISCOURSE 10|11|NMOD-POSS 11|12|NSUBJ 12|3|PARATAXIS 13|14|DET 14|12|OBJ 15|17|CC 16|17|DET 17|14|CONJ 18|20|CC 19|20|DET 20|14|CONJ 21|24|ADVMOD 22|24|MARK 23|24|DET 24|12|CONJ 25|26|DET 26|24|OBJ 27|24|COMPOUND-PRT 28|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	oh my goodness . 
+%mor:	intj|oh pron|my-Prs-Gen-S1 noun|goodness .
+%gra:	1|3|DISCOURSE 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	mama duck is violent . 
+%mor:	noun|mama noun|duck aux|be-Fin-Ind-Pres-S3 adj|violent-S1 .
+%gra:	1|2|COMPOUND 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	that's all I am gonna say about that . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|all-Def-Tot pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 part|go verb|say-Inf-S adp|about pron|that-Dem .
+%gra:	1|3|NSUBJ 2|3|COP 3|9|ROOT 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|3|ACL-RELCL 8|9|CASE 9|7|OBL 10|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	fox . 
+%mor:	propn|fox .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	mommy . 
+%mor:	noun|mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	well we did try to warn him say the chicks . 
+%mor:	intj|well pron|we-Prs-Nom-P1 aux|do-Fin-Ind-Past-P1-irr verb|try-Inf-S part|to verb|warn-Inf-S pron|he-Prs-Acc-S3 verb|say-Inf-S det|the-Def-Art noun|chick-Plur-Acc .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|AUX 4|10|ROOT 5|6|MARK 6|4|XCOMP 7|6|OBJ 8|6|XCOMP 9|10|DET 10|8|OBJ 11|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	can you count the chicks ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|count-Inf-S det|the-Def-Art noun|chick-Plur-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	one . 
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	one . 
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	two . 
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	two . 
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	three . 
+%mor:	num|three .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	three . 
+%mor:	num|three .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	four . 
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	four . 
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	five . 
+%mor:	num|five .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	five . 
+%mor:	num|five .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	six . 
+%mor:	num|six .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	six . 
+%mor:	num|six .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	good job . 
+%mor:	adj|good-S1 noun|job .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	do you want to count the spoons ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S part|to verb|count-Inf-S det|the-Def-Art noun|spoon-Plur-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	one . 
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	one . 
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	two . 
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	two . 
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	three . 
+%mor:	num|three .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	three . 
+%mor:	num|three .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	four . 
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	four . 
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	five . 
+%mor:	num|five .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	five . 
+%mor:	num|five .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	six . 
+%mor:	num|six .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	six good job you are such a good counter . 
+%mor:	num|six adj|good-S1 noun|job pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 det|such-Def-Ind det|a-Ind-Art adj|good-S1 noun|counter .
+%gra:	1|3|NUMMOD 2|3|AMOD 3|9|ROOT 4|9|NSUBJ 5|9|COP 6|9|DET-PREDET 7|9|DET 8|9|AMOD 9|3|ACL-RELCL 10|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	come more soup children ? 
+%mor:	verb|come-Fin-Imp-S adj|more-Cmp-S1 noun|soup noun|child-Plur-Acc ?
+%gra:	1|4|ROOT 2|4|AMOD 3|4|COMPOUND 4|1|OBJ 5|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	the end . 
+%mor:	det|the-Def-Art noun|end .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	she fed the soup to all the baby chicks . 
+%mor:	pron|she-Prs-Nom-S3 verb|feed-Fin-Ind-Past-S3-irr det|the-Def-Art noun|soup-Acc adp|to det|all-Def-Tot det|the-Def-Art noun|baby noun|chick-Plur .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|DET 4|2|OBJ 5|9|CASE 6|9|DET-PREDET 7|9|DET 8|9|COMPOUND 9|2|OBL 10|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	are you eating all the soup ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|eat-Part-Pres-S det|all-Def-Tot det|the-Def-Art noun|soup-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|DET-PREDET 5|6|DET 6|3|OBJ 7|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	is it good ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|it-Prs-Nom-S3 adj|good-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	do you like it ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|like-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	do you like soup ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|like-Inf-S noun|soup-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	do you like fox soup ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|like-Inf-S propn|fox noun|soup-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|COMPOUND 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*FA1:	did you hear the car go by ? 
+%mor:	aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|hear-Inf-S det|the-Def-Art noun|car-Acc verb|go-Inf-S adp|by ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|5|DET 5|3|OBJ 6|3|XCOMP 7|6|OBL 8|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	I heard it too . 
+%mor:	pron|I-Prs-Nom-S1 verb|hear-Fin-Ind-Past-S1-irr pron|it-Prs-Acc-S3 adv|too .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|OBJ 4|2|ADVMOD 5|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	yep . 
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	neighbors drove by . 
+%mor:	noun|neighbor-Plur verb|drive-Fin-Ind-Past-P3-irr adp|by .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	the end . 
+%mor:	det|the-Def-Art noun|end .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	my xxx . 
+%mor:	pron|my-Prs-Gen-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	my . 
+%mor:	pron|my-Prs-Gen-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	I want a tab . 
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 det|a-Ind-Art noun|tab-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%cod:	$xds:A
+*FA1:	hold on . 
+%mor:	verb|hold-Fin-Imp-S adp|on .
+%gra:	1|2|ROOT 2|1|COMPOUND-PRT 3|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	let's read . 
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|read-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	got find the different book . 
+%mor:	aux|get-Fin-Ind-Past-S1-irr verb|find-Inf-S det|the-Def-Art adj|different-S1 noun|book-Acc .
+%gra:	1|2|AUX 2|5|ROOT 3|5|DET 4|5|AMOD 5|2|OBJ 6|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	da ! 
+%mor:	propn|da !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	xxx da . 
+%mor:	propn|da .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	let's read . 
+%mor:	verb|let-Fin-Imp-S~pron|we-Prs-Acc-P1 verb|read-Inf-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	oh should we read this book ? 
+%mor:	intj|oh aux|should-Fin-S pron|we-Prs-Nom-P1 verb|read-Inf-S det|this-Def-Dem-Sing noun|book-Acc ?
+%gra:	1|4|DISCOURSE 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	should we read it ? 
+%mor:	aux|should-Fin-S pron|we-Prs-Nom-P1 verb|read-Inf-S pron|it-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	alright . 
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	Oh_the_Places_You'll_Go . 
+%mor:	propn|OhthePlacesYou~propn|llGo .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	by Dr Seuss . 
+%mor:	adp|by propn|Dr propn|Seuss .
+%gra:	1|2|CASE 2|3|ROOT 3|2|FLAT 4|2|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	what's wrong ? 
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adj|wrong-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	why are you crying ? 
+%mor:	adv|why aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|cry-Part-Pres-S ?
+%gra:	1|4|ADVMOD 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	you are so silly . 
+%mor:	pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 adv|so adj|silly-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	Oh_the_Places_You'll_Go . 
+%mor:	propn|OhthePlacesYou~propn|llGo .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	it's a long book so hopefully we can xxx done here . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|long-S1 noun|book adv|so adv|hopefully pron|we-Prs-Nom-P1 aux|can-Fin-S verb|do-Part-Past-S-irr adv|here .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|11|ROOT 6|10|ADVMOD 7|10|ADVMOD 8|10|NSUBJ 9|10|AUX 10|5|PARATAXIS 11|10|ADVMOD 12|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	much more xxx because xxx . 
+%mor:	adv|much adv|more adv|because .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	congratulations today is your day . 
+%mor:	noun|congratulation-Plur noun|today aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|day .
+%gra:	1|5|NSUBJ 2|1|NMOD-UNMARKED 3|5|COP 4|5|NMOD-POSS 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	hold on I'm reading it . 
+%mor:	verb|hold-Fin-Imp-S adp|on pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 verb|read-Part-Pres-S pron|it-Prs-Acc-S3 .
+%gra:	1|6|ROOT 2|1|COMPOUND-PRT 3|5|NSUBJ 4|5|AUX 5|1|PARATAXIS 6|5|OBJ 7|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	you're off to great places you're off and away . 
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|off adp|to adj|great-S1 noun|place-Plur pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adp|off cconj|and adv|away .
+%gra:	1|3|NSUBJ 2|3|COP 3|11|ROOT 4|6|CASE 5|6|AMOD 6|3|OBL 7|9|NSUBJ 8|9|COP 9|6|ACL-RELCL 10|11|CC 11|9|CONJ 12|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	should we turn the page ? 
+%mor:	aux|should-Fin-S pron|we-Prs-Nom-P1 verb|turn-Inf-S det|the-Def-Art noun|page-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	oh look that looks fun . 
+%mor:	intj|oh noun|look pron|that-Rel verb|look-Fin-Ind-Pres-S3 adj|fun-S1 .
+%gra:	1|2|DISCOURSE 2|5|ROOT 3|4|NSUBJ 4|2|ACL-RELCL 5|4|XCOMP 6|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	you have brains in your head and you have feet on in your shoes . 
+%mor:	pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 noun|brain-Plur-Acc adp|in pron|your-Prs-Gen-S2 noun|head cconj|and pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 noun|foot-Plur-Acc adp|on adp|in pron|your-Prs-Gen-S2 noun|shoe-Plur .
+%gra:	1|2|NSUBJ 2|14|ROOT 3|2|OBJ 4|6|CASE 5|6|NMOD-POSS 6|2|OBL 7|9|CC 8|9|NSUBJ 9|2|CONJ 10|9|OBJ 11|9|COMPOUND-PRT 12|14|CASE 13|14|NMOD-POSS 14|9|OBL 15|2|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	you can steer yourself . 
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|steer-Inf-S pron|yourself-Prs-Acc-reflx-S2 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	and direction your choose . 
+%mor:	cconj|and verb|direction-Inf-Imp-S pron|your-Prs-Gen-S2 noun|choose-Acc .
+%gra:	1|2|CC 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*CHI:	xxx . 
+%cod:	$xds:A
+*FA1:	you're on your own . 
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adp|on pron|your-Prs-Gen-S2 noun|own .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|NMOD-POSS 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	what do you see sweetie pie ? 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S noun|sweetie noun|pie-Acc ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|6|ROOT 5|6|COMPOUND 6|4|OBJ 7|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	a flower . 
+%mor:	det|a-Ind-Art noun|flower .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	flowers they look like flowers . 
+%mor:	noun|flower-Plur pron|they-Prs-Nom-P3 verb|look-Fin-Ind-Pres-P3 adp|like noun|flower-Plur .
+%gra:	1|3|NSUBJ 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	flowers . 
+%mor:	noun|flower-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	they think they're supposed to be trees . 
+%mor:	pron|they-Prs-Nom-P3 verb|think-Fin-Ind-Pres-P3 pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|suppose-Part-Past-S part|to aux|be-Inf-S noun|tree-Plur .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|5|NSUBJ-PASS 4|5|AUX-PASS 5|2|CCOMP 6|8|MARK 7|8|COP 8|5|XCOMP 9|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	flowers . 
+%mor:	noun|flower-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	you think it's a flower ? 
+%mor:	pron|you-Prs-Nom-S2 verb|think-Fin-Ind-Pres-S2 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art noun|flower ?
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|NSUBJ 4|6|COP 5|6|DET 6|2|CCOMP 7|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	flower . 
+%mor:	noun|flower .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	it does look like flower it's pink . 
+%mor:	pron|it-Prs-Nom-S3 aux|do-Fin-Ind-Pres-S3 verb|look-Inf-S adp|like noun|flower pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|pink-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|5|CASE 5|3|OBL 6|8|NSUBJ 7|8|COP 8|3|ADVCL 9|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*FA1:	they're supposed to be trees . 
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|suppose-Part-Past-S part|to aux|be-Inf-S noun|tree-Plur .
+%gra:	1|3|NSUBJ-PASS 2|3|AUX-PASS 3|6|ROOT 4|6|MARK 5|6|COP 6|3|XCOMP 7|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	the xxx . 
+%mor:	det|the-Def-Art .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	they're silly trees aren't they they're flower trees . 
+%mor:	pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 adj|silly-S1 noun|tree-Plur aux|be-Fin-Ind-Pres-P3~part|not pron|they-Prs-Nom-P3 pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 noun|flower noun|tree-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|AMOD 4|11|NSUBJ-OUTER 5|11|REPARANDUM 6|11|ADVMOD 7|11|NSUBJ 8|11|NSUBJ 9|11|COP 10|11|COMPOUND 11|11|ROOT 12|11|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	that's what we're gonna call them . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 pron|what-Rel-S1 pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 part|go verb|call-Inf-S pron|they-Prs-Acc-P3 .
+%gra:	1|3|NSUBJ 2|3|COP 3|8|ROOT 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|3|ACL-RELCL 8|7|OBJ 9|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	flowers . 
+%mor:	noun|flower-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	flower . 
+%mor:	noun|flower .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	do you want to count the flowers ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|want-Inf-S part|to verb|count-Inf-S det|the-Def-Art noun|flower-Plur-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|7|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	one . 
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	should we count the flower ? 
+%mor:	aux|should-Fin-S pron|we-Prs-Nom-P1 verb|count-Inf-S det|the-Def-Art noun|flower-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	flower . 
+%mor:	noun|flower .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	flower ? 
+%mor:	noun|flower ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	flower . 
+%mor:	noun|flower .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	flower . 
+%mor:	noun|flower .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	flower . 
+%mor:	noun|flower .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	flower . 
+%mor:	noun|flower .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	buildings . 
+%mor:	noun|building-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	alright you have brains in your head you have feet in your shoes you can steer yourself any direction you choose . 
+%mor:	intj|alright pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 noun|brain-Plur-Acc adp|in pron|your-Prs-Gen-S2 noun|head pron|you-Prs-Nom-S2 verb|have-Fin-Ind-Pres-S2 noun|foot-Plur-Acc adp|in pron|your-Prs-Gen-S2 noun|shoe-Plur pron|you-Prs-Nom-S2 aux|can-Fin-S verb|steer-Inf-S pron|yourself-Prs-Acc-reflx-S2 det|any-Def-Ind noun|direction-Acc pron|you-Prs-Nom-S2 verb|choose-Fin-Ind-Pres-S2 .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|21|ROOT 4|3|OBJ 5|7|CASE 6|7|NMOD-POSS 7|3|OBL 8|9|NSUBJ 9|3|PARATAXIS 10|9|OBJ 11|13|CASE 12|13|NMOD-POSS 13|9|OBL 14|16|NSUBJ 15|16|AUX 16|3|PARATAXIS 17|16|IOBJ 18|19|DET 19|16|OBJ 20|21|NSUBJ 21|19|ACL-RELCL 22|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	uh oh . 
+%mor:	intj|uh intj|oh .
+%gra:	1|2|ROOT 2|1|DISCOURSE 3|1|PUNCT
+%cod:	$xds:A
+*CHI:	start to xxx . 
+%mor:	verb|start-Fin-Imp-S adp|to .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%cod:	$xds:A
+*FA1:	are you gonna talk through this whole story ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 part|go verb|talk-Inf-S adp|through det|this-Def-Dem-Sing adj|whole-S1 noun|story ?
+%gra:	1|4|AUX 2|4|NSUBJ 3|4|ADVMOD 4|8|ROOT 5|8|CASE 6|8|DET 7|8|AMOD 8|4|OBL 9|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	you're on your own . 
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adp|on pron|your-Prs-Gen-S2 noun|own .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|CASE 4|5|NMOD-POSS 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	and you know what you know . 
+%mor:	cconj|and pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|know-Fin-Ind-Pres-S2 .
+%gra:	1|3|CC 2|3|NSUBJ 3|6|ROOT 4|3|OBJ 5|6|NSUBJ 6|4|ACL-RELCL 7|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	and you are the guy who'll decide where to go . 
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|be-Fin-Ind-Pres-S2 det|the-Def-Art noun|guy pron|who-Rel~aux|will-Fin-S verb|decide-Inf-S adv|where part|to verb|go-Inf-S .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|DET 5|11|ROOT 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|11|ADVMOD 10|11|MARK 11|8|XCOMP 12|5|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	where to go ? 
+%mor:	adv|where part|to verb|go-Inf-S ?
+%gra:	1|3|ROOT 2|3|MARK 3|1|ACL 4|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	you'll look up and down streets look (th)em over with care . 
+%mor:	pron|you-Prs-Nom-S2~aux|will-Fin-S verb|look-Inf-S adp|up cconj|and adp|down noun|street-Plur-Acc verb|look-Fin-Ind-S pron|they-Prs-Acc-P3 adp|over adp|with noun|care .
+%gra:	1|3|NSUBJ 2|3|AUX 3|12|ROOT 4|7|CASE 5|6|CC 6|4|CONJ 7|3|OBJ 8|3|XCOMP 9|8|OBJ 10|8|COMPOUND-PRT 11|12|CASE 12|8|OBL 13|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	about some you will say I don't choose to go there . 
+%mor:	adv|about det|some-Def-Ind pron|you-Prs-Nom-S2 aux|will-Fin-S verb|say-Inf-S pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|choose-Inf-S part|to verb|go-Inf-S adv|there .
+%gra:	1|2|ADVMOD 2|5|OBJ 3|5|NSUBJ 4|5|AUX 5|12|ROOT 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|5|CCOMP 10|11|MARK 11|9|XCOMP 12|11|ADVMOD 13|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	with your head full of brains and your shoes full of feet . 
+%mor:	adp|with pron|your-Prs-Gen-S2 noun|head adj|full-S1 adp|of noun|brain-Plur cconj|and pron|your-Prs-Gen-S2 noun|shoe-Plur adj|full-S1 adp|of noun|foot-Plur .
+%gra:	1|3|CASE 2|3|NMOD-POSS 3|4|OBL 4|12|ROOT 5|6|CASE 6|4|OBL 7|9|CC 8|9|NMOD-POSS 9|6|CONJ 10|9|AMOD 11|12|CASE 12|10|OBL 13|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	you're too smart to go down on . 
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|too adj|smart-S1 part|to verb|go-Inf-S adp|down adp|on .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|8|ROOT 5|6|MARK 6|4|XCOMP 7|6|COMPOUND-PRT 8|6|OBL 9|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	down any not so good street . 
+%mor:	adv|down det|any-Def-Ind part|not adv|so adj|good-S1 noun|street .
+%gra:	1|6|ADVMOD 2|6|DET 3|6|ADVMOD 4|5|ADVMOD 5|6|AMOD 6|6|ROOT 7|6|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	and you may not find any you want to go down in that case of course you'll head straight out of town . 
+%mor:	cconj|and pron|you-Prs-Nom-S2 aux|may-Fin-S part|not verb|find-Inf-S det|any-Def-Ind pron|you-Prs-Nom-S2 verb|want-Fin-Ind-Pres-S2 part|to verb|go-Inf-S adp|down adp|in det|that-Def-Dem-Sing noun|case adp|of noun|course pron|you-Prs-Nom-S2~aux|will-Fin-S verb|head-Inf-S adv|straight adp|out adp|of noun|town .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|23|ROOT 6|5|OBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|10|MARK 10|8|XCOMP 11|10|COMPOUND-PRT 12|14|CASE 13|14|DET 14|10|OBL 15|19|ADVMOD 16|15|FIXED 17|19|NSUBJ 18|19|AUX 19|5|PARATAXIS 20|19|ADVMOD 21|23|CASE 22|23|CASE 23|19|OBL 24|5|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*FA1:	it's opener there in the wide open air . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 noun|opener adv|there adp|in det|the-Def-Art adj|wide-S1 adj|open-S1 noun|air .
+%gra:	1|3|NSUBJ 2|3|COP 3|9|ROOT 4|3|ADVMOD 5|9|CASE 6|9|DET 7|9|AMOD 8|9|AMOD 9|3|OBL 10|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	out there things can happen and frequently do to people as brainy and footsy as you . 
+%mor:	adp|out adv|there noun|thing-Plur aux|can-Fin-S verb|happen-Inf-S cconj|and adv|frequently verb|do-Inf-S adp|to noun|person-Plur adp|as adj|brainy-S1 cconj|and adj|footsy-S1 adp|as pron|you-Prs-Acc-S2 .
+%gra:	1|2|CASE 2|5|OBL 3|5|NSUBJ 4|5|AUX 5|16|ROOT 6|8|CC 7|8|ADVMOD 8|5|CONJ 9|10|CASE 10|8|OBL 11|12|CASE 12|8|OBL 13|14|CC 14|12|CONJ 15|16|CASE 16|12|OBL 17|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	and when things start to happen don't worry don't stew . 
+%mor:	cconj|and adv|when noun|thing-Plur verb|start-Fin-Ind-Pres-P3 part|to verb|happen-Inf-S aux|do-Fin-Imp-S~part|not verb|worry-Fin-Imp-S aux|do-Fin-Imp-S~part|not verb|stew-Fin-Imp-S .
+%gra:	1|9|CC 2|4|ADVMOD 3|4|NSUBJ 4|9|ADVCL 5|6|MARK 6|4|XCOMP 7|9|AUX 8|9|ADVMOD 9|12|ROOT 10|12|AUX 11|12|ADVMOD 12|9|CCOMP 13|9|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	just go right along . 
+%mor:	adv|just verb|go-Fin-Imp-S adv|right adv|along .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|ADVMOD 4|2|ADVMOD 5|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	you'll start happening too . 
+%mor:	pron|you-Prs-Nom-S2~aux|will-Fin-S verb|start-Inf-S verb|happen-Ger-S adv|too .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|3|XCOMP 5|4|ADVMOD 6|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	oh the places you'll go . 
+%mor:	intj|oh det|the-Def-Art noun|place-Plur pron|you-Prs-Nom-S2~aux|will-Fin-S verb|go-Inf-S .
+%gra:	1|3|DISCOURSE 2|3|DET 3|6|ROOT 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	you'll be . 
+%mor:	pron|you-Prs-Nom-S2~aux|will-Fin-S aux|be-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	on your way up . 
+%mor:	adp|on pron|your-Prs-Gen-S2 noun|way adp|up .
+%gra:	1|3|CASE 2|3|NMOD-POSS 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	you'll be . 
+%mor:	pron|you-Prs-Nom-S2~aux|will-Fin-S aux|be-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	seeing great sights . 
+%mor:	verb|see-Part-Pres-S adj|great-S1 noun|sight-Plur-Acc .
+%gra:	1|3|ROOT 2|3|AMOD 3|1|OBJ 4|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	can you . 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 .
+%gra:	1|2|ROOT 2|1|NSUBJ 3|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	sit back so I can see the words ? 
+%mor:	verb|sit-Fin-Imp-S adv|back adv|so pron|I-Prs-Nom-S1 aux|can-Fin-S verb|see-Inf-S det|the-Def-Art noun|word-Plur-Acc ?
+%gra:	1|8|ROOT 2|1|ADVMOD 3|6|ADVMOD 4|6|NSUBJ 5|6|AUX 6|1|PARATAXIS 7|8|DET 8|6|OBJ 9|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	no ! 
+%mor:	intj|no !
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	you'll join the high fliers . 
+%mor:	pron|you-Prs-Nom-S2~aux|will-Fin-S verb|join-Inf-S det|the-Def-Art adj|high-S1 noun|flier-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	who soar to high heights . 
+%mor:	pron|who-Rel verb|soar-Fin-Ind-Pres-P3 adp|to adj|high-S1 noun|height-Plur .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|AMOD 5|2|OBL 6|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	Lily lay down . 
+%mor:	propn|Lily verb|lay-Fin-Ind-Past-S3 adp|down .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|COMPOUND-PRT 4|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	do you see balloons ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S noun|balloon-Plur-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	balloons do you wanna count the balloons ? 
+%mor:	noun|balloon-Plur-Acc aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 part|wana verb|count-Inf-S det|the-Def-Art noun|balloon-Plur-Acc ?
+%gra:	1|5|OBJ 2|5|AUX 3|5|NSUBJ 4|5|ADVMOD 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	one . 
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	one . 
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	two . 
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	two . 
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	three . 
+%mor:	num|three .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	three . 
+%mor:	num|three .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	four . 
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	four . 
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	five . 
+%mor:	num|five .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	five . 
+%mor:	num|five .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	six . 
+%mor:	num|six .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	six . 
+%mor:	num|six .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	six balloons . 
+%mor:	num|six noun|balloon-Plur .
+%gra:	1|2|NUMMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	oh more balloons over here should we count these balloons ? 
+%mor:	intj|oh adj|more-Cmp-S1 noun|balloon-Plur adp|over adv|here aux|should-Fin-S pron|we-Prs-Nom-P1 verb|count-Inf-S det|this-Def-Dem-Plur noun|balloon-Plur-Acc ?
+%gra:	1|8|DISCOURSE 2|3|AMOD 3|8|DISLOCATED 4|5|CASE 5|3|NMOD 6|8|AUX 7|8|NSUBJ 8|10|ROOT 9|10|DET 10|8|OBJ 11|8|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	one . 
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	one . 
+%mor:	num|one .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	two . 
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	two . 
+%mor:	num|two .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	three . 
+%mor:	num|three .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	three . 
+%mor:	num|three .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	four . 
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	four . 
+%mor:	num|four .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	five . 
+%mor:	num|five .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	five . 
+%mor:	num|five .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	six . 
+%mor:	num|six .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	six . 
+%mor:	num|six .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	seven . 
+%mor:	num|seven .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	seven . 
+%mor:	num|seven .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	eight . 
+%mor:	num|eight .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	eight . 
+%mor:	num|eight .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	nine . 
+%mor:	num|nine .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	nine . 
+%mor:	num|nine .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	ten . 
+%mor:	num|ten .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	ten . 
+%mor:	num|ten .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	eleven . 
+%mor:	num|eleven .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	eleven . 
+%mor:	num|eleven .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	wow eleven balloons . 
+%mor:	intj|wow num|eleven noun|balloon-Plur .
+%gra:	1|3|DISCOURSE 2|3|NUMMOD 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	you won't lag behind because you'll have the speed . 
+%mor:	pron|you-Prs-Nom-S2 aux|will-Fin-S~part|not verb|le-Inf-S adv|behind sconj|because pron|you-Prs-Nom-S2~aux|will-Fin-S verb|have-Inf-S det|the-Def-Art noun|speed-Acc .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|11|ROOT 5|4|ADVMOD 6|9|MARK 7|9|NSUBJ 8|9|AUX 9|4|ADVCL 10|11|DET 11|9|OBJ 12|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	you'll pass the whole gang . 
+%mor:	pron|you-Prs-Nom-S2~aux|will-Fin-S verb|pass-Inf-S det|the-Def-Art adj|whole-S1 noun|gang-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	and you'll soon take the lead . 
+%mor:	cconj|and pron|you-Prs-Nom-S2~aux|will-Fin-S adv|soon verb|take-Inf-S det|the-Def-Art noun|lead-Acc .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|7|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	look xxx . 
+%mor:	verb|look-Fin-Imp-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	that's a blue balloon . 
+%mor:	pron|that-Dem~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|blue-S1 noun|balloon .
+%gra:	1|5|NSUBJ 2|5|COP 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	wherever you fly , you'll be best of the best . 
+%mor:	adv|wherever pron|you-Prs-Nom-S2 verb|fly-Fin-Ind-Pres-S2 cm|cm pron|you-Prs-Nom-S2~aux|will-Fin-S aux|be-Inf-S adj|good-Sup-S1 adp|of det|the-Def-Art adj|good-Sup-S1 .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|8|ADVCL 4|3|PUNCT 5|8|NSUBJ 6|8|AUX 7|8|COP 8|11|ROOT 9|11|CASE 10|11|DET 11|8|OBL 12|8|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	wherever you'll you go , you will top all the best . 
+%mor:	adv|wherever pron|you-Prs-Nom-S2~aux|will-Fin-S pron|you-Prs-Nom-S2 verb|go-Inf-S cm|cm pron|you-Prs-Nom-S2 aux|will-Fin-S verb|top-Inf-S det|all-Def-Tot det|the-Def-Art adj|good-Sup-S1 .
+%gra:	1|5|ADVMOD 2|5|NSUBJ 3|5|AUX 4|5|NSUBJ 5|9|ADVCL 6|5|PUNCT 7|9|NSUBJ 8|9|AUX 9|12|ROOT 10|12|DET-PREDET 11|12|DET 12|9|OBJ 13|9|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	yeah pink and yellow . 
+%mor:	intj|yeah adj|pink-S1 cconj|and adj|yellow-S1 .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|CC 4|2|CONJ 5|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	stripes . 
+%mor:	noun|stripe-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	hmm . 
+%mor:	intj|hmm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	except when you don't because sometimes you won't . 
+%mor:	adp|except adv|when pron|you-Prs-Nom-S2 aux|do-Fin-Ind-Pres-S2~part|not sconj|because adv|sometimes pron|you-Prs-Nom-S2 aux|will-Fin-S~part|not .
+%gra:	1|4|MARK 2|4|ADVMOD 3|4|NSUBJ 4|9|ADVCL 5|4|ADVMOD 6|9|MARK 7|9|ADVMOD 8|9|NSUBJ 9|10|ROOT 10|9|ADVMOD 11|9|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	I'm sorry to say . 
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|sorry-S1 part|to verb|say-Inf-S .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	so . 
+%mor:	adv|so .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	but sadly it's true . 
+%mor:	cconj|but adv|sadly pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|true-S1 .
+%gra:	1|5|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	that bang ups and hang ups . 
+%mor:	pron|that-Dem verb|bang-Fin-S noun|up-Plur-Acc cconj|and verb|hang-Fin-Imp-S noun|up-Plur-Acc .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|2|OBJ 4|5|CC 5|2|CONJ 6|5|OBJ 7|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	can happen to you . 
+%mor:	aux|can-Fin-S verb|happen-Inf-S adp|to pron|you-Prs-Acc-S2 .
+%gra:	1|2|AUX 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	alright . 
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	you get all hung up . 
+%mor:	pron|you-Prs-Nom-S2 aux|get-Fin-Ind-Pres-S2 det|all-Def-Tot verb|hang-Part-Past-S-irr adp|up .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|2|XCOMP 5|2|COMPOUND-PRT 6|2|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	pricklely perch . 
+%mor:	adv|pricklely noun|perch .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	and your gang will fly on . 
+%mor:	cconj|and pron|your-Prs-Gen-S2 noun|gang aux|will-Fin-S verb|fly-Inf-S adp|on .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	you'll be left in lurch . 
+%mor:	pron|you-Prs-Nom-S2~aux|will-Fin-S aux|be-Inf-S verb|leave-Part-Past-S-irr adp|in noun|lurch .
+%gra:	1|4|NSUBJ-PASS 2|4|AUX 3|4|AUX-PASS 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	oh . 
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	you see clouds ? 
+%mor:	pron|you-Prs-Nom-S2 verb|see-Fin-Ind-Pres-S2 noun|cloud-Plur-Acc ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	is he stuck ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 adj|stuck-S1 ?
+%gra:	1|3|COP 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	hmm . 
+%mor:	intj|hmm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	yep . 
+%mor:	intj|yep .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	oh what's up on here ? 
+%mor:	intj|oh pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 adv|up adp|on adv|here ?
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|COP 4|6|ROOT 5|6|CASE 6|4|OBL 7|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	can you turn the page please ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|turn-Inf-S det|the-Def-Art noun|page-Acc intj|please ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|DISCOURSE 7|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	what are you gonna do with those cloudes . 
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 part|go verb|do-Inf-S adp|with det|that-Def-Dem-Plur noun|cloude-Plur .
+%gra:	1|5|OBJ 2|5|AUX 3|5|NSUBJ 4|5|ADVMOD 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	are you giving them to him ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|give-Part-Pres-S pron|they-Prs-Acc-P3 adp|to pron|he-Prs-Acc-S3 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|IOBJ 5|6|CASE 6|3|OBL 7|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	what is he gonna do with the cloudes . 
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S3 pron|he-Prs-Nom-S3 part|go verb|do-Inf-S adp|with det|the-Def-Art noun|cloude-Plur .
+%gra:	1|5|OBJ 2|5|AUX 3|5|NSUBJ 4|5|ADVMOD 5|8|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|5|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	you're so funny . 
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adv|so adj|funny-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	you'll come down from the lurch . 
+%mor:	pron|you-Prs-Nom-S2~aux|will-Fin-S verb|come-Inf-S adp|down adp|from det|the-Def-Art noun|lurch .
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|3|COMPOUND-PRT 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	with an unpleasant bump . 
+%mor:	adp|with det|a-Ind-Art adj|unpleasant-S1 noun|bump .
+%gra:	1|4|CASE 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	and the chances are that you end up , you'll be in a slump . 
+%mor:	cconj|and det|the-Def-Art noun|chance-Plur aux|be-Fin-Ind-Pres-P3 sconj|that pron|you-Prs-Nom-S2 verb|end-Fin-Ind-Pres-S2 adp|up cm|cm pron|you-Prs-Nom-S2~aux|will-Fin-S aux|be-Inf-S adp|in det|a-Ind-Art noun|slump .
+%gra:	1|15|CC 2|3|DET 3|15|NSUBJ-OUTER 4|15|COP 5|7|MARK 6|7|NSUBJ 7|15|ADVCL 8|7|COMPOUND-PRT 9|7|PUNCT 10|15|NSUBJ 11|15|AUX 12|15|COP 13|15|CASE 14|15|DET 15|15|ROOT 16|15|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	and when you're in a slump . 
+%mor:	cconj|and adv|when pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adp|in det|a-Ind-Art noun|slump .
+%gra:	1|7|CC 2|7|ADVMOD 3|7|NSUBJ 4|7|COP 5|7|CASE 6|7|DET 7|7|ROOT 8|7|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	you're not . 
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 part|not .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:S
+*FA1:	you're not . 
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 part|not .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	in for much fun . 
+%mor:	adv|in adp|for adj|much-S1 noun|fun .
+%gra:	1|4|ROOT 2|4|CASE 3|4|AMOD 4|1|OBL 5|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	unslumping yourself is not easily done . 
+%mor:	verb|unslump-Ger-S pron|yourself-Prs-Acc-reflx-S2 aux|be-Fin-Ind-Pres-S3 part|not adv|easily verb|do-Part-Past-S-irr .
+%gra:	1|6|CSUBJ 2|1|OBJ 3|6|AUX-PASS 4|6|ADVMOD 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	you will come to a place where the streets are not marked . 
+%mor:	pron|you-Prs-Nom-S2 aux|will-Fin-S verb|come-Inf-S adp|to det|a-Ind-Art noun|place adv|where det|the-Def-Art noun|street-Plur aux|be-Fin-Ind-Pres-P3 part|not verb|mark-Part-Past-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|12|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|12|ADVMOD 8|9|DET 9|12|NSUBJ-PASS 10|12|AUX-PASS 11|12|ADVMOD 12|6|ACL-RELCL 13|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	some windows are lighted but mostly they're darked . 
+%mor:	det|some-Def-Ind noun|window-Plur aux|be-Fin-Ind-Pres-P3 verb|light-Part-Past-S cconj|but adv|mostly pron|they-Prs-Nom-P3~aux|be-Fin-Ind-Pres-P3 verb|dark-Part-Past-S .
+%gra:	1|2|DET 2|4|NSUBJ-PASS 3|4|AUX-PASS 4|9|ROOT 5|9|CC 6|9|ADVMOD 7|9|NSUBJ-PASS 8|9|AUX-PASS 9|4|CONJ 10|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	a place . 
+%mor:	det|a-Ind-Art noun|place .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	you could sprain both your elbow and chin . 
+%mor:	pron|you-Prs-Nom-S2 aux|could-Fin-S verb|sprain-Inf-S cconj|both pron|your-Prs-Gen-S2 noun|elbow-Acc cconj|and noun|chin .
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|6|CC-PRECONJ 5|6|NMOD-POSS 6|3|OBJ 7|8|CC 8|6|CONJ 9|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	mommy xxx . 
+%mor:	noun|mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	do you dare to stay out ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|dare-Inf-S part|to verb|stay-Inf-S adp|out ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|5|COMPOUND-PRT 7|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	do you dare to go in ? 
+%mor:	aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|dare-Inf-S part|to verb|go-Inf-S adp|in ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|5|COMPOUND-PRT 7|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	mommy . 
+%mor:	noun|mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	how much can you lose how much can you win ? 
+%mor:	adv|how adj|much-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|lose-Inf-S adv|how adj|much-S1 aux|can-Fin-S pron|you-Prs-Nom-S2 verb|win-Inf-S ?
+%gra:	1|2|ADVMOD 2|5|OBJ 3|5|AUX 4|5|NSUBJ 5|10|ROOT 6|7|ADVMOD 7|10|OBJ 8|10|AUX 9|10|NSUBJ 10|5|CCOMP 11|5|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	mommy . 
+%mor:	noun|mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	what Lily . 
+%mor:	det|what-Def-Int propn|Lily .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*FA1:	what ? 
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	it's xxx . 
+%mor:	pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	okay I don't know what you said but okay . 
+%mor:	intj|okay pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Rel-S1 pron|you-Prs-Nom-S2 verb|say-Fin-Ind-Past-S2-irr cconj|but intj|okay .
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|10|ROOT 6|5|OBJ 7|8|NSUBJ 8|6|ACL-RELCL 9|10|CC 10|5|DISCOURSE 11|5|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	glad you got that up you just . 
+%mor:	adj|glad-S1 pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2-irr pron|that-Dem adp|up pron|you-Prs-Nom-S2 adv|just .
+%gra:	1|7|ROOT 2|3|NSUBJ 3|1|CCOMP 4|3|OBJ 5|3|COMPOUND-PRT 6|3|VOCATIVE 7|1|ADVMOD 8|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	mommy . 
+%mor:	noun|mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	what ? 
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*FA1:	can I read please ? 
+%mor:	aux|can-Fin-S pron|I-Prs-Nom-S1 verb|read-Inf-S intj|please ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|DISCOURSE 5|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*FA1:	alright I'm gonna read now okay ? 
+%mor:	intj|alright pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 part|go verb|read-Inf-S adv|now intj|okay ?
+%gra:	1|5|DISCOURSE 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|7|ROOT 6|5|ADVMOD 7|5|DISCOURSE 8|5|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	can you listen ? 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|listen-Inf-S ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	and if you go in . 
+%mor:	cconj|and sconj|if pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 adv|in .
+%gra:	1|4|CC 2|4|MARK 3|4|NSUBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	should you turn left or right . 
+%mor:	aux|should-Fin-S pron|you-Prs-Nom-S2 verb|turn-Inf-S adj|left-S1 cconj|or adj|right-S1 .
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|3|ADVMOD 5|6|CC 6|4|CONJ 7|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	or right and three quarters or maybe not quite ? 
+%mor:	cconj|or adj|right-S1 cconj|and num|three noun|quarter-Plur cconj|or adv|maybe part|not adv|quite ?
+%gra:	1|5|CC 2|5|DISCOURSE 3|4|CC 4|2|CONJ 5|9|ROOT 6|9|CC 7|9|ADVMOD 8|9|ADVMOD 9|5|CONJ 10|5|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	mommy . 
+%mor:	noun|mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	mommy . 
+%mor:	noun|mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	what . 
+%mor:	pron|what-Int-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	I want daddy's love . 
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 noun|daddy~part|s noun|love-Acc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|NMOD-POSS 4|3|CASE 5|2|OBJ 6|2|PUNCT
+%cod:	$xds:A
+*FA1:	I love you . 
+%mor:	pron|I-Prs-Nom-S1 verb|love-Fin-Ind-Pres-S1 pron|you-Prs-Acc-S2 .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	are you talkin(g) about daddy ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|talk-Part-Pres-S adp|about noun|daddy ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	and no one ? 
+%mor:	cconj|and det|no-Def-Neg pron|one-Neg-S1 ?
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*FA1:	and Evan . 
+%mor:	cconj|and propn|Evan .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	and xxx . 
+%mor:	cconj|and .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	and grandma ? 
+%mor:	cconj|and noun|grandma ?
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*FA1:	forgot about Aron . 
+%mor:	verb|forget-Fin-Ind-Past-S1-irr adp|about propn|Aron .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*FA1:	grandma . 
+%mor:	noun|grandma .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*FA1:	are we gonna are we gonna talk to Karinsa tomorrow ? 
+%mor:	aux|be-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 adv|gonna aux|be-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 adv|gonna verb|talk-Inf-S adp|to propn|Karinsa noun|tomorrow ?
+%gra:	1|7|COP 2|7|NSUBJ 3|7|ADVMOD 4|7|AUX 5|7|NSUBJ 6|7|ADVMOD 7|10|ROOT 8|9|CASE 9|7|OBL 10|7|OBL-UNMARKED 11|7|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*FA1:	yeah ? 
+%mor:	intj|yeah ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	that would be fun . 
+%mor:	pron|that-Dem aux|would-Fin-S aux|be-Inf-S adj|fun-S1 .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|COP 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	alright . 
+%mor:	intj|alright .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	um . 
+%mor:	intj|um .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	or go around back and sneak in from behind ?
+%mor:	cconj|or verb|go-Fin-Imp-S adv|around adv|back cconj|and verb|sneak-Fin-Imp-S adp|in adp|from adv|behind ?
+%gra:	1|2|CC 2|9|ROOT 3|2|ADVMOD 4|2|ADVMOD 5|6|CC 6|2|CONJ 7|6|COMPOUND-PRT 8|9|CASE 9|6|OBL 10|2|PUNCT
+*FA1:	simple it's not I'm afraid . 
+%mor:	adj|simple-S1 pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 part|not pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|afraid-S1 .
+%gra:	1|7|ROOT 2|3|NSUBJ 3|7|COP 4|7|ADVMOD 5|7|NSUBJ 6|7|COP 7|1|PARATAXIS 8|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	you will find . 
+%mor:	pron|you-Prs-Nom-S2 aux|will-Fin-S verb|find-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	for a mind maker upper to make the mind . 
+%mor:	adp|for det|a-Ind-Art noun|mind noun|maker adj|upper-S1 part|to verb|make-Inf-S det|the-Def-Art noun|mind-Acc .
+%gra:	1|4|CASE 2|4|DET 3|4|COMPOUND 4|5|OBL 5|9|ROOT 6|7|MARK 7|5|ADVCL 8|9|DET 9|7|OBJ 10|5|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	mommy can I get xxx ? 
+%mor:	noun|mommy-Acc aux|can-Fin-S pron|I-Prs-Nom-S1 verb|get-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%cod:	$xds:A
+*CHI:	please . 
+%mor:	intj|please .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	you got your pepsi . 
+%mor:	pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2-irr pron|your-Prs-Gen-S2 noun|pepsi-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	you can get so confused that you'll start . 
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|get-Inf-S adv|so adj|confused-S1 sconj|that pron|you-Prs-Nom-S2~aux|will-Fin-S verb|start-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|9|ROOT 4|5|ADVMOD 5|3|XCOMP 6|9|MARK 7|9|NSUBJ 8|9|AUX 9|5|CCOMP 10|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	can you stop blocking the words it's hard enough to read this . 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|stop-Inf-S verb|block-Ger-S det|the-Def-Art noun|word-Plur-Acc pron|it-Prs-Nom-S3~aux|be-Fin-Ind-Pres-S3 adj|hard-S1 adv|enough part|to verb|read-Inf-S pron|this-Dem-S1 .
+%gra:	1|3|AUX 2|3|NSUBJ 3|13|ROOT 4|3|XCOMP 5|6|DET 6|4|OBJ 7|9|NSUBJ 8|9|COP 9|6|ACL-RELCL 10|9|ADVMOD 11|12|MARK 12|9|ADVCL 13|12|OBJ 14|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	you can get so confused that you'll start in to race . 
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|get-Inf-S adv|so adj|confused-S1 sconj|that pron|you-Prs-Nom-S2~aux|will-Fin-S verb|start-Inf-S adp|in part|to verb|race-Inf-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|12|ROOT 4|5|ADVMOD 5|3|XCOMP 6|9|MARK 7|9|NSUBJ 8|9|AUX 9|5|CCOMP 10|9|COMPOUND-PRT 11|12|MARK 12|9|ADVCL 13|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	down long wiggled roads . 
+%mor:	adv|down adj|long-S1 verb|wiggle-Part-Past-S noun|road-Plur .
+%gra:	1|4|ADVMOD 2|3|AMOD 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	at a break necking pace . 
+%mor:	adp|at det|a-Ind-Art noun|break noun|necking-Ger noun|pace .
+%gra:	1|5|CASE 2|5|DET 3|5|COMPOUND 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	and grind on for miles across weirdish wild space . 
+%mor:	cconj|and verb|grind-Fin-Imp-S adp|on adp|for noun|mile-Plur adp|across adj|weirdish-S1 adj|wild-S1 noun|space .
+%gra:	1|2|CC 2|9|ROOT 3|2|COMPOUND-PRT 4|5|CASE 5|2|OBL 6|9|CASE 7|9|AMOD 8|9|AMOD 9|2|OBL 10|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	headed I fear toward a most usless place . 
+%mor:	verb|head-Part-Past-S pron|I-Prs-Nom-S1 verb|fear-Fin-Ind-Pres-S1 adp|toward det|a-Ind-Art adv|most adj|usless-S1 noun|place .
+%gra:	1|3|ADVCL 2|3|NSUBJ 3|8|ROOT 4|8|CASE 5|8|DET 6|7|ADVMOD 7|8|AMOD 8|3|OBL 9|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	the waiting place . 
+%mor:	det|the-Def-Art noun|waiting-Ger noun|place .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	for people just waiting . 
+%mor:	adp|for noun|person-Plur adv|just verb|wait-Part-Pres-S .
+%gra:	1|2|CASE 2|4|ROOT 3|4|ADVMOD 4|2|ACL 5|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	waiting for a train to go . 
+%mor:	verb|wait-Part-Pres-S adp|for det|a-Ind-Art noun|train part|to verb|go-Inf-S .
+%gra:	1|6|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|6|MARK 6|1|ADVCL 7|1|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	mommy . 
+%mor:	noun|mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	or a bus to come or a plane to go , or the mail to come or the rain to go , or the phone to ring or the snow to snow . 
+%mor:	cconj|or det|a-Ind-Art noun|bus part|to verb|come-Inf-S cconj|or det|a-Ind-Art noun|plane part|to verb|go-Inf-S cm|cm cconj|or det|the-Def-Art noun|mail part|to verb|come-Inf-S cconj|or det|the-Def-Art noun|rain part|to verb|go-Inf-S cm|cm cconj|or det|the-Def-Art noun|phone part|to verb|ring-Inf-S cconj|or det|the-Def-Art noun|snow part|to verb|snow-Inf-S .
+%gra:	1|3|CC 2|3|DET 3|32|ROOT 4|5|MARK 5|3|ACL 6|8|CC 7|8|DET 8|5|CONJ 9|10|MARK 10|5|ADVCL 11|14|PUNCT 12|14|CC 13|14|DET 14|3|CONJ 15|16|MARK 16|14|ACL 17|19|CC 18|19|DET 19|16|CONJ 20|21|MARK 21|16|ADVCL 22|25|PUNCT 23|25|CC 24|25|DET 25|3|CONJ 26|27|MARK 27|25|ACL 28|30|CC 29|30|DET 30|27|CONJ 31|32|MARK 32|27|ADVCL 33|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	or waiting around for yes or no or waiting for their hair to grow . 
+%mor:	cconj|or verb|wait-Part-Pres-S adv|around adp|for intj|yes cconj|or intj|no cconj|or verb|wait-Part-Pres-S adp|for pron|their-Prs-Gen-P3 noun|hair part|to verb|grow-Inf-S .
+%gra:	1|2|CC 2|14|ROOT 3|2|ADVMOD 4|5|CASE 5|2|OBL 6|7|CC 7|5|CONJ 8|9|CC 9|2|CONJ 10|12|CASE 11|12|NMOD-POSS 12|9|OBL 13|14|MARK 14|9|ADVCL 15|2|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	everyone is just waiting . 
+%mor:	pron|everyone-Tot-S1 aux|be-Fin-Ind-Pres-S3 adv|just verb|wait-Part-Pres-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	waiting for the fish to bite or waiting . 
+%mor:	verb|wait-Part-Pres-S sconj|for det|the-Def-Art noun|fish-Plur part|to verb|bite-Inf-S cconj|or verb|wait-Ger-S .
+%gra:	1|8|ROOT 2|6|MARK 3|4|DET 4|6|NSUBJ 5|6|MARK 6|1|ADVCL 7|8|CC 8|6|CONJ 9|1|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	for wind to fly a kite . 
+%mor:	adp|for noun|wind part|to verb|fly-Inf-S det|a-Ind-Art noun|kite-Acc .
+%gra:	1|2|CASE 2|6|ROOT 3|4|MARK 4|2|ACL 5|6|DET 6|4|OBJ 7|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	or waiting aroud for friday night or perhaps . 
+%mor:	cconj|or verb|wait-Part-Pres-S adv|aroud adp|for propn|Friday noun|night cconj|or adv|perhaps .
+%gra:	1|2|CC 2|8|ROOT 3|2|ADVMOD 4|6|CASE 5|6|COMPOUND 6|2|OBL 7|8|CC 8|6|CONJ 9|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	or waiting perhaps . 
+%mor:	cconj|or verb|wait-Part-Pres-S adv|perhaps .
+%gra:	1|2|CC 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	for their uncle Jake . 
+%mor:	adp|for pron|their-Prs-Gen-P3 noun|uncle propn|Jake .
+%gra:	1|3|CASE 2|3|NMOD-POSS 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	or a pot to boil or better break . 
+%mor:	cconj|or det|a-Ind-Art noun|pot part|to verb|boil-Inf-S cconj|or adj|good-Cmp-S1 verb|break-Inf-S .
+%gra:	1|3|CC 2|3|DET 3|8|ROOT 4|5|MARK 5|3|ACL 6|8|CC 7|8|AMOD 8|5|CONJ 9|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	or a string of pearls or a pair of pants . 
+%mor:	cconj|or det|a-Ind-Art noun|string-Ger adp|of noun|pearl-Plur cconj|or det|a-Ind-Art noun|pair adp|of noun|pants-Ptan .
+%gra:	1|3|CC 2|3|DET 3|10|ROOT 4|5|CASE 5|3|NMOD 6|8|CC 7|8|DET 8|5|CONJ 9|10|CASE 10|8|NMOD 11|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	or . 
+%mor:	cconj|or .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	a wig with curls . 
+%mor:	det|a-Ind-Art noun|wig adp|with noun|curl-Plur .
+%gra:	1|2|DET 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	or another chance . 
+%mor:	cconj|or det|another-Def-Ind noun|chance .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	everyone . 
+%mor:	pron|everyone-Tot-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	everyone is just waiting . 
+%mor:	pron|everyone-Tot-S1 aux|be-Fin-Ind-Pres-S3 adv|just verb|wait-Part-Pres-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	what do you see ? 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	a xxx . 
+%mor:	x|a .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	xxx . 
+%cod:	$xds:A
+*FA1:	what do you see ? 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	no . 
+%mor:	intj|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	is that phone ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|phone ?
+%gra:	1|3|COP 2|3|DET 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	is that kite ? 
+%mor:	aux|be-Fin-Ind-Pres-S3 det|that-Def-Dem-Sing noun|kite ?
+%gra:	1|3|COP 2|3|DET 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	waiting your line ? 
+%mor:	verb|wait-Part-Pres-S pron|your-Prs-Gen-S2 noun|line-Acc ?
+%gra:	1|3|ROOT 2|3|NMOD-POSS 3|1|OBJ 4|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	lots of waiting . 
+%mor:	noun|lot-Plur adp|of noun|waiting-Ger .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	hmm are you getting tired ? 
+%mor:	intj|hmm aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|get-Part-Pres-S adj|tired-S1 ?
+%gra:	1|4|DISCOURSE 2|4|AUX 3|4|NSUBJ 4|5|ROOT 5|4|XCOMP 6|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	no that's not for you somehow you'll escape . 
+%mor:	intj|no pron|that-Dem~aux|be-Fin-Ind-Pres-S3 part|not adp|for pron|you-Prs-Acc-S2 adv|somehow pron|you-Prs-Nom-S2~aux|will-Fin-S verb|escape-Inf-S .
+%gra:	1|6|DISCOURSE 2|6|NSUBJ 3|6|COP 4|6|ADVMOD 5|6|CASE 6|10|ROOT 7|10|ADVMOD 8|10|NSUBJ 9|10|AUX 10|6|PARATAXIS 11|6|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	all that waiting and staying you'll find the bright . 
+%mor:	det|all-Def-Tot pron|that-Rel noun|waiting-Ger cconj|and verb|stay-Part-Pres-S pron|you-Prs-Nom-S2~aux|will-Fin-S verb|find-Inf-S det|the-Def-Art adj|bright-S1 .
+%gra:	1|3|DET-PREDET 2|3|NSUBJ 3|8|ADVCL 4|5|CC 5|3|CONJ 6|8|NSUBJ 7|8|AUX 8|10|ROOT 9|10|DET 10|8|OBJ 11|8|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*FA1:	how about waiting and , somehow you'll escape of that waiting and staying . 
+%mor:	adv|how sconj|about verb|wait-Part-Pres-S cconj|and cm|cm adv|somehow pron|you-Prs-Nom-S2~aux|will-Fin-S verb|escape-Inf-S adp|of det|that-Def-Dem-Sing noun|waiting-Ger cconj|and noun|stay-Ger .
+%gra:	1|9|ADVMOD 2|3|MARK 3|1|ACL 4|9|CC 5|4|PUNCT 6|9|ADVMOD 7|9|NSUBJ 8|9|AUX 9|14|ROOT 10|12|CASE 11|12|DET 12|9|OBL 13|14|CC 14|12|CONJ 15|9|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	you'll the bright places . 
+%mor:	pron|you-Prs-Nom-S2~aux|will-Fin-S det|the-Def-Art adj|bright-S1 noun|place-Plur .
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|DET 4|5|AMOD 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	where boom bands are playing . 
+%mor:	adv|where noun|boom noun|band-Plur aux|be-Fin-Ind-Pres-P3 verb|play-Part-Pres-S .
+%gra:	1|5|ADVMOD 2|3|COMPOUND 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	with banner flipping flapping with banner flip flapping . 
+%mor:	adp|with noun|banner noun|flip-Ger verb|flap-Ger-S adp|with noun|banner noun|flip noun|flap-Ger .
+%gra:	1|3|CASE 2|3|COMPOUND 3|4|NSUBJ 4|8|ROOT 5|8|CASE 6|8|COMPOUND 7|8|COMPOUND 8|4|OBL 9|4|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	once more you'll ride high . 
+%mor:	sconj|once adj|more-Cmp-S1 pron|you-Prs-Nom-S2~aux|will-Fin-S verb|ride-Inf-S adj|high-S1 .
+%gra:	1|2|CASE 2|5|OBL 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|ADVMOD 7|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	ready for anything under the sky . 
+%mor:	adj|ready-S1 adp|for pron|anything-Ind-S1 adp|under det|the-Def-Art noun|sky .
+%gra:	1|6|ROOT 2|3|CASE 3|1|OBL 4|6|CASE 5|6|DET 6|3|NMOD 7|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	ready because you're that kind of guy . 
+%mor:	adj|ready-S1 sconj|because pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 det|that-Def-Dem-Sing noun|kind adp|of noun|guy .
+%gra:	1|8|ROOT 2|6|MARK 3|6|NSUBJ 4|6|COP 5|6|DET 6|1|ADVCL 7|8|CASE 8|6|NMOD 9|1|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	kind of a guy . 
+%mor:	noun|kind adp|of det|a-Ind-Art noun|guy .
+%gra:	1|4|ADVMOD 2|1|FIXED 3|4|DET 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	oh the places you'll go . 
+%mor:	intj|oh det|the-Def-Art noun|place-Plur pron|you-Prs-Nom-S2~aux|will-Fin-S verb|go-Inf-S .
+%gra:	1|3|DISCOURSE 2|3|DET 3|6|ROOT 4|6|NSUBJ 5|6|AUX 6|3|ACL-RELCL 7|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	there is fun to be done . 
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-S3 noun|fun part|to aux|be-Inf-S verb|do-Part-Past-S-irr .
+%gra:	1|2|EXPL 2|6|ROOT 3|2|NSUBJ 4|6|MARK 5|6|AUX-PASS 6|3|ACL 7|2|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*FA1:	oh you got that . 
+%mor:	intj|oh pron|you-Prs-Nom-S2 verb|get-Fin-Ind-Past-S2-irr pron|that-Dem .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	there are points to be scored there are games to be won . 
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 noun|point-Plur part|to aux|be-Inf-S verb|score-Part-Past-S pron|there-Int-S1 aux|be-Fin-Ind-Pres-P3 noun|game-Plur part|to aux|be-Inf-S verb|win-Part-Past-S-irr .
+%gra:	1|2|EXPL 2|12|ROOT 3|2|NSUBJ 4|6|MARK 5|6|AUX-PASS 6|3|ACL 7|8|EXPL 8|9|COP 9|2|NSUBJ 10|12|MARK 11|12|AUX-PASS 12|9|ACL 13|2|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	and the magical things . 
+%mor:	cconj|and det|the-Def-Art adj|magical-S1 noun|thing-Plur .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	you can do with that . 
+%mor:	pron|you-Prs-Nom-S2 aux|can-Fin-S verb|do-Inf-S adp|with pron|that-Dem .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	ball . 
+%mor:	noun|ball .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	will make you the winningest winner of all . 
+%mor:	aux|will-Fin-S verb|make-Inf-S pron|you-Prs-Acc-S2 det|the-Def-Art adj|winningest-Sup-S1 noun|winner adp|of det|all-Def-Tot .
+%gra:	1|2|AUX 2|8|ROOT 3|2|OBJ 4|6|DET 5|6|AMOD 6|2|XCOMP 7|8|CASE 8|6|NMOD 9|2|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	fame you'll be famous as famous can be . 
+%mor:	noun|fame pron|you-Prs-Nom-S2~aux|will-Fin-S aux|be-Inf-S adj|famous-S1 sconj|as adj|famous-S1 aux|can-Fin-S aux|be-Inf-S .
+%gra:	1|5|VOCATIVE 2|5|NSUBJ 3|5|AUX 4|5|COP 5|9|ROOT 6|9|MARK 7|9|NSUBJ 8|9|AUX 9|5|ADVCL 10|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	with the whole wide world watching you win tv . 
+%mor:	adp|with det|the-Def-Art adj|whole-S1 adj|wide-S1 noun|world verb|watch-Ger-S pron|you-Prs-Nom-S2 verb|win-Fin-Ind-Pres-S2 noun|TV-Acc .
+%gra:	1|5|CASE 2|5|DET 3|5|AMOD 4|5|AMOD 5|9|ROOT 6|5|ACL 7|6|OBJ 8|6|XCOMP 9|8|OBJ 10|5|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	what are you doing ? 
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	alright get comfy would you ouch . 
+%mor:	intj|alright verb|get-Fin-Imp-S adj|comfy-S1 aux|would-Fin-S pron|you-Prs-Nom-S2 intj|ouch .
+%gra:	1|2|DISCOURSE 2|6|ROOT 3|2|XCOMP 4|2|AUX 5|6|NSUBJ 6|2|DISCOURSE 7|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	hi . 
+%mor:	intj|hi .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	how are you ? 
+%mor:	adv|how aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 ?
+%gra:	1|3|ROOT 2|1|COP 3|1|NSUBJ 4|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	are you my sweetie pie ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 pron|my-Prs-Gen-S1 noun|sweetie noun|pie ?
+%gra:	1|5|COP 2|5|NSUBJ 3|5|NMOD-POSS 4|5|COMPOUND 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*FA1:	yeah ? 
+%mor:	intj|yeah ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	hi . 
+%mor:	intj|hi .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	xxx . 
+%cod:	$txt:C; $xds:T
+*FA1:	are you getting tired ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|get-Part-Pres-S adj|tired-S1 ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	should we finish our book ? 
+%mor:	aux|should-Fin-S pron|we-Prs-Nom-P1 verb|finish-Inf-S pron|our-Prs-Gen-P1 noun|book-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|5|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	except when they don't because sometimes they won't . 
+%mor:	adp|except adv|when pron|they-Prs-Nom-P3 aux|do-Fin-Ind-Pres-P3~part|not sconj|because adv|sometimes pron|they-Prs-Nom-P3 aux|will-Fin-S~part|not .
+%gra:	1|4|MARK 2|4|ADVMOD 3|4|NSUBJ 4|9|ADVCL 5|4|ADVMOD 6|9|MARK 7|9|ADVMOD 8|9|NSUBJ 9|10|ROOT 10|9|ADVMOD 11|9|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	I'm afraid that sometimes . 
+%mor:	pron|I-Prs-Nom-S1~aux|be-Fin-Ind-Pres-S1 adj|afraid-S1 sconj|that adv|sometimes .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|MARK 5|3|ADVMOD 6|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	you'll play lonely games too . 
+%mor:	pron|you-Prs-Nom-S2~aux|will-Fin-S verb|play-Inf-S adj|lonely-S1 noun|game-Plur-Acc adv|too .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|5|AMOD 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	games you can't win . 
+%mor:	noun|game-Plur pron|you-Prs-Nom-S2 aux|can-Fin-S~part|not verb|win-Inf-S .
+%gra:	1|5|ROOT 2|5|NSUBJ 3|5|AUX 4|5|ADVMOD 5|1|ACL-RELCL 6|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	(be)cause you play against you . 
+%mor:	sconj|because pron|you-Prs-Nom-S2 verb|play-Fin-Ind-Pres-S2 adp|against pron|you-Prs-Acc-S2 .
+%gra:	1|3|MARK 2|3|NSUBJ 3|5|ROOT 4|5|CASE 5|3|OBL 6|3|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	yes Lily . 
+%mor:	intj|yes propn|Lily .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	all alone whether you like it or not alone will be something you'll be quite a lot . 
+%mor:	det|all-Def-Tot adj|alone-S1 sconj|whether pron|you-Prs-Nom-S2 verb|like-Fin-Ind-Pres-S2 pron|it-Prs-Acc-S3 cconj|or part|not adv|alone aux|will-Fin-S aux|be-Inf-S pron|something-Ind-S1 pron|you-Prs-Nom-S2~aux|will-Fin-S aux|be-Inf-S det|quite-Def-Ind det|a-Ind-Art noun|lot .
+%gra:	1|12|NSUBJ 2|12|ADVMOD 3|5|MARK 4|5|NSUBJ 5|12|ADVCL 6|5|OBJ 7|9|CC 8|9|ADVMOD 9|5|CONJ 10|12|AUX 11|12|COP 12|18|ROOT 13|18|NSUBJ 14|18|AUX 15|18|COP 16|18|DET-PREDET 17|18|DET 18|12|ACL-RELCL 19|12|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	and when you're alone , there's a very good chance . 
+%mor:	cconj|and adv|when pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adj|alone-S1 cm|cm pron|there-Int-S1~verb|be-Fin-Ind-Pres-S3 det|a-Ind-Art adv|very adj|good-S1 noun|chance .
+%gra:	1|8|CC 2|5|ADVMOD 3|5|NSUBJ 4|5|COP 5|8|ADVCL 6|5|PUNCT 7|8|EXPL 8|12|ROOT 9|12|DET 10|11|ADVMOD 11|12|AMOD 12|8|NSUBJ 13|8|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	you'll meet some things . 
+%mor:	pron|you-Prs-Nom-S2~aux|will-Fin-S verb|meet-Inf-S det|some-Def-Ind noun|thing-Plur-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	that scare you right out of your pants . 
+%mor:	pron|that-Dem verb|scare-Fin-Ind-Pres-P3 pron|you-Prs-Acc-S2 adv|right adp|out adp|of pron|your-Prs-Gen-S2 noun|pants-Ptan .
+%gra:	1|2|NSUBJ 2|8|ROOT 3|2|OBJ 4|8|ADVMOD 5|8|CASE 6|8|CASE 7|8|NMOD-POSS 8|2|OBL 9|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	there are some down the road between . 
+%mor:	pron|there-Int-S1 verb|be-Fin-Ind-Pres-P3 det|some-Def-Ind adp|down det|the-Def-Art noun|road adp|between .
+%gra:	1|2|EXPL 2|7|ROOT 3|2|NSUBJ 4|6|CASE 5|6|DET 6|2|NSUBJ 7|2|OBL 8|2|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	hither and the yon . 
+%mor:	adv|hither cconj|and det|the-Def-Art noun|yon .
+%gra:	1|4|ROOT 2|4|CC 3|4|DET 4|1|CONJ 5|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	that can scare you so much you won't want to go on . 
+%mor:	pron|that-Dem aux|can-Fin-S verb|scare-Inf-S pron|you-Prs-Acc-S2 adv|so adj|much-S1 pron|you-Prs-Nom-S2 aux|will-Fin-S~part|not verb|want-Inf-S part|to verb|go-Inf-S adp|on .
+%gra:	1|3|NSUBJ 2|3|AUX 3|13|ROOT 4|3|OBJ 5|6|ADVMOD 6|3|ADVMOD 7|10|NSUBJ 8|10|AUX 9|10|ADVMOD 10|6|ADVCL-RELCL 11|12|MARK 12|10|XCOMP 13|12|COMPOUND-PRT 14|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	what are you doing ? 
+%mor:	pron|what-Int-S1 aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|do-Part-Pres-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	hey please remove that guy I don't want you to fall . 
+%mor:	intj|hey intj|please verb|remove-Fin-Imp-S det|that-Def-Dem-Sing noun|guy-Acc pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|want-Inf-S pron|you-Prs-Acc-S2 part|to verb|fall-Inf-S .
+%gra:	1|3|DISCOURSE 2|3|DISCOURSE 3|12|ROOT 4|5|DET 5|3|OBJ 6|9|NSUBJ 7|9|AUX 8|9|ADVMOD 9|5|ACL-RELCL 10|9|OBJ 11|12|MARK 12|9|XCOMP 13|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	can you hold still . 
+%mor:	aux|can-Fin-S pron|you-Prs-Nom-S2 verb|hold-Inf-S adv|still .
+%gra:	1|3|AUX 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	we're almost done . 
+%mor:	pron|we-Prs-Nom-P1~aux|be-Fin-Ind-Pres-P1 adv|almost adj|done-S1 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	getting close . 
+%mor:	verb|get-Part-Pres-S adj|close-S1 .
+%gra:	1|2|ROOT 2|1|XCOMP 3|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	oh what do you see ? 
+%mor:	intj|oh pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S ?
+%gra:	1|5|DISCOURSE 2|5|OBJ 3|5|AUX 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	are those purple monsters ? 
+%mor:	aux|be-Fin-Ind-Pres-P3 det|that-Def-Dem-Plur adj|purple-S1 noun|monster-Plur ?
+%gra:	1|4|COP 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	sorry . 
+%mor:	adj|sorry-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	but on you will go . 
+%mor:	cconj|but sconj|on pron|you-Prs-Nom-S2 aux|will-Fin-S verb|go-Inf-S .
+%gra:	1|5|CC 2|5|MARK 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	though the weather be foul . 
+%mor:	sconj|though det|the-Def-Art noun|weather aux|be-Fin-S adj|foul-S1 .
+%gra:	1|5|MARK 2|3|DET 3|5|NSUBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	on you will go . 
+%mor:	sconj|on pron|you-Prs-Nom-S2 aux|will-Fin-S verb|go-Inf-S .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	though your enemies prowl . 
+%mor:	sconj|though pron|your-Prs-Gen-S2 noun|enemy-Plur verb|prowl-Fin-Ind-Pres-P3 .
+%gra:	1|4|MARK 2|3|NMOD-POSS 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	on you will go . 
+%mor:	sconj|on pron|you-Prs-Nom-S2 aux|will-Fin-S verb|go-Inf-S .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	through the hakken kraks howl . 
+%mor:	adp|through det|the-Def-Art noun|hakken noun|krak-Plur verb|howl-Fin-Ind-Pres-P3 .
+%gra:	1|4|CASE 2|4|DET 3|4|COMPOUND 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	onward up many a frightening creek . 
+%mor:	verb|onward-Fin-Imp-S adp|up adj|many-S1 det|a-Ind-Art adj|frightening-S1 noun|creek-Acc .
+%gra:	1|6|ROOT 2|1|COMPOUND-PRT 3|6|AMOD 4|6|DET 5|6|AMOD 6|1|OBJ 7|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	though your arms . 
+%mor:	sconj|though pron|your-Prs-Gen-S2 noun|arm-Plur .
+%gra:	1|3|MARK 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	make it sore . 
+%mor:	verb|make-Fin-Imp-S pron|it-Prs-Acc-S3 adj|sore-S1 .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	and your sneakers may leak . 
+%mor:	cconj|and pron|your-Prs-Gen-S2 noun|sneaker-Plur aux|may-Fin-S verb|leak-Inf-S .
+%gra:	1|5|CC 2|3|NMOD-POSS 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	on and on you will hike . 
+%mor:	adv|on cconj|and adv|on pron|you-Prs-Nom-S2 aux|will-Fin-S verb|hike-Inf-S .
+%gra:	1|6|ADVMOD 2|3|CC 3|1|CONJ 4|6|NSUBJ 5|6|AUX 6|6|ROOT 7|6|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	and I know you can go hike far . 
+%mor:	cconj|and pron|I-Prs-Nom-S1 verb|know-Fin-Ind-Pres-S1 pron|you-Prs-Nom-S2 aux|can-Fin-S verb|go-Inf-S verb|hike-Inf-S adv|far .
+%gra:	1|3|CC 2|3|NSUBJ 3|8|ROOT 4|6|NSUBJ 5|6|AUX 6|3|CCOMP 7|6|XCOMP 8|7|ADVMOD 9|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	and face up to your problems whatever they are . 
+%mor:	cconj|and verb|face-Fin-Imp-S adp|up adp|to pron|your-Prs-Gen-S2 noun|problem-Plur pron|whatever-Rel-S1 pron|they-Prs-Nom-P3 aux|be-Fin-Ind-Pres-P3 .
+%gra:	1|2|CC 2|9|ROOT 3|2|COMPOUND-PRT 4|6|CASE 5|6|NMOD-POSS 6|2|OBL 7|6|ACL-RELCL 8|9|NSUBJ 9|7|ACL-RELCL 10|2|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	you'll get mixed up of course as you already know . 
+%mor:	pron|you-Prs-Nom-S2~aux|will-Fin-S aux|get-Inf-S verb|mix-Part-Past-S adp|up adp|of noun|course sconj|as pron|you-Prs-Nom-S2 adv|already verb|know-Fin-Ind-Pres-S2 .
+%gra:	1|4|NSUBJ-PASS 2|4|AUX 3|4|AUX-PASS 4|11|ROOT 5|4|COMPOUND-PRT 6|4|ADVMOD 7|6|FIXED 8|11|MARK 9|11|NSUBJ 10|11|ADVMOD 11|4|ADVCL 12|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	you'll get mixed up . 
+%mor:	pron|you-Prs-Nom-S2~aux|will-Fin-S aux|get-Inf-S verb|mix-Part-Past-S adp|up .
+%gra:	1|4|NSUBJ-PASS 2|4|AUX 3|4|AUX-PASS 4|5|ROOT 5|4|COMPOUND-PRT 6|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	with many strange birds as you go . 
+%mor:	adp|with adj|many-S1 adj|strange-S1 noun|bird-Plur sconj|as pron|you-Prs-Nom-S2 verb|go-Fin-Ind-Pres-S2 .
+%gra:	1|4|CASE 2|4|AMOD 3|4|AMOD 4|7|ROOT 5|7|MARK 6|7|NSUBJ 7|4|ADVCL 8|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	so be sure when you step . 
+%mor:	adv|so aux|be-Fin-Imp-S adj|sure-S1 adv|when pron|you-Prs-Nom-S2 verb|step-Fin-Ind-Pres-S2 .
+%gra:	1|3|ADVMOD 2|3|COP 3|6|ROOT 4|6|ADVMOD 5|6|NSUBJ 6|3|ADVCL 7|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	you step with great with care and great tact . 
+%mor:	pron|you-Prs-Nom-S2 verb|step-Fin-Ind-Pres-S2 adp|with adj|great-S1 adp|with noun|care cconj|and adj|great-S1 noun|tact .
+%gra:	1|2|NSUBJ 2|9|ROOT 3|4|CASE 4|2|OBL 5|6|CASE 6|2|OBL 7|9|CC 8|9|AMOD 9|6|CONJ 10|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	and remember that life's a great balancing act . 
+%mor:	cconj|and verb|remember-Fin-Imp-S sconj|that noun|life~aux|be-Fin-Ind-Pres-S3 det|a-Ind-Art adj|great-S1 noun|balancing-Ger noun|act .
+%gra:	1|2|CC 2|9|ROOT 3|9|MARK 4|9|NSUBJ 5|9|COP 6|9|DET 7|9|AMOD 8|9|COMPOUND 9|2|CCOMP 10|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	just never forget to be . 
+%mor:	adv|just adv|never verb|forget-Fin-Imp-S part|to aux|be-Inf-S .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|5|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	dexterous . 
+%mor:	adj|dexterous-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	and dexterous and deft . 
+%mor:	cconj|and adj|dexterous-S1 cconj|and adj|deft-S1 .
+%gra:	1|2|CC 2|4|ROOT 3|4|CC 4|2|CONJ 5|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	and never mix up , your right foot with your left . 
+%mor:	cconj|and adv|never verb|mix-Fin-Imp-S adp|up cm|cm pron|your-Prs-Gen-S2 adj|right-S1 noun|foot adp|with pron|your-Prs-Gen-S2 noun|left .
+%gra:	1|3|CC 2|3|ADVMOD 3|11|ROOT 4|3|COMPOUND-PRT 5|8|PUNCT 6|8|NMOD-POSS 7|8|AMOD 8|3|PARATAXIS 9|11|CASE 10|11|NMOD-POSS 11|8|NMOD 12|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	okay . 
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	and will you succeed ? 
+%mor:	cconj|and aux|will-Fin-S pron|you-Prs-Nom-S2 verb|succeed-Inf-S ?
+%gra:	1|4|CC 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	yes you will indeed . 
+%mor:	intj|yes pron|you-Prs-Nom-S2 aux|will-Fin-S adv|indeed .
+%gra:	1|3|DISCOURSE 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	ninety eight and three quarter percent guaranteed . 
+%mor:	num|ninety num|eight cconj|and num|three noun|quarter noun|percent verb|guarantee-Part-Past-S .
+%gra:	1|2|NUMMOD 2|7|OBL-UNMARKED 3|6|CC 4|5|NUMMOD 5|6|NUMMOD 6|7|OBL-UNMARKED 7|7|ROOT 8|7|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	kid , you'll move mountains . 
+%mor:	noun|kid cm|cm pron|you-Prs-Nom-S2~aux|will-Fin-S verb|move-Inf-S noun|mountain-Plur-Acc .
+%gra:	1|5|VOCATIVE 2|1|PUNCT 3|5|NSUBJ 4|5|AUX 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	mommy mommy xxx . 
+%mor:	noun|mommy noun|mommy .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	oh . 
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	you like that page ? 
+%mor:	pron|you-Prs-Nom-S2 verb|like-Fin-Ind-Pres-S2 det|that-Def-Dem-Sing noun|page-Acc ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	what do you see ? 
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 verb|see-Inf-S ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	a . 
+%mor:	x|a .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*CHI:	b(ike) . 
+%mor:	noun|bike .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	yeah . 
+%mor:	intj|yeah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	a bike ? 
+%mor:	det|a-Ind-Art noun|bike ?
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	that does kind of look like bike doesn't it ? 
+%mor:	pron|that-Dem aux|do-Fin-Ind-Pres-S3 noun|kind adp|of verb|look-Inf-S sconj|like noun|bike aux|do-Fin-Ind-Pres-S3~part|not pron|it-Prs-Nom-S3 ?
+%gra:	1|5|NSUBJ 2|5|AUX 3|5|ADVMOD 4|3|FIXED 5|10|ROOT 6|8|MARK 7|8|NSUBJ 8|5|ADVCL 9|8|ADVMOD 10|5|ADVCL 11|5|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	a b(ike) . 
+%mor:	det|a-Ind-Art noun|bike .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$xds:A
+*FA1:	xxx see all the wheels ? 
+%mor:	verb|see-Fin-Imp-S det|all-Def-Tot det|the-Def-Art noun|wheel-Plur-Acc ?
+%gra:	1|4|ROOT 2|4|DET-PREDET 3|4|DET 4|1|OBJ 5|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	bike . 
+%mor:	noun|bike .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	looks like a bike doesn't it ? 
+%mor:	verb|look-Fin-Ind-Pres-S3 sconj|like det|a-Ind-Art noun|bike aux|do-Fin-Ind-Pres-S3~part|not pron|it-Prs-Nom-S3 ?
+%gra:	1|7|ROOT 2|5|MARK 3|4|DET 4|5|NSUBJ 5|1|ADVCL 6|5|ADVMOD 7|1|ADVCL 8|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	his moving that mountain . 
+%mor:	pron|his-Prs-Gen-S3 verb|move-Ger-S det|that-Def-Dem-Sing noun|mountain-Acc .
+%gra:	1|2|NMOD-POSS 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*FA1:	on the wheels . 
+%mor:	adp|on det|the-Def-Art noun|wheel-Plur .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	I mean if I was gonna move the mountain wheels was the way I do it . 
+%mor:	pron|I-Prs-Nom-S1 verb|mean-Fin-Ind-Pres-S1 sconj|if pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Past-S1-irr part|go verb|move-Inf-S det|the-Def-Art noun|mountain noun|wheel-Plur-Acc aux|be-Fin-Ind-Past-S3-irr det|the-Def-Art noun|way pron|I-Prs-Nom-S1 verb|do-Fin-Ind-Pres-S1 pron|it-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|13|PARATAXIS 3|7|MARK 4|7|NSUBJ 5|7|AUX 6|7|ADVMOD 7|13|ADVCL 8|10|DET 9|10|COMPOUND 10|7|OBJ 11|13|COP 12|13|DET 13|16|ROOT 14|15|NSUBJ 15|13|ACL-RELCL 16|15|OBJ 17|13|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	things are much more efficient . 
+%mor:	noun|thing-Plur aux|be-Fin-Ind-Pres-P3 adv|much adv|more adj|efficient-S1 .
+%gra:	1|5|NSUBJ 2|5|COP 3|4|ADVMOD 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	so . 
+%mor:	adv|so .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	mommy . 
+%mor:	noun|mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	I am tryna read the last page okay ? 
+%mor:	pron|I-Prs-Nom-S1 aux|be-Fin-Ind-Pres-S1 part|tryna verb|read-Inf-S det|the-Def-Art adj|last-S1 noun|page-Acc intj|okay ?
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|4|DISCOURSE 9|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	can we read the last page ? 
+%mor:	aux|can-Fin-S pron|we-Prs-Nom-P1 verb|read-Inf-S det|the-Def-Art adj|last-S1 noun|page-Acc ?
+%gra:	1|3|AUX 2|3|NSUBJ 3|6|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	mommy . 
+%mor:	noun|mommy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$xds:A
+*FA1:	so . 
+%mor:	adv|so .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	be your name- . 
+%mor:	aux|be-Fin-Imp-S pron|your-Prs-Gen-S2 noun|name .
+%gra:	1|3|COP 2|3|NMOD-POSS 3|3|ROOT 4|3|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	xxx why you put your head in front of my face I can't see . 
+%mor:	adv|why pron|you-Prs-Nom-S2 verb|put-Fin-Ind-Past-S2-irr pron|your-Prs-Gen-S2 noun|head-Acc adp|in noun|front adp|of pron|my-Prs-Gen-S1 noun|face pron|I-Prs-Nom-S1 aux|can-Fin-S~part|not verb|see-Inf-S .
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|14|ROOT 4|5|NMOD-POSS 5|3|OBJ 6|7|CASE 7|3|OBL 8|10|CASE 9|10|NMOD-POSS 10|7|NMOD 11|14|NSUBJ 12|14|AUX 13|14|ADVMOD 14|3|PARATAXIS 15|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	so be your name buxbaum or bixy- , bixby or . 
+%mor:	adv|so aux|be-Fin-Imp-S pron|your-Prs-Gen-S2 noun|name noun|buxbaum cconj|or noun|bixy cm|cm propn|bixby cconj|or .
+%gra:	1|5|DISCOURSE 2|5|COP 3|4|NMOD-POSS 4|5|COMPOUND 5|10|ROOT 6|7|CC 7|5|CONJ 8|9|PUNCT 9|5|CONJ 10|9|CC 11|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	bray . 
+%mor:	propn|bray .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	man doctor seuss wrote some hard stuff to say . 
+%mor:	noun|man noun|doctor propn|seuss verb|write-Fin-Ind-Past-S3-irr det|some-Def-Ind adj|hard-S1 noun|stuff-Acc part|to verb|say-Inf-S .
+%gra:	1|2|COMPOUND 2|3|COMPOUND 3|4|NSUBJ 4|9|ROOT 5|7|DET 6|7|AMOD 7|4|OBJ 8|9|MARK 9|4|ADVCL 10|4|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	ah so be your name . 
+%mor:	intj|ah adv|so aux|be-Fin-Imp-S pron|your-Prs-Gen-S2 noun|name .
+%gra:	1|5|DISCOURSE 2|5|DISCOURSE 3|5|COP 4|5|NMOD-POSS 5|5|ROOT 6|5|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	buxbaum or bixby or bray or mordecai ali . 
+%mor:	propn|buxbaum cconj|or propn|bixby cconj|or propn|bray cconj|or propn|mordecai x|ali .
+%gra:	1|8|ROOT 2|3|CC 3|1|CONJ 4|5|CC 5|1|CONJ 6|7|CC 7|8|COMPOUND 8|1|CONJ 9|1|PUNCT
+%cod:	$txt:B; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*CHI:	0 . 
+%cod:	$xds:A
+*FA1:	va man allen oshea . 
+%mor:	propn|va noun|man propn|allen propn|oshea .
+%gra:	1|2|COMPOUND 2|4|COMPOUND 3|4|COMPOUND 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	hi . 
+%mor:	intj|hi .
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	you're off to great places today is your day ! 
+%mor:	pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 adp|off adp|to adj|great-S1 noun|place-Plur noun|today aux|be-Fin-Ind-Pres-S3 pron|your-Prs-Gen-S2 noun|day !
+%gra:	1|6|NSUBJ 2|6|COP 3|6|CASE 4|6|CASE 5|6|AMOD 6|10|ROOT 7|6|NMOD-UNMARKED 8|10|COP 9|10|NMOD-POSS 10|6|PARATAXIS 11|6|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	your mountain is waiting so get on your way ! 
+%mor:	pron|your-Prs-Gen-S2 noun|mountain aux|be-Fin-Ind-Pres-S3 verb|wait-Part-Pres-S adv|so verb|get-Fin-Imp-S adp|on pron|your-Prs-Gen-S2 noun|way !
+%gra:	1|2|NMOD-POSS 2|4|NSUBJ 3|4|AUX 4|9|ROOT 5|6|ADVMOD 6|4|PARATAXIS 7|9|CASE 8|9|NMOD-POSS 9|6|OBL 10|4|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	the end . 
+%mor:	det|the-Def-Art noun|end .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%cod:	$txt:B; $xds:T
+*FA1:	oh doc , that was a long book . 
+%mor:	intj|oh noun|doc cm|cm pron|that-Dem aux|be-Fin-Ind-Past-S3-irr det|a-Ind-Art adj|long-S1 noun|book .
+%gra:	1|2|DISCOURSE 2|8|VOCATIVE 3|2|PUNCT 4|8|NSUBJ 5|8|COP 6|8|DET 7|8|AMOD 8|8|ROOT 9|8|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	with a lot of . 
+%mor:	adp|with det|a-Ind-Art noun|lot adp|of .
+%gra:	1|3|CASE 2|3|DET 3|4|ROOT 4|3|CASE 5|3|PUNCT
+%cod:	$txt:C; $xds:T
+*FA1:	tongue twisters in there . 
+%mor:	noun|tongue noun|twister-Plur adp|in adv|there .
+%gra:	1|2|COMPOUND 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*FA1:	are you ready go night night ? 
+%mor:	aux|be-Fin-Ind-Pres-S2 pron|you-Prs-Nom-S2 adj|ready-S1 verb|go-Inf-S noun|night noun|night ?
+%gra:	1|3|COP 2|3|NSUBJ 3|6|ROOT 4|3|XCOMP 5|6|COMPOUND 6|4|OBL-UNMARKED 7|3|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*FA1:	what ? 
+%mor:	pron|what-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	I have to go xxx . 
+%mor:	pron|I-Prs-Nom-S1 verb|have-Fin-Ind-Pres-S1 part|to verb|go-Inf-S .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|MARK 4|2|XCOMP 5|2|PUNCT
+%cod:	$xds:A
+*FA1:	I don't know what you're saying . 
+%mor:	pron|I-Prs-Nom-S1 aux|do-Fin-Ind-Pres-S1~part|not verb|know-Inf-S pron|what-Rel-S1 pron|you-Prs-Nom-S2~aux|be-Fin-Ind-Pres-S2 verb|say-Part-Pres-S .
+%gra:	1|4|NSUBJ 2|4|AUX 3|4|ADVMOD 4|8|ROOT 5|4|OBJ 6|8|NSUBJ 7|8|AUX 8|5|ACL-RELCL 9|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+*FA1:	are we all done ? 
+%mor:	aux|be-Fin-Ind-Pres-P1 pron|we-Prs-Nom-P1 det|all-Def-Tot adj|done-S1 ?
+%gra:	1|4|COP 2|4|NSUBJ 3|4|DET 4|4|ROOT 5|4|PUNCT
+%cod:	$txt:C; $xds:T
+*CHI:	xxx . 
+%cod:	$xds:A
+@End

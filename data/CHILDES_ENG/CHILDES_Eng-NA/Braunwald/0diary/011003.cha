@@ -1,0 +1,111 @@
+@UTF8
+@PID:	11312/c-00010716-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, FAT Father
+@ID:	eng|Braunwald|CHI|01;10.03|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT||female|||Mother|||
+@ID:	eng|Braunwald|FAT||male|||Father|||
+@Date:	23-DEC-1972
+@Types:	long, toyplay, TD
+*CHI:	candles .
+%mor:	noun|candle-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	603
+*MOT:	what's that ?
+%mor:	pron|what-Int-S1~aux|be-Fin-Ind-Pres-S3 pron|that-Dem ?
+%gra:	1|3|ROOT 2|3|COP 3|1|NSUBJ 4|1|PUNCT
+%sit:	603
+*CHI:	candles .
+%mor:	noun|candle-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	603
+*CHI:	Missus_Gluck .
+%mor:	propn|MissusGluck .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	604
+*CHI:	byebye , Missus Gluck .
+%mor:	propn|byebye cm|cm propn|Missus propn|Gluck .
+%gra:	1|4|ROOT 2|3|PUNCT 3|1|LIST 4|3|FLAT 5|1|PUNCT
+%sit:	604
+*FAT:	what did you say , Missus Duck ?
+%mor:	pron|what-Int-S1 aux|do-Fin-Ind-Past-S2-irr pron|you-Prs-Nom-S2 verb|say-Inf-S cm|cm propn|Missus propn|Duck ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|NSUBJ 4|7|ROOT 5|6|PUNCT 6|4|VOCATIVE 7|6|FLAT 8|4|PUNCT
+%sit:	604
+*CHI:	Missus_Gluck .
+%mor:	propn|MissusGluck .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	604
+*CHI:	lookee Laura doing .
+%mor:	verb|lookee-Fin-Imp-S propn|Laura-Acc verb|do-Part-Pres-S .
+%gra:	1|3|ROOT 2|1|OBJ 3|1|XCOMP 4|1|PUNCT
+%sit:	605
+*CHI:	say how big baby .
+%mor:	verb|say-Fin-Imp-S adv|how adj|big-S1 noun|baby-Acc .
+%gra:	1|4|ROOT 2|3|ADVMOD 3|4|AMOD 4|1|OBJ 5|1|PUNCT
+%sit:	606
+*CHI:	crackers .
+%mor:	noun|cracker-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	607
+*CHI:	crackers .
+%mor:	noun|cracker-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	607
+*CHI:	graham_crackers .
+%mor:	noun|grahamcracker-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	607
+*CHI:	Laura Deedee [: Joanna] Gluck's house .
+%mor:	propn|Laura propn|Joanna propn|Gluck~part|s noun|house .
+%gra:	1|5|NMOD-POSS 2|1|FLAT 3|1|FLAT 4|1|CASE 5|5|ROOT 6|5|PUNCT
+%sit:	608
+*FAT:	not today .
+%mor:	part|not noun|today .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%sit:	608
+*CHI:	no touch Lastname .
+%mor:	det|no-Def-Neg noun|touch noun|lastname .
+%gra:	1|3|DET 2|3|COMPOUND 3|3|ROOT 4|3|PUNCT
+%sit:	609
+*CHI:	no sit my chair .
+%mor:	intj|no verb|sit-Inf-S pron|my-Prs-Gen-S1 noun|chair-Acc .
+%gra:	1|2|DISCOURSE 2|4|ROOT 3|4|NMOD-POSS 4|2|OBJ 5|2|PUNCT
+%sit:	610
+*CHI:	watercolors .
+%mor:	noun|watercolor-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	611
+*CHI:	like Laura's .
+%mor:	adp|like propn|Laura~part|s .
+%gra:	1|2|CASE 2|3|ROOT 3|2|CASE 4|2|PUNCT
+%sit:	611
+*CHI:	and Deedee's [: Joanna's] .
+%mor:	cconj|and propn|Joanna~part|s .
+%gra:	1|2|CC 2|3|ROOT 3|2|CASE 4|2|PUNCT
+%sit:	611
+*CHI:	like Laura's .
+%mor:	adp|like propn|Laura~part|s .
+%gra:	1|2|CASE 2|3|ROOT 3|2|CASE 4|2|PUNCT
+%sit:	611
+*CHI:	I want Daddy .
+%mor:	pron|I-Prs-Nom-S1 verb|want-Fin-Ind-Pres-S1 propn|Daddy-Acc .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	612
+*CHI:	like me .
+%mor:	adp|like pron|I-Prs-Acc-S1 .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+%sit:	613
+*CHI:	like Deedee's [: Joanna's] .
+%mor:	adp|like propn|Joanna~part|s .
+%gra:	1|2|CASE 2|3|ROOT 3|2|CASE 4|2|PUNCT
+%sit:	613
+*CHI:	like Laura's .
+%mor:	adp|like propn|Laura~part|s .
+%gra:	1|2|CASE 2|3|ROOT 3|2|CASE 4|2|PUNCT
+%sit:	613
+*CHI:	horses .
+%mor:	noun|horse-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%sit:	614
+@End
