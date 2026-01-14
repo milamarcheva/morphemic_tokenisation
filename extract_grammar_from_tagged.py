@@ -149,6 +149,21 @@ def drop_unary_nt_rules(
     return filtered
 
 
+def drop_self_unary_rules(
+    counts: Dict[Tuple[str, Tuple[str, ...]], int],
+) -> Dict[Tuple[str, Tuple[str, ...]], int]:
+    filtered: Dict[Tuple[str, Tuple[str, ...]], int] = Counter()
+    removed = 0
+    for (lhs, rhs), c in counts.items():
+        if len(rhs) == 1 and rhs[0] == lhs:
+            removed += 1
+            continue
+        filtered[(lhs, rhs)] = c
+    if removed:
+        print(f"Dropped {removed} self-unary rules (A -> A).")
+    return filtered
+
+
 def prune_undefined_nts(
     counts: Dict[Tuple[str, Tuple[str, ...]], int],
 ) -> Dict[Tuple[str, Tuple[str, ...]], int]:
@@ -292,6 +307,11 @@ def main() -> None:
         help="Drop unary nonterminal->nonterminal rules to avoid unary cycles.",
     )
     ap.add_argument(
+        "--remove-self-unary",
+        action="store_true",
+        help="Drop self-unary rules of the form A -> A.",
+    )
+    ap.add_argument(
         "--min-freq",
         dest="min_count",
         type=int,
@@ -336,6 +356,8 @@ def main() -> None:
     if args.drop_unary_nt:
         counts = drop_unary_nt_rules(counts, root)
         counts = prune_undefined_nts(counts)
+    if args.remove_self_unary:
+        counts = drop_self_unary_rules(counts)
     counts = filter_productions_by_count(counts, args.min_count)
 
     weight_mode = args.weight_mode
