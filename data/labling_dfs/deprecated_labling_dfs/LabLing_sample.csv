@@ -1,0 +1,101 @@
+Name,Age,Participant,Utterance,UttLen,UtterancesCyrillic,UtterancesCyrillicCleaned,UtterancesCyrillicCleanedNormalised,berkeley_parse
+SIM,2;04.04,PLA,tochno taka!,2,Точно така!,Точно така !,Точно така !,( (ROOT (S (Adv (Adv (Dd Точно)) (Adv (Pdm така))) (pt !))) )
+SIM,1;09.03,KAL,"chu li, mamo ?",3,"Чу ли, мамо ?","Чу ли , мамо ?","Чу ли , мамо ?","( (S (CoordP (ConjArg (N (name ""Чу))) (Conj (T (Ti ли)) (pt ,)) (ConjArg (NPA (A мамо) (N (Ncmpi ?"")))))) )"
+ELI,1;02.08,EXP,ku-ku@o .,1,Ку-ку@о .,Ку-ку .,Ку-ку .,( (ROOT (S (VPC (N (Ncmsf Ку-ку))) (pt .))) )
+SIM,2;06.02,PLA,az njama da zaspivam.,4,Аз няма да заспивам.,Аз няма да заспивам .,Аз няма да заспивам .,( (ROOT (S (VPS (Pron (Ppe Аз)) (VPC (V (Vnitf няма)) (CLDA (V (T (Tx да)) (V (Vppif заспивам)))))) (pt .))) )
+SIM,2;02.17,PLA,leka nosht mu kaza snoshti.,5,Лека нощ му каза снощи.,Лека нощ му каза снощи .,Лека нощ му каза снощи .,( (ROOT (S (VPA (VPS (NPA (A (Afsd Лека)) (N (Ncfsi нощ))) (V (Pron (Ppetds3m му)) (V (Vpptf каза)))) (Adv (Dt снощи))) (pt .))) )
+ELI,1;03.02,EXP,da .,1,Да .,Да .,Да .,( (ROOT (S (T (Ta Да)) (pt .))) )
+SIM,1;08.10,PLA,slusha li ?,2,Слуша ли ?,Слуша ли ?,Слуша ли ?,( (ROOT (S (Adv (Adv (Dt Слуша)) (T (Ti ли))) (pt ?))) )
+ELI,1;06.09,EXP,kakvo iskash ?,2,Какво искаш ?,Какво искаш ?,Какво искаш ?,( (ROOT (S (VPC (A (Pia Какво)) (V (Vpitf искаш))) (pt ?))) )
+ELI,1;02.17,EXP,"nishto, de nishto, xajde sega .",5,"Нищо, де нищо, xайде сега .","Нищо , де нищо , xайде сега .","Нищо , де нищо , xайде сега .","( (S (CoordP (ConjArg (N (name ""Нищо))) (Conj (pt ,) (T (Te де))) (ConjArg (NPA (Pron (Pne нищо)) (CLR (pt ,) (VPS (VPC (Pron (Pre xайде)) (Adv (Dt сега)) (V (Vpitf .""))))))))) )"
+SIM,1;10.07,PLA,"a, baba natisna ednata kukla da pee .",7,"А, баба натисна едната кукла да пее .","А , баба натисна едната кукла да пее .","А , баба натисна едната кукла да пее .","( (S (VPS (CoordP (ConjArg (N (name ""А))) (Conj (pt ,)) (ConjArg (VPS (N (Ncfsi баба)) (VPC (V (Vpptf натисна)) (NPA (Pron (Pfe едната)) (N (Ncfsi кукла))))))) (VPC (V (T (Tx да)) (V (Vpitf пее))) (N (Ncfsd .""))))) )"
+SIM,2;05.28,PLA,Kalojancho na kolko godinki e?,4,Калоянчо на колко годинки е?,Калоянчо на колко годинки е ?,Калоянчо на колко годинки е ?,( (ROOT (S (VPC (NPA (N (Ncmsf Калоянчо)) (PP (Prep (R на)) (NPA (Adv (Piq колко)) (N (Ncmpi годинки))))) (V (Vxitf е))) (pt ?))) )
+SIM,2;00.06,PLA,ti shte mi pomagash .,4,Ти ще ми помагаш .,Ти ще ми помагаш .,Ти ще ми помагаш .,( (ROOT (S (VPS (Pron (Ppe Ти)) (V (T (Tx ще)) (Pron (Ppetds1 ми)) (V (Vpptf помагаш)))) (pt .))) )
+ALE,2;04.09,VEL,ax tezi Pigita !,3,Аx тези пигита !,Аx тези пигита !,Аx тези пигита !,( (ROOT (S (VPC (V (Vpptz Аx)) (NPA (Pron (Pde тези)) (N (Ncfsi пигита)))) (pt !))) )
+ELI,1;06.21,EXP,tazi lepenka .,2,Тази лепенка .,Тази лепенка .,Тази лепенка .,( (ROOT (S (NPA (Pron (Pde Тази)) (N (Ncnpi лепенка))) (pt .))) )
+ELI,1;02.26,DAN,xxx .,0,Xxx .,Xxx .,Xxx .,( (ROOT (S (N (name Xxx)) (pt .))) )
+ELI,1;06.17,EXP,edno tajno neshto .,3,Едно тайно нещо .,Едно тайно нещо .,Едно тайно нещо .,( (ROOT (S (VPC (V (Vpitf Едно)) (Adv (Dm тайно)) (Pron (Pfe нещо))) (pt .))) )
+TEF,1;11.04,BAB,teletervizchetata .,1,Телетервизчетата .,Телетервизчетата .,Телетервизчетата .,( (ROOT (S (N (name Телетервизчетата)) (pt .))) )
+SIM,1;05.10,PLA,a ti ne iskash li da go probvash ?,8,А ти не искаш ли да го пробваш ?,А ти не искаш ли да го пробваш ?,А ти не искаш ли да го пробваш ?,( (ROOT (S (CoordP (Conj (C (Cp А))) (ConjArg (VPS (Pron (Ppe ти)) (VPC (V (V (T (Tn не)) (V (Vpitf искаш))) (T (Ti ли))) (CLDA (V (T (Tx да)) (Pron (Ppetas3m го)) (V (Vpptf пробваш)))))))) (pt ?))) )
+SIM,1;09.17,PLA,"ne, mamo .",2,"Не, мамо .","Не , мамо .","Не , мамо .","( (S (NPA (NPA (name ""Не)) (NPA (pt ,) (A (Amsi мамо)) (N (name .""))))) )"
+TEF,2;03.24,BAB,"tebe, kazhi !",2,"Тебе, кажи !","Тебе , кажи !","Тебе , кажи !","( (S (CoordP (ConjArg (N (name ""Тебе))) (Conj (pt ,)) (ConjArg (VPC (V (Vpptz кажи)) (N (name !"")))))) )"
+ELI,1;06.21,EXP,I vseki pyt kato vidish tazi kartinka i ti se prijazhda jabylka .,12,И всеки път като видиш тази картинка и ти се прияжда ябълка .,И всеки път като видиш тази картинка и ти се прияжда ябълка .,И всеки път като видиш тази картинка и ти се прияжда ябълка .,( (ROOT (S (CoordP (Conj (C (Cp И))) (ConjArg (VPA (VPS (NPA (Pron (Pce всеки)) (N (Ncmsi път)))) (PP (Prep (R като)) (NPA (N (Ncmsi видиш)) (NPA (Pron (Pde тази)) (N (Ncfsi картинка))))))) (Conj (C (Cp и))) (ConjArg (VPS (Pron (Ppe ти)) (VPC (V (Pron (Ppxta се)) (V (Vpitf прияжда))) (Adv (Dm ябълка)))))) (pt .))) )
+ELI,1;02.17,DAN,kola .,1,Кола .,Кола .,Кола .,( (ROOT (S (VPC (N (Ncfsi Кола))) (pt .))) )
+SIM,1;11.04,PLA,i kebapchetata .,2,И кебапчетата .,И кебапчетата .,И кебапчетата .,( (ROOT (S (CoordP (Conj (C (Cp И))) (ConjArg (A кебапчетата))) (pt .))) )
+ELI,1;06.21,EXP,bob .,1,Боб .,Боб .,Боб .,( (ROOT (S (V (Vpitf Боб)) (pt .))) )
+ALE,2;02.24,VEL,"am, njamam kremcheta !",3,"Ам, нямам кремчета !","Ам , нямам кремчета !","Ам , нямам кремчета !","( (S (VPC (V (Vpitf ""Ам)) (CL (pt ,) (VPC (V (Vpitf нямам)) (NPA (A кремчета) (N (Ncmpi !""))))))) )"
+ELI,1;02.26,EXP,napravil li si neshto ?,4,Направил ли си нещо ?,Направил ли си нещо ?,Направил ли си нещо ?,( (ROOT (S (VPS (V (V (Vpitf Направил)) (T (Ti ли)) (Pron (Ppxtd си))) (Pron (Pfe нещо))) (pt ?))) )
+ELI,1;05.18,EXP,djado l'ubcho .,2,Дядо л'убчо .,Дядо л'убчо .,Дядо л'убчо .,( (ROOT (S (NPA (N (Ncmsi Дядо)) (A (Amsi л'убчо))) (pt .))) )
+ELI,1;03.10,BOR,"kakvo iskash, eli ?",3,"Какво искаш, ели ?","Какво искаш , ели ?","Какво искаш , ели ?","( (S (VPS (H (name ""Какво)) (VPC (V (Vpitf искаш)) (CLDA (pt ,) (VPS (V (Vpiif ели)) (N (name ?""))))))) )"
+ELI,1;06.09,EXP,plitka .,1,Плитка .,Плитка .,Плитка .,( (ROOT (S (N (name Плитка)) (pt .))) )
+ELI,1;07.13,EXP,tati e na rabota .,4,Тати е на работа .,Тати е на работа .,Тати е на работа .,( (ROOT (S (VPS (N (Ncmsf Тати)) (VPC (V (Vxitf е)) (PP (Prep (R на)) (N (Ncfsi работа))))) (pt .))) )
+SIM,1;07.08,PLA,dobre .,1,Добре .,Добре .,Добре .,( (ROOT (S (Adv (Dm Добре)) (pt .))) )
+ELI,1;03.10,BOR,"kolko vreme shte se vyrti, samo !",6,"Колко време ще се върти, само !","Колко време ще се върти , само !","Колко време ще се върти , само !","( (S (CoordP (ConjArg (VPS (NPA (A (Ansd ""Колко)) (N (Ncnsi време))) (V (T (Tx ще)) (Pron (Ppxta се)) (V (Vpitf върти))))) (Conj (pt ,)) (ConjArg (VPA (Adv (Dd само)) (V (Vpitf !"")))))) )"
+ALE,1;11.14,VEL,"a-a, ne obicham da jam takvoz [: takova], keremida !",7,"А-а, не обичам да ям таквоз [: такова], керемида !","А-а , не обичам да ям таквоз , керемида !","А-а , не обичам да ям такова керемида !","( (S (VPA (Adv (Dt ""А-а) (pt ,)) (VPC (V (T (Tn не)) (V (Vpitf обичам))) (CLDA (VPC (V (T (Tx да)) (V (Vpptf ям))) (NPA (NPA (A (Pda такова)) (N (Ncfsi керемида))) (N (Ncmsf !"")))))))) )"
+ELI,1;03.10,BOR,Ela tuka .,2,Ела тука .,Ела тука .,Ела тука .,( (ROOT (S (VPC (V (Vpiiz Ела)) (Adv (Pdl тука))) (pt .))) )
+TEF,2;03.24,VEL,kakvo ?,1,Какво ?,Какво ?,Какво ?,( (ROOT (S (VPC (A (Pia Какво))) (pt ?))) )
+ALE,1;11.14,VEL,kakva knizhka nameri sega ?,4,Каква книжка намери сега ?,Каква книжка намери сега ?,Каква книжка намери сега ?,( (ROOT (S (VPA (VPS (NPA (A (Pia Каква)) (N (Ncfsi книжка))) (V (Vpptf намери))) (Adv (Dt сега))) (pt ?))) )
+ELI,1;06.17,EXP,Eli .,1,Ели .,Ели .,Ели .,( (ROOT (S (N (name Ели)) (pt .))) )
+SIM,1;05.18,PLA,kokoko [: kokoshka] snasjat jajca .,3,Кококо [: кокошка] снасят яйца .,Кококо снасят яйца .,кокошка снасят яйца .,( (ROOT (S (VPC (V (Vpitf кокошка)) (NPA (A снасят) (N (Ncnpi яйца)))) (pt .))) )
+ELI,1;03.10,BOR,"dryzh e, dryzh ja otvorena .",5,"Дръж е, дръж я отворена .","Дръж е , дръж я отворена .","Дръж е , дръж я отворена .","( (S (VPS (NPA (name ""Дръж)) (VPC (V (Vxitf е)) (CL (pt ,) (VPC (V (V (Vpitf дръж)) (Pron (Ppetas3f я))) (NPA (A (Afsi отворена)) (N (Ncfsi ."")))))))) )"
+SIM,1;09.16,PLA,"lelja Didi e na rabota, mamo .",6,"Леля диди е на работа, мамо .","Леля диди е на работа , мамо .","Леля диди е на работа , мамо .","( (S (VPS (VPC (CL (VPS (NPA (A (Afsd ""Леля)) (N (Ncmsi диди))) (VPC (V (Vxitf е)) (PP (Prep (R на)) (N (Ncfsi работа))))) (pt ,)) (V (Vpitf мамо))) (H (name ."")))) )"
+TEF,1;08.00,VEL,na tja ?,2,На тя ?,На тя ?,На тя ?,( (ROOT (S (VPC (PP (Prep (R На)) (Pron (Ppe тя)))) (pt ?))) )
+ALE,1;06.21,VEL,jadat trevichka ?,2,Ядат тревичка ?,Ядат тревичка ?,Ядат тревичка ?,( (ROOT (S (VPC (V (Vpiif Ядат)) (N (Ncfsd тревичка))) (pt ?))) )
+TEF,1;11.04,VEL,"kakvo piesh, Teche !",3,"Какво пиеш, тече !","Какво пиеш , тече !","Какво пиеш , тече !","( (S (VPS (H (name ""Какво)) (VPC (V (Participle (Vpitcam пиеш)) (pt ,) (V (Vpiif тече))) (Adv (Dm !""))))) )"
+TEF,1;08.00,VEL,koj e tozi ?,3,Кой е този ?,Кой е този ?,Кой е този ?,( (ROOT (S (VPS (VPC (Pron (Pie Кой)) (V (Vxitf е))) (Pron (Pde този))) (pt ?))) )
+SIM,1;05.02,PLA,"da, mamo, ot tam shche pie mljako .",7,"Да, мамо, от там шче пие мляко .","Да , мамо , от там шче пие мляко .","Да , мамо , от там шче пие мляко .","( (S (VPS (N (name ""Да)) (pt ,) (I мамо) (pt ,) (VPC (PP (Prep (R от)) (AdvPA (Adv (Pdl там)) (Adv (Dm шче)))) (V (Vpitf пие)) (NPA (A мляко) (N (Ncmpi ."")))))) )"
+ALE,1;07.20,VEL,"ne mazhe, a gladi .",4,"Не маже, а глади .","Не маже , а глади .","Не маже , а глади .","( (S (CoordP (ConjArg (VPS (H (name ""Не)) (V (Vpitf маже)))) (Conj (pt ,) (C (Cp а))) (ConjArg (VPC (V (Vpitf глади)) (N (Ncmpi ."")))))) )"
+BOG,2;01.13,IRE,mishutka li da legne ?,4,Мишутка ли да легне ?,Мишутка ли да легне ?,Мишутка ли да легне ?,( (ROOT (S (VPC (V (V (Vpitf Мишутка)) (T (Ti ли))) (CLDA (V (T (Tx да)) (V (Vpptf легне))))) (pt ?))) )
+ELI,1;03.02,EXP,nedej da go slagash .,4,Недей да го слагаш .,Недей да го слагаш .,Недей да го слагаш .,( (ROOT (S (VPC (V (Vpitf Недей)) (CLDA (V (T (Tx да)) (V (Pron (Ppetas3m го)) (V (Vpitf слагаш)))))) (pt .))) )
+TEF,2;03.24,BAB,"samichka , tja e goljama .",4,"Самичка , тя е голяма .","Самичка , тя е голяма .","Самичка , тя е голяма .","( (S (VPS (N (name ""Самичка)) (pt ,) (Pron (Ppe тя)) (VPC (V (Vxitf е)) (NPA (A (Afsi голяма)) (N (Ncfsi ."")))))) )"
+BOG,2;04.05,IRE,"moga da ti dam fystyci, mila .",6,"Мога да ти дам фъстъци, мила .","Мога да ти дам фъстъци , мила .","Мога да ти дам фъстъци , мила .","( (S (VPS (N (name ""Мога)) (VPC (V (T (Tx да)) (Pron (Ppetds2 ти)) (V (Vpptf дам))) (NPA (CoordP (ConjArg (A (Amsi фъстъци))) (Conj (pt ,)) (ConjArg (A (Afsi мила)))) (N (Ncfsi ."")))))) )"
+ALE,2;04.09,ALE,eto taja .,2,Ето тая .,Ето тая .,Ето тая .,( (ROOT (S (VPC (V (Tv Ето)) (Pron (Pde тая))) (pt .))) )
+TEF,2;04.21,TEF,mozhi ?,1,Можи ?,Можи ?,Можи ?,( (ROOT (S (V (Vpitz Можи)) (pt ?))) )
+SIM,1;09.29,SIM,kopcheta tri kopcheta .,3,Копчета три копчета .,Копчета три копчета .,Копчета три копчета .,( (ROOT (S (VPC (V (Vpptz Копчета)) (NPA (M (Mc три)) (N (Ncmt копчета)))) (pt .))) )
+TEF,2;01.16,TEF,"dete, dete [: dvete] !",2,"Дете, дете [: двете] !","Дете , дете !","Дете , двете !","( (S (CoordP (ConjArg (N (name ""Дете))) (Conj (pt ,)) (ConjArg (NPA (M (Mcfpd двете)) (N (Ncmpi !"")))))) )"
+SIM,2;05.28,SIM,moga da go izvadja.,4,Мога да го извадя.,Мога да го извадя .,Мога да го извадя .,( (ROOT (S (VPC (V (Vpiif Мога)) (CLDA (V (T (Tx да)) (Pron (Ppetas3m го)) (V (Vpptf извадя))))) (pt .))) )
+SIM,2;06.26,SIM,"toj ne mozhe da pryska, be.",6,"Той не може да пръска, бе.","Той не може да пръска , бе .","Той не може да пръска , бе .","( (S (CoordP (ConjArg (VPS (N (name ""Той)) (VPC (V (T (Tn не)) (V (Vpiif може))) (CLDA (V (T (Tx да)) (V (Vppif пръска))))))) (Conj (pt ,)) (ConjArg (V (V (Vxitf бе)) (Participle (Vpptcv ."")))))) )"
+TEF,2;00.09,TEF,tuka bonkata !,2,Тука бонката !,Тука бонката !,Тука бонката !,( (ROOT (S (AdvPA (Adv (Dm Тука)) (Adv (Dm бонката))) (pt !))) )
+BOG,2;01.13,BOG,topkata .,1,Топката .,Топката .,Топката .,( (ROOT (S (V (Vpitf Топката)) (pt .))) )
+SIM,2;05.22,SIM,ikam [: iskam] da si gledam na telefona.,6,Икам [: искам] да си гледам на телефона.,Икам да си гледам на телефона .,искам да си гледам на телефона .,( (ROOT (S (VPC (V (Vpitf искам)) (CLDA (VPC (V (T (Tx да)) (Pron (Ppxtd си)) (V (Vpitf гледам))) (PP (Prep (R на)) (N (Ncmsh телефона)))))) (pt .))) )
+SIM,1;04.19,SIM,nos .,1,Нос .,Нос .,Нос .,( (ROOT (S (N (name Нос)) (pt .))) )
+SIM,2;06.00,SIM,"jaketo, jaketo.",2,"Якето, якето.","Якето , якето .","Якето , якето .","( (S (NPA (NPA (name ""Якето)) (NPA (pt ,) (A (Amsi якето)) (N (name .""))))) )"
+SIM,2;06.14,SIM,cherveni sa mi noktite.,4,Червени са ми ноктите.,Червени са ми ноктите .,Червени са ми ноктите .,( (ROOT (S (VPS (N (Ncmsf Червени)) (VPC (V (V (Vxitf са)) (Pron (Ppetds1 ми))) (A ноктите))) (pt .))) )
+ELI,1;07.03,ELI,xxx .,0,Xxx .,Xxx .,Xxx .,( (ROOT (S (N (name Xxx)) (pt .))) )
+SIM,2;00.00,SIM,tazi kolikata [: kolichkata] kaza a pytja .,5,Тази коликата [: количката] каза а пътя .,Тази коликата каза а пътя .,Тази количката каза а пътя .,( (ROOT (S (VPS (NPA (Pron (Pde Тази)) (N (Ncfsi количката))) (VPC (V (Vpptf каза)) (CoordP (Conj (C (Cp а))) (ConjArg (N (Ncmsh пътя)))))) (pt .))) )
+ALE,2;02.24,ALE,ti zashto me sybudi ?,4,Ти защо ме събуди ?,Ти защо ме събуди ?,Ти защо ме събуди ?,( (ROOT (S (VPA (VPS (Pron (Ppe Ти)) (Adv (Pic защо)) (V (Pron (Ppetas1 ме)) (V (Vpptf събуди))))) (pt ?))) )
+SIM,1;09.02,SIM,"bam, uhi [: muxi], muxi [: muxi] .",3,"Бам, ухи [: муxи], муxи [: муxи] .","Бам , ухи , муxи .","Бам , муxи муxи .","( (S (CoordP (ConjArg (N (name ""Бам))) (Conj (pt ,)) (ConjArg (NPA (A муxи) (NPA (A муxи) (N (Ncnpi .""))))))) )"
+SIM,1;09.02,SIM,sedne stola mama .,3,Седне стола мама .,Седне стола мама .,Седне стола мама .,( (ROOT (S (VPC (V (Vpitf Седне)) (NPA (A (Afsi стола)) (N (Ncfsi мама)))) (pt .))) )
+SIM,1;08.14,SIM,xxx .,0,Xxx .,Xxx .,Xxx .,( (ROOT (S (N (name Xxx)) (pt .))) )
+TEF,2;01.16,TEF,baba Osi [: Rosi] mada [: mlada] .,3,Баба оси [: роси] мада [: млада] .,Баба оси мада .,Баба роси млада .,( (ROOT (S (VPF (Pron (Pfe Баба)) (A (Ansd роси)) (A (Afsi млада))) (pt .))) )
+SIM,2;10.03,SIM,eto shte go slozha.,4,Ето ще го сложа.,Ето ще го сложа .,Ето ще го сложа .,( (ROOT (S (VPC (V (Tv Ето)) (CLDA (V (T (Tx ще)) (Pron (Ppetas3m го)) (V (Vpptf сложа))))) (pt .))) )
+SIM,1;07.08,SIM,ljulkata .,1,Льулката .,Льулката .,Льулката .,( (ROOT (S (N (name Льулката)) (pt .))) )
+SIM,2;10.03,SIM,"vizh, vlaka trygva, vlaka trygva.",5,"Виж, влака тръгва, влака тръгва.","Виж , влака тръгва , влака тръгва .","Виж , влака тръгва , влака тръгва .","( (S (CoordP (ConjArg (VPS (CoordP (ConjArg (N (name ""Виж))) (Conj (pt ,)) (ConjArg (N (Ncmsh влака)))) (V (Vpiif тръгва)))) (Conj (pt ,)) (ConjArg (VPS (N (Ncmsh влака)) (VPC (V (Vpiif тръгва)) (Adv (Dm .""))))))) )"
+SIM,1;10.07,SIM,njama mama polon [: pantalon] .,3,Няма мама полон [: панталон] .,Няма мама полон .,Няма мама панталон .,( (ROOT (S (VPC (V (Vnitf Няма)) (NPA (N (Ncfsi мама)) (N (Ncfsi панталон)))) (pt .))) )
+ALE,1;10.12,ALE,ikam oti [: oshte] paitki [: parichki] !,3,Икам оти [: още] паитки [: парички] !,Икам оти паитки !,Икам още парички !,( (ROOT (S (VPC (V (Vpptz Икам)) (APA (Adv (Dq още)) (Participle (Vpptcv парички)))) (pt !))) )
+ELI,1;07.22,ELI,med .,1,Мед .,Мед .,Мед .,( (ROOT (S (V (Vpitf Мед)) (pt .))) )
+SIM,2;11.29,SIM,ot rozhdenija den.,3,От рождения ден.,От рождения ден .,От рождения ден .,( (ROOT (S (PP (Prep (R От)) (NPA (A (Amsh рождения)) (N (Ncmsi ден)))) (pt .))) )
+SIM,2;06.01,SIM,"mi, ne.",2,"Ми, не.","Ми , не .","Ми , не .","( (S (CoordP (ConjArg (N (name ""Ми))) (Conj (pt ,) (T (Tn не))) (ConjArg (N (name .""))))) )"
+TEF,2;03.24,TEF,ko [: kakvo] paj [: pravi] ?,2,Ко [: какво] пай [: прави] ?,Ко пай ?,какво прави ?,( (ROOT (S (VPC (A (Pia какво)) (V (Vpitf прави))) (pt ?))) )
+TEF,1;03.11,TEF,af .,1,Аф .,Аф .,Аф .,( (ROOT (S (N (name Аф)) (pt .))) )
+BOG,2;03.06,BOG,Tam tivaj [: otivaj] tam !,3,Там тивай [: отивай] там !,Там тивай там !,Там отивай там !,( (ROOT (S (VPA (Adv (Pdl Там)) (VPA (V (Vpitf отивай)) (Adv (Pdl там)))) (pt !))) )
+SIM,1;10.16,SIM,shte e trudno tuka risuva .,5,Ще е трудно тука рисува .,Ще е трудно тука рисува .,Ще е трудно тука рисува .,( (ROOT (S (VPF (VPC (V (T (Tx Ще)) (V (Vxitf е))) (AdvPA (Adv (Dm трудно)) (Adv (Pdl тука)))) (Adv (Dm рисува))) (pt .))) )
+SIM,1;07.19,SIM,"tebe, tebe .",2,"Тебе, тебе .","Тебе , тебе .","Тебе , тебе .","( (S (CoordP (ConjArg (N (name ""Тебе))) (Conj (pt ,)) (ConjArg (NPA (Pron (Ppelas2 тебе)) (A (Ansi ."")))))) )"
+SIM,1;05.18,SIM,cee [: jajce] .,1,Цее [: яйце] .,Цее .,яйце .,( (ROOT (S (V (Vpitf яйце)) (pt .))) )
+SIM,2;02.06,SIM,"dris [: drus], dris [: drus], konche, dris [: drus], dris [: drus], konche.",6,"Дрис [: друс], дрис [: друс], конче, дрис [: друс], дрис [: друс], конче.","Дрис , дрис , конче , дрис , дрис , конче .","друс друс конче , друс друс конче .","( (S (VPC (V (Vpitf ""друс)) (NPA (NPA (A друс) (N (Ncmpi конче))) (APC (pt ,) (Participle (Vpitcar друс)) (NPA (A друс) (NPA (A конче) (N (Ncmsi ."")))))))) )"
+TEF,2;03.24,TEF,izh [: vizh] enna [: edna] kola meix [: namerix] .,4,Иж [: виж] енна [: една] кола меиx [: намериx] .,Иж енна кола меиx .,виж една кола намериx .,( (ROOT (S (VPS (VPC (V (Vpptz виж)) (NPA (Pron (Pfe една)) (N (Ncfsi кола)))) (N (Ncmsf намериx))) (pt .))) )
+SIM,1;08.01,SIM,"muxi, muxi, muxi, muxi, muxi .",5,"Муxи, муxи, муxи, муxи, муxи .","Муxи , муxи , муxи , муxи , муxи .","Муxи , муxи , муxи , муxи , муxи .","( (S (CoordP (ConjArg (N (name ""Муxи))) (Conj (pt ,)) (ConjArg (N (Ncmpi муxи))) (Conj (pt ,)) (ConjArg (N (Ncmpi муxи))) (Conj (pt ,)) (ConjArg (N (Ncmpi муxи))) (Conj (pt ,)) (ConjArg (NPA (A муxи) (N (Ncmpi ."")))))) )"
+ALE,1;07.20,ALE,luk .,1,Лук .,Лук .,Лук .,( (ROOT (S (V (Vpitf Лук)) (pt .))) )
+SIM,1;10.27,SIM,vsichki imame papi [: chorapi] .,3,Всички имаме папи [: чорапи] .,Всички имаме папи .,Всички имаме чорапи .,( (ROOT (S (VPS (Pron (Pce Всички)) (VPC (V (Vpitf имаме)) (N (Ncmpi чорапи)))) (pt .))) )
+SIM,1;09.02,SIM,shtipka zelena .,2,Щипка зелена .,Щипка зелена .,Щипка зелена .,( (ROOT (S (VPS (N (Ncmsf Щипка)) (V (Vpiif зелена))) (pt .))) )
+ALE,1;05.08,ALE,baba .,1,Баба .,Баба .,Баба .,( (ROOT (S (V (Vpitf Баба)) (pt .))) )
+ALE,1;10.12,ALE,ne dava mushna kuacheto [: kracheto] .,4,Не дава мушна куачето [: крачето] .,Не дава мушна куачето .,Не дава мушна крачето .,( (ROOT (S (VPC (V (T (Tn Не)) (V (Vpitf дава))) (NPA (A мушна) (N (Ncnsd крачето)))) (pt .))) )
+ELI,1;06.21,ELI,tati .,1,Тати .,Тати .,Тати .,( (ROOT (S (N (name Тати)) (pt .))) )
+SIM,1;09.02,SIM,"capalo [: izcapalo], capalo [: izcapalo], capa .",3,"Цапало [: изцапало], цапало [: изцапало], цапа .","Цапало , цапало , цапа .",изцапало изцапало цапа .,( (ROOT (S (VPC (V (Vpitf изцапало)) (NPA (A изцапало) (N (Ncmpi цапа)))) (pt .))) )
+ALE,1;10.12,ALE,"moja ti se, mamo !",4,"Моя ти се, мамо !","Моя ти се , мамо !","Моя ти се , мамо !","( (S (NPA (CoordP (ConjArg (Participle (Participle (Participle (Vpptcv ""Моя)) (Pron (Psot ти))) (Pron (Ppxta се)))) (Conj (pt ,)) (ConjArg (A (Amsi мамо)))) (N (Ncmsi !"")))) )"
+ELI,1;07.22,ELI,mamo .,1,Мамо .,Мамо .,Мамо .,( (ROOT (S (N (name Мамо)) (pt .))) )
+SIM,2;08.18,SIM,"eto lodka, eto lodka, eto lodka.",6,"Ето лодка, ето лодка, ето лодка.","Ето лодка , ето лодка , ето лодка .","Ето лодка , ето лодка , ето лодка .","( (S (VPS (NPA (NPA (A (Afsi ""Ето)) (N (Ncfsi лодка))) (APC (pt ,) (Participle (Vpptcao ето)) (N (Ncfsi лодка)) (pt ,))) (VPC (V (Tv ето)) (NPA (A лодка) (N (Ncmsi ."")))))) )"
+ALE,1;09.19,ALE,daj !,1,Дай !,Дай !,Дай !,( (ROOT (S (V (Vpptz Дай)) (pt !))) )
+SIM,2;07.22,SIM,na koj e toz xipotam [: xipopotam]?,5,На кой е тоз xипотам [: xипопотам]?,На кой е тоз xипотам ?,На кой е тоз xипопотам,( (S (VPS (VPC (PP (Prep (R На)) (Pron (Pie кой))) (V (Vxitf е))) (NPA (Pron (Pde тоз)) (N (Ncmsi xипопотам))))) )
+ELI,1;07.13,ELI,"a-m, a-m .",2,"А-м, а-м .","А-м , а-м .","А-м , а-м .","( (S (NPA (N (name ""А-м)) (NPA (pt ,) (A а-м) (N (name .""))))) )"
+TEF,2;03.24,TEF,"babo, babo, didi [: podredi] tam !",4,"Бабо, бабо, диди [: подреди] там !","Бабо , бабо , диди там !","Бабо , бабо , подреди там !","( (ROOT (S (NPA (name ""Бабо)) (pt ,) (N (Ncmpi бабо)) (pt ,) (VPA (VPS (N (Ncmsf подреди)) (Adv (Pdl там)) (V (Vpitf !"")))))) )"

@@ -131,7 +131,14 @@ def main():
     tag_len = []
     noun_counter = Counter()
     verb_counter = Counter()
+    noun_upos_counter = Counter()
+    noun_detail_counter = Counter()
+    verb_upos_counter = Counter()
+    verb_detail_counter = Counter()
     using_pos = False
+    pos_mismatch_rows = 0
+    pos_rows = 0
+    pos_len_samples = []
 
     if args.pos_col:
         if args.pos_col not in df.columns:
@@ -154,7 +161,6 @@ def main():
             raise SystemExit(f"Tokens column '{tok_col}' (for --pos-col {args.pos_col}) not found. Use --tok-col to specify.")
 
         noun_upos = {"NOUN", "PROPN"}
-        noun_detailed = {"NN", "NNS", "NNP", "NNPS"}
         verb_upos = {"VERB"}
 
         def parse_pos(val):
@@ -181,29 +187,36 @@ def main():
             if tok_col and tok_col in df.columns:
                 tokens = str(row[tok_col]).split()
                 limit = min(len(parsed), len(tokens))
+                pos_rows += 1
+                if len(parsed) != len(tokens):
+                    pos_mismatch_rows += 1
+                if len(pos_len_samples) < 100:
+                    pos_len_samples.append((len(tokens), len(parsed)))
                 for i in range(limit):
                     pos = parsed[i]
                     tok = tokens[i].lower()
                     upos = pos[0].upper()
                     detailed = pos[1].upper() if pos[1] else ""
-                    if upos in noun_upos or detailed in noun_detailed:
-                        noun_counter.update([tok])
-                    if upos in verb_upos or detailed.startswith("V"):
-                        verb_counter.update([tok])
+                    if upos in noun_upos:
+                        noun_upos_counter.update([tok])
+                    if detailed.startswith("NN"):
+                        noun_detail_counter.update([tok])
+                    if upos in verb_upos:
+                        verb_upos_counter.update([tok])
+                    if detailed.startswith("VB"):
+                        verb_detail_counter.update([tok])
             else:
-                noun_counter.update(
-                    [
-                        p[0].lower()
-                        for p in parsed
-                        if (p[0].upper() in noun_upos or (p[1].upper() in noun_detailed if p[1] else False))
-                    ]
+                noun_upos_counter.update(
+                    [p[0].lower() for p in parsed if p[0].upper() in noun_upos]
                 )
-                verb_counter.update(
-                    [
-                        p[0].lower()
-                        for p in parsed
-                        if (p[0].upper() in verb_upos or ((p[1].upper().startswith("V") if p[1] else False)))
-                    ]
+                noun_detail_counter.update(
+                    [p[0].lower() for p in parsed if p[1] and p[1].upper().startswith("NN")]
+                )
+                verb_upos_counter.update(
+                    [p[0].lower() for p in parsed if p[0].upper() in verb_upos]
+                )
+                verb_detail_counter.update(
+                    [p[0].lower() for p in parsed if p[1] and p[1].upper().startswith("VB")]
                 )
     else:
         for mor in df[args.mor_col]:
@@ -230,22 +243,50 @@ def main():
     print("\n=== Speaker role distribution ===")
     for role, cnt in speaker_counts.most_common():
         print(f"{role or '<blank>'}: {cnt}")
+    if using_pos and pos_rows:
+        print(f"\n=== POS/token length mismatches ===")
+        print(f"rows_with_mismatch: {pos_mismatch_rows} / {pos_rows}")
+        print("\n=== First 100 token/POS lengths (tok_len, pos_len) ===")
+        for tok_len, pos_len in pos_len_samples:
+            print(f"{tok_len}\t{pos_len}")
     tag_total = sum(tag_counter.values())
     noun_total = sum(noun_counter.values())
     verb_total = sum(verb_counter.values())
+    noun_upos_total = sum(noun_upos_counter.values())
+    noun_detail_total = sum(noun_detail_counter.values())
+    verb_upos_total = sum(verb_upos_counter.values())
+    verb_detail_total = sum(verb_detail_counter.values())
 
     print("\n=== Top 20 tags ({}) ===".format("POS" if using_pos else "%mor"))
     for tag, cnt in tag_counter.most_common(20):
         pct = (cnt / tag_total * 100) if tag_total else 0.0
         print(f"{tag}: {cnt} ({pct:.2f}%)")
-    print("\n=== Top 50 nouns (from %mor noun|...) ===")
-    for noun, cnt in noun_counter.most_common(50):
-        pct = (cnt / noun_total * 100) if noun_total else 0.0
-        print(f"{noun}: {cnt} ({pct:.2f}%)")
-    print("\n=== Top 50 verbs (from %mor verb|...) ===")
-    for verb, cnt in verb_counter.most_common(50):
-        pct = (cnt / verb_total * 100) if verb_total else 0.0
-        print(f"{verb}: {cnt} ({pct:.2f}%)")
+    if using_pos:
+        print("\n=== Top 50 nouns (UPOS NOUN/PROPN) ===")
+        for noun, cnt in noun_upos_counter.most_common(50):
+            pct = (cnt / noun_upos_total * 100) if noun_upos_total else 0.0
+            print(f"{noun}: {cnt} ({pct:.2f}%)")
+        print("\n=== Top 50 nouns (detailed NN*) ===")
+        for noun, cnt in noun_detail_counter.most_common(50):
+            pct = (cnt / noun_detail_total * 100) if noun_detail_total else 0.0
+            print(f"{noun}: {cnt} ({pct:.2f}%)")
+        print("\n=== Top 50 verbs (UPOS VERB) ===")
+        for verb, cnt in verb_upos_counter.most_common(50):
+            pct = (cnt / verb_upos_total * 100) if verb_upos_total else 0.0
+            print(f"{verb}: {cnt} ({pct:.2f}%)")
+        print("\n=== Top 50 verbs (detailed VB*) ===")
+        for verb, cnt in verb_detail_counter.most_common(50):
+            pct = (cnt / verb_detail_total * 100) if verb_detail_total else 0.0
+            print(f"{verb}: {cnt} ({pct:.2f}%)")
+    else:
+        print("\n=== Top 50 nouns (from %mor noun|...) ===")
+        for noun, cnt in noun_counter.most_common(50):
+            pct = (cnt / noun_total * 100) if noun_total else 0.0
+            print(f"{noun}: {cnt} ({pct:.2f}%)")
+        print("\n=== Top 50 verbs (from %mor verb|...) ===")
+        for verb, cnt in verb_counter.most_common(50):
+            pct = (cnt / verb_total * 100) if verb_total else 0.0
+            print(f"{verb}: {cnt} ({pct:.2f}%)")
 
     # Plots
     if args.plots_outdir:
