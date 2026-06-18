@@ -1,8 +1,11 @@
 import argparse
+from collections import Counter
 import io
 import json
+import math
 import re
 from pathlib import Path
+from statistics import mean, pstdev
 from typing import Dict, List, Optional, Sequence, Tuple
 
 import numpy as np
@@ -10,10 +13,41 @@ import pandas as pd
 import requests
 import spacy
 
-try:
-    from morphscore.morphscore import MorphScore
-except ImportError:  # pragma: no cover
-    MorphScore = None
+DEFAULT_ENGLISH_MORPHSCORE_V1_URL = (
+    "https://github.com/catherinearnett/morphscore/raw/v1/data/english_morph_data.csv"
+)
+DEFAULT_ENGLISH_MORPHSCORE_V2_URL = (
+    "https://huggingface.co/datasets/catherinearnett/morphscore/"
+    "resolve/main/english_data.csv?download=true"
+)
+MORPHSCORE_V2_URLS = {
+    "eng_latn": DEFAULT_ENGLISH_MORPHSCORE_V2_URL,
+}
+ENGLISH_DETAIL_LABEL_ORDER = (
+    "reg_past_choice",
+    "progressive_choice",
+    "s_suffix_choice",
+    "contraction_choice",
+    "reg_past_boundary",
+    "progressive_boundary",
+    "s_suffix_boundary",
+    "contraction_boundary",
+    "reg_past_single_token",
+    "progressive_single_token",
+    "s_suffix_single_token",
+    "contraction_single_token",
+    "skipped_single_token",
+    "boundary_mismatch",
+    "surface_mismatch",
+    "single_token",
+)
+ENGLISH_CHOICE_LABELS = {
+    "reg_past_choice",
+    "progressive_choice",
+    "s_suffix_choice",
+    "contraction_choice",
+}
+
 def load_spacy(model: str):
     try:
         return spacy.load(model)
@@ -493,25 +527,462 @@ def process_row(row, nlp, text_col: str, tok_ann_col: str):
     # out.update(flags)
     return out
 
-def score_morph_tok(df: pd.DataFrame, lang_code: str = "eng_latn", return_df: bool = True):
+def is_nan_like(value: object) -> bool:
+    if value is None:
+        return True
+    if isinstance(value, float):
+        return math.isnan(value)
+    text = str(value).strip()
+    return text == "" or text.lower() == "nan"
+
+
+def normalize_morph_text(value: object) -> Optional[str]:
+    if is_nan_like(value):
+        return None
+    return str(value).strip().lower()
+
+
+def load_morphscore_v2_data(lang_code: str = "eng_latn") -> pd.DataFrame:
+    try:
+        url = MORPHSCORE_V2_URLS[lang_code]
+    except KeyError as exc:
+        supported = ", ".join(sorted(MORPHSCORE_V2_URLS))
+        raise ValueError(
+            f"Local MorphScore v2 evaluation only supports: {supported}"
+        ) from exc
+
+    resp = requests.get(url, timeout=30)
+    resp.raise_for_status()
+    data = pd.read_csv(io.StringIO(resp.content.decode("utf-8")), sep=None, engine="python")
+
+    required = {
+        "wordform",
+        "unique",
+        "lemma",
+        "stem",
+        "preceding_part",
+        "following_part",
+    }
+    missing = required - set(data.columns)
+    if missing:
+        raise ValueError(
+            "MorphScore v2 data is missing required columns: "
+            + ", ".join(sorted(missing))
+        )
+    return data
+
+
+def get_word_v2(row: Dict[str, object]) -> str:
+    return normalize_morph_text(row.get("wordform")) or ""
+
+
+def build_gold_morphemes_v2(row: Dict[str, object]) -> List[str]:
+    prefix = normalize_morph_text(row.get("preceding_part"))
+    stem = normalize_morph_text(row.get("stem"))
+    suffix = normalize_morph_text(row.get("following_part"))
+
+    if stem is None:
+        return []
+
+    morphemes: List[str] = []
+    if prefix is not None:
+        morphemes.append(prefix)
+    morphemes.append(stem)
+    if suffix is not None:
+        morphemes.append(suffix)
+    return morphemes
+
+
+def get_predicted_boundaries(tokens: Sequence[str]) -> List[int]:
+    boundaries: List[int] = []
+    idx = 0
+    for tok in tokens:
+        idx += len(tok)
+        boundaries.append(idx)
+    return boundaries
+
+
+def morph_eval_v2(
+    morphemes: Sequence[str],
+    tokens: Sequence[str],
+    *,
+    exclude_single_tok: bool,
+    exclude_single_morpheme: bool,
+    single_tok_point: float,
+    correct_point: float,
+    partial_point: float,
+) -> Tuple[float, float]:
+    if len(tokens) == 1:
+        if exclude_single_tok:
+            return (math.nan, math.nan)
+        return (single_tok_point, single_tok_point)
+
+    pred_boundaries = get_predicted_boundaries(tokens)
+
+    if len(morphemes) == 2:
+        gold_boundary = len(morphemes[0])
+        if gold_boundary in pred_boundaries:
+            return (correct_point, 1.0 / len(pred_boundaries))
+        return (0.0, 0.0)
+
+    if len(morphemes) == 3:
+        boundary_1 = len(morphemes[0])
+        boundary_2 = len(morphemes[0]) + len(morphemes[1])
+        matched = sum(int(boundary in pred_boundaries) for boundary in (boundary_1, boundary_2))
+
+        if matched == 2:
+            return (correct_point, 2.0 / len(pred_boundaries))
+        if matched == 1:
+            return (partial_point, 1.0 / len(pred_boundaries))
+        return (0.0, 0.0)
+
+    if len(morphemes) == 1:
+        if exclude_single_morpheme:
+            return (math.nan, math.nan)
+        return (
+            (single_tok_point, single_tok_point)
+            if list(morphemes) == list(tokens)
+            else (0.0, 0.0)
+        )
+
+    return (math.nan, math.nan)
+
+
+def filter_v2_rows(
+    rows: Sequence[Dict[str, object]],
+    *,
+    unique_only: bool,
+    stem_eq_lemma: bool,
+    exclude_numbers: bool,
+) -> List[Dict[str, object]]:
+    filtered: List[Dict[str, object]] = []
+
+    for raw_row in rows:
+        row = dict(raw_row)
+        word = get_word_v2(row)
+        if not word:
+            continue
+
+        if unique_only and str(row.get("unique", "")).strip().lower() != "unique":
+            continue
+        if (
+            stem_eq_lemma
+            and normalize_morph_text(row.get("stem")) != normalize_morph_text(row.get("lemma"))
+        ):
+            continue
+        if exclude_numbers and re.search(r"\d", word):
+            continue
+
+        filtered.append(row)
+
+    return filtered
+
+
+def mean_or_zero(values: Sequence[float]) -> float:
+    return float(mean(values)) if values else 0.0
+
+
+def std_or_zero(values: Sequence[float]) -> float:
+    return float(pstdev(values)) if len(values) > 1 else 0.0
+
+
+def f1_or_zero(precision: float, recall: float) -> float:
+    denom = precision + recall
+    if denom == 0.0:
+        return 0.0
+    return 2.0 * precision * recall / denom
+
+
+def get_float(row: Dict[str, object], key: str, default: float) -> float:
+    try:
+        return float(row.get(key, default))
+    except Exception:
+        return default
+
+
+def normalize_token_list(raw_tokens) -> List[str]:
+    if raw_tokens is None:
+        return []
+    if isinstance(raw_tokens, str):
+        raw_tokens = raw_tokens.split()
+    return [
+        tok_norm
+        for tok in raw_tokens
+        for tok_norm in [normalize_morph_text(tok)]
+        if tok_norm
+    ]
+
+
+def infer_english_boundary_family(
+    gold_suffix: Optional[str],
+    pred_suffix: Optional[str] = None,
+    *,
+    word: str = "",
+) -> Optional[str]:
+    suffixes = {
+        normalize_morph_text(gold_suffix) or "",
+        normalize_morph_text(pred_suffix) or "",
+    }
+    suffixes.discard("")
+    if any(suffix == "ing" for suffix in suffixes):
+        return "progressive"
+    if any(suffix in {"ed", "d", "t"} for suffix in suffixes):
+        return "reg_past"
+    if any(suffix in {"s", "es", "'s"} for suffix in suffixes):
+        return "s_suffix"
+    if any(suffix in CONTRACTIONS for suffix in suffixes):
+        return "contraction"
+    if word.endswith("'s"):
+        return "contraction"
+    return None
+
+
+def english_family_label(family: Optional[str], kind: str, fallback: str) -> str:
+    if family is None:
+        return fallback
+    return f"{family}_{kind}"
+
+
+def classify_english_mismatch_label(
+    gold: Sequence[str],
+    pred: Sequence[str],
+    *,
+    result_label: str,
+    word: str = "",
+) -> str:
+    gold_tokens = [normalize_morph_text(part) or "" for part in gold]
+    pred_tokens = [normalize_morph_text(part) or "" for part in pred]
+    if result_label == "correct":
+        return "correct"
+    family = infer_english_boundary_family(
+        gold_tokens[-1] if gold_tokens else "",
+        pred_tokens[-1] if pred_tokens else "",
+        word=word,
+    )
+    if result_label == "skipped_single_token":
+        return english_family_label(family, "single_token", "skipped_single_token")
+    if "".join(gold_tokens) != "".join(pred_tokens):
+        return "surface_mismatch"
+    if family is not None:
+        if (
+            len(gold_tokens) >= 2
+            and len(pred_tokens) >= 2
+            and gold_tokens[0] == pred_tokens[0]
+            and gold_tokens[-1] != pred_tokens[-1]
+        ):
+            return f"{family}_choice"
+        return f"{family}_boundary"
+    return "boundary_mismatch"
+
+
+def classify_v2_detail(row: Dict[str, object], morphemes: Sequence[str], tokens: Sequence[str]) -> str:
+    if list(tokens) == list(morphemes):
+        return ""
+    result_label = "skipped_single_token" if len(tokens) == 1 and len(morphemes) > 1 else "wrong"
+    return classify_english_mismatch_label(
+        morphemes,
+        tokens,
+        result_label=result_label,
+        word=get_word_v2(row),
+    )
+
+
+def collect_v2_detail_counts(detail_df: pd.DataFrame) -> Counter[str]:
+    counts: Counter[str] = Counter()
+    if "morphscore_detail" not in detail_df.columns:
+        return counts
+    for label in detail_df["morphscore_detail"].fillna("").astype(str):
+        if label in ENGLISH_DETAIL_LABEL_ORDER:
+            counts[label] += 1
+    return counts
+
+
+def print_v2_detail_summary(detail_df: pd.DataFrame) -> None:
+    counts = collect_v2_detail_counts(detail_df)
+    print("V2 detailed disagreement labels:")
+    for label in ENGLISH_DETAIL_LABEL_ORDER:
+        print(f"  {label}: {counts.get(label, 0)}")
+
+
+def get_morphscore_v2(
+    rows: Sequence[Dict[str, object]],
+    tokenizer,
+    *,
+    include_all_rows: bool = False,
+    freq_scale: bool,
+    exclude_single_tok: bool,
+    exclude_single_morpheme: bool,
+    single_tok_point: float,
+    correct_point: float,
+    partial_point: float,
+) -> Tuple[Dict[str, float], pd.DataFrame]:
+    recall_points: List[float] = []
+    precision_points: List[float] = []
+    recall_points_unweighted: List[float] = []
+    precision_points_unweighted: List[float] = []
+    weights: List[float] = []
+    token_char_ratios: List[float] = []
+
+    detail_rows: List[Dict[str, object]] = []
+
+    correct_full = 0
+    partial = 0
+    wrong = 0
+    skipped = 0
+
+    for row in rows:
+        word = get_word_v2(row)
+        morphemes = build_gold_morphemes_v2(row)
+        if not morphemes:
+            skipped += 1
+            continue
+
+        if hasattr(tokenizer, "tokenize"):
+            raw_tokens = tokenizer.tokenize(word)
+        else:
+            raw_tokens = tokenizer(word)
+        tokens = normalize_token_list(raw_tokens)
+
+        expected = " ".join(morphemes)
+        predicted = " ".join(tokens)
+        recall_pt, precision_pt = morph_eval_v2(
+            morphemes,
+            tokens,
+            exclude_single_tok=exclude_single_tok,
+            exclude_single_morpheme=exclude_single_morpheme,
+            single_tok_point=single_tok_point,
+            correct_point=correct_point,
+            partial_point=partial_point,
+        )
+
+        if len(word) > 0:
+            token_char_ratios.append(len(tokens) / len(word))
+
+        if math.isnan(recall_pt) or math.isnan(precision_pt):
+            skipped += 1
+            detail_label = classify_v2_detail(row, morphemes, tokens)
+            if include_all_rows or tokens != morphemes:
+                detail_rows.append(
+                    {
+                        "wordform": word,
+                        "lemma": normalize_morph_text(row.get("lemma")) or "",
+                        "stem": normalize_morph_text(row.get("stem")) or "",
+                        "preceding_part": normalize_morph_text(row.get("preceding_part")) or "",
+                        "following_part": normalize_morph_text(row.get("following_part")) or "",
+                        "expected_morphtok": expected,
+                        "predicted_morphtok": predicted,
+                        "morphscore_result": "skipped",
+                        "morphscore_detail": detail_label,
+                    }
+                )
+            continue
+
+        weight = get_float(row, "word_freq_norm", 1.0) if freq_scale else 1.0
+        weights.append(weight)
+        recall_points.append(recall_pt * weight)
+        precision_points.append(precision_pt * weight)
+        recall_points_unweighted.append(recall_pt)
+        precision_points_unweighted.append(precision_pt)
+
+        if recall_pt == correct_point:
+            correct_full += 1
+            label = "correct"
+        elif recall_pt == partial_point:
+            partial += 1
+            label = "partial"
+        else:
+            wrong += 1
+            label = "wrong"
+
+        detail_label = classify_v2_detail(row, morphemes, tokens)
+        if include_all_rows or tokens != morphemes:
+            detail_rows.append(
+                {
+                    "wordform": word,
+                    "lemma": normalize_morph_text(row.get("lemma")) or "",
+                    "stem": normalize_morph_text(row.get("stem")) or "",
+                    "preceding_part": normalize_morph_text(row.get("preceding_part")) or "",
+                    "following_part": normalize_morph_text(row.get("following_part")) or "",
+                    "expected_morphtok": expected,
+                    "predicted_morphtok": predicted,
+                    "morphscore_result": label,
+                    "morphscore_detail": detail_label,
+                }
+            )
+
+    total_weight = sum(weights)
+    morphscore_recall = sum(recall_points) / total_weight if total_weight else 0.0
+    morphscore_precision = sum(precision_points) / total_weight if total_weight else 0.0
+    morphscore_recall_unweighted = mean_or_zero(recall_points_unweighted)
+    morphscore_precision_unweighted = mean_or_zero(precision_points_unweighted)
+
+    summary = {
+        "morphscore_recall": morphscore_recall,
+        "morphscore_precision": morphscore_precision,
+        "morphscore_f1": f1_or_zero(morphscore_precision, morphscore_recall),
+        "morphscore_recall_unweighted": morphscore_recall_unweighted,
+        "morphscore_precision_unweighted": morphscore_precision_unweighted,
+        "morphscore_f1_unweighted": f1_or_zero(
+            morphscore_precision_unweighted,
+            morphscore_recall_unweighted,
+        ),
+        "morphscore_recall_std": std_or_zero(recall_points_unweighted),
+        "morphscore_precision_std": std_or_zero(precision_points_unweighted),
+        "total_items": float(len(rows)),
+        "num_samples": float(len(weights)),
+        "mean_token_char_ratio": mean_or_zero(token_char_ratios),
+        "correct": float(correct_full),
+        "partial": float(partial),
+        "wrong": float(wrong),
+        "skipped": float(skipped),
+    }
+    detail_df = pd.DataFrame(
+        detail_rows,
+        columns=[
+            "wordform",
+            "lemma",
+            "stem",
+            "preceding_part",
+            "following_part",
+            "expected_morphtok",
+            "predicted_morphtok",
+            "morphscore_result",
+            "morphscore_detail",
+        ],
+    )
+    return summary, detail_df
+
+
+def score_morph_tok(
+    df: pd.DataFrame,
+    lang_code: str = "eng_latn",
+    return_df: bool = True,
+    *,
+    unique_only: bool = True,
+    stem_eq_lemma: bool = True,
+    exclude_numbers: bool = True,
+    freq_scale: bool = True,
+    exclude_single_tok: bool = False,
+    exclude_single_morpheme: bool = True,
+    single_tok_point: float = 1.0,
+    correct_point: float = 1.0,
+    partial_point: float = 0.5,
+):
     """
-    Score an existing morphemic tokenisation column using MorphScore v2.
+    Score an existing morphemic tokenisation column using the local MorphScore v2 evaluator.
 
     Args:
-        df: DataFrame with a `morph_tok` column containing space-delimited morpheme tokens.
+        df: DataFrame with a `sent_morphtok` column containing space-delimited morpheme tokens.
         lang_code: Language code in ISO 639-3 + ISO 15924 (e.g. 'eng_latn').
-        return_df: If True, return MorphScore's per-item DataFrame; else return summary metrics.
+        return_df: If True, return `(summary, detail_df)`; else return summary metrics.
 
     Returns:
-        MorphScore output (DataFrame when return_df=True, otherwise summary dict/tuple depending on library version).
+        Local MorphScore v2 output.
     """
-    if MorphScore is None:
-        raise ImportError("MorphScore v2 is not installed. Install with `pip install morphscore2`.")
-
     token_lists = df["sent_morphtok"].fillna("").astype(str).str.split().tolist()
 
     class _PreTokenizedTokenizer:
-        """Minimal adapter that feeds pre-tokenized sequences to MorphScore."""
+        """Minimal adapter that feeds pre-tokenized sequences to the local scorer."""
         def __init__(self, tokens):
             self._tokens = tokens
             self._i = 0
@@ -523,14 +994,111 @@ def score_morph_tok(df: pd.DataFrame, lang_code: str = "eng_latn", return_df: bo
             self._i += 1
             return out
 
-    tokenizer = _PreTokenizedTokenizer(token_lists)
-    scorer = MorphScore()
+    return score_morph_tok_with_tokenizer(
+        _PreTokenizedTokenizer(token_lists),
+        lang_code=lang_code,
+        return_df=return_df,
+        unique_only=unique_only,
+        stem_eq_lemma=stem_eq_lemma,
+        exclude_numbers=exclude_numbers,
+        freq_scale=freq_scale,
+        exclude_single_tok=exclude_single_tok,
+        exclude_single_morpheme=exclude_single_morpheme,
+        single_tok_point=single_tok_point,
+        correct_point=correct_point,
+        partial_point=partial_point,
+    )
 
-    if hasattr(scorer, "score_tokenizer"):
-        return scorer.score_tokenizer(tokenizer=tokenizer, lang_code=lang_code, return_df=return_df)
-    if hasattr(scorer, "score"):
-        return scorer.score(tokenizer=tokenizer, lang_code=lang_code, return_df=return_df)
-    raise AttributeError("Unsupported MorphScore API version: expected `score_tokenizer` or `score`.")
+
+def score_morph_tok_with_tokenizer(
+    tokenizer,
+    lang_code: str = "eng_latn",
+    return_df: bool = True,
+    *,
+    unique_only: bool = True,
+    stem_eq_lemma: bool = True,
+    exclude_numbers: bool = True,
+    freq_scale: bool = True,
+    exclude_single_tok: bool = False,
+    exclude_single_morpheme: bool = True,
+    single_tok_point: float = 1.0,
+    correct_point: float = 1.0,
+    partial_point: float = 0.5,
+):
+    """Score a tokenizer directly using the local MorphScore v2 evaluator."""
+    rows = filter_v2_rows(
+        load_morphscore_v2_data(lang_code).to_dict(orient="records"),
+        unique_only=unique_only,
+        stem_eq_lemma=stem_eq_lemma,
+        exclude_numbers=exclude_numbers,
+    )
+    summary, detail_df = get_morphscore_v2(
+        rows,
+        tokenizer,
+        freq_scale=freq_scale,
+        exclude_single_tok=exclude_single_tok,
+        exclude_single_morpheme=exclude_single_morpheme,
+        single_tok_point=single_tok_point,
+        correct_point=correct_point,
+        partial_point=partial_point,
+    )
+    if return_df:
+        return summary, detail_df
+    return summary
+
+
+def unpack_morphscore_v2_output(score_output):
+    """Normalize MorphScore v2 output into (summary, detail_df)."""
+    if isinstance(score_output, tuple):
+        detail_df = next((item for item in score_output if isinstance(item, pd.DataFrame)), None)
+        summary = next((item for item in score_output if not isinstance(item, pd.DataFrame)), None)
+        return summary, detail_df
+    if isinstance(score_output, pd.DataFrame):
+        return None, score_output
+    return score_output, None
+
+
+def select_morphscore_v2_rows_for_output(detail_df: pd.DataFrame) -> pd.DataFrame:
+    """Prefer mismatch rows for CSV output; fall back to non-perfect rows when needed."""
+    if {"expected_morphtok", "predicted_morphtok"} <= set(detail_df.columns):
+        mismatch_mask = (
+            detail_df["expected_morphtok"].fillna("").astype(str)
+            != detail_df["predicted_morphtok"].fillna("").astype(str)
+        )
+        if mismatch_mask.any():
+            return detail_df.loc[mismatch_mask].reset_index(drop=True)
+    if "morphscore_result" in detail_df.columns:
+        return detail_df[detail_df["morphscore_result"] != "correct"].reset_index(drop=True)
+    if "result" in detail_df.columns:
+        return detail_df[detail_df["result"] != "correct"].reset_index(drop=True)
+
+    mask = pd.Series(False, index=detail_df.index)
+    for col in ("recall", "precision"):
+        if col in detail_df.columns:
+            mask |= pd.to_numeric(detail_df[col], errors="coerce").fillna(0) < 1
+
+    if mask.any():
+        return detail_df.loc[mask].reset_index(drop=True)
+    return detail_df.reset_index(drop=True)
+
+
+def format_morphscore_v2_summary(summary) -> str:
+    """Format the main v2 metrics for CLI output when available."""
+    if isinstance(summary, dict):
+        parts = []
+        if "morphscore_recall" in summary:
+            parts.append(f"recall={summary['morphscore_recall']:.4f}")
+        if "morphscore_precision" in summary:
+            parts.append(f"precision={summary['morphscore_precision']:.4f}")
+        if "morphscore_f1" in summary:
+            parts.append(f"f1={summary['morphscore_f1']:.4f}")
+        if "num_samples" in summary:
+            parts.append(f"num_samples={int(summary['num_samples'])}")
+        if parts:
+            return "; ".join(parts)
+    if summary is None:
+        return "summary unavailable"
+    return str(summary)
 
 def morph_eval(morphemes, tokens):
     """Return -1 (wrong), 0 (no split), or 1 (correct) for a 2-part segmentation."""
@@ -548,6 +1116,10 @@ def get_morphscore(data: pd.DataFrame, tokenizer):
     """Compute MorphScore-style accuracy over two-part splits."""
     points = []
     error_rows = []
+    attempted = 0
+    correct = 0
+    wrong = 0
+    skipped_single_token = 0
 
     for _, row in data.iterrows():
         morphemes = [str(row["pt1"]).lower(), str(row["rest"]).lower()]
@@ -555,22 +1127,40 @@ def get_morphscore(data: pd.DataFrame, tokenizer):
         tokens = [str(t).lower() for t in tokenizer(word)]
 
         point = morph_eval(morphemes, tokens)
-        if point != 0:
+        if point == 0:
+            skipped_single_token += 1
+        else:
+            attempted += 1
             points.append(0 if point == -1 else 1)
+            if point == 1:
+                correct += 1
+            else:
+                wrong += 1
 
-        if point in {-1, 1}:
+        if point in {-1, 0, 1}:
             error_rows.append(
                 {
                     "full_word": word,
                     "gold": morphemes,
                     "predicted": tokens,
-                    "result": "correct" if point == 1 else "wrong",
+                    "result": (
+                        "correct"
+                        if point == 1
+                        else "skipped_single_token" if point == 0 else "wrong"
+                    ),
                 }
             )
 
     morph_score = float(np.mean(points)) if points else 0.0
     error_df = pd.DataFrame(error_rows)
-    return morph_score, error_df
+    stats = {
+        "attempted": attempted,
+        "correct": correct,
+        "wrong": wrong,
+        "skipped_single_token": skipped_single_token,
+        "total_assessed": len(data),
+    }
+    return morph_score, error_df, stats
 
 
 def spacy_morph_tokenizer(nlp):
@@ -584,28 +1174,49 @@ def spacy_morph_tokenizer(nlp):
 
 def annotate_error_types(errors_df: pd.DataFrame):
     """
-    Label errors as 'choice' when lemma matches but predicted morpheme is one of {ed, ing, s};
-    otherwise keep 'wrong'. Correct rows remain 'correct'.
-    Returns (annotated_df, revised_score) where revised_score treats 'choice' as correct.
+    Label English v1 disagreements with named categories.
+    Returns (annotated_df, revised_score) where revised_score treats *_choice labels as correct.
     """
     def classify(row):
-        if row.get("result") != "wrong":
-            return row.get("result", "correct")
         gold = row.get("gold", [])
         pred = row.get("predicted", [])
         if not isinstance(gold, (list, tuple)) or not isinstance(pred, (list, tuple)):
-            return "wrong"
-        if len(gold) < 2 or len(pred) < 2:
-            return "wrong"
-        if gold[0] == pred[0] and gold[1] != pred[1] and pred[1] in {"ed", "ing", "s"}:
-            return "choice"
-        return "wrong"
+            return row.get("result", "surface_mismatch")
+        return classify_english_mismatch_label(
+            gold,
+            pred,
+            result_label=str(row.get("result", "wrong")),
+            word=str(row.get("full_word", "")),
+        )
 
     annotated = errors_df.copy()
     annotated["error_type"] = annotated.apply(classify, axis=1)
-    total = len(annotated)
-    revised_score = (annotated["error_type"] != "wrong").sum() / total if total else 0.0
+    scored = annotated[annotated["result"] != "skipped_single_token"].reset_index(drop=True)
+    if len(scored) == 0:
+        revised_score = 0.0
+    else:
+        revised_score = (
+            (scored["result"] == "correct")
+            | scored["error_type"].isin(ENGLISH_CHOICE_LABELS)
+        ).mean()
     return annotated, revised_score
+
+
+def collect_v1_detail_counts(errors_df: pd.DataFrame) -> Counter[str]:
+    counts: Counter[str] = Counter()
+    if "error_type" not in errors_df.columns:
+        return counts
+    for label in errors_df["error_type"].fillna("").astype(str):
+        if label in ENGLISH_DETAIL_LABEL_ORDER:
+            counts[label] += 1
+    return counts
+
+
+def print_v1_detail_summary(errors_df: pd.DataFrame) -> None:
+    counts = collect_v1_detail_counts(errors_df)
+    print("V1 detailed disagreement labels:")
+    for label in ENGLISH_DETAIL_LABEL_ORDER:
+        print(f"  {label}: {counts.get(label, 0)}")
 
 
 def score_english_morph_data_from_df(
@@ -650,33 +1261,92 @@ def score_english_morph_data_from_df(
 
 def main():
     ap = argparse.ArgumentParser(description="Add morphemic tokenisation and feature flags to an aggregate CSV.")
-    ap.add_argument("--input", required=True, help="Input CSV path")
-    ap.add_argument("--output", required=True, help="Output CSV path")
+    ap.add_argument("--input", help="Input CSV path")
+    ap.add_argument("--output", help="Output CSV path")
     ap.add_argument("--text-col", default="utt", help="Text column to use (default: utt)")
     ap.add_argument("--tok-ann-col", default="tok_annotations", help="tok_annotations column name")
     ap.add_argument("--spacy-model", default="en_core_web_lg", help="spaCy model to use (default: en_core_web_lg)")
     ap.add_argument("--morphscore", action="store_true", help="Only run MorphScore evaluation on sent_morphtok and exit.")
     ap.add_argument(
+        "--morphscore-version",
+        choices=("v1", "v2"),
+        default="v1",
+        help="MorphScore version to use with --morphscore (default: v1).",
+    )
+    ap.add_argument(
         "--output-morphscore",
-        help="Optional path to write MorphScore errors (wrong rows only). Defaults to --output when --morphscore is used.",
+        help="Optional path to write MorphScore CSV output. Defaults to --output when set, otherwise a version-specific filename.",
     )
     args = ap.parse_args()
-
-    df = pd.read_csv(args.input)
 
     if args.morphscore:
         nlp = load_spacy(args.spacy_model)
         tokenizer = spacy_morph_tokenizer(nlp)
-        score, errors_df = score_english_morph_data_from_df(df, tokenizer=tokenizer)
+        if args.morphscore_version == "v2":
+            summary, detail_df = unpack_morphscore_v2_output(
+                score_morph_tok_with_tokenizer(tokenizer, lang_code="eng_latn", return_df=True)
+            )
+            out_path = args.output_morphscore or args.output or "english_morphscore_v2.csv"
+            out_df = detail_df if detail_df is not None else pd.DataFrame()
+            out_df = select_morphscore_v2_rows_for_output(out_df)
+            out_df.to_csv(out_path, index=False)
+            print(f"MorphScore2 recall (weighted): {summary['morphscore_recall']:.6f}")
+            print(f"MorphScore2 precision (weighted): {summary['morphscore_precision']:.6f}")
+            print(f"MorphScore2 F1 (weighted): {summary['morphscore_f1']:.6f}")
+            print(
+                f"MorphScore2 recall (unweighted): "
+                f"{summary['morphscore_recall_unweighted']:.6f}"
+            )
+            print(
+                f"MorphScore2 precision (unweighted): "
+                f"{summary['morphscore_precision_unweighted']:.6f}"
+            )
+            print(
+                f"MorphScore2 F1 (unweighted): "
+                f"{summary['morphscore_f1_unweighted']:.6f}"
+            )
+            print(f"MorphScore2 recall std: {summary['morphscore_recall_std']:.6f}")
+            print(f"MorphScore2 precision std: {summary['morphscore_precision_std']:.6f}")
+            print(f"Total assessed words: {int(summary['total_items'])}")
+            print(f"Scored words: {int(summary['num_samples'])}")
+            print(f"Correct: {int(summary['correct'])}")
+            print(f"Partial: {int(summary['partial'])}")
+            print(f"Wrong: {int(summary['wrong'])}")
+            print(f"Skipped: {int(summary['skipped'])}")
+            print(f"Mean token/char ratio: {summary['mean_token_char_ratio']:.6f}")
+            print(f"CSV mismatches: {len(out_df)}")
+            print_v2_detail_summary(out_df)
+            print(f"Wrote: {out_path}")
+            return
+
+        score, errors_df, stats = score_english_morph_data_from_df(pd.DataFrame(), tokenizer=tokenizer)
         annotated_errors, revised_score = annotate_error_types(errors_df)
-        errors_wrong = annotated_errors[annotated_errors["error_type"] == "wrong"].reset_index(drop=True)
-        out_path = args.output_morphscore or args.output
+        choice_rows = annotated_errors[
+            annotated_errors["error_type"].isin(ENGLISH_CHOICE_LABELS)
+        ].reset_index(drop=True)
+        errors_wrong = annotated_errors[
+            (annotated_errors["result"] == "wrong")
+            & ~annotated_errors["error_type"].isin(ENGLISH_CHOICE_LABELS)
+        ].reset_index(drop=True)
+        out_path = args.output_morphscore or args.output or "english_morphscore_wrong.csv"
         errors_wrong.to_csv(out_path, index=False)
-        print(
-            f"MorphScore: {score:.4f} "
-            f"(choice-adjusted: {revised_score:.4f}; wrong errors saved to {out_path}, total_wrong={len(errors_wrong)})"
-        )
+        print(f"V1 MorphScore (boundary accuracy): {score:.6f}")
+        print(f"V1 choice-adjusted score: {revised_score:.6f}")
+        print(f"Total assessed words: {stats['total_assessed']}")
+        print(f"Scored words: {stats['attempted']}")
+        print(f"Correct: {stats['correct']}")
+        print(f"Wrong: {stats['wrong']}")
+        print(f"Skipped single-token predictions: {stats['skipped_single_token']}")
+        print(f"Choice rows: {len(choice_rows)}")
+        print(f"CSV wrong rows: {len(errors_wrong)}")
+        print_v1_detail_summary(annotated_errors)
+        print(f"Wrote: {out_path}")
         return
+
+    if not args.input or not args.output:
+        ap.error("--input and --output are required unless --morphscore is used.")
+
+    df = pd.read_csv(args.input)
 
     nlp = load_spacy(args.spacy_model)
 
